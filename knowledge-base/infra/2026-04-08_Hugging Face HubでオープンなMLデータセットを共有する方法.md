@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [HuggingFace, データセット共有, DuckDB, Parquet, データストリーミング, オープンデータ, SQLコンソール]
 category: "infra"
 memo: "[HF Blog] Share your open ML datasets on Hugging Face Hub!"
+related: [1355, 1213, 521, 945, 1572]
 processed_at: "2026-04-08T21:12:59.314310"
 ---
 

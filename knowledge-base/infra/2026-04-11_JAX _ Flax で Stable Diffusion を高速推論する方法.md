@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [JAX, Flax, TPU, StableDiffusion, HuggingFace, Diffusers, bfloat16, pmap, JIT]
 category: "infra"
 memo: "[HF Blog] 🧨 Stable Diffusion  in JAX / Flax !"
+related: [1572, 1302, 1389, 412, 312]
 processed_at: "2026-04-11T09:09:48.565012"
 ---
 

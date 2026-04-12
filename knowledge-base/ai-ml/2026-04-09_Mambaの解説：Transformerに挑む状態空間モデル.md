@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Mamba, SSM, 状態空間モデル, Transformer, 選択的SSM, parallel-scan, 長文コンテキスト, 線形時間複雑度]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [199, 222, 833, 255, 1494]
 processed_at: "2026-04-09T21:00:46.530007"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [TurboQuant, KVキャッシュ, 量子化, LLM推論最適化, ベクトル量子化, Gemini, オンプレミスAI, H100]
 category: "ai-ml"
 memo: "[Zenn LLM] AIメモリを6分の1に！グーグルTurboQuantが変える3つの未来とは【わかりやすく解説】"
+related: [106, 1264, 992, 820, 1116]
 processed_at: "2026-04-02T21:12:05.656295"
 ---
 

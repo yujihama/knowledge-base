@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [3Dmol.js, Gradio, HuggingFace Spaces, タンパク質構造可視化, AlphaFold2, WebGL, PDB, gradio_molecule3d]
 category: "infra"
 memo: "[HF Blog] Visualize proteins on Hugging Face Spaces"
+related: [45, 1304, 88, 1619, 1392]
 processed_at: "2026-04-11T21:04:59.136400"
 ---
 

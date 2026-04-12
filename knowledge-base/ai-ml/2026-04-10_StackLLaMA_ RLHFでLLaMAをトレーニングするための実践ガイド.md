@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [RLHF, LLaMA, LoRA, PPO, SFT, RewardModel, peft, TRL, 8bit量子化, StackExchange]
 category: "ai-ml"
 memo: "[HF Blog] StackLLaMA: A hands-on guide to train LLaMA with RLHF"
+related: [405, 265, 1219, 1305, 1449]
 processed_at: "2026-04-10T12:11:30.309651"
 ---
 

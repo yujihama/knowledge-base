@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [FutureBench, benchmark, prediction-market, Polymarket, smolagents, DeepSeek-V3, Firecrawl, Tavily, agent-evaluation, forecasting]
 category: "agent-arch"
 memo: "[HF Blog] Back to The Future: Evaluating AI Agents on Predicting Future Events"
+related: [29, 23, 212, 902, 975]
 processed_at: "2026-04-07T12:20:52.569491"
 ---
 

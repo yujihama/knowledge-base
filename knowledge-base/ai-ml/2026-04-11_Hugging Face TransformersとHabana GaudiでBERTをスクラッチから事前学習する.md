@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [BERT, MLM, Habana Gaudi, Optimum Habana, 事前学習, BertTokenizerFast, HuggingFace, AWS DL1]
 category: "ai-ml"
 memo: "[HF Blog] Pre-Train BERT with Hugging Face Transformers and Habana Gaudi"
+related: [1492, 1016, 1572, 1529, 1494]
 processed_at: "2026-04-11T21:06:03.818630"
 ---
 

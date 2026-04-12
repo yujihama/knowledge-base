@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [TPU, 衛星コンステレーション, 自由空間光通信, DWDM, 太陽同期軌道, JAX, 分散MLコンピューティング, 放射線耐性, Project Suncatcher]
 category: "infra"
 memo: "[Google AI Blog] Exploring a space-based, scalable AI infrastructure system design"
+related: [311, 1535, 312, 275, 418]
 processed_at: "2026-04-03T12:02:14.838890"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [continual-learning, Bridge-Diffusion, Gaussian-mixture, memory-compression, resource-constrained, catastrophic-forgetting, stochastic-process, replay-buffer]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Temporal Memory for Resource-Constrained Agents: Continual Learning via Stochastic Compress-Add-Smooth"
+related: [975, 892, 371, 1569, 134]
 processed_at: "2026-04-08T09:32:27.671358"
 ---
 

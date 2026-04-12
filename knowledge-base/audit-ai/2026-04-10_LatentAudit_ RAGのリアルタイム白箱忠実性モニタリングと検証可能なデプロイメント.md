@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [RAG, faithfulness, hallucination-detection, residual-stream, Mahalanobis-distance, Groth16, zk-SNARK, white-box, Llama-3, AUROC]
 category: "audit-ai"
 memo: "[HF Daily Papers] LatentAudit: Real-Time White-Box Faithfulness Monitoring for Retrieval-Augmented Generation with Verifiable Deployment"
+related: [49, 1116, 1334, 861, 112]
 processed_at: "2026-04-10T12:07:08.210597"
 ---
 

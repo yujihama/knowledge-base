@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Sentence Transformers, reranker, cross-encoder, ModernBERT, fine-tuning, RAG, hard negative mining, BinaryCrossEntropyLoss]
 category: "ai-ml"
 memo: "[HF Blog] Training and Finetuning Reranker Models with Sentence Transformers v4"
+related: [1440, 831, 950, 770, 1449]
 processed_at: "2026-04-08T09:13:25.173197"
 ---
 

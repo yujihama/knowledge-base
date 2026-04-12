@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [EU-AI-Act, neuro-symbolic, t-norm, compliance-classification, LGGT+, fuzzy-logic, risk-classification, LLM-as-judge]
 category: "audit-ai"
 memo: "[HF Daily Papers] T-Norm Operators for EU AI Act Compliance Classification: An Empirical Comparison of Lukasiewicz, Product, and Gödel Semantics in a Neuro-Symbolic Reasoning System"
+related: [23, 21, 251, 931, 112]
 processed_at: "2026-04-09T21:01:17.324845"
 ---
 

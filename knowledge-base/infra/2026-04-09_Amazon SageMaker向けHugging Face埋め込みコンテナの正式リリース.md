@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [SageMaker, TEI, embedding, RAG, Snowflake-Arctic-Embed, HuggingFace, BERT]
 category: "infra"
 memo: "[HF Blog] Introducing the Hugging Face Embedding Container for Amazon SageMaker"
+related: [1218, 1092, 735, 1378, 356]
 processed_at: "2026-04-09T09:22:01.271101"
 ---
 

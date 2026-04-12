@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [HuggingFace, Inference Endpoints, MLデプロイ, AWS PrivateLink, モデルサービング, VPCエンドポイント, Swin, AutoTrain]
 category: "infra"
 memo: "[HF Blog] Getting Started with Hugging Face Inference Endpoints"
+related: [835, 1114, 649, 1612, 1572]
 processed_at: "2026-04-11T09:09:18.507499"
 ---
 

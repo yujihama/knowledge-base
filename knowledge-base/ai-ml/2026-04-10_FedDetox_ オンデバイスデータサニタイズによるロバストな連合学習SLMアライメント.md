@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [FederatedLearning, SLM, SafetyAlignment, KnowledgeDistillation, DataPoisoning, RLHF, EdgeAI, OnDevice]
 category: "ai-ml"
 memo: "[HF Daily Papers] FedDetox: Robust Federated SLM Alignment via On-Device Data Sanitization"
+related: [754, 540, 1369, 247, 367]
 processed_at: "2026-04-10T12:32:46.043543"
 ---
 

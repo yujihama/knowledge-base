@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [GRPO, vLLM, TRL, GPU最適化, 分散学習, Tensor Parallelism, SPMD, オンライン強化学習, H100]
 category: "ai-ml"
 memo: "[HF Blog] No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL"
+related: [152, 520, 265, 1052, 773]
 processed_at: "2026-04-07T21:03:45.531441"
 ---
 

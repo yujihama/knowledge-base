@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [LLM評価, マルチエージェントディベート, FlagEval, BAAI, 多言語評価, AI Safety via Debate, ベンチマーク]
 category: "ai-ml"
 memo: "[HF Blog] Letting Large Models Debate: The First Multilingual LLM Debate Competition"
+related: [1068, 1251, 1065, 774, 1186]
 processed_at: "2026-04-08T21:10:26.803822"
 ---
 

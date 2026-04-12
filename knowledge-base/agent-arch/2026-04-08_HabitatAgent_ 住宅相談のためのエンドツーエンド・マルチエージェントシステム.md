@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [マルチエージェント, GraphRAG, Memory Agent, Validation Agent, RAG, LLM, 意思決定支援, Pydantic]
 category: "agent-arch"
 memo: "[HF Daily Papers] HabitatAgent: An End-to-End Multi-Agent System for Housing Consultation"
+related: [111, 108, 77, 75, 485]
 processed_at: "2026-04-08T09:43:31.969416"
 ---
 

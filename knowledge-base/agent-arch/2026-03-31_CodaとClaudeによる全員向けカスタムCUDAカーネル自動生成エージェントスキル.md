@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [CUDA, エージェントスキル, Claude Code, Codex, HuggingFace, kernels, PyTorch, diffusers, transformers, H100, カーネル最適化, RMSNorm]
 category: "agent-arch"
 memo: "[HF Blog] Custom Kernels for All from Codex and Claude"
+related: [580, 44, 1572, 1529, 1302]
 processed_at: "2026-03-31T21:09:01.054341"
 ---
 

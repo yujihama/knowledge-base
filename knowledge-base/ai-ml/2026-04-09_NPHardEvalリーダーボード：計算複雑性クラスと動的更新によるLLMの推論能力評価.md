@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [LLM評価, ベンチマーク, 計算複雑性, NP困難, 推論能力, 動的ベンチマーク, GPT-4, Weighted Accuracy]
 category: "ai-ml"
 memo: "[HF Blog] NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates"
+related: [1068, 899, 1251, 1065, 774]
 processed_at: "2026-04-09T21:03:35.463288"
 ---
 

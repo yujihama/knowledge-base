@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [エッジAI, 1-bit量子化, Bonsai8B, PrismML, ローカルLLM, オンデバイス推論, llama.cpp, OpenAI互換API]
 category: "infra"
 memo: "[Zenn LLM] AIがスマホで動く時代が来た — エッジAIとは何か、何が変わるのか、Bonsai 8Bを動かしてみた"
+related: [1146, 399, 1333, 392, 1049]
 processed_at: "2026-04-09T12:37:12.772261"
 ---
 

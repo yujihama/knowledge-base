@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [self-supervised-learning, multi-modal, JEPA, LiDAR, transformer, representation-learning, SIGReg, fusion-tokens]
 category: "ai-ml"
 memo: "[HF Daily Papers] Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens"
+related: [499, 364, 504, 225, 1494]
 processed_at: "2026-04-05T12:03:44.604506"
 ---
 

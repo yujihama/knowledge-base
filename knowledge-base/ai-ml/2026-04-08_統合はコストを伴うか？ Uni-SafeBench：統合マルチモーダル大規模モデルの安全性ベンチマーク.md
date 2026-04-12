@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [UMLM, 安全性ベンチマーク, マルチモーダルLLM, Uni-SafeBench, Uni-Judger, LLM安全性, 画像生成, マルチモーダル統合]
 category: "ai-ml"
 memo: "[HF Daily Papers] Does Unification Come at a Cost? Uni-SafeBench: A Safety Benchmark for Unified Multimodal Large Models"
+related: [1605, 1420, 1171, 863, 1268]
 processed_at: "2026-04-08T12:24:22.440078"
 ---
 

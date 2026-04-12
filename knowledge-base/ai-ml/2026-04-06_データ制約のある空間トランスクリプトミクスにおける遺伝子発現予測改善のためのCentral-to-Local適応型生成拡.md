@@ -5,6 +5,7 @@ date: 2026-04-06
 tags: [diffusion model, spatial transcriptomics, data augmentation, transfer learning, gene expression prediction, histopathology, few-shot adaptation]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Central-to-Local Adaptive Generative Diffusion Framework for Improving Gene Expression Prediction in Data-Limited Spatial Transcriptomics"
+related: [1476, 1689]
 processed_at: "2026-04-06T12:05:05.385544"
 ---
 

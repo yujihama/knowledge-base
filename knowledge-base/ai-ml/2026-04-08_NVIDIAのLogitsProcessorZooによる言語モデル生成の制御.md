@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [LogitsProcessor, テキスト生成制御, Transformers, NVIDIA, デコーディング戦略, CFG, トークン確率操作]
 category: "ai-ml"
 memo: "[HF Blog] Controlling Language Model Generation with NVIDIA's LogitsProcessorZoo"
+related: [1529, 1266, 907, 647, 150]
 processed_at: "2026-04-08T12:27:15.956234"
 ---
 

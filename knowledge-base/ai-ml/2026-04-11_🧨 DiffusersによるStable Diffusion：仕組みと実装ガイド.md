@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [StableDiffusion, Diffusers, LatentDiffusionModel, VAE, CLIP, U-Net, ClassifierFreeGuidance, HuggingFace, text-to-image, DDIM]
 category: "ai-ml"
 memo: "[HF Blog] Stable Diffusion with 🧨 Diffusers"
+related: [1302, 1495, 1535, 1389, 1265]
 processed_at: "2026-04-11T21:05:29.167405"
 ---
 

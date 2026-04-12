@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [MedGemma, MedSigLIP, Gemma3, 医療AI, マルチモーダル, SigLIP, EHR, ファインチューニング, オープンモデル, HAI-DEF]
 category: "ai-ml"
 memo: "[Google AI Blog] MedGemma: Our most capable open models for health AI development"
+related: [234, 1049, 192, 986, 171]
 processed_at: "2026-04-05T21:05:53.535213"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [LLM, DSL, Pydantic, アーキテクチャ設計, Intent Layer, 決定論的変換, SVG, AIエージェント]
 category: "agent-arch"
 memo: "[Zenn LLM] なぜLLMにDSLを直接書かせないのか — Nia Drawing Languageの4層アーキテクチャ"
+related: [762, 1453, 1624, 1266, 1449]
 processed_at: "2026-04-07T12:01:09.187592"
 ---
 

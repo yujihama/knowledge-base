@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Stable Diffusion, Intel Sapphire Rapids, AMX, IPEX, Textual Inversion, 分散学習, oneCCL, CPU推論, Diffusers, BF16]
 category: "infra"
 memo: "[HF Blog] Fine-tuning Stable Diffusion models on Intel CPUs"
+related: [1116, 1489, 1181, 1275, 1211]
 processed_at: "2026-04-10T09:16:51.162411"
 ---
 

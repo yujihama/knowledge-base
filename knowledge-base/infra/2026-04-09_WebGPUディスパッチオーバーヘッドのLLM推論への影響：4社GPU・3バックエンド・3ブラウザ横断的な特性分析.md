@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [WebGPU, LLM推論, ディスパッチオーバーヘッド, PyTorch, カーネルフュージョン, Vulkan, Metal, torch-webgpu, Qwen2.5, ブラウザ推論]
 category: "infra"
 memo: "[arXiv cs.AI+cs.LG] Characterizing WebGPU Dispatch Overhead for LLM Inference Across Four GPU Vendors, Three Backends, and Three Browsers"
+related: [828, 113, 1611, 972, 1060]
 processed_at: "2026-04-09T12:15:12.090028"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [MLX, Bonsai-8B, Goose, ローカルLLM, OpenAI互換API, Apple Silicon, AIエージェント, Custom Provider]
 category: "infra"
 memo: "[Zenn LLM] Bonsai-8B-mlx × Goose でフルローカルの AI エージェント環境を作る"
+related: [1333, 399, 392, 1493, 1143]
 processed_at: "2026-04-09T12:39:58.112332"
 ---
 

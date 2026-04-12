@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai-ml/2026-04-11_AIにおけるジェンダーバイアスの概要.md",
+                "file": "ai-ml/2026-03-29_TurboQuant_ 極限圧縮によるAI効率の再定義.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-11_AIにおけるジェンダーバイアスの概要"
+              "title": "2026-03-29_TurboQuant_ 極限圧縮によるAI効率の再定義"
             }
           }
         ]
@@ -185,12 +185,16 @@
   },
   "active": "21149ad175c8f2fc",
   "lastOpenFiles": [
+    "ai-ml/2026-03-29_生成AIに入れて学ぶ高校数学+AI.md",
+    "ai-ml/2026-03-30_【超入門】YOLOとは何か？物体検出モデルの仕組みから実践まで解説.md",
+    "ai-ml/2026-03-29_機械学習入門講義メモ：ゼロから作るDeep Learningをベースに.md",
+    "ai-ml/2026-03-29_LLM評価はギャンブルだった — promptstatsで始める統計的評価.md",
+    "ai-ml/2026-04-11_AIにおけるジェンダーバイアスの概要.md",
     "other/2026-04-11_あなたがAIに疲れる理由は、あなたが「翻訳」を押しつけられているからだ.md",
     "agent-arch/2026-04-11_CLAUDE.mdがなくても戦える — LLMの構造的制約を踏まえたプロンプト駆動開発.md",
     "ai-ml/2026-04-11_テキスト埋め込みはテキストを完全にエンコードするか？――vec2textによる埋め込み逆変換の研究.md",
     "ai-ml/2026-04-11_Car-GPT：LLMは自動運転を実現できるか？.md",
     "ai-ml/2026-04-11_Mamba解説：Transformerに挑む状態空間モデル.md",
-    "ai-ml/2026-04-11_AIにおけるジェンダーバイアスの概要.md",
     "ai-ml/2026-04-11_LLMの金融市場への応用：価格予測・マルチモーダル・合成データ生成.md",
     "ai-ml/2026-04-11_ウェルビーイングに根ざしたAIのポジティブビジョンが必要だ.md",
     "agent-arch/2026-04-11_LLMチャットボットに欠けているもの：目的意識（Purposeful Dialogue）.md",
@@ -207,10 +211,6 @@
     "other/2026-04-11_AI時代の雇用予測に必要な「唯一のデータ」：価格弾力性の欠如という盲点.md",
     "agent-arch/2026-04-11_エージェントファーストのプロセス再設計を実現する.md",
     "ai-ml/2026-04-11_Mustafa Suleyman（Microsoft AI CEO）：AIの発展は近い将来も壁に当たらない——その理由.md",
-    "ai-ml/2026-04-11_Japanese Stable Diffusion_ 日本語特化テキスト-画像生成モデル.md",
-    "infra/2026-04-11_DOI（デジタルオブジェクト識別子）のデータセット・モデルへの導入.md",
-    "infra/2026-04-11_最適化の記録_ BLOOM推論サーバーの高速化.md",
-    "infra/2026-04-11_JAX _ Flax で Stable Diffusion を高速推論する方法.md",
     "index/knowledge_graph.html"
   ]
 }

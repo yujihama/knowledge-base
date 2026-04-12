@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Gemma2, ShieldGemma, GemmaScope, SparseAutoencoder, SpeculativeDecoding, SafetyClassifier, MechanisticInterpretability, GGUF, llama.cpp]
 category: "ai-ml"
 memo: "[HF Blog] Google releases Gemma 2 2B, ShieldGemma and Gemma Scope"
+related: [647, 399, 409, 400, 1146]
 processed_at: "2026-04-09T09:05:06.078362"
 ---
 

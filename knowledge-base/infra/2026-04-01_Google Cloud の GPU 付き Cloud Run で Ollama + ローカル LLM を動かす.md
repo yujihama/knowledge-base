@@ -5,6 +5,7 @@ date: 2026-04-01
 tags: [Ollama, Cloud Run, NVIDIA L4, GPU, Google Cloud, qwen3-coder, コンテナ, サーバーレス]
 category: "infra"
 memo: "[Zenn LLM] Google Cloud の GPU 付き Cloud Run で Ollama + Local LLM を動かしてみた"
+related: [396, 1450, 1581, 484, 404]
 processed_at: "2026-04-01T21:07:52.412865"
 ---
 

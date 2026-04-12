@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [Evidential Deep Learning, Uncertainty Quantification, Lifelong Learning, Continual Learning, Dempster-Shafer, Selective Prediction, RF分類, epistemic uncertainty]
 category: "ai-ml"
 memo: "[HF Daily Papers] ELC: Evidential Lifelong Classifier for Uncertainty Aware Radar Pulse Classification"
+related: [489, 938, 873, 230]
 processed_at: "2026-04-12T09:07:23.309797"
 ---
 

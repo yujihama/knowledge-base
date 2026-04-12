@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [VLA, LeRobot, ロボティクスデータセット, 汎化, データ収集, HuggingFace, Gr00t, sim-to-real, コミュニティデータ]
 category: "ai-ml"
 memo: "[HF Blog] LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?"
+related: [588, 716, 143, 581, 413]
 processed_at: "2026-04-07T21:37:58.232162"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [VLM, Liquid Foundation Model, State Space Model, FiLM conditioning, マルチモーダル, 効率化推論, Token-Grid Correlation, エッジAI]
 category: "ai-ml"
 memo: "[HF Daily Papers] Firebolt-VL: Efficient Vision-Language Understanding with Cross-Modality Modulation"
+related: [21, 986, 305, 1117, 1257]
 processed_at: "2026-04-10T09:11:41.465046"
 ---
 

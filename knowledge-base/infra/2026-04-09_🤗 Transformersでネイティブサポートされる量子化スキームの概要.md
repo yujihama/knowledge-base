@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [quantization, bitsandbytes, GPTQ, QLoRA, LLM, transformers, exllama, 4-bit, inference]
 category: "infra"
 memo: "[HF Blog] Overview of natively supported quantization schemes in 🤗 Transformers"
+related: [1449, 1115, 991, 1303, 511]
 processed_at: "2026-04-09T21:51:05.532640"
 ---
 

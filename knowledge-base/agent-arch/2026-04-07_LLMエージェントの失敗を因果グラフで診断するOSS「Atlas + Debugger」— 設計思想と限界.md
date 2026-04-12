@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [LLMデバッグ, 因果グラフ, agent-failure-debugger, llm-failure-atlas, LangGraph, LangChain, 決定論的診断, 根本原因分析, Observability, OSS]
 category: "agent-arch"
 memo: "[Zenn LLM] LLMエージェントの失敗を因果グラフで診断するOSSを作った — 設計思想と「できないこと」"
+related: [41, 858, 857, 564, 1335]
 processed_at: "2026-04-07T21:17:58.154415"
 ---
 

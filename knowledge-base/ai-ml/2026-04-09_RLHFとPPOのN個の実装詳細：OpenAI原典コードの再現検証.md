@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [RLHF, PPO, 実装詳細, 報酬モデル, GPT-2, TRL, KLペナルティ, Adam最適化]
 category: "ai-ml"
 memo: "[HF Blog] The N Implementation Details of RLHF with PPO"
+related: [1490, 1397, 133, 520, 1531]
 processed_at: "2026-04-09T21:24:33.427210"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [VideoRAG, マルチモーダル検索, 映像フォレンジック, VideoLLM, 時系列グラウンディング, CLIP, トラッキング, ベンチマーク]
 category: "ai-ml"
 memo: "[HF Daily Papers] ForeSea: AI Forensic Search with Multi-modal Queries for Video Surveillance"
+related: [1572, 1256, 1068, 899, 1251]
 processed_at: "2026-04-05T12:02:28.506815"
 ---
 

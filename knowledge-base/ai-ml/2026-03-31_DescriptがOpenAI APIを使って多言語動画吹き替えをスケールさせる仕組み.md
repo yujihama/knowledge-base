@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [OpenAI API, Whisper, TTS, 音声クローニング, 多言語ダビング, Descript, ASR, コンテンツ自動化]
 category: "ai-ml"
 memo: "[OpenAI Blog] How Descript enables multilingual video dubbing at scale"
+related: [128, 1529, 1358, 264, 649]
 processed_at: "2026-03-31T21:11:09.933995"
 ---
 

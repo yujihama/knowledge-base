@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Claude, Anthropic, SystemCard, RSP, AIAlignment, Cybersecurity, ModelWelfare, FrontierAI, Interpretability, RLHF]
 category: "ai-ml"
 memo: "[Zenn LLM] Claude Mythos Preview System Card - 1. はじめに"
+related: [156, 593, 1407, 1679, 1629]
 processed_at: "2026-04-10T12:24:36.834228"
 ---
 

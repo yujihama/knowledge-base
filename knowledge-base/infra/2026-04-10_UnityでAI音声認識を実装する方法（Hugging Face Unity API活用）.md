@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Hugging Face, Unity, ASR, Whisper, 音声認識, WAV, Unity API, ゲームAI]
 category: "infra"
 memo: "[HF Blog] AI Speech Recognition in Unity"
+related: [1529, 1420, 1062, 411, 128]
 processed_at: "2026-04-10T09:44:59.212580"
 ---
 

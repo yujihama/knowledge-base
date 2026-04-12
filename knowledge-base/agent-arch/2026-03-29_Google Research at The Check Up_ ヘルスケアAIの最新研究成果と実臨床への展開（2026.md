@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [multi-agent, AMIE, MedGemma, Personal-Health-Agent, multimodal-LLM, RAG, clinical-AI, Google-DeepMind, LLM-as-collaborator]
 category: "agent-arch"
 memo: "[Google AI Blog] Google Research at The Check Up: from healthcare innovation to real-world care settings"
+related: [139, 132, 77, 1340, 1381]
 processed_at: "2026-03-29T22:56:07.454690"
 ---
 

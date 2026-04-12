@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [AutoResearch, 自律実験ループ, LLMエージェント, RMSNorm, SkyPilot, ラチェットメカニズム, GPUクラスタ, Karpathy]
 category: "agent-arch"
 memo: "[Zenn 機械学習] Karpathy発AutoResearchで一晩100実験を自動化する仕組みと実践"
+related: [866, 976, 631, 566, 1603]
 processed_at: "2026-03-29T22:43:47.627656"
 ---
 

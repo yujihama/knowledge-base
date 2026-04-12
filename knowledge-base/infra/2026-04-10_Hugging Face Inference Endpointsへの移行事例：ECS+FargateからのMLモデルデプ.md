@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [HuggingFace, InferenceEndpoints, ECS, Fargate, RoBERTa, FastAPI, Docker, MLOps, モデルデプロイ, transformers]
 category: "infra"
 memo: "[HF Blog] Why we’re switching to Hugging Face Inference Endpoints, and maybe you should too"
+related: [1214, 1446, 1612, 1529, 418]
 processed_at: "2026-04-10T12:39:00.819254"
 ---
 

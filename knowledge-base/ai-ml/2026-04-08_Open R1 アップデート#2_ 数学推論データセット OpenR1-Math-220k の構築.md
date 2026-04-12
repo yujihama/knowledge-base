@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [DeepSeek-R1, GRPO, 蒸留, 数学推論, 合成データ生成, vLLM, SGLang, Qwen, rejection-sampling, CoT長制御]
 category: "ai-ml"
 memo: "[HF Blog] Open R1: Update #2"
+related: [715, 861, 152, 647, 524]
 processed_at: "2026-04-08T09:49:19.951857"
 ---
 

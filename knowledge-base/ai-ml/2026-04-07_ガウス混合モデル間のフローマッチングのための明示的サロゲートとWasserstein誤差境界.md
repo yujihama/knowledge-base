@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [Flow Matching, Gaussian Mixture Model, Wasserstein距離, 最適輸送, 生成モデル, 閉形式近似, 連続方程式]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] An Explicit Surrogate for Gaussian Mixture Flow Matching with Wasserstein Gap Bounds"
+related: [874, 1178, 1179, 1323, 542]
 processed_at: "2026-04-07T12:40:55.153004"
 ---
 

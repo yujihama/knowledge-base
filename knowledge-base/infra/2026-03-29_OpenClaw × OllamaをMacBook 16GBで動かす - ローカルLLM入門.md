@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [Ollama, OpenClaw, Qwen3, ローカルLLM, ハイブリッドLLM, tool-calling, GGML]
 category: "infra"
 memo: "[Zenn LLM] OpenClaw × OllamaをMacBook 16GBで動かす - ローカルLLM入門"
+related: [399, 392, 397, 826, 1420]
 processed_at: "2026-03-29T22:06:25.600257"
 ---
 

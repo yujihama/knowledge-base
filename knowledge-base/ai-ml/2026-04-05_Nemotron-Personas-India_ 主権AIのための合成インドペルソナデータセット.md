@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [synthetic-data, sovereign-ai, NeMo, Pydantic, multilingual, persona-generation, fine-tuning, probabilistic-graphical-model]
 category: "ai-ml"
 memo: "[HF Blog] Nemotron-Personas-India: Synthesized Data for Sovereign AI"
+related: [52, 997, 1315, 1404, 950]
 processed_at: "2026-04-05T12:09:22.094863"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-06
 tags: [3D Gaussian Splatting, 3DGS, 点群位置合わせ, カテゴリレベル登録, 類似変換, 球面マップ特徴量, inverse radiance field, 3D Computer Vision]
 category: "ai-ml"
 memo: "[HF Daily Papers] Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment"
+related: [572, 1053, 1343, 130, 189]
 processed_at: "2026-04-06T12:06:36.102992"
 ---
 

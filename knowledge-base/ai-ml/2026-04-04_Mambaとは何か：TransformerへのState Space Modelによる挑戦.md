@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [Mamba, SSM, State Space Model, Transformer, 長文脈処理, 線形スケーリング, 選択的状態空間, ZOH離散化, FlashAttention, RNN]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [201, 199, 222, 833, 221]
 processed_at: "2026-04-04T21:07:51.510280"
 ---
 

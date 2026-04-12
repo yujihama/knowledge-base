@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [MoE, Mixture-of-Experts, オープンソース, Qwen, DeepSeek, 国産チップ, Huawei-Ascend, モデル蒸留, Apache2.0, 小型モデル, マルチモーダル, 中国AIエコシステム]
 category: "ai-ml"
 memo: "[HF Blog] Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek"
+related: [203, 236, 150, 141, 859]
 processed_at: "2026-04-02T12:02:19.638914"
 ---
 

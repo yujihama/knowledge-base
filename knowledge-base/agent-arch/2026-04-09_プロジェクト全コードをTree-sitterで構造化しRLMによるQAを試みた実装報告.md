@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [RLM, Tree-sitter, DSPy, AST, コード解析, 依存関係グラフ, RAG, Python REPL, LLM-as-agent]
 category: "agent-arch"
 memo: "[Zenn LLM] プロジェクト内の全コードをTree-sitterで構造化 → RLMによるQAを試してみた"
+related: [1252, 1116, 1334, 861, 112]
 processed_at: "2026-04-09T09:39:28.096032"
 ---
 

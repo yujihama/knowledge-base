@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [LoRA, Flux.1-Dev, torch.compile, Flash Attention 3, FP8量子化, TorchAO, Diffusers, PEFT, ホットスワップ, RTX 4090]
 category: "infra"
 memo: "[HF Blog] Fast LoRA inference for Flux with Diffusers and PEFT"
+related: [1449, 1302, 1268, 1397, 1220]
 processed_at: "2026-04-07T12:18:56.166809"
 ---
 

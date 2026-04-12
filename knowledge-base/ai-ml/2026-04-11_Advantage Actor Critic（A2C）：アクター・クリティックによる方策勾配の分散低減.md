@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [A2C, Actor-Critic, Policy-Gradient, 強化学習, REINFORCE, Advantage関数, TD誤差, Stable-Baselines3, PyBullet]
 category: "ai-ml"
 memo: "[HF Blog] Advantage Actor Critic (A2C)"
+related: [1611, 1663, 1605, 492, 1170]
 processed_at: "2026-04-11T21:29:51.043731"
 ---
 

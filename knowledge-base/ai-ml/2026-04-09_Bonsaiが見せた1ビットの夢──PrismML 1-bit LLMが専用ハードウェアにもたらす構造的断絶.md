@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [1-bit LLM, BitNet, PrismML, Bonsai, 量子化, 専用ハードウェア, XOR回路, インメモリコンピューティング, エッジAI]
 category: "ai-ml"
 memo: "[Zenn LLM] Bonsaiが見せた1ビットの夢"
+related: [1047, 1249, 298, 944, 1049]
 processed_at: "2026-04-09T12:39:26.118376"
 ---
 

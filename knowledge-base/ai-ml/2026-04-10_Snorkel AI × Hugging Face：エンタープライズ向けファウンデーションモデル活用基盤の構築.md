@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Snorkel AI, Hugging Face, Inference Endpoints, ファインチューニング, プログラマティックラベリング, ファウンデーションモデル, BioBERT, データ中心AI]
 category: "ai-ml"
 memo: "[HF Blog] Snorkel AI x Hugging Face: unlock foundation models for enterprises"
+related: [1310, 709, 1190, 1308, 1218]
 processed_at: "2026-04-10T12:10:57.863953"
 ---
 

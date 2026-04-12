@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Hugging Face, AWS SageMaker, AWS Inferentia, Transformers, Document AI, エンティティ解決, セマンティック検索, MLOps, シャドウパイプライン]
 category: "infra"
 memo: "[HF Blog] Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS"
+related: [1015, 303, 1578, 1448, 1529]
 processed_at: "2026-04-10T12:37:26.215896"
 ---
 

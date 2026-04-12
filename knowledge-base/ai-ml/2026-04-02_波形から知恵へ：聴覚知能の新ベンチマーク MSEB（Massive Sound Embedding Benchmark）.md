@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [MSEB, sound-embedding, benchmark, multimodal, ASR, audio-AI, NeurIPS2025, evaluation-framework]
 category: "ai-ml"
 memo: "[Google AI Blog] From Waveforms to Wisdom: The New Benchmark for Auditory Intelligence"
+related: [23, 975, 821, 522, 347]
 processed_at: "2026-04-02T12:05:06.435376"
 ---
 

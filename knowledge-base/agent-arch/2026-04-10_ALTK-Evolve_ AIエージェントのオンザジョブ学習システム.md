@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [episodic-memory, on-the-job-learning, ReAct, LangGraph, MCP, AppWorld, LangFuse, OpenTelemetry, CUGA, guidelines-extraction]
 category: "agent-arch"
 memo: "[HF Blog] ALTK‑Evolve: On‑the‑Job Learning for AI Agents"
+related: [1247, 13, 398, 526, 1]
 processed_at: "2026-04-10T09:40:34.547774"
 ---
 

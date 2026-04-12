@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [拡散モデル, 3D人体メッシュ推定, 合成データ生成, DPO, カリキュラム学習, データ拡張, コンピュータビジョン]
 category: "ai-ml"
 memo: "[HF Daily Papers] PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models"
+related: [506, 1183, 1653, 216, 111]
 processed_at: "2026-04-07T12:43:28.392282"
 ---
 

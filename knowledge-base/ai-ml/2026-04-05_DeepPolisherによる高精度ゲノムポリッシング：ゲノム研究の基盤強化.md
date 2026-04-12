@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [Transformer, deep-learning, genome-assembly, DeepPolisher, DeepConsensus, PacBio, bioinformatics, HPRC, sequence-model]
 category: "ai-ml"
 memo: "[Google AI Blog] Highly accurate genome polishing with DeepPolisher: Enhancing the foundation of genomic research"
+related: [195, 1494, 113, 216, 370]
 processed_at: "2026-04-05T21:01:01.788674"
 ---
 

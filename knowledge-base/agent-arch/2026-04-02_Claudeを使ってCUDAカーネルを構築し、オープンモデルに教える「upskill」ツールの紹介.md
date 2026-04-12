@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [agent-skills, CUDA, Claude Opus 4.5, upskill, knowledge-transfer, model-evaluation, HuggingFace, diffusers]
 category: "agent-arch"
 memo: "[HF Blog] We Got Claude to Build CUDA Kernels and teach open models!"
+related: [26, 1572, 1302, 1389, 1265]
 processed_at: "2026-04-02T12:01:32.364508"
 ---
 

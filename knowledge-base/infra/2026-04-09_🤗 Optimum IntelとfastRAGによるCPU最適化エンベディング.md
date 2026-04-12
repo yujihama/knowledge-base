@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Optimum Intel, IPEX, 量子化, BGE, RAG, fastRAG, Int8, AMX, エンベディング, CPU推論]
 category: "infra"
 memo: "[HF Blog] CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG"
+related: [1187, 1306, 424, 861, 988]
 processed_at: "2026-04-09T12:22:00.431367"
 ---
 

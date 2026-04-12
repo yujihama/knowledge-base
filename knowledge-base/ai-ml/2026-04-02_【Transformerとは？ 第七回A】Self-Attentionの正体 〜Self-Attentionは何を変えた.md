@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [Transformer, Self-Attention, Multi-Head Attention, Seq2Seq, RNN, 自然言語処理, 埋め込みベクトル]
 category: "ai-ml"
 memo: "[Zenn 機械学習] 【Transformerとは？ - 第七回A】Self-Attentionの正体 ~Self-Attentionは何を変えたのか~"
+related: [585, 879, 262, 1529, 1494]
 processed_at: "2026-04-02T09:01:27.156275"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-06
 tags: [ExecuTorch, KleidiAI, SDOT, XNNPack, Llama, エッジAI, モバイルLLM, Int4量子化, Arm, オンデバイス推論]
 category: "infra"
 memo: "[HF Blog] Arm & ExecuTorch 0.7: Bringing Generative AI to the masses"
+related: [421, 943, 1049, 1143, 826]
 processed_at: "2026-04-06T21:05:19.793567"
 ---
 

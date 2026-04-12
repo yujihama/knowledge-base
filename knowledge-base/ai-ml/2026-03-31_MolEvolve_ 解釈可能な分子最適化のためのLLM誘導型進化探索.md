@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [LLM, MCTS, 進化的アルゴリズム, 分子最適化, RDKit, 解釈可能AI, test-time planning, symbolic reasoning]
 category: "ai-ml"
 memo: "[HF Daily Papers] MolEvolve: LLM-Guided Evolutionary Search for Interpretable Molecular Optimization"
+related: [1266, 1449, 564, 216, 892]
 processed_at: "2026-03-31T12:09:46.491155"
 ---
 

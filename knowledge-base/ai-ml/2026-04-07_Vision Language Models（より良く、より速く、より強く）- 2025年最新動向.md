@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [VLM, multimodal, MoE, RLVR, RLAIF-V, SmolVLM, Qwen2.5-VL, ColPali, multimodal-RAG, multimodal-agent, VLA, reasoning-model]
 category: "ai-ml"
 memo: "[HF Blog] Vision Language Models (Better, faster, stronger)"
+related: [522, 587, 1608, 819, 975]
 processed_at: "2026-04-07T21:37:27.445965"
 ---
 

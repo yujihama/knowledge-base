@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [GPU-cluster, NVIDIA-DGX-Cloud, Hugging-Face, H100, GB200, DGX-Cloud-Lepton, Training-as-a-Service, 大規模モデル訓練]
 category: "infra"
 memo: "[HF Blog] Introducing Training Cluster as a Service - a new collaboration with NVIDIA"
+related: [1263, 1487, 524, 1114, 989]
 processed_at: "2026-04-07T12:49:42.858518"
 ---
 

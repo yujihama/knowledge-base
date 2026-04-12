@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [Intel Xeon 6, Google Cloud C4, MoE, CPU推論, GPT OSS, TCO最適化, Hugging Face transformers, bfloat16]
 category: "infra"
 memo: "[HF Blog] Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face"
+related: [1116, 1489, 1310, 1264, 152]
 processed_at: "2026-04-05T12:08:19.273840"
 ---
 

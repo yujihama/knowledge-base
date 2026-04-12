@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [HuggingFace, AWS, SageMaker, Trainium, Inferentia, 生成AI, モデルデプロイ, MLOps, クラウドML]
 category: "infra"
 memo: "[HF Blog] Hugging Face and AWS partner to make AI more accessible"
+related: [1448, 994, 1665, 1215, 402]
 processed_at: "2026-04-10T12:37:57.407886"
 ---
 

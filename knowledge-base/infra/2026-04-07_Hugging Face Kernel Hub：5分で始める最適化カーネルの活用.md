@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [Hugging Face, CUDA, Triton, FlashAttention, RMSNorm, カーネル最適化, GPU推論, 量子化, MoE]
 category: "infra"
 memo: "[HF Blog] Learn the Hugging Face Kernel Hub in 5 Minutes"
+related: [26, 1536, 125, 1565, 1352]
 processed_at: "2026-04-07T12:48:12.647051"
 ---
 

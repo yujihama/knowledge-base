@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [Claude-Mythos, Capybara, GPT-5.3-Codex, Sora, Llama, MCP, CVE, Agentic-Storefronts, Mistral-Small-4, Gemini]
 category: "ai-ml"
 memo: "[Zenn 機械学習] Anthropicダダ漏れ、Sora白旗、Meta迷走 — AI速報 2026-03-30"
+related: [868, 826, 892, 430, 861]
 processed_at: "2026-04-05T09:00:36.284466"
 ---
 

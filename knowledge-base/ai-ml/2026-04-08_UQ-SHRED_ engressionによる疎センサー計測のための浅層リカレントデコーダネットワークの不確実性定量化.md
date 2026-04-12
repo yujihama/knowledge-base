@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [不確実性定量化, SHRED, engression, sparse-sensing, LSTM, 分布回帰, energy-score-loss, 時空間再構成]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] UQ-SHRED: uncertainty quantification of shallow recurrent decoder networks for sparse sensing via engression"
+related: [113, 805, 895, 488, 822]
 processed_at: "2026-04-08T12:51:41.613250"
 ---
 

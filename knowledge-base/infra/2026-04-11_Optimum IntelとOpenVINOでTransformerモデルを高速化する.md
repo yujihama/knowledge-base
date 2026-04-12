@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [OpenVINO, Optimum Intel, 量子化, PTQ, NNCF, ViT, 推論高速化, Intel, HuggingFace]
 category: "infra"
 memo: "[HF Blog] Accelerate your models with 🤗 Optimum Intel and OpenVINO"
+related: [424, 1116, 1579, 125, 943]
 processed_at: "2026-04-11T09:07:16.098310"
 ---
 

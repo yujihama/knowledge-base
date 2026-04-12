@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Safetensors, PyTorch Foundation, Linux Foundation, モデルシリアライズ, ゼロコピーロード, 量子化, FP8, GPTQ, AWQ, Tensor Parallel]
 category: "infra"
 memo: "[HF Blog] Safetensors is Joining the PyTorch Foundation"
+related: [988, 524, 1266, 1116, 1528]
 processed_at: "2026-04-10T09:41:11.957344"
 ---
 

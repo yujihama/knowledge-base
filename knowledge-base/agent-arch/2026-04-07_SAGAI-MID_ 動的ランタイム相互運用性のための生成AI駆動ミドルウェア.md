@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [LLM, FastAPI, ミドルウェア, スキーマ変換, REST API, GraphQL, IoT, 相互運用性, ランタイム適応, アダプター生成]
 category: "agent-arch"
 memo: "[HF Daily Papers] SAGAI-MID: A Generative AI-Driven Middleware for Dynamic Runtime Interoperability"
+related: [1527, 1266, 1449, 564, 216]
 processed_at: "2026-04-07T12:12:39.211164"
 ---
 

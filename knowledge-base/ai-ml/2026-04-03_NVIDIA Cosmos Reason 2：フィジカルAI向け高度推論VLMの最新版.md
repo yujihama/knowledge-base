@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [VLM, Physical-AI, NVIDIA-Cosmos, VLA, Robotics, Spatio-temporal-reasoning, OCR, Fine-tuning, Open-model]
 category: "ai-ml"
 memo: "[HF Blog] NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI"
+related: [819, 986, 305, 650, 127]
 processed_at: "2026-04-03T09:09:07.096601"
 ---
 

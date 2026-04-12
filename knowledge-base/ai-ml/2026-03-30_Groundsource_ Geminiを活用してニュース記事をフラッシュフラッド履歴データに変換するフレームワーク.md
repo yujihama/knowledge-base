@@ -5,6 +5,7 @@ date: 2026-03-30
 tags: [Gemini, LLM, 情報抽出, 構造化データ生成, プロンプトエンジニアリング, 地理空間AI, フラッシュフラッド, Google Earth AI]
 category: "ai-ml"
 memo: "[Google AI Blog] Introducing Groundsource: Turning news reports into data with Gemini"
+related: [108, 316, 514, 273, 77]
 processed_at: "2026-03-30T09:07:52.108523"
 ---
 

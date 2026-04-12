@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [multimodal-AI, Gemini, accessibility, context-aware, Gemini-Live, function-calling, vision-language-model, street-view]
 category: "ai-ml"
 memo: "[Google AI Blog] StreetReaderAI: Towards making street view accessible via context-aware multimodal AI"
+related: [60, 1060, 112, 1174, 178]
 processed_at: "2026-04-03T12:03:56.469311"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [LVLM, 視覚トークンプルーニング, 推論効率化, LLaVA, トークン選択, マルチモーダル, FLOPs削減]
 category: "ai-ml"
 memo: "[HF Daily Papers] ID-Selection: Importance-Diversity Based Visual Token Selection for Efficient LVLM Inference"
+related: [1098, 1615, 21, 1256, 577]
 processed_at: "2026-04-10T12:04:41.837169"
 ---
 

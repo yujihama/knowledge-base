@@ -5,6 +5,7 @@ date: 2026-04-01
 tags: [Gemini, RAG, speculative-decoding, factuality, multi-agent, generative-UI, quantum-computing, Gemma, Vertex-AI, LLM-benchmark]
 category: "ai-ml"
 memo: "[Google AI Blog] Google Research 2025: Bolder breakthroughs, bigger impact"
+related: [77, 112, 267, 1340, 704]
 processed_at: "2026-04-01T09:11:44.794815"
 ---
 

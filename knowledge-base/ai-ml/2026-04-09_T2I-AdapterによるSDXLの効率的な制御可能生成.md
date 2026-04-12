@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [T2I-Adapter, SDXL, ControlNet, diffusers, 画像生成, fine-tuning, LoRA, plug-and-play]
 category: "ai-ml"
 memo: "[HF Blog] Efficient Controllable Generation for SDXL with T2I-Adapters"
+related: [1211, 1302, 1181, 1449, 405]
 processed_at: "2026-04-09T21:52:09.313284"
 ---
 

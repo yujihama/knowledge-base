@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [SFT, SWE-bench, コードエージェント, 知識蒸留, Qwen2.5-Coder, トラジェクトリ生成, ゼロショット転移]
 category: "ai-ml"
 memo: "[HF Daily Papers] From SWE-ZERO to SWE-HERO: Execution-free to Execution-based Fine-tuning for Software Engineering Agents"
+related: [826, 861, 1106, 1247, 94]
 processed_at: "2026-04-08T21:06:18.222009"
 ---
 

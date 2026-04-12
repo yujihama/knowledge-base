@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [A-Mem, Zettelkasten, LLMエージェント, メモリアーキテクチャ, MCP, RAG, MemGPT, マルチホップ推論, NeurIPS2025]
 category: "agent-arch"
 memo: "[Zenn LLM] Zettelkastenに基づくLLMエージェントのメモリ設計：A-Mem論文解説"
+related: [1247, 856, 12, 36, 9]
 processed_at: "2026-04-10T21:04:05.809380"
 ---
 

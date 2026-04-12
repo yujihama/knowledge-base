@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [MLLM, OCR, ViT, skip-connection, gradient-interference, feature-fusion, multimodal, stop-gradient]
 category: "ai-ml"
 memo: "[HF Daily Papers] Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR"
+related: [360, 495, 492, 637, 1057]
 processed_at: "2026-03-31T12:10:46.743239"
 ---
 

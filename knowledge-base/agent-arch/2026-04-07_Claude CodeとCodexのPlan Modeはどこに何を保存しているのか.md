@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [Claude Code, Codex, Plan Mode, JSONL, セッション管理, エージェントツール, settings.json]
 category: "agent-arch"
 memo: "[Zenn LLM] Claude CodeとCodexの Plan Mode はどこに何を保存しているのか"
+related: [430, 26, 1425, 1429, 1641]
 processed_at: "2026-04-07T09:11:55.832939"
 ---
 

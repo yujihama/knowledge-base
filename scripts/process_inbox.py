@@ -471,6 +471,8 @@ def process_entry(entry: dict, kb_index: list[dict]) -> dict | None:
     related = find_related_articles(
         tags_list, url, data.get("title", ""), kb_index, top_k=5
     )
+    related_ids = [r["kb_id"] for r in related if r.get("kb_id") is not None]
+    related_yaml = ", ".join(str(i) for i in related_ids)
     prereq_matches = find_prereq_articles(prereqs, kb_index)
 
     md_content = f"""---
@@ -479,6 +481,7 @@ url: "{url}"
 date: {date_str}
 tags: [{tags_yaml}]
 category: "{category}"
+related: [{related_yaml}]
 memo: "{memo}"
 processed_at: "{datetime.now().isoformat()}"
 ---

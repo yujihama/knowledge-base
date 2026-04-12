@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [continuous-batching, KV-cache, LLM-inference, chunked-prefill, vLLM, TGI, attention-mechanism, throughput-optimization]
 category: "infra"
 memo: "[HF Blog] Continuous batching from first principles"
+related: [1434, 1608, 902, 152, 585]
 processed_at: "2026-04-04T09:07:33.165948"
 ---
 

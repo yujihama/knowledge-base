@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [AI倫理, 倫理憲章, マルチモーダル, Hugging Face, バイアス軽減, データガバナンス, responsible-AI]
 category: "audit-ai"
 memo: "[HF Blog] Putting ethical principles at the core of the research lifecycle"
+related: [1398, 1615, 21, 1310, 1256]
 processed_at: "2026-04-12T09:13:56.799038"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [MLOps, ML Test Score, 信頼性評価, MLパイプライン, モニタリング, Training/Servingスキュー, サイレントフェイラー]
 category: "ai-ml"
 memo: "[Zenn 機械学習] 雰囲気でML運用してない？Google流「ML Test Score」でMLパイプラインの信頼性を数値化する"
+related: [396, 1577, 1261, 614, 709]
 processed_at: "2026-04-12T09:02:45.840817"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [PyTorch, DDP, Accelerate, Transformers, Trainer, 分散学習, マルチGPU, ファインチューニング]
 category: "infra"
 memo: "[HF Blog] From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease"
+related: [1275, 947, 1529, 1115, 1390]
 processed_at: "2026-04-11T09:08:23.065669"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [CausalVAE, ワールドモデル, 反事実推論, 因果推論, 潜在空間, GNN, 分布シフト, 介入ロバスト性]
 category: "ai-ml"
 memo: "[HF Daily Papers] CausalVAE as a Plug-in for World Models: Towards Reliable Counterfactual Dynamics"
+related: [805, 1482, 370, 501, 250]
 processed_at: "2026-04-11T09:04:54.414810"
 ---
 

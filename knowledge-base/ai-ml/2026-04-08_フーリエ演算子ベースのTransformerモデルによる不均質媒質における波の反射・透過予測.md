@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Fourier Neural Operator, Vision Transformer, サロゲートモデル, 偏微分方程式, Maxwell方程式, 自己回帰予測, 科学機械学習]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Predicting Wave Reflection and Transmission in Heterogeneous Media via Fourier Operator-Based Transformer Modeling"
+related: [1482, 502, 366, 1172, 1575]
 processed_at: "2026-04-08T09:04:17.735910"
 ---
 

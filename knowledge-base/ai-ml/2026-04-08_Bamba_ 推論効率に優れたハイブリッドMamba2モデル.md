@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Mamba2, ハイブリッドアーキテクチャ, KVキャッシュ, vLLM, 推論効率化, IBM, オープンモデル]
 category: "ai-ml"
 memo: "[HF Blog] Bamba: Inference-Efficient Hybrid Mamba2 Model"
+related: [222, 419, 637, 1434, 1264]
 processed_at: "2026-04-08T12:28:41.462648"
 ---
 

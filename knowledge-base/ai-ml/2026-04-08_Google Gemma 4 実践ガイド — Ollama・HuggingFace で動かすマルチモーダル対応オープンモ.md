@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Gemma4, Google, オープンウェイト, マルチモーダル, FunctionCalling, MoE, Ollama, HuggingFace, Apache2.0]
 category: "ai-ml"
 memo: "[Zenn LLM] Google Gemma 4 実践ガイド — Ollama・HuggingFace で動かすマルチモーダル対応オープンモデル"
+related: [141, 188, 1615, 52, 1153]
 processed_at: "2026-04-08T12:44:32.797992"
 ---
 

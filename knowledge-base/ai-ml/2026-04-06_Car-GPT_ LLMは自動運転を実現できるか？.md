@@ -5,6 +5,7 @@ date: 2026-04-06
 tags: [LLM, 自動運転, Transformer, Vision-Transformer, Perception, End-to-End学習, PromptTrack, GPT-4V]
 category: "ai-ml"
 memo: "[The Gradient] Car-GPT: Could LLMs finally make self-driving cars happen?"
+related: [216, 105, 1638, 672, 1596]
 processed_at: "2026-04-06T09:06:02.390446"
 ---
 

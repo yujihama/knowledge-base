@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [VLA, Vision-Language-Action, SmolVLM2, Flow-Matching, LeRobot, ロボティクス, 非同期推論, action-chunk, SmolLM2, SigLIP]
 category: "ai-ml"
 memo: "[HF Blog] SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data"
+related: [143, 154, 651, 413, 1651]
 processed_at: "2026-04-07T21:03:12.423456"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [HuggingChat, Tool Calling, Gradio, RAG, マルチモーダル, LLMツール統合, Spaces]
 category: "agent-arch"
 memo: "[HF Blog] Introducing Community Tools on HuggingChat"
+related: [305, 260, 141, 1354, 25]
 processed_at: "2026-04-08T21:36:20.675490"
 ---
 

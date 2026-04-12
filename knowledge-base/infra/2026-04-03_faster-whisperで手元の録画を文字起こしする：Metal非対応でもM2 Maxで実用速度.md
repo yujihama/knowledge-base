@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [faster-whisper, Whisper, 音声認識, 文字起こし, pyannote, 話者分離, M2 Max, INT8量子化, ffmpeg, CPU推論]
 category: "infra"
 memo: "[Zenn 機械学習] faster-whisper で手元の録画を文字起こしする：Metal非対応でもM2 Maxで実用速度"
+related: [1420, 1358, 1067, 613, 1529]
 processed_at: "2026-04-03T21:07:46.683569"
 ---
 

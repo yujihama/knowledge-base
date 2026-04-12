@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Mamba, SSM, State Space Model, Transformer, 線形スケーリング, Selective State Space, ZOH離散化, 長コンテキスト, RNN, Parallel Scan]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [222, 201, 199, 833, 255]
 processed_at: "2026-04-08T21:00:39.423791"
 ---
 

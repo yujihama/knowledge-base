@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [ToolMisuseBench, tool-use, agentic-systems, benchmark, fault-injection, recovery, CRUD, schema-aware, evaluation]
 category: "agent-arch"
 memo: "[HF Daily Papers] ToolMisuseBench: An Offline Deterministic Benchmark for Tool Misuse and Recovery in Agentic Systems"
+related: [522, 29, 769, 529, 23]
 processed_at: "2026-04-08T21:08:00.100341"
 ---
 

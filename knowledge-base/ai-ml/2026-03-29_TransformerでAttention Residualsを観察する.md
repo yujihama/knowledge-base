@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [Transformer, Attention Residuals, 残差接続, LLM, MoonshotAI, PyTorch, アーキテクチャ改善]
 category: "ai-ml"
 memo: "[Zenn 機械学習] TransformerでAttention Residualsを観察する"
+related: [113, 216, 585, 1638, 672]
 processed_at: "2026-03-29T22:21:56.781752"
 ---
 

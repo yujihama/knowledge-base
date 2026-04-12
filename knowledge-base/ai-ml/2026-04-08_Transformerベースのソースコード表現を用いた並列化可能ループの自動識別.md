@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [DistilBERT, コード解析, 自動並列化, 静的解析, Transformer, サブワードトークン化, Code Intelligence]
 category: "ai-ml"
 memo: "[HF Daily Papers] Automatic Identification of Parallelizable Loops Using Transformer-Based Source Code Representations"
+related: [1494, 113, 216, 370, 501]
 processed_at: "2026-04-08T09:12:29.692071"
 ---
 

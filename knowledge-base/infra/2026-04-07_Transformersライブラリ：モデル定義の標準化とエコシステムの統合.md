@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [Transformers, HuggingFace, vLLM, SGLang, llama.cpp, MLX, GGUF, safetensors, モデル標準化, 推論エンジン]
 category: "infra"
 memo: "[HF Blog] The Transformers Library: standardizing model definitions"
+related: [400, 399, 524, 414, 1529]
 processed_at: "2026-04-07T21:35:57.589954"
 ---
 

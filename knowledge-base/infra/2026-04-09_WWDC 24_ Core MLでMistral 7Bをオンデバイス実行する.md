@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Core ML, Mistral 7B, Apple Silicon, 量子化, KVキャッシュ, オンデバイスLLM, swift-transformers, Int4量子化]
 category: "infra"
 memo: "[HF Blog] WWDC 24: Running Mistral 7B with Core ML"
+related: [1264, 106, 1444, 1493, 183]
 processed_at: "2026-04-09T09:07:41.128425"
 ---
 

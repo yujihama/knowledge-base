@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [DreamCoder, wake-sleep学習, 最小記述長, MDL, 概念依存理論, シンボルグラウンディング, プログラム合成, イベント意味論, ATOMICグラフ, 知識表現]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Do Neurons Dream of Primitive Operators? Wake-Sleep Compression Rediscovers Schank's Event Semantics"
+related: [242, 306, 1646]
 processed_at: "2026-04-05T09:09:25.586088"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [XGBoost, CatBoost, Explainable Boosting Machines, 階層型ML, 潜在変数モデル, リスク予測, 臨床試験, TrialsBank]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] A Latent Risk-Aware Machine Learning Approach for Predicting Operational Success in Clinical Trials based on TrialsBank"
+related: [1429, 1526, 743, 415, 218]
 processed_at: "2026-04-07T12:42:56.854333"
 ---
 

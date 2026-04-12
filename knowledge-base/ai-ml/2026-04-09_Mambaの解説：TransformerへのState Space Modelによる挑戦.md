@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Mamba, SSM, State Space Model, Transformer, 選択的状態空間, 長コンテキスト, 線形スケーリング, HiPPO, CUDA最適化]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [222, 199, 833, 255, 1494]
 processed_at: "2026-04-09T09:20:01.080750"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [PyCharm, HuggingFace, IDE統合, Phi-3.5-vision-instruct, image-text-to-text, モデルキャッシュ管理, 開発ツール]
 category: "infra"
 memo: "[HF Blog] Hugging Face + PyCharm"
+related: [1572, 1529, 1494, 1449, 1302]
 processed_at: "2026-04-08T21:13:27.494472"
 ---
 

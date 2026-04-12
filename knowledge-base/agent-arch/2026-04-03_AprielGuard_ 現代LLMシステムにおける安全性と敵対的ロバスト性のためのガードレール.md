@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [LLM-guardrail, prompt-injection, jailbreak-detection, agentic-security, safety-classifier, multi-agent, CoT-corruption, memory-poisoning, AprielGuard, ServiceNow-AI]
 category: "agent-arch"
 memo: "[HF Blog] AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems"
+related: [31, 864, 629, 564, 609]
 processed_at: "2026-04-03T09:10:44.636234"
 ---
 

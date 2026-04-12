@@ -5,6 +5,7 @@ date: 2026-03-30
 tags: [n-gram, temperature, top-p, repetition-penalty, tokenization, language-model, next-token-prediction, sampling]
 category: "ai-ml"
 memo: "[Zenn 機械学習] [AIの中を覗く] Pythonで作る2歳児生成AI ：小さなコードで見る「生成AIっぽさ」の正体"
+related: [111, 955, 535, 66, 82]
 processed_at: "2026-03-30T21:04:48.922917"
 ---
 

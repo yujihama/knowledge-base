@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [MARL, Offline RL, MeanFlow, Classifier-free Guidance, Behavior Cloning, Flow Model, Multi-Agent]
 category: "ai-ml"
 memo: "[HF Daily Papers] Value-Guidance MeanFlow for Offline Multi-Agent Reinforcement Learning"
+related: [49, 629, 564, 244, 321]
 processed_at: "2026-04-11T09:03:28.312206"
 ---
 

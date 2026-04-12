@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [量子コンピューティング, OTOC, 量子優位性, Willowチップ, 量子カオス, 多体干渉, ハミルトニアン学習, NMR]
 category: "ai-ml"
 memo: "[Google AI Blog] A verifiable quantum advantage"
+related: [248, 211]
 processed_at: "2026-04-03T12:05:30.061474"
 ---
 

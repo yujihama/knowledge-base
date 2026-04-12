@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Graphormer, グラフTransformer, グラフ分類, HuggingFace Transformers, OGB, ogbg-molhiv, GNN, 分子グラフ, Trainer API]
 category: "ai-ml"
 memo: "[HF Blog] Graph Classification with Transformers"
+related: [1482, 370, 501, 687, 746]
 processed_at: "2026-04-10T12:09:56.261783"
 ---
 

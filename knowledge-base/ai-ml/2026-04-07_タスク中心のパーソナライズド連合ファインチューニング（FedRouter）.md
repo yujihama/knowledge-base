@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [Federated Learning, Personalized FL, FedRouter, adapter, clustering, LoRA, multi-task learning, Non-IID, language model fine-tuning]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Task-Centric Personalized Federated Fine-Tuning of Language Models"
+related: [1449, 1302, 283, 1135, 360]
 processed_at: "2026-04-07T21:52:56.485935"
 ---
 

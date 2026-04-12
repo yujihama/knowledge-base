@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [LLM評価, 統計的検定, promptstats, Bootstrap信頼区間, Wilcoxon検定, 混合効果モデル, プロンプトエンジニアリング, LLM-as-a-Judge]
 category: "ai-ml"
 memo: "[Zenn 機械学習] LLM評価はギャンブルだった — promptstatsで始める統計的評価"
+related: [1483, 1248, 1246, 903, 860]
 processed_at: "2026-03-29T22:22:38.647512"
 ---
 

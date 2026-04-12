@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [multi-agent, benchmark, failure-mode-analysis, trajectory-analysis, LLM-as-judge, industrial-AI, asset-management, TrajFM]
 category: "agent-arch"
 memo: "[HF Blog] AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality"
+related: [23, 49, 58, 1118, 864]
 processed_at: "2026-04-03T09:06:16.557175"
 ---
 

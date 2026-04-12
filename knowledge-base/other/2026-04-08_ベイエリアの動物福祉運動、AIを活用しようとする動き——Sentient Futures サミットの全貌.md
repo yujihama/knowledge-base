@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [animal-welfare, effective-altruism, LLM-alignment, synthetic-data, AlphaFold, cultivated-meat, Anthropic, AI-ethics, sentience]
 category: "other"
 memo: "[MIT Technology Review AI] The Bay Area’s animal welfare movement wants to recruit AI"
+related: [328, 1133, 787, 157, 593]
 processed_at: "2026-04-08T21:43:14.190491"
 ---
 

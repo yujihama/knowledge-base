@@ -5,6 +5,7 @@ date: 2026-03-30
 tags: [Claude, Claude-Code, LightGBM, Kaggle, Pydantic, Polars, MLflow, 学習設計, CLAUDE.md]
 category: "other"
 memo: "[Zenn 機械学習] Claudeと機械学習を頑張ることにした"
+related: [122, 1429, 113, 974, 593]
 processed_at: "2026-03-30T12:12:42.325646"
 ---
 

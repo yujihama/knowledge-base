@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [LightGBM, LSTM, アンサンブル学習, Kelly基準, ポジションサイジング, 市場レジーム検出, Paper Trading, 金融時系列予測, Quant]
 category: "ai-ml"
 memo: "[Zenn 機械学習] AIトレーダー開発ログ #2: AIトレーダーは本当に儲かるのか？Paper Tradingで検証してみた"
+related: [113, 1429, 801, 872, 122]
 processed_at: "2026-03-29T22:46:41.673444"
 ---
 

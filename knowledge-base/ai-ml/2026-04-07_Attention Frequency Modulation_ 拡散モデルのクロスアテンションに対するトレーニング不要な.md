@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [diffusion-model, cross-attention, Fourier-analysis, training-free, Stable-Diffusion, attention-control, spectral-modulation]
 category: "ai-ml"
 memo: "[HF Daily Papers] Attention Frequency Modulation: Training-Free Spectral Modulation of Diffusion Cross-Attention"
+related: [1172, 641, 1309, 1265, 352]
 processed_at: "2026-04-07T12:45:17.507051"
 ---
 

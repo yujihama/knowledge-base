@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [Mamba, SSM, 状態空間モデル, Transformer, 長文脈, 選択的状態空間, Parallel Scan, シーケンスモデル, LLM]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [833, 216, 105, 199, 1596]
 processed_at: "2026-04-11T21:41:16.811417"
 ---
 

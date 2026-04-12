@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [GRPO, 強化学習ファインチューニング, 点群, 3D知覚, Few-shot学習, 報酬設計, RFT, 基盤モデル]
 category: "ai-ml"
 memo: "[HF Daily Papers] PointRFT: Explicit Reinforcement Fine-tuning for Point Cloud Few-shot Learning"
+related: [1652, 1257, 1611, 1605, 1156]
 processed_at: "2026-04-03T09:02:05.343314"
 ---
 

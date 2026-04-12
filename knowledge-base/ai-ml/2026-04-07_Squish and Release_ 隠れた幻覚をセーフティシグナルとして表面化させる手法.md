@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [hallucination, activation-patching, safety-circuit, OLMo-2, order-gap, LLM-interpretability, mechanistic-interpretability]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Squish and Release: Exposing Hidden Hallucinations by Making Them Surface as Safety Signals"
+related: [1060, 111, 676, 1593, 1135]
 processed_at: "2026-04-07T12:11:42.362916"
 ---
 

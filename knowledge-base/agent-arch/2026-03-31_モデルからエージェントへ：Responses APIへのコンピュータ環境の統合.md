@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [Responses API, computer-use, OpenAI, browser-automation, RPA, tool-use, sandbox, GUI-agent]
 category: "agent-arch"
 memo: "[OpenAI Blog] From model to agent: Equipping the Responses API with a computer environment"
+related: [1608, 389, 440, 387, 77]
 processed_at: "2026-03-31T09:08:19.801454"
 ---
 

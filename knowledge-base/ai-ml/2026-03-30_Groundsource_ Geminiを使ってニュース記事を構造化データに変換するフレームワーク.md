@@ -5,6 +5,7 @@ date: 2026-03-30
 tags: [Gemini, LLM, 情報抽出, 構造化データ, 自然災害, Google Maps Platform, Cloud Translation API, 地理空間AI, データ拡張]
 category: "ai-ml"
 memo: "[Google AI Blog] Introducing Groundsource: Turning news reports into data with Gemini"
+related: [316, 514, 77, 610, 1266]
 processed_at: "2026-03-30T12:06:48.162250"
 ---
 

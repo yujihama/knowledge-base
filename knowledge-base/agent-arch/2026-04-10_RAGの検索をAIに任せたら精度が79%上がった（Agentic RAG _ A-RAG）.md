@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Agentic-RAG, RAG, multi-hop-QA, tool-use, ChromaDB, LangGraph, retrieval-strategy]
 category: "agent-arch"
 memo: "[Zenn LLM] RAGの検索をAIに任せたら精度が79%上がった"
+related: [1470, 77, 858, 1008, 857]
 processed_at: "2026-04-10T09:34:53.802423"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Constitutional AI, CAI, DPO, RLAIF, Mistral-7B, 合成データ生成, アライメント, llm-swarm, SFT, Slurm]
 category: "ai-ml"
 memo: "[HF Blog] Constitutional AI with Open LLMs"
+related: [520, 265, 570, 222, 335]
 processed_at: "2026-04-09T21:04:11.147504"
 ---
 

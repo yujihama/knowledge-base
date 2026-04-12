@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Fireworks.ai, HuggingFace, サーバーレス推論, InferenceProvider, DeepSeek-R1, huggingface_hub, LLM推論API]
 category: "infra"
 memo: "[HF Blog] Welcome Fireworks.ai on the Hub 🎆"
+related: [417, 767, 1486, 402, 583]
 processed_at: "2026-04-08T09:46:44.160102"
 ---
 

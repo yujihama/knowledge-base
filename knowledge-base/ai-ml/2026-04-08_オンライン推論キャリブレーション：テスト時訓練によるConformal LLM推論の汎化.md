@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [conformal-prediction, test-time-training, reasoning-calibration, LLM-efficiency, self-consistency, Qwen2.5, meta-learning, test-time-scaling]
 category: "ai-ml"
 memo: "[HF Daily Papers] Online Reasoning Calibration: Test-Time Training Enables Generalizable Conformal LLM Reasoning"
+related: [861, 1060, 680, 1102, 125]
 processed_at: "2026-04-08T09:43:04.016111"
 ---
 

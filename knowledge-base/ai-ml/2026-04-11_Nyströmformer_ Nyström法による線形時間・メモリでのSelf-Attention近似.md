@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [Nyströmformer, efficient-attention, linear-attention, Transformer, 行列近似, Nyström法, 長文処理, HuggingFace]
 category: "ai-ml"
 memo: "[HF Blog] Nyströmformer: Approximating self-attention in linear time and memory via the Nyström method"
+related: [1494, 1185, 1572, 1529, 1449]
 processed_at: "2026-04-11T21:27:23.563760"
 ---
 

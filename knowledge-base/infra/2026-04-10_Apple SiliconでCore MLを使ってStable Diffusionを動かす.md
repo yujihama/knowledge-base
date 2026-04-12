@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Core ML, Stable Diffusion, Apple Silicon, Neural Engine, Diffusers, ローカルLLM, M1, Swift]
 category: "infra"
 memo: "[HF Blog] Using Stable Diffusion with Core ML on Apple Silicon"
+related: [1444, 992, 1181, 1211, 1306]
 processed_at: "2026-04-10T21:12:44.991832"
 ---
 

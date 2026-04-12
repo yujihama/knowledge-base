@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Accelerate, PyTorch, 分散訓練, FP8, DeepSpeed, FSDP, マルチGPU, HuggingFace, torchao, PEFT]
 category: "infra"
 memo: "[HF Blog] Accelerate 1.0.0"
+related: [1216, 1275, 1532, 416, 1449]
 processed_at: "2026-04-08T21:36:53.856493"
 ---
 

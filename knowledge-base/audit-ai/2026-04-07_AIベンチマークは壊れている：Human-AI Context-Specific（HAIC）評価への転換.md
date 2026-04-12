@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [AIベンチマーク, HAIC評価, Human-AI Collaboration, 組織的AI展開, エラー検出可能性, 縦断評価, 規制・コンプライアンス, 医療AI]
 category: "audit-ai"
 memo: "[MIT Technology Review AI] AI benchmarks are broken. Here’s what we need instead."
+related: [913, 1299, 249, 1656, 234]
 processed_at: "2026-04-07T21:04:55.466632"
 ---
 

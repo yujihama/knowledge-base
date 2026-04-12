@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [LLM, NPC, function-calling, Phi-3, Mistral-7B, fine-tuning, Lua, game-AI, Hugging-Face-Spaces]
 category: "agent-arch"
 memo: "[HF Blog] Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs"
+related: [1449, 892, 800, 1266, 564]
 processed_at: "2026-04-09T09:23:02.822317"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Process Reward Modeling, Chain-of-Thought, LLM推論, 企業導入, 説明可能性, バイアス検出, フォールバック戦略]
 category: "ai-ml"
 memo: "[Zenn LLM] 論文「Learning to Reason with LLMs」を実運用視点で解説：企業導入で注意すべき5つのリスク"
+related: [983, 861, 1060, 248, 897]
 processed_at: "2026-04-08T21:51:51.417858"
 ---
 

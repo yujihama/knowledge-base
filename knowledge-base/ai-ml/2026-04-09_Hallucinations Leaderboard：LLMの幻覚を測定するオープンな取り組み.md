@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [hallucination, LLM評価, TruthfulQA, HaluEval, SelfCheckGPT, LM-Eval-Harness, factKB, BERTScore, benchmark]
 category: "ai-ml"
 memo: "[HF Blog] The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models"
+related: [769, 23, 1060, 111, 212]
 processed_at: "2026-04-09T21:06:48.808547"
 ---
 

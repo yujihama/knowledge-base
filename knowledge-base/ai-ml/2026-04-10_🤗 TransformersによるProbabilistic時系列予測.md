@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Transformer, 時系列予測, 確率的予測, GluonTS, HuggingFace, Ancestral Sampling, MASE]
 category: "ai-ml"
 memo: "[HF Blog] Probabilistic Time Series Forecasting with 🤗 Transformers"
+related: [1185, 113, 1613, 1162, 1105]
 processed_at: "2026-04-10T21:13:14.377704"
 ---
 

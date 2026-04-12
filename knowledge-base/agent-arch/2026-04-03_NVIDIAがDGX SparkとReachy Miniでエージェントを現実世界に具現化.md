@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [NeMo Agent Toolkit, ReAct, マルチモーダル, ロボティクス, NVIDIA Nemotron, VLM, ルーティング, ツール呼び出し, DGX Spark]
 category: "agent-arch"
 memo: "[HF Blog] NVIDIA brings agents to life with DGX Spark and Reachy Mini"
+related: [21, 986, 305, 1117, 1257]
 processed_at: "2026-04-03T09:10:11.585043"
 ---
 

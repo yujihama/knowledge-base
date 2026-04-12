@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [synthetic-data, distilabel, SFT, text-classification, Argilla, AutoTrain, HuggingFace, dataset-generation, LLM]
 category: "ai-ml"
 memo: "[HF Blog] Introducing the Synthetic Data Generator - Build Datasets with Natural Language"
+related: [1449, 316, 1119, 52, 1114]
 processed_at: "2026-04-08T12:30:17.254620"
 ---
 

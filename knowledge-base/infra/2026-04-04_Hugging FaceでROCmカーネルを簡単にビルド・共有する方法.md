@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [ROCm, HIP, AMD GPU, MI300X, FP8, GEMM, PyTorch, kernel-builder, HuggingFace, Nix]
 category: "infra"
 memo: "[HF Blog] Easily Build and Share ROCm Kernels with Hugging Face"
+related: [428, 947, 413, 26, 1572]
 processed_at: "2026-04-04T12:01:17.893624"
 ---
 

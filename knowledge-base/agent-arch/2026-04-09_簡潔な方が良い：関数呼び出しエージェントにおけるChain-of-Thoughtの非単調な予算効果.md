@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Chain-of-Thought, function-calling, CoT budget, FR-CoT, Qwen2.5, LLM agent, function routing, hallucination]
 category: "agent-arch"
 memo: "[HF Daily Papers] Brief Is Better: Non-Monotonic Chain-of-Thought Budget Effects in Function-Calling Language Agents"
+related: [715, 972, 861, 111, 156]
 processed_at: "2026-04-09T09:46:20.323883"
 ---
 

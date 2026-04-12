@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [ELOスコア, ヒューマンプレファレンス, テキストto画像, Midjourney, Stable Diffusion 3, DALL-E, Playground AI, リーダーボード, クラウドソーシング評価]
 category: "ai-ml"
 memo: "[HF Blog] Launching the Artificial Analysis Text to Image Leaderboard & Arena"
+related: [988, 903, 1555]
 processed_at: "2026-04-09T09:22:33.912550"
 ---
 

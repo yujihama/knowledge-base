@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [差分プライバシー, DP-SGD, VaultGemma, Gemma, スケーリング則, プライバシー保護機械学習, LLM事前学習, Poisson sampling]
 category: "ai-ml"
 memo: "[Google AI Blog] VaultGemma: The world's most capable differentially private LLM"
+related: [194, 251, 279, 1233, 961]
 processed_at: "2026-04-04T12:06:59.589845"
 ---
 

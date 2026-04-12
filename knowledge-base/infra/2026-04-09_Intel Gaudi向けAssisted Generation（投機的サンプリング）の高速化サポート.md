@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Speculative Sampling, Assisted Generation, Intel Gaudi, Optimum Habana, KV Cache, 推論最適化, 量子化]
 category: "infra"
 memo: "[HF Blog] Faster assisted generation support for Intel Gaudi"
+related: [1120, 1116, 861, 1264, 1249]
 processed_at: "2026-04-09T09:23:32.135061"
 ---
 

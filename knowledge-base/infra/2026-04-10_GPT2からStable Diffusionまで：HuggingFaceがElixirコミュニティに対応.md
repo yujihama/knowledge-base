@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Bumblebee, Elixir, HuggingFace, Transformers, Nx, Livebook, ErlangVM, GPT2, StableDiffusion, Axon]
 category: "infra"
 memo: "[HF Blog] From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community"
+related: [1572, 1529, 1302, 647, 1214]
 processed_at: "2026-04-10T21:11:41.012089"
 ---
 

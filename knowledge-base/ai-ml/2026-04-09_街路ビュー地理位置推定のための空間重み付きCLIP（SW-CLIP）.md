@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [CLIP, 対照学習, 地理位置推定, ソフトラベル, 空間的自己相関, マルチモーダル, InfoNCE, トブラーの第一法則]
 category: "ai-ml"
 memo: "[HF Daily Papers] Spatially-Weighted CLIP for Street-View Geo-localization"
+related: [1572, 1615, 21, 861, 1299]
 processed_at: "2026-04-09T21:45:31.830369"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [Titans, MIRAS, 長期記憶, テスト時メモリ更新, 線形RNN, SSM, MLP, サプライズメトリクス, 連想記憶, Transformer]
 category: "ai-ml"
 memo: "[Google AI Blog] Titans + MIRAS: Helping AI have long-term memory"
+related: [1513, 230, 195, 879, 1208]
 processed_at: "2026-04-02T12:04:36.338408"
 ---
 

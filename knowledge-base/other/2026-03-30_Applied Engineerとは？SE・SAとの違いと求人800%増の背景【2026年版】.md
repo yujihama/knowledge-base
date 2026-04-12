@@ -5,6 +5,7 @@ date: 2026-03-30
 tags: [Applied Engineer, FDE, キャリア, AI人材, OSS, RAG, PoC, Anthropic, Palantir, 日本DX]
 category: "other"
 memo: "[Zenn 機械学習] Applied Engineerとは？SE・SAとの違いと求人800%増の背景【2026年版】"
+related: [593, 1407, 1679, 1629, 953]
 processed_at: "2026-03-30T12:11:34.214400"
 ---
 

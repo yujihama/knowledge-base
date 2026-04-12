@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [OpenVINO, Optimum-Intel, INT4量子化, AWQ, NNCF, LLMデプロイ, エッジAI, LLMPipeline]
 category: "infra"
 memo: "[HF Blog] Optimize and deploy with Optimum-Intel and OpenVINO GenAI"
+related: [1530, 524, 425, 154, 1171]
 processed_at: "2026-04-08T21:34:41.295666"
 ---
 

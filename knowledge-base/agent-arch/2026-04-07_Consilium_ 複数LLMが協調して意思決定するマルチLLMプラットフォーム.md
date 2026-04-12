@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [multi-agent, MCP, consensus, LangGraph, Gradio, DeepSeek-R1, Mistral, structured-debate, role-assignment, function-calling]
 category: "agent-arch"
 memo: "[HF Blog] Consilium: When Multiple LLMs Collaborate"
+related: [564, 83, 88, 1561, 745]
 processed_at: "2026-04-07T12:20:23.447581"
 ---
 

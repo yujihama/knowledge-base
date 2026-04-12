@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [HuggingFace, Xet, CDC, deduplication, content-addressed-storage, GGUF, Rust, ファイル転送最適化]
 category: "infra"
 memo: "[HF Blog] From Chunks to Blocks: Accelerating Uploads and Downloads on the Hub"
+related: [713, 521, 900, 647, 399]
 processed_at: "2026-04-08T09:48:16.456834"
 ---
 

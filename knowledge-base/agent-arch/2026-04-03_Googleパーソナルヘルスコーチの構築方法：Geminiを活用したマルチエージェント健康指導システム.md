@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [multi-agent, Gemini, health-AI, orchestration, PH-LLM, SHARP-evaluation, Fitbit, personalization, behavioral-science]
 category: "agent-arch"
 memo: "[Google AI Blog] How we are building the personal health coach"
+related: [77, 1340, 1093, 1150, 168]
 processed_at: "2026-04-03T12:04:29.466106"
 ---
 

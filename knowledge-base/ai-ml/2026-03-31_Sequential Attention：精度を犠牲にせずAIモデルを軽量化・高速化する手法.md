@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [Sequential Attention, subset selection, feature selection, model pruning, sparsification, greedy algorithm, NP-hard, Orthogonal Matching Pursuit, embedding dimension tuning, Google Research]
 category: "ai-ml"
 memo: "[Google AI Blog] ​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy"
+related: [248, 191, 167, 190]
 processed_at: "2026-03-31T12:05:51.372217"
 ---
 

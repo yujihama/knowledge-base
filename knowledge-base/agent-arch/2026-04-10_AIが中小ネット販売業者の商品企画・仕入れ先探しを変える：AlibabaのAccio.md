@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Accio, Alibaba, Qwen, AIエージェント, ソーシング自動化, Eコマース, マルチモーダルエージェント, AEO]
 category: "agent-arch"
 memo: "[MIT Technology Review AI] AI is changing how small online sellers decide what to make"
+related: [861, 78, 207, 1422, 203]
 processed_at: "2026-04-10T21:16:04.222303"
 ---
 

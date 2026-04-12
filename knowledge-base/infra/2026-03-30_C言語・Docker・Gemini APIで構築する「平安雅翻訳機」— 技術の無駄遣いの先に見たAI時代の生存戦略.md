@@ -5,6 +5,7 @@ date: 2026-03-30
 tags: [Gemini, Docker, C言語, CGI, Alpine Linux, Ollama, プロンプトエンジニアリング, コマンドインジェクション対策, ローカルLLM]
 category: "infra"
 memo: "[Zenn LLM] C言語・Docker・Gemini APIで構築する「平安雅翻訳機」— 技術の無駄遣いの先に見たAI時代の生存戦略"
+related: [394, 392, 119, 1146, 860]
 processed_at: "2026-03-30T12:08:21.419181"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [HuggingFace, 日本語LLM, Swallow, open-calm-7b, rinna, whisper, CrewAI, モデル比較, 音声認識]
 category: "ai-ml"
 memo: "[Zenn 機械学習] # Antigravity・Crew AIユーザーがHugging Faceでモデル比較"
+related: [1529, 1420, 411, 1358, 649]
 processed_at: "2026-04-07T21:18:53.940923"
 ---
 

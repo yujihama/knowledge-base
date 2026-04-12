@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [OpenAI, GPT-4, カタログ管理, カスタマーサポート自動化, 属性抽出, エンタープライズAI, Eコマース]
 category: "other"
 memo: "[OpenAI Blog] Wayfair boosts catalog accuracy and support speed with OpenAI"
+related: [1310, 406, 389, 440, 32]
 processed_at: "2026-03-31T09:08:58.928628"
 ---
 

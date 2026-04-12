@@ -5,6 +5,7 @@ date: 2026-03-30
 tags: [PTQ, 量子化, LLM, SliderQuant, Llama, Qwen2.5, DeepSeek-R1, MoE, モデル圧縮, 推論効率化]
 category: "ai-ml"
 memo: "[HF Daily Papers] SliderQuant: Accurate Post-Training Quantization for LLMs"
+related: [861, 892, 641, 988, 1565]
 processed_at: "2026-03-30T21:08:16.732892"
 ---
 

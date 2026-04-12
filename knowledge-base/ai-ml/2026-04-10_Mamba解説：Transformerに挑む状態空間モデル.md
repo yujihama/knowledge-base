@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Mamba, SSM, 状態空間モデル, Transformer, 線形スケーリング, 選択的メカニズム, 長文脈, S6, シーケンスモデル]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [199, 222, 833, 255, 1494]
 processed_at: "2026-04-10T09:08:22.841457"
 ---
 

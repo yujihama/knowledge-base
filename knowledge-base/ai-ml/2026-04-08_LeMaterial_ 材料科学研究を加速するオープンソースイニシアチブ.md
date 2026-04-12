@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [materials-science, dataset, DFT, graph-hashing, Weisfeiler-Lehman, Hugging Face, open-source, AI4Science, Optimade, de-duplication]
 category: "ai-ml"
 memo: "[HF Blog] LeMaterial: an open source initiative to accelerate materials discovery and research"
+related: [1390, 159, 1310, 88, 1459]
 processed_at: "2026-04-08T12:30:47.992642"
 ---
 

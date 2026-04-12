@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [LLM評価, 科学的文章生成, データセット構築, LaTeX, 改訂モデリング, arXiv, テキスト編集]
 category: "ai-ml"
 memo: "[HF Daily Papers] EarlySciRev: A Dataset of Early-Stage Scientific Revisions Extracted from LaTeX Writing Traces"
+related: [88, 1068, 1483, 763, 899]
 processed_at: "2026-04-07T12:45:48.580164"
 ---
 

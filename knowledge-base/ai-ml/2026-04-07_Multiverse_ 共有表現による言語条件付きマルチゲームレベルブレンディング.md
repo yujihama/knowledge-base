@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [contrastive-learning, text-to-level, procedural-content-generation, latent-interpolation, multi-domain, zero-shot-generation, shared-representation]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Multiverse: Language-Conditioned Multi-Game Level Blending via Shared Representation"
+related: [499, 641, 930, 302, 1442]
 processed_at: "2026-04-07T12:05:20.171512"
 ---
 

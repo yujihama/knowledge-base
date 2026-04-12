@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [Mamba, SSM, State Space Model, Selective SSM, 線形RNN, 長コンテキスト, シーケンスモデル, アテンション代替]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [222, 199, 833, 255, 410]
 processed_at: "2026-04-11T21:20:18.646234"
 ---
 

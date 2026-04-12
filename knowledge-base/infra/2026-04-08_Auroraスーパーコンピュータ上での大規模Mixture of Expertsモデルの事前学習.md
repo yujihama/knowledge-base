@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [MoE, LLM事前学習, エクサスケール, Intel PVC, GPU並列化, Optimus, フォールトトレランス, スケーリング効率]
 category: "infra"
 memo: "[HF Daily Papers] Scalable Pretraining of Large Mixture of Experts Language Models on Aurora Super Computer"
+related: [152, 641, 650, 268, 150]
 processed_at: "2026-04-08T12:21:40.325137"
 ---
 

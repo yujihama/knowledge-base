@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [Chain-of-Thought, Faithful Reasoning, o1, o3, AI Safety, RLHF, Interpretability, Scratchpad]
 category: "ai-ml"
 memo: "[OpenAI Blog] Reasoning models struggle to control their chains of thought, and that’s good"
+related: [269, 1419, 184, 972, 754]
 processed_at: "2026-03-31T21:13:51.905449"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [LLM評価, ベンチマーク, Inspect AI, Hugging Face Hub, MMLU-Pro, GPQA, HLE, 分散型評価, 再現性, オープンエバリュエーション]
 category: "ai-ml"
 memo: "[HF Blog] Community Evals: Because we're done trusting black-box leaderboards over the community"
+related: [1068, 899, 1251, 1065, 774]
 processed_at: "2026-04-02T09:08:18.757187"
 ---
 

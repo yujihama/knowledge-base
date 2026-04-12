@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [purposeful-dialogue, multi-turn, RLHF, system-prompt, LangGraph, speech-act, STSP, instruction-following, LLM-evaluation]
 category: "agent-arch"
 memo: "[The Gradient] What's Missing From LLM Chatbots: A Sense of Purpose"
+related: [378, 529, 23, 564, 754]
 processed_at: "2026-04-02T21:06:17.447776"
 ---
 

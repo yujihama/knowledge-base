@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [VLM, multimodal, benchmark, long-video, temporal-reasoning, Gemini-2.5-Pro, Qwen2.5-VL, InternVL, evaluation]
 category: "ai-ml"
 memo: "[HF Blog] TimeScope: How Long Can Your Video Large Multimodal Model Go?"
+related: [975, 650, 587, 616, 1430]
 processed_at: "2026-04-07T12:18:26.594701"
 ---
 

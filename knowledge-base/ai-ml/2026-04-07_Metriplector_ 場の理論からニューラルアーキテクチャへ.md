@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [neural-architecture, field-theory, metriplectic-dynamics, Noether-theorem, physics-informed-ML, language-modeling, CIFAR-100]
 category: "ai-ml"
 memo: "[HF Daily Papers] Metriplector: From Field Theory to Neural Architecture"
+related: [1217]
 processed_at: "2026-04-07T21:31:43.456561"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [BitNet, 分散学習, DiLoCo, AutoML, 量子化推論, ドメイン特化モデル, 自律エージェント, オンチェーン]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] MAGNET: Autonomous Expert Model Generation via Decentralized Autoresearch and BitNet Training"
+related: [1489, 1516, 429, 505, 360]
 processed_at: "2026-04-03T21:09:45.224586"
 ---
 

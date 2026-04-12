@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [LayerSkip, speculative-decoding, early-exit, LLM推論高速化, transformers, Llama, inference-optimization]
 category: "ai-ml"
 memo: "[HF Blog] Faster Text Generation with Self-Speculative Decoding"
+related: [907, 267, 1529, 1266, 826]
 processed_at: "2026-04-08T21:11:22.952933"
 ---
 

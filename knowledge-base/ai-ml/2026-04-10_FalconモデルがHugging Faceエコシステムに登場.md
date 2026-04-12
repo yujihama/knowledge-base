@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Falcon, LLM, Apache2.0, Multi-Query-Attention, RefinedWeb, PEFT, LoRA, 量子化, bitsandbytes, HuggingFace]
 category: "ai-ml"
 memo: "[HF Blog] The Falcon has landed in the Hugging Face ecosystem"
+related: [1449, 1305, 1269, 1214, 1266]
 processed_at: "2026-04-10T09:44:36.414031"
 ---
 

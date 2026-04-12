@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [3DGaussian, 4D再構築, リギング, アニメーション, 非剛体変形, MotionMatching, スケルトン抽出, NeRF代替]
 category: "ai-ml"
 memo: "[HF Daily Papers] GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics"
+related: [1347]
 processed_at: "2026-04-11T21:21:45.028882"
 ---
 

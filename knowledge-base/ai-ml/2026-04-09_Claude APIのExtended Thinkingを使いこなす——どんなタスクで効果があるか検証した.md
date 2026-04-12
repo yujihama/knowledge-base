@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Claude API, Extended Thinking, budget_tokens, claude-sonnet-4-6, LLM推論, コスト最適化, 思考プロセス可視化]
 category: "ai-ml"
 memo: "[Zenn LLM] Claude APIのExtended Thinkingを使いこなす——どんなタスクで効果があるか検証した"
+related: [407, 1641, 972, 248, 609]
 processed_at: "2026-04-09T21:39:25.430009"
 ---
 

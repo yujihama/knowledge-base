@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [fastText, word-vectors, language-identification, HuggingFace, Meta-AI, NLP, subword, multilingual]
 category: "ai-ml"
 memo: "[HF Blog] Welcome fastText to the Hugging Face Hub"
+related: [1572, 1529, 1494, 1449, 1302]
 processed_at: "2026-04-10T09:44:02.741477"
 ---
 

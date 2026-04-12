@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [LearnLM, Gemini, マルチモーダル, パーソナライゼーション, マルチエージェント, ファインチューニング, 教育AI, RAG]
 category: "ai-ml"
 memo: "[Google AI Blog] Learn Your Way: Reimagining textbooks with generative AI"
+related: [25, 21, 112, 319, 77]
 processed_at: "2026-04-04T12:06:27.555849"
 ---
 

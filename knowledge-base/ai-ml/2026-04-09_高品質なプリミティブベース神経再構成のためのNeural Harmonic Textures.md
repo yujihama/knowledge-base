@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [3D Gaussian Splatting, Neural Radiance Field, 新視点合成, ニューラル表現, 周期的活性化関数, 3D再構成, リアルタイムレンダリング]
 category: "ai-ml"
 memo: "[HF Daily Papers] Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction"
+related: [756, 1343, 130, 353, 572]
 processed_at: "2026-04-09T09:43:09.598845"
 ---
 

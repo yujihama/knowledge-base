@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [Agent Skill, Claude Agent SDK, Codex App Server, SSE, React, MCP, AG-UI, A2UI, プラグインアーキテクチャ, Vite]
 category: "agent-arch"
 memo: "Skillにアプリケーションを組み込んでみる - 逆瀬川ちゃんのブログ"
+related: [1247, 1307, 652, 1349, 2]
 processed_at: "2026-03-29T21:55:31.684965"
 ---
 

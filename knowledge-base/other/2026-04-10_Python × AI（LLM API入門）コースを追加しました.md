@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [LLM-API, OpenRouter, Python, プロンプト設計, エラーハンドリング, ストリーミング応答, チャットボット]
 category: "other"
 memo: "[Zenn LLM] Python × AI（LLM API入門）コースを追加しました"
+related: [1641, 1251, 862, 349, 867]
 processed_at: "2026-04-10T21:01:50.381271"
 ---
 

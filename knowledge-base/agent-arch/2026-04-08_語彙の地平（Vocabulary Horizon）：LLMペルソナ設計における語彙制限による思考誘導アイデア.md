@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Vocabulary Horizon, LLMペルソナ設計, プロンプトエンジニアリング, Character-LLM, ロールプレイAI, SOULシステム, 語彙制限, 思考誘導]
 category: "agent-arch"
 memo: "[Zenn LLM] 想定される人生のバックグラウンドによる語彙の制限による再現された人格の思考誘導アイデア"
+related: [1483, 108, 273, 434, 863]
 processed_at: "2026-04-08T12:45:24.388194"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Whisper, ASR, diarization, Pyannote, speculative-decoding, Distil-Whisper, HuggingFace-Inference-Endpoints, Pydantic, Flash-Attention]
 category: "infra"
 memo: "[HF Blog] Powerful ASR + diarization + speculative decoding with Hugging Face Inference Endpoints"
+related: [1529, 411, 128, 1358, 264]
 processed_at: "2026-04-09T09:49:36.019608"
 ---
 

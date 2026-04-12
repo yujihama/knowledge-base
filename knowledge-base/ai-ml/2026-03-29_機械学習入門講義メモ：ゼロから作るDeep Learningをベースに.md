@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [deep-learning, パーセプトロン, CNN, 誤差逆伝播法, 勾配降下法, SGD, 過学習, 活性化関数]
 category: "ai-ml"
 memo: "[Zenn 機械学習] 機械学習入門講義メモ"
+related: [159, 1564, 1606, 977, 619]
 processed_at: "2026-03-29T22:20:28.776457"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [スケーリング則, GPU, HBM, NVLink, 計算量, フロンティアモデル, AIエージェント, Microsoft AI, Nvidia, Epoch AI]
 category: "ai-ml"
 memo: "[MIT Technology Review AI] Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why"
+related: [279, 1233, 961, 1461, 1633]
 processed_at: "2026-04-11T09:11:49.823476"
 ---
 

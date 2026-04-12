@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [AnomalyAgent, 強化学習, 異常検知, ツール拡張LLM, 自己反省, RLAIF, SFT, MVTec-AD, クローズドループ最適化, マルチツールエージェント]
 category: "agent-arch"
 memo: "[HF Daily Papers] AnomalyAgent: Agentic Industrial Anomaly Synthesis via Tool-Augmented Reinforcement Learning"
+related: [1169, 1183, 520, 826, 327]
 processed_at: "2026-04-11T21:02:41.669354"
 ---
 

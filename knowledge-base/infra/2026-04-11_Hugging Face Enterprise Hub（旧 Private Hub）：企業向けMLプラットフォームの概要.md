@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [HuggingFace, EnterpriseHub, MLOps, ModelRegistry, InferenceEndpoints, AutoTrain, SSO, ModelCard]
 category: "infra"
 memo: "[HF Blog] Introducing the Private Hub: A New Way to Build With Machine Learning"
+related: [1448, 1486, 418, 835, 1114]
 processed_at: "2026-04-11T21:26:47.138648"
 ---
 

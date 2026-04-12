@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [Kaggle, TinyML, オフラインML, iOS, ニューラルネットワーク, ランダムフォレスト]
 category: "other"
 memo: "[Zenn 機械学習] iPhoneだけでKaggleのタイタニックに挑戦してみた"
+related: [568, 633, 974, 1429, 122]
 processed_at: "2026-03-29T22:19:45.368707"
 ---
 

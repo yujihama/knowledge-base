@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Hugging Face, Inference Endpoints, Text Embeddings Inference, TEI, Embedding, RAG, BAAI/bge, MTEB, Flash Attention, バッチ推論]
 category: "infra"
 memo: "[HF Blog] Deploy Embedding Models with Hugging Face Inference Endpoints"
+related: [1016, 1092, 735, 1378, 356]
 processed_at: "2026-04-09T21:23:55.583145"
 ---
 

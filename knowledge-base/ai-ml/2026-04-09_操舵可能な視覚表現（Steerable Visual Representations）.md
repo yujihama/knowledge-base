@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Vision Transformer, DINOv2, early fusion, cross-attention, visual representation, zero-shot, anomaly detection, multimodal]
 category: "ai-ml"
 memo: "[HF Daily Papers] Steerable Visual Representations"
+related: [930, 302, 160, 1057, 747]
 processed_at: "2026-04-09T12:51:53.033722"
 ---
 

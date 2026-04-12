@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [スケーリング則, 計算資源, GPU, HBM, 自律エージェント, エネルギー, Nvidia, Microsoft AI, フロンティアモデル]
 category: "ai-ml"
 memo: "[MIT Technology Review AI] Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why"
+related: [1516, 279, 1233, 961, 1461]
 processed_at: "2026-04-11T21:31:26.886093"
 ---
 

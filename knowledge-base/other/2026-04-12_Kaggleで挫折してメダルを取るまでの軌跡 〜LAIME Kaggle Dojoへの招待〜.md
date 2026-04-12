@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [Kaggle, 機械学習コンペ, メンタリング, LAIME, 初心者教育, 実験管理]
 category: "other"
 memo: "[Zenn 機械学習] 僕がKaggleで挫折してメダル🏅を取るまでの軌跡 ~「LAIME Kaggle Dojo」への招待"
+related: [1429, 974, 433, 122, 614]
 processed_at: "2026-04-12T09:05:12.587142"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [LLM-as-a-Judge, Eloスコア, ベンチマーク, LLM評価, Qwen2.5, Llama3.1, クラウドソーシング]
 category: "ai-ml"
 memo: "[HF Blog] Judge Arena: Benchmarking LLMs as Evaluators"
+related: [1068, 899, 1251, 1065, 774]
 processed_at: "2026-04-08T21:12:27.232041"
 ---
 

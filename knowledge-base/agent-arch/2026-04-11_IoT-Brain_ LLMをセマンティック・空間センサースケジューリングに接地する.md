@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [LLM, IoT, センサースケジューリング, ニューロシンボリック, グラフ最適化, verify-before-commit, 空間推論, マルチモーダル]
 category: "agent-arch"
 memo: "[HF Daily Papers] IoT-Brain: Grounding LLMs for Semantic-Spatial Sensor Scheduling"
+related: [509, 607, 927, 1377, 1557]
 processed_at: "2026-04-11T09:05:50.401316"
 ---
 

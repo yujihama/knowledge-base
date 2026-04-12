@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [量子化, SmoothQuant, Weight-Only-Quantization, Speculative-Decoding, Intel-Xeon, StarCoder, IPEX, INT4, INT8, Optimum-Intel]
 category: "infra"
 memo: "[HF Blog] Accelerate StarCoder with 🤗 Optimum Intel on Xeon: Q8/Q4 and Speculative Decoding"
+related: [1116, 988, 944, 424, 834]
 processed_at: "2026-04-09T21:06:20.307111"
 ---
 

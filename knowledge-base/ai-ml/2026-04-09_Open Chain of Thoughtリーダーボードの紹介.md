@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Chain-of-Thought, CoT, LLM評価, ベンチマーク, LogiQA, LSAT, AGIEval, 推論, プロンプティング]
 category: "ai-ml"
 memo: "[HF Blog] Introducing the Open Chain of Thought Leaderboard"
+related: [1068, 899, 1251, 1065, 774]
 processed_at: "2026-04-09T09:51:10.921962"
 ---
 

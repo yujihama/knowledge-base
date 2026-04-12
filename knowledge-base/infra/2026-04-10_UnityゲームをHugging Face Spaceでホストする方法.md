@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [HuggingFace, Unity, WebGL, Git-LFS, Static-HTML, Spaces, ゲームデプロイ]
 category: "infra"
 memo: "[HF Blog] How to host a Unity game in a Space"
+related: [1354, 1572, 1529, 1494, 1449]
 processed_at: "2026-04-10T12:08:52.833209"
 ---
 

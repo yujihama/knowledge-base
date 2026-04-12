@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [ModelCard, MLDocumentation, HuggingFace, ResponsibleAI, BiasMitigation, huggingface_hub, ModelTransparency]
 category: "ai-ml"
 memo: "[HF Blog] Model Cards"
+related: [767, 402, 1612, 768, 1572]
 processed_at: "2026-04-10T21:09:06.558814"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [RAG, Intel Gaudi 2, LangChain, TGI, Redis, FP8量化, Optimum Habana, OPEA, Xeon, HuggingFaceEmbeddings]
 category: "infra"
 memo: "[HF Blog] Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 and Intel Xeon"
+related: [1120, 858, 1021, 857, 1116]
 processed_at: "2026-04-09T09:48:06.954823"
 ---
 

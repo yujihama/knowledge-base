@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [VLM, 知識蒸留, マルチモーダル, KV-cache, 言語能力回復, クロスモーダル蒸留, LLM適応]
 category: "ai-ml"
 memo: "[HF Daily Papers] LinguDistill: Recovering Linguistic Ability in Vision- Language Models via Selective Cross-Modal Distillation"
+related: [21, 986, 305, 585, 1117]
 processed_at: "2026-04-08T12:22:09.151340"
 ---
 

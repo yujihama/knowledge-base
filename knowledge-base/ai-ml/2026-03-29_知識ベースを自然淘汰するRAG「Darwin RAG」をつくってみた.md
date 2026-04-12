@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [RAG, Thompson Sampling, XCS, 進化計算, LLM-as-judge, 知識ベース自動更新, Gemini]
 category: "ai-ml"
 memo: "[Zenn LLM] 知識ベースを自然淘汰するRAGをつくってみた"
+related: [77, 75, 93, 49, 260]
 processed_at: "2026-03-29T21:57:51.181899"
 ---
 

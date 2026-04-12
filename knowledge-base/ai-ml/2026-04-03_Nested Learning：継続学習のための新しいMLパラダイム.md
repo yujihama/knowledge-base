@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [Nested Learning, Continual Learning, Catastrophic Forgetting, Associative Memory, Titans, Transformer, NeurIPS 2025, 自己修正アーキテクチャ, Continuum Memory System]
 category: "ai-ml"
 memo: "[Google AI Blog] Introducing Nested Learning: A new ML paradigm for continual learning"
+related: [938, 199, 1494, 113, 216]
 processed_at: "2026-04-03T21:00:32.476980"
 ---
 

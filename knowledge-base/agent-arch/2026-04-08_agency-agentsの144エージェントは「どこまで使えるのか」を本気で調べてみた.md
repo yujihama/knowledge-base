@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [agency-agents, Claude Code, システムプロンプト, マルチエージェント, プロンプトエンジニアリング, LLMエージェント]
 category: "agent-arch"
 memo: "[Zenn LLM] agency-agentsの144エージェントは「どこまで使えるのか」を本気で調べてみた"
+related: [108, 1045, 1684, 1643, 3]
 processed_at: "2026-04-08T21:52:26.673156"
 ---
 

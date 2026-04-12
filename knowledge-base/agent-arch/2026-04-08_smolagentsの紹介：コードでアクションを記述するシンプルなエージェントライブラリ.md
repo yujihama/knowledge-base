@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [smolagents, CodeAgent, HuggingFace, LiteLLM, E2B, ToolCalling, multi-step-agent, LLM-agent]
 category: "agent-arch"
 memo: "[HF Blog] Introducing smolagents: simple agents that write actions in code."
+related: [775, 1572, 1529, 1494, 1449]
 processed_at: "2026-04-08T12:26:14.081553"
 ---
 

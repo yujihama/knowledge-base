@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Hugging Face, LLM, エンタープライズAI, CPU推論, ファインチューニング, Expert Acceleration Program, オープンソースLLM, Palmyra]
 category: "infra"
 memo: "[HF Blog] Leveraging Hugging Face for complex generative AI use cases"
+related: [389, 1396, 1668, 1267, 1305]
 processed_at: "2026-04-10T09:18:48.879506"
 ---
 

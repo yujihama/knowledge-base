@@ -5,6 +5,7 @@ date: 2026-04-06
 tags: [強化学習, ヒューリスティック探索, A*, Bellman学習, Hindsight Experience Replay, Answer Set Programming, Neuro-Symbolic AI, GPU並列化, 経路探索]
 category: "ai-ml"
 memo: "[HF Daily Papers] The DeepXube Software Package for Solving Pathfinding Problems with Learned Heuristic Functions and Search"
+related: [1611, 1605, 492, 1170, 739]
 processed_at: "2026-04-06T12:09:17.924920"
 ---
 

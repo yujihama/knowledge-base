@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [ASR, speech-recognition, low-resource-language, Whisper, fine-tuning, FLEURS, Kurdish, S2TT, benchmark]
 category: "ai-ml"
 memo: "[HF Daily Papers] FLEURS-Kobani: Extending the FLEURS Dataset for Northern Kurdish"
+related: [1529, 212, 128, 1358, 264]
 processed_at: "2026-04-07T21:34:19.218456"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Transformers, ドキュメント設計, Diátaxis, Hugging Face, 開発者体験, 技術ライティング]
 category: "other"
 memo: "[HF Blog] Making sense of this mess"
+related: [1578, 1445, 1529, 1266, 1310]
 processed_at: "2026-04-09T09:21:34.749533"
 ---
 

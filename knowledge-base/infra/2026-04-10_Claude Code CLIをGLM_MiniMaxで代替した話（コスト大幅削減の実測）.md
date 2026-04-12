@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Claude Code, GLM, MiniMax, コスト最適化, LLMプロバイダー切り替え, フォールバック, API]
 category: "infra"
 memo: "[Zenn LLM] Claude Code CLIをGLM/MiniMaxで代替した話（コスト大幅削減の実測）"
+related: [609, 1643, 1429, 1641, 430]
 processed_at: "2026-04-10T12:29:03.118575"
 ---
 

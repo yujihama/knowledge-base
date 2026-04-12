@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [HuggingFace, ServerlessInference, InferenceProvider, DeepSeek-R1, FLUX.1, huggingface_hub, API]
 category: "infra"
 memo: "[HF Blog] Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥"
+related: [768, 417, 1486, 402, 583]
 processed_at: "2026-04-08T09:46:11.330884"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [AR, proactive-agent, multimodal, VLM, chain-of-thought, few-shot, Android-XR, WebXR, YAMNet, UIST2025, context-aware, gesture-input]
 category: "agent-arch"
 memo: "[Google AI Blog] Sensible Agent: A framework for unobtrusive interaction with proactive AR agents"
+related: [1608, 819, 975, 650, 522]
 processed_at: "2026-04-04T12:05:23.818056"
 ---
 

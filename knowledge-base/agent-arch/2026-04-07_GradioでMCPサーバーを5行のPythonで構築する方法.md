@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [MCP, Gradio, LLM-tool-calling, HuggingFace, SSE, Python, MCP-server]
 category: "agent-arch"
 memo: "[HF Blog] How to Build an MCP Server with Gradio"
+related: [528, 88, 13, 1354, 708]
 processed_at: "2026-04-07T21:38:28.735917"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [LLM圧縮, 算術符号化, LoRA, 知識蒸留, 情報理論, 有損失圧縮, モデル効率化]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Haiku to Opus in Just 10 bits: LLMs Unlock Massive Compression Gains"
+related: [1449, 1302, 861, 1135, 758]
 processed_at: "2026-04-09T12:14:42.936728"
 ---
 

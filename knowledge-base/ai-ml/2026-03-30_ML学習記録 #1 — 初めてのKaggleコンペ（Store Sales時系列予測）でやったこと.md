@@ -5,6 +5,7 @@ date: 2026-03-30
 tags: [LightGBM, Polars, Pydantic, 時系列予測, Kaggle, ウォークフォワードCV, 逐次予測, Optuna, MLflow, 特徴量エンジニアリング]
 category: "ai-ml"
 memo: "[Zenn 機械学習] ML学習記録 #1 — 初めてのKaggleコンペでやったこと"
+related: [436, 1429, 113, 1494, 327]
 processed_at: "2026-03-30T12:12:06.460597"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [Promptfoo, LLM評価, レッドチーミング, OpenAI, プロンプトテスト, AIセーフティ, Evals]
 category: "ai-ml"
 memo: "[OpenAI Blog] OpenAI to acquire Promptfoo"
+related: [1068, 1483, 763, 899, 389]
 processed_at: "2026-03-31T09:11:27.279311"
 ---
 

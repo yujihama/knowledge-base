@@ -5,6 +5,7 @@ date: 2026-03-30
 tags: [VLA, Model-Based RL, MBPO, World Model, Reinforcement Learning, Multimodal, Robotics, Sample Efficiency]
 category: "ai-ml"
 memo: "[HF Daily Papers] Towards Practical World Model-based Reinforcement Learning for Vision-Language-Action Models"
+related: [650, 231, 369, 1057, 1608]
 processed_at: "2026-03-30T21:09:46.439131"
 ---
 

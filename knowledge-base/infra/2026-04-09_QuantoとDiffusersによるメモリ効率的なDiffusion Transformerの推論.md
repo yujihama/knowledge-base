@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Quanto, Diffusers, 量子化, INT8, FP8, INT4, Stable Diffusion 3, PixArt-Sigma, メモリ最適化, 推論効率化]
 category: "infra"
 memo: "[HF Blog] Memory-efficient Diffusion Transformers with Quanto and Diffusers"
+related: [1187, 1116, 1389, 125, 1350]
 processed_at: "2026-04-09T09:05:37.006975"
 ---
 

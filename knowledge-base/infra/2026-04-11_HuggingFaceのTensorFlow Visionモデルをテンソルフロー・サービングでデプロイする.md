@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [TensorFlow Serving, ViT, SavedModel, HuggingFace Transformers, REST API, gRPC, Docker, TFViTForImageClassification, model deployment]
 category: "infra"
 memo: "[HF Blog] Deploying TensorFlow Vision Models in Hugging Face with TF Serving"
+related: [1579, 1574, 1264, 1575, 878]
 processed_at: "2026-04-11T21:29:17.382630"
 ---
 

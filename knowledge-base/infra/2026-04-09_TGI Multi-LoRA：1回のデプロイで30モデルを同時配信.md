@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [LoRA, Multi-LoRA, TGI, fine-tuning, LLM serving, Mistral, HuggingFace, モデルデプロイ, VRAM効率化]
 category: "infra"
 memo: "[HF Blog] TGI Multi-LoRA: Deploy Once, Serve 30 Models"
+related: [1449, 1214, 1305, 1302, 1492]
 processed_at: "2026-04-09T09:08:49.882164"
 ---
 

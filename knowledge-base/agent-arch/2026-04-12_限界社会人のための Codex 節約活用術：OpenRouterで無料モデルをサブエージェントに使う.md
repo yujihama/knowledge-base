@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [Codex, OpenRouter, マルチエージェント, モデル階層化, コスト最適化, gpt-oss-120b, サブエージェント]
 category: "agent-arch"
 memo: "[Zenn LLM] 限界社会人のための Codex 節約活用術"
+related: [1643, 1425, 2, 16, 21]
 processed_at: "2026-04-12T09:00:34.035038"
 ---
 

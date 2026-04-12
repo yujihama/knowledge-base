@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [NVIDIA NIM, Hugging Face, サーバーレス推論, DGX Cloud, H100, TensorRT-LLM, TGI, OpenAI互換API, Meta-Llama, 従量課金]
 category: "infra"
 memo: "[HF Blog] Serverless Inference with Hugging Face and NVIDIA NIM"
+related: [1114, 1308, 1063, 419, 1310]
 processed_at: "2026-04-09T09:06:03.203500"
 ---
 

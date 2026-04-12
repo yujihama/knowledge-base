@@ -5,6 +5,7 @@ date: 2026-04-06
 tags: [ZeroGPU, PyTorch, AoT-compilation, AOTInductor, torch.export, HuggingFace-Spaces, Flux, FP8量子化, FlashAttention-3, H200]
 category: "infra"
 memo: "[HF Blog] Make your ZeroGPU Spaces go brrr with ahead-of-time compilation"
+related: [83, 113, 1611, 1619, 809]
 processed_at: "2026-04-06T21:02:02.976609"
 ---
 

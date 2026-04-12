@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [GraphRAG, Rust, traceable_pairs, ナレッジグラフ, RAG, gRPC, Node2Vec, ローカルLLM]
 category: "agent-arch"
 memo: "[Zenn LLM] 「なぜ」を辿れる GraphRAG エンジンを Rust で作った"
+related: [762, 1242, 1116, 1334, 861]
 processed_at: "2026-04-08T21:51:22.064898"
 ---
 

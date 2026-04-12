@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Vibe Coding, Tauri, React, プロンプトエンジニアリング, エージェント型AI, OpenCode, クロスプラットフォーム, 個人開発]
 category: "other"
 memo: "[Zenn LLM] AIへの指示専用の本格エディタを、自分が欲しいから作った話"
+related: [860, 1483, 1480, 108, 273]
 processed_at: "2026-04-10T12:27:21.262594"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [Claude Code, Google Colab, XGBoost, Jupyter Notebook, 機械学習デバッグ, VSCode, データ品質]
 category: "infra"
 memo: "[Zenn 機械学習] Claude Code × Google Colab 第2弾——MLの出力をClaudeが読んで改善提案してくれた話"
+related: [1429, 488, 1526, 430, 1335]
 processed_at: "2026-04-04T21:13:46.187071"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-06
 tags: [membership-inference-attack, memorization-detection, LLM, financial-forecasting, look-ahead-bias, signal-filtering, cross-model-disagreement, Sharpe-ratio]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] MemGuard-Alpha: Detecting and Filtering Memorization-Contaminated Signals in LLM-Based Financial Forecasting via Membership Inference and Cross-Model Disagreement"
+related: [1266, 1449, 564, 216, 892]
 processed_at: "2026-04-06T12:01:00.449849"
 ---
 

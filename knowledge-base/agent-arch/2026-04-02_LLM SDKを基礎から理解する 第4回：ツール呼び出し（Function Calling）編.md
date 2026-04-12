@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [Function Calling, Anthropic SDK, tool_use, BuiltinTools, web_search, エージェント開発, Python]
 category: "agent-arch"
 memo: "[Zenn LLM] LLM SDK を基礎から理解する4/5 〜4.ツール呼び出し（Function Calling）編〜"
+related: [391, 862, 349, 867, 1471]
 processed_at: "2026-04-02T21:13:07.299742"
 ---
 

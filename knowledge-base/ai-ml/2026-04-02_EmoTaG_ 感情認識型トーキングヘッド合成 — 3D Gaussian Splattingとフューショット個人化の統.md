@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [3D Gaussian Splatting, NeRF, FLAME, talking head synthesis, few-shot learning, emotion recognition, audio-driven, facial animation]
 category: "ai-ml"
 memo: "[HF Daily Papers] EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization"
+related: [1053, 1343, 979, 130, 353]
 processed_at: "2026-04-02T09:05:12.968756"
 ---
 

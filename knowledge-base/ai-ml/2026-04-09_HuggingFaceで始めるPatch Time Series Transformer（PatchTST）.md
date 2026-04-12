@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [PatchTST, 時系列予測, Transformer, 転移学習, ゼロショット予測, パッチ化, HuggingFace, 自己教師あり学習]
 category: "ai-ml"
 memo: "[HF Blog] Patch Time Series Transformer in Hugging Face"
+related: [1494, 113, 1613, 1162, 1105]
 processed_at: "2026-04-09T21:05:14.326859"
 ---
 

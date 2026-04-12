@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [multi-agent, LaMAS, Agentic Web, LLM, orchestration, agent-ecosystem, market-mechanism, AGI]
 category: "agent-arch"
 memo: "[arXiv cs.AI+cs.LG] Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web"
+related: [1340, 564, 686, 77, 745]
 processed_at: "2026-04-09T12:10:45.150818"
 ---
 

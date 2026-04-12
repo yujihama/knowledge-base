@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [NVIDIA-NIM, vLLM, TensorRT-LLM, SGLang, Docker, Hugging-Face, 量子化, GGUF, AWQ, LLMデプロイ]
 category: "infra"
 memo: "[HF Blog] Accelerate a World of LLMs on Hugging Face with NVIDIA NIM"
+related: [647, 1350, 943, 773, 710]
 processed_at: "2026-04-07T12:19:23.716036"
 ---
 

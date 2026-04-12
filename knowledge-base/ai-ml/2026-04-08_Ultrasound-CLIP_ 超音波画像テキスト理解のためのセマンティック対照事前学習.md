@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [CLIP, contrastive-learning, multimodal, medical-imaging, ultrasound, vision-language, knowledge-graph, zero-shot]
 category: "ai-ml"
 memo: "[HF Daily Papers] Ultrasound-CLIP: Semantic-Aware Contrastive Pre-training for Ultrasound Image-Text Understanding"
+related: [302, 1172, 344, 1572, 160]
 processed_at: "2026-04-08T21:28:36.372473"
 ---
 

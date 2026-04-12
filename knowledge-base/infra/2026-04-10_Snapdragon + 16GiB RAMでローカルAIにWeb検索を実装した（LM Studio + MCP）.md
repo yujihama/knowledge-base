@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [LM Studio, MCP, Gemma4, ローカルLLM, ARM64, Snapdragon, web-search-mcp, Node.js, GGUF]
 category: "infra"
 memo: "[Zenn LLM] Snapdragon + 16GiB RAMでローカルAIにWeb検索を実装した（LM Studio + MCP）"
+related: [1420, 1333, 399, 710, 1242]
 processed_at: "2026-04-10T12:26:43.235103"
 ---
 

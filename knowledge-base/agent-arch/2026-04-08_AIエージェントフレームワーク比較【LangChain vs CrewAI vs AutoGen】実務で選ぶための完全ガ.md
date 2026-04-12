@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [LangChain, CrewAI, AutoGen, LangGraph, PydanticAI, マルチエージェント, RAG, Human-in-the-loop]
 category: "agent-arch"
 memo: "[Zenn LLM] AIエージェントフレームワーク比較【LangChain vs CrewAI vs AutoGen】実務で選ぶための完全ガイド【2026年最新"
+related: [858, 41, 75, 1337, 260]
 processed_at: "2026-04-08T12:43:40.934079"
 ---
 

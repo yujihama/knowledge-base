@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [DeepSeek, R1, オープンソースLLM, 中国AI, Qwen, GLM, Kimi K2, モデル蒸留, MITライセンス, HuggingFace]
 category: "ai-ml"
 memo: "[HF Blog] One Year Since the “DeepSeek Moment”"
+related: [203, 188, 769, 141, 1572]
 processed_at: "2026-04-03T09:06:51.095160"
 ---
 

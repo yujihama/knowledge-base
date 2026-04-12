@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [scikit-learn, Hugging Face Hub, MLOps, モデルカード, モデルホスティング, Skops, joblib, pickle]
 category: "infra"
 memo: "[HF Blog] Introducing Skops"
+related: [396, 1645, 428, 173, 1648]
 processed_at: "2026-04-11T21:08:03.808882"
 ---
 

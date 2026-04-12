@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Eino, Go, LLM, エージェントアーキテクチャ, ADK, マルチエージェント, オーケストレーション, CloudWeGo, ByteDance, ReAct]
 category: "agent-arch"
 memo: "[Zenn LLM] GoのAIフレームワーク「Eino」を徹底解説！LangChainGoとの実測比較も"
+related: [1051, 108, 762, 2, 1266]
 processed_at: "2026-04-10T21:03:28.917706"
 ---
 

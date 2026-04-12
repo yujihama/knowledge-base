@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [差分プライバシー, DP-SGD, JAX, プライバシー保護ML, LLMファインチューニング, 勾配クリッピング, DP-FTRL, VaultGemma, Gemma, 分散学習]
 category: "ai-ml"
 memo: "[Google AI Blog] Differentially private machine learning at scale with JAX-Privacy"
+related: [268, 133, 1489, 251, 1167]
 processed_at: "2026-04-02T12:08:24.011494"
 ---
 

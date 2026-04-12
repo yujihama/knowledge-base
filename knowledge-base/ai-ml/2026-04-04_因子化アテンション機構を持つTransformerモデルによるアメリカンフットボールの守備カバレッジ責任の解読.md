@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [Transformer, factorized-attention, multi-agent, trajectory-prediction, sports-analytics, NFL, coverage-classification]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Decoding Defensive Coverage Responsibilities in American Football Using Factorized Attention Based Transformer Models"
+related: [1494, 629, 564, 113, 216]
 processed_at: "2026-04-04T09:02:39.834207"
 ---
 

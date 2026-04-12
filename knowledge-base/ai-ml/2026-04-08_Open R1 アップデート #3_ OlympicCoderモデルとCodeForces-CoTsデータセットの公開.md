@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [DeepSeek-R1, GRPO, SFT, Chain-of-Thought, 蒸留, 競技プログラミング, Qwen2.5, コード推論, ベンチマーク, IOI]
 category: "ai-ml"
 memo: "[HF Blog] Open R1: Update #3"
+related: [773, 861, 1060, 1169, 125]
 processed_at: "2026-04-08T09:17:45.613162"
 ---
 

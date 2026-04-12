@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Claude Code, Custom Skills, observability, feedback-loop, LLM-ops, posthoc-logging]
 category: "agent-arch"
 memo: "[Zenn LLM] Claude Code Skillsは作って終わりじゃない — 事後ログで改善サイクルを回す"
+related: [1429, 430, 1335, 609, 107]
 processed_at: "2026-04-10T21:02:58.213891"
 ---
 

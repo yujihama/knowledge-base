@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [Neural ODE, 不変量, 科学シミュレーション, LLM-driven compilation, structure-preserving, physics-informed, 代理モデル, 保存則]
 category: "ai-ml"
 memo: "[HF Daily Papers] An Invariant Compiler for Neural ODEs in AI-Accelerated Scientific Simulation"
+related: [503]
 processed_at: "2026-04-05T12:04:42.851866"
 ---
 

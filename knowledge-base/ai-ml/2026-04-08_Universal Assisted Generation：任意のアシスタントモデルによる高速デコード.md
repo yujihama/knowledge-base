@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [speculative-decoding, assisted-generation, LLM推論高速化, tokenizer, Transformers, Intel-Labs, KV-cache]
 category: "ai-ml"
 memo: "[HF Blog] Universal Assisted Generation: Faster Decoding with Any Assistant Model"
+related: [901, 1529, 1266, 419, 1379]
 processed_at: "2026-04-08T21:14:30.555849"
 ---
 

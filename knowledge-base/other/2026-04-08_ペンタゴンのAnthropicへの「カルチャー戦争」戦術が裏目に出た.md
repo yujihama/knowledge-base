@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Anthropic, Claude, Pentagon, supply-chain-risk, AI-governance, First-Amendment, Trump, Hegseth, Palantir, AI-policy]
 category: "other"
 memo: "[MIT Technology Review AI] The Pentagon’s culture war tactic against Anthropic has backfired"
+related: [538, 1419, 435, 1032, 451]
 processed_at: "2026-04-08T21:40:20.849003"
 ---
 

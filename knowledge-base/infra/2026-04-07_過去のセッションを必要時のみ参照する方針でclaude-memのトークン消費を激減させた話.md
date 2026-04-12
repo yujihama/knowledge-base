@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [claude-mem, Claude Code, MCP, トークン最適化, コンテキスト管理, settings.json, 永続メモリ]
 category: "infra"
 memo: "[Zenn LLM] 過去の session をほしい時に参照する方針で claude-mem のトークン消費を激減させた話"
+related: [13, 51, 9, 89, 1245]
 processed_at: "2026-04-07T09:10:15.190056"
 ---
 

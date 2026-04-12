@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [ModelSpec, RLHF, RLAIF, alignment, AI-safety, operator-user, value-alignment, Constitutional-AI]
 category: "ai-ml"
 memo: "[OpenAI Blog] Inside our approach to the Model Spec"
+related: [1373, 544, 540, 1369, 247]
 processed_at: "2026-03-29T22:47:48.330050"
 ---
 

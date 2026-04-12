@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [ModernBERT, encoder-only, BERT, RoPE, Flash Attention, RAG, 埋め込みモデル, 長文脈]
 category: "ai-ml"
 memo: "[HF Blog] Finally, a Replacement for BERT: Introducing ModernBERT"
+related: [1264, 1021, 707, 1218, 1016]
 processed_at: "2026-04-08T12:28:11.601249"
 ---
 

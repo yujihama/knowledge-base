@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [Sentence Transformers, SBERT, 埋め込みモデル, セマンティック検索, Hugging Face, Cross Encoder, Sparse Encoder, 多言語対応, 情報検索]
 category: "ai-ml"
 memo: "[HF Blog] Sentence Transformers is joining Hugging Face!"
+related: [1445, 1310, 88, 1669, 1575]
 processed_at: "2026-04-05T12:06:06.956483"
 ---
 

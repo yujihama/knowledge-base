@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [WebAgent, multimodal, visual-language-model, browser-automation, open-source, test-time-scaling, best-of-N, VLM, GUI-grounding]
 category: "agent-arch"
 memo: "[HF Daily Papers] MolmoWeb: Open Visual Web Agent and Open Data for the Open Web"
+related: [1608, 819, 975, 650, 522]
 processed_at: "2026-04-11T09:02:10.137717"
 ---
 

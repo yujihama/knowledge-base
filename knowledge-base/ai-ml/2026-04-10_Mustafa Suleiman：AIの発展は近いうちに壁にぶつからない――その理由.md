@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [compute-scaling, GPU, HBM3, NVLink, AI-agent, Moore's-Law, Epoch-AI, Microsoft-AI, エネルギー]
 category: "ai-ml"
 memo: "[MIT Technology Review AI] Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why"
+related: [404, 518, 828, 408, 488]
 processed_at: "2026-04-10T12:12:36.464606"
 ---
 

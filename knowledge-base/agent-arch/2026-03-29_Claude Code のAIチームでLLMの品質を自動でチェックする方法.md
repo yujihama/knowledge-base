@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [Claude Code, Agent Teams, LLM品質検証, マルチエージェント, LLM-as-judge, 品質スコアリング, パイプライン]
 category: "agent-arch"
 memo: "[Zenn LLM] Claude Code のAIチームでLLMの品質を自動でチェックしてみたよ！"
+related: [1425, 21, 931, 75, 1045]
 processed_at: "2026-03-29T22:19:30.119103"
 ---
 

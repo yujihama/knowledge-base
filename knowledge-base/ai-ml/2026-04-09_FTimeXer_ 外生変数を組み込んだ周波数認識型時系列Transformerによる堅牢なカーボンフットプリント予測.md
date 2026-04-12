@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Transformer, 時系列予測, FFT, カーボンフットプリント, 外生変数, 周波数領域, non-stationarity, consistency regularization]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] FTimeXer: Frequency-aware Time-series Transformer with Exogenous variables for Robust Carbon Footprint Forecasting"
+related: [1494, 113, 1185, 798, 869]
 processed_at: "2026-04-09T12:47:05.349377"
 ---
 

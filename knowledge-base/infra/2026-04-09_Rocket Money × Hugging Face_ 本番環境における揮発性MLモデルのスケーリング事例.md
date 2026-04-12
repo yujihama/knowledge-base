@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [BERT, テキスト分類, Hugging Face Inference API, モデルサービング, MLOps, GCP, トランザクション分類, 本番ML]
 category: "infra"
 memo: "[HF Blog] Rocket Money x Hugging Face: Scaling Volatile ML Models in Production​"
+related: [1574, 117, 1489, 1645, 396]
 processed_at: "2026-04-09T21:47:59.010104"
 ---
 

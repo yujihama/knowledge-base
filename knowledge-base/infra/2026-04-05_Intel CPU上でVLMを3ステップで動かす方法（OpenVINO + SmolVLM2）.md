@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [OpenVINO, SmolVLM2, Optimum Intel, 量子化, INT8, VLM, エッジ推論, Intel CPU, Post-Training Quantization]
 category: "infra"
 memo: "[HF Blog] Get your VLM running in 3 simple steps on Intel CPUs"
+related: [1116, 1530, 988, 944, 1187]
 processed_at: "2026-04-05T12:08:49.243477"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [LLM-as-a-Judge, RAG, ReAct, GPT-4o, QdrantDB, 評価フレームワーク, マルチツールエージェント, セマンティックチャンキング]
 category: "agent-arch"
 memo: "[HF Blog] Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge"
+related: [897, 1247, 121, 909, 120]
 processed_at: "2026-04-08T21:14:59.805804"
 ---
 

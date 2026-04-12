@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [MAST, ITBench, エージェント失敗分析, SRE自動化, 失敗モード分類, LangGraph, Kubernetes, エージェント評価, ハルシネーション, 終了制御]
 category: "agent-arch"
 memo: "[HF Blog] IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST"
+related: [564, 41, 745, 749, 858]
 processed_at: "2026-03-31T21:07:51.793347"
 ---
 

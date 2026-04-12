@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [Claude Code, ロール混同, LLMセキュリティ, エージェントハーネス, Messages API, autocompact, プロンプトインジェクション]
 category: "agent-arch"
 memo: "[Zenn LLM] Claude Codeが『言ってもいない指示』を実行する — ロール混同バグの構造と対策"
+related: [1024, 1429, 430, 1335, 609]
 processed_at: "2026-04-11T09:01:11.540301"
 ---
 

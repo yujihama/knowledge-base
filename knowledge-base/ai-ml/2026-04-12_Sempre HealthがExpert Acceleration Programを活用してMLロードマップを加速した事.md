@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [NLP, テキスト分類, Hugging Face, Expert Acceleration Program, ヘルスケアAI, 本番NLPパイプライン, ルールベース→ML移行]
 category: "ai-ml"
 memo: "[HF Blog] How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap"
+related: [1310, 107, 88, 1661, 902]
 processed_at: "2026-04-12T09:13:30.768470"
 ---
 

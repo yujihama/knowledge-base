@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [Unsloth, HuggingFace-Jobs, LoRA, SFT, fine-tuning, Claude-Code, LFM2.5, TRL, Trackio, UV]
 category: "infra"
 memo: "[HF Blog] Train AI models with Unsloth and Hugging Face Jobs for FREE"
+related: [1397, 265, 335, 1449, 994]
 processed_at: "2026-03-31T21:07:12.737589"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [LM Studio, ローカルLLM, PDF翻訳, PyMuPDF, PDFMathTranslate, Nemotron, Gemma, OpenAI互換API]
 category: "infra"
 memo: "[Zenn LLM] ローカルLLMを使って積読PDFを翻訳する（そしてまた積む）"
+related: [1423, 399, 392, 1148, 1143]
 processed_at: "2026-04-10T09:32:43.876088"
 ---
 

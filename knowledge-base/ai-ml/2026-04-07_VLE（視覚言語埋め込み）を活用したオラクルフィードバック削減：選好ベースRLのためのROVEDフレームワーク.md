@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [preference-based-RL, RLAIF, VLE, PEFT, reward-learning, active-learning, uncertainty-filtering, robotic-manipulation]
 category: "ai-ml"
 memo: "[HF Daily Papers] Reducing Oracle Feedback with Vision-Language Embeddings for Preference-Based RL"
+related: [1449, 938, 1169, 1167, 700]
 processed_at: "2026-04-07T12:47:21.853054"
 ---
 

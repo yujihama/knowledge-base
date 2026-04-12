@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [geospatial-AI, foundation-model, multi-agent, Gemini, cross-modal-reasoning, vision-language-model, Earth-observation, Population-Dynamics]
 category: "agent-arch"
 memo: "[Google AI Blog] Google Earth AI: Unlocking geospatial insights with foundation models and cross-modal reasoning"
+related: [77, 233, 61, 168, 161]
 processed_at: "2026-04-03T12:05:00.887897"
 ---
 

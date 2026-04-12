@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [HuggingFace, Xet, content-defined-chunking, LFS, object-storage, deduplication, CAS, S3, hf_transfer]
 category: "infra"
 memo: "[HF Blog] Xet is on the Hub"
+related: [771, 900, 521, 402, 1572]
 processed_at: "2026-04-08T09:16:31.200580"
 ---
 

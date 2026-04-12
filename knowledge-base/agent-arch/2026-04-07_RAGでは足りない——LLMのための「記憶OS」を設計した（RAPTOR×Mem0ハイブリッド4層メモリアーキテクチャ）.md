@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [RAPTOR, Mem0, memory-architecture, RAG, LLM-as-Judge, pgvector, HNSW, 非単調推論, 忘却設計, 矛盾検出, Supabase, pg_cron, MapReduce]
 category: "agent-arch"
 memo: "[Zenn LLM] RAGでは足りない——LLMのための「記憶OS」を設計した"
+related: [112, 75, 969, 49, 58]
 processed_at: "2026-04-07T09:08:13.307411"
 ---
 

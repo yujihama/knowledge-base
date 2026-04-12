@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Claude Code, COBOL, モダナイゼーション, Codex, マルチエージェント, パイプライン自動化, LLM-as-judge, バッチ処理]
 category: "agent-arch"
 memo: "[Zenn LLM] CobolのバッチプログラムをClaude Codeでモダナイズできるかの検証"
+related: [3, 1641, 21, 931, 75]
 processed_at: "2026-04-10T12:27:59.349931"
 ---
 

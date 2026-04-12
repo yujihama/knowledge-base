@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [Whisper, ASR, ファインチューニング, HuggingFace, Transformers, 多言語, Common Voice, seq2seq, log-Mel]
 category: "ai-ml"
 memo: "[HF Blog] Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers"
+related: [1488, 649, 1216, 128, 1358]
 processed_at: "2026-04-11T09:06:46.270219"
 ---
 

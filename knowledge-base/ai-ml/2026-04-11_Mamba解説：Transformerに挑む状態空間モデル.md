@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [Mamba, SSM, 状態空間モデル, Transformer代替, 長文脈処理, 選択的メカニズム, ZOH離散化, Parallel Associative Scan]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [222, 833, 255, 410, 199]
 processed_at: "2026-04-11T09:22:04.233833"
 ---
 

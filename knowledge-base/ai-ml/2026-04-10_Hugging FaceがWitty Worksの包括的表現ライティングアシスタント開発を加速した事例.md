@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [SetFit, Sentence-Transformers, few-shot-learning, text-classification, mpnet-base-v2, contrastive-learning, KNN, logistic-regression, Azure]
 category: "ai-ml"
 memo: "[HF Blog] How Hugging Face Accelerated Development of Witty Works Writing Assistant"
+related: [161, 369, 499, 281, 930]
 processed_at: "2026-04-10T12:35:55.730171"
 ---
 

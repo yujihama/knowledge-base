@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [VLM, CLIP, 埋め込み空間, 意味的階層, 凝集クラスタリング, オントロジー, UMAP, ゼロショット分類, XAI]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Explaining, Verifying, and Aligning Semantic Hierarchies in Vision-Language Model Embeddings"
+related: [1023, 1572, 21, 456, 1256]
 processed_at: "2026-04-07T12:07:25.614351"
 ---
 

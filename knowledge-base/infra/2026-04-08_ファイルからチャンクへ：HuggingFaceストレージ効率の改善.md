@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Content-Defined Chunking, HuggingFace, Git LFS, ストレージ最適化, 重複排除, ローリングハッシュ, Xet]
 category: "infra"
 memo: "[HF Blog] From Files to Chunks: Improving HF Storage Efficiency"
+related: [771, 713, 521, 402, 1572]
 processed_at: "2026-04-08T21:10:53.126222"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [BLOOM, Megatron-DeepSpeed, 3D並列処理, テンソル並列, パイプライン並列, ZeRO, A100, 分散学習, LLM訓練基盤, bf16]
 category: "infra"
 memo: "[HF Blog] The Technology Behind BLOOM Training"
+related: [1275, 1306, 1489, 1536, 429]
 processed_at: "2026-04-11T21:30:54.424195"
 ---
 

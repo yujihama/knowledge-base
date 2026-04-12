@@ -5,6 +5,7 @@ date: 2026-04-01
 tags: [Mamba, SSM, 状態空間モデル, Transformer, 長文脈, 選択的SSM, S6, ZOH離散化, Hardware-Aware]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [199, 222, 833, 255, 1494]
 processed_at: "2026-04-01T21:05:51.881010"
 ---
 

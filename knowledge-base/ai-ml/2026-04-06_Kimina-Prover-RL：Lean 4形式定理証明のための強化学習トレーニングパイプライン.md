@@ -5,6 +5,7 @@ date: 2026-04-06
 tags: [GRPO, DrGRPO, Lean4, 形式定理証明, 強化学習, Verl, Qwen3, ReasoningModel, MiniF2F]
 category: "ai-ml"
 memo: "[HF Blog] Kimina-Prover-RL"
+related: [1565, 1611, 1605, 1169, 1660]
 processed_at: "2026-04-06T21:04:48.760575"
 ---
 

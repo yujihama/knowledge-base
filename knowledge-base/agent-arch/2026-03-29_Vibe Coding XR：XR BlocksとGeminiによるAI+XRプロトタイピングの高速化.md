@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [Gemini, XR Blocks, WebXR, vibe-coding, system-prompt-engineering, LLM-code-generation, Android XR, three.js, LiteRT, context-grounding]
 category: "agent-arch"
 memo: "[Google AI Blog] Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini"
+related: [112, 178, 316, 514, 77]
 processed_at: "2026-03-29T22:54:21.815600"
 ---
 

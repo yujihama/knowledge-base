@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [HCI, Figma, UIデザイン, RAG, 研究エビデンス活用, 認知負荷低減, デザインツール]
 category: "other"
 memo: "[HF Daily Papers] ReFinE: Streamlining UI Mockup Iteration with Research Findings"
+related: [1116, 1334, 861, 112, 111]
 processed_at: "2026-04-09T21:47:28.300192"
 ---
 

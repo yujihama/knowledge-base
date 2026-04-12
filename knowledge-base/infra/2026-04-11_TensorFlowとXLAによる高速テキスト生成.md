@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [XLA, TensorFlow, テキスト生成, jit_compile, tf.function, GPT-2, 推論高速化, 静的形状]
 category: "infra"
 memo: "[HF Blog] Faster Text Generation with TensorFlow and XLA"
+related: [1578, 1531, 706, 518, 1219]
 processed_at: "2026-04-11T21:28:47.699922"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Llama2, RLHF, QLoRA, PEFT, transformers, TGI, GQA, オープンLLM, Meta]
 category: "ai-ml"
 memo: "[HF Blog] Llama 2 is here - get it on Hugging Face"
+related: [1305, 1214, 991, 1266, 1216]
 processed_at: "2026-04-10T09:15:14.412889"
 ---
 

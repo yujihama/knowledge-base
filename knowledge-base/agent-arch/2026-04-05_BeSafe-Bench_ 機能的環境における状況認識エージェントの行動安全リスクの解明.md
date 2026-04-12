@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [LLM-as-judge, エージェント安全性, ベンチマーク, LMM, Embodied AI, 行動評価, 安全アライメント, マルチモーダル]
 category: "agent-arch"
 memo: "[arXiv cs.AI+cs.LG] BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments"
+related: [21, 1657, 1545, 720, 1615]
 processed_at: "2026-04-05T09:01:05.554005"
 ---
 

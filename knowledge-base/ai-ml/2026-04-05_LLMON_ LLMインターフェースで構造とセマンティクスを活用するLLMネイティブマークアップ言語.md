@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [LLMON, markup-language, prompt-engineering, prompt-injection, LLM-interface, structured-input, type-system, model-safety]
 category: "ai-ml"
 memo: "[HF Daily Papers] LLMON: An LLM-native Markup Language to Leverage Structure and Semantics at the LLM Interface"
+related: [95, 1443, 31, 340, 508]
 processed_at: "2026-04-05T12:04:15.379980"
 ---
 

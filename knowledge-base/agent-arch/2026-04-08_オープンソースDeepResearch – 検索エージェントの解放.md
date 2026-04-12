@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [smolagents, CodeAgent, GAIA, DeepResearch, DeepSeek-R1, Magentic-One, web-search-agent, multi-step-reasoning]
 category: "agent-arch"
 memo: "[HF Blog] Open-source DeepResearch – Freeing our search agents"
+related: [827, 861, 125, 584, 29]
 processed_at: "2026-04-08T09:50:22.908319"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [VLA, red-teaming, robustness, reinforcement-learning, embodied-AI, adversarial-attack, π₀, OpenVLA]
 category: "ai-ml"
 memo: "[HF Daily Papers] Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming"
+related: [1443, 1387, 1025, 1608, 837]
 processed_at: "2026-04-12T09:05:37.840594"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [quantization, model-compression, mixed-precision, PTQ, LLM-deployment, hardware-aware, open-source]
 category: "infra"
 memo: "[arXiv cs.AI+cs.LG] OneComp: One-Line Revolution for Generative AI Model Compression"
+related: [1266, 159, 1459, 594, 915]
 processed_at: "2026-04-07T21:19:43.788331"
 ---
 

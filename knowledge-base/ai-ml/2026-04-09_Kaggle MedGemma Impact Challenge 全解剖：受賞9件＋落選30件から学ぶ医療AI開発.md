@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [MedGemma, LoRA, エッジAI, マルチモーダル, 量子化, HAI-DEF, オンデバイス推論, 医療AI, Kaggle]
 category: "ai-ml"
 memo: "[Zenn LLM] Kaggle MedGemma Impact Challenge 全解剖：　　　　　　　　受賞9件＋落選30件から学ぶ医療AI開発"
+related: [299, 234, 192, 1249, 171]
 processed_at: "2026-04-09T09:41:14.195576"
 ---
 

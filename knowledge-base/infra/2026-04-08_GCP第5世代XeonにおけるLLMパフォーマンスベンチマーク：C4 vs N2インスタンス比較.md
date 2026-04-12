@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Intel AMX, Xeon Emerald Rapids, GCP, optimum-intel, IPEX, CPU推論, LLM推論, テキスト埋め込み, Llama-3.2, エージェントAI]
 category: "infra"
 memo: "[HF Blog] Benchmarking Language Model Performance on 5th Gen Xeon at GCP"
+related: [1116, 1187, 1306, 972, 1310]
 processed_at: "2026-04-08T12:29:48.885338"
 ---
 

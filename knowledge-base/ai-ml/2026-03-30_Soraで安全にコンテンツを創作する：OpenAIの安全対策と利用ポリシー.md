@@ -5,6 +5,7 @@ date: 2026-03-30
 tags: [Sora, 動画生成, コンテンツモデレーション, C2PA, AI安全性, ディープフェイク対策, OpenAI]
 category: "ai-ml"
 memo: "[OpenAI Blog] Creating with Sora Safely"
+related: [431, 21, 389, 440, 32]
 processed_at: "2026-03-30T21:02:31.717722"
 ---
 

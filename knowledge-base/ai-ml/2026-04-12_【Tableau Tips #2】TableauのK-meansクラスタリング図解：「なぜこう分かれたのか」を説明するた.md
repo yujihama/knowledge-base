@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [K-means, クラスタリング, Tableau, エルボー法, 教師なし学習, ユークリッド距離, SSE, DATA Saber]
 category: "ai-ml"
 memo: "[Zenn 機械学習] 【Tableau Tips #2】Tableauのクラスタリング、「なんでこう分かれたの？」に答えるためのK-means図解"
+related: [274, 310, 327, 696, 875]
 processed_at: "2026-04-12T09:02:13.628070"
 ---
 

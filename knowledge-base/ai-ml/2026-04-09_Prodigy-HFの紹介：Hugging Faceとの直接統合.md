@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Prodigy, HuggingFace, アノテーション, ファインチューニング, NER, テキスト分類, distilbert, アクティブラーニング, データセット共有]
 category: "ai-ml"
 memo: "[HF Blog] Introducing Prodigy-HF: a direct integration with Hugging Face"
+related: [1529, 1216, 1119, 1114, 1214]
 processed_at: "2026-04-09T21:21:25.952376"
 ---
 

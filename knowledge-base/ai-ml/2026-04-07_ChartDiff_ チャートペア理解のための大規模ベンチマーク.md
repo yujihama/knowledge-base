@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [VLM, benchmark, chart-understanding, comparative-reasoning, multimodal, ROUGE, GPT-4o]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts"
+related: [975, 522, 1430, 1608, 212]
 processed_at: "2026-04-07T21:20:08.749308"
 ---
 

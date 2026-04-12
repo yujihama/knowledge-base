@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Gradio, gr.Dataframe, Python, UI, データ可視化, ダッシュボード, インタラクティブUI]
 category: "infra"
 memo: "[HF Blog] Introducing Gradio's new Dataframe!"
+related: [401, 652, 88, 1619, 640]
 processed_at: "2026-04-08T09:13:53.382336"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-01
 tags: [NeuralGCM, hybrid-model, neural-parameterization, precipitation-forecast, climate-simulation, differential-dynamics, satellite-observation, WeatherBench2, ECMWF, IMERG]
 category: "ai-ml"
 memo: "[Google AI Blog] NeuralGCM harnesses AI to better simulate long-range global precipitation"
+related: [116, 115]
 processed_at: "2026-04-01T09:11:13.078882"
 ---
 

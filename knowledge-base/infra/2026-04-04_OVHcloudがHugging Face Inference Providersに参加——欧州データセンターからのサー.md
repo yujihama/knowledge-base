@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [OVHcloud, HuggingFace, InferenceProvider, サーバーレス推論, 欧州データ主権, gpt-oss, DeepSeek-R1, ファンクションコーリング, 構造化出力]
 category: "infra"
 memo: "[HF Blog] OVHcloud on Hugging Face Inference Providers 🔥"
+related: [768, 767, 1572, 1529, 1494]
 processed_at: "2026-04-04T09:08:39.631363"
 ---
 

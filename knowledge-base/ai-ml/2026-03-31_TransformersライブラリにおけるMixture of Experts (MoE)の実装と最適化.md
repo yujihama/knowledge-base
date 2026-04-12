@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [MoE, Mixture-of-Experts, transformers, DeepSeek, Expert-Parallelism, WeightConverter, GroupedGEMM, sparse-architecture, LLM-inference]
 category: "ai-ml"
 memo: "[HF Blog] Mixture of Experts (MoEs) in Transformers"
+related: [188, 196, 99, 141, 766]
 processed_at: "2026-03-31T21:06:04.369172"
 ---
 

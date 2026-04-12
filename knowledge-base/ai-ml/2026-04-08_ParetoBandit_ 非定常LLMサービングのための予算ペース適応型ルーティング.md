@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [LLMルーティング, コンテキスチュアルバンディット, UCB, 主双対最適化, 非定常適応, マルチモデルサービング, コスト最適化, オンライン学習]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] ParetoBandit: Budget-Paced Adaptive Routing for Non-Stationary LLM Serving"
+related: [1641, 609, 482, 427, 496]
 processed_at: "2026-04-08T09:36:42.915482"
 ---
 

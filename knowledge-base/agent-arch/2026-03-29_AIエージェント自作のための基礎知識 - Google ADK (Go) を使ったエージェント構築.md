@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [Google ADK, Gemini, Go, SSE, マルチエージェント, ツール呼び出し, セッション管理, Vertex AI, サブエージェント, AG-UI]
 category: "agent-arch"
 memo: "AIエージェント自作のための基礎知識 - 誰かの役に立てばいいブログ"
+related: [1641, 41, 13, 260, 1474]
 processed_at: "2026-03-29T21:55:10.511468"
 ---
 

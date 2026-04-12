@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [video-diffusion, diffusion-forcing, self-forcing, DMD, world-model, rectified-flow, autoregressive-generation, real-time-inference, KV-cache, torch-compile]
 category: "ai-ml"
 memo: "[HF Blog] Introducing Waypoint-1: Real-time interactive video diffusion from Overworld"
+related: [585, 419, 560, 625, 1265]
 processed_at: "2026-04-03T09:07:57.456690"
 ---
 

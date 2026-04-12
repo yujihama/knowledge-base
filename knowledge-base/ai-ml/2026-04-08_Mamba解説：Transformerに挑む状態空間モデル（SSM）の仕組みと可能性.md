@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Mamba, SSM, 状態空間モデル, Transformer代替, 線形計算量, 選択的SSM, S6, HiPPO, parallel-scan, 長文脈処理]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [222, 833, 255, 410, 199]
 processed_at: "2026-04-08T21:48:24.513638"
 ---
 

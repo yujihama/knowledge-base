@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [synthetic-data, SyGra, visual-workflow, LLM-pipeline, Pydantic, Ollama, vLLM, HuggingFace, self-critique, ServiceNow]
 category: "agent-arch"
 memo: "[HF Blog] Introducing SyGra Studio"
+related: [647, 835, 301, 649, 859]
 processed_at: "2026-04-02T09:07:43.364633"
 ---
 

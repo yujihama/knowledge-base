@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [GUI-agent, world-model, forward-dynamics, continual-pre-training, self-supervised-learning, synthetic-data, UI-automation, scaling-law]
 category: "agent-arch"
 memo: "[arXiv cs.AI+cs.LG] UI-Oceanus: Scaling GUI Agents with Synthetic Environmental Dynamics"
+related: [499, 1564, 1608, 157, 364]
 processed_at: "2026-04-09T12:46:11.305816"
 ---
 

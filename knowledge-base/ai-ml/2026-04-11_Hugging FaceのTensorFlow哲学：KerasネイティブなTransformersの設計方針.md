@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [TensorFlow, Keras, Hugging Face, transformers, 転移学習, XLA, TPU, tf.data, TFAutoModel, モデルサービング]
 category: "ai-ml"
 memo: "[HF Blog] Hugging Face's TensorFlow Philosophy"
+related: [1015, 1616, 1190, 1445, 1529]
 processed_at: "2026-04-11T21:08:31.788763"
 ---
 

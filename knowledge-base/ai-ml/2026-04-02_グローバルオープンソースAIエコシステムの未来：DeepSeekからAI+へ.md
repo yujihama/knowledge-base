@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [オープンソース, DeepSeek, Qwen, LLM, 中国AI, Hunyuan, エコシステム, モデルファミリー]
 category: "ai-ml"
 memo: "[HF Blog] The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+"
+related: [236, 188, 1335, 660, 769]
 processed_at: "2026-04-02T09:09:21.323225"
 ---
 

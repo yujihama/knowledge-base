@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [CAPM, ベータ, アルファ, 証券市場線, OLS回帰, マーコウィッツ, ポートフォリオ理論, yfinance, statsmodels, 金融数理]
 category: "other"
 memo: "[Zenn 機械学習] CAPMの数理とPython実装 -- ベータ・アルファ・証券市場線を理論から導出する"
+related: [1518, 1246]
 processed_at: "2026-04-12T09:04:47.714018"
 ---
 

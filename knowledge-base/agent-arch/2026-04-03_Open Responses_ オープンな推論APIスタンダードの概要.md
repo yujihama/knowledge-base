@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [Open Responses, Responses API, エージェントループ, MCP, 推論ストリーミング, Hugging Face, tool_choice, マルチプロバイダールーティング]
 category: "agent-arch"
 memo: "[HF Blog] Open Responses: What you need to know"
+related: [88, 83, 430, 1310, 1669]
 processed_at: "2026-04-03T09:08:31.050720"
 ---
 

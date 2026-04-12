@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [TGI, LLM推論, ベンチマーク, スループット, レイテンシ, TTFT, HuggingFace, Flash Attention, Continuous Batching, RAG]
 category: "infra"
 memo: "[HF Blog] Benchmarking Text Generation Inference"
+related: [1251, 1065, 1216, 774, 1186]
 processed_at: "2026-04-09T09:24:33.376222"
 ---
 

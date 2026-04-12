@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [LLM, 自動運転, Vision Transformer, Perception, Planning, GPT-Driver, DriveVLM, MagicDrive, マルチモーダル, エンドツーエンド学習]
 category: "ai-ml"
 memo: "[The Gradient] Car-GPT: Could LLMs finally make self-driving cars happen?"
+related: [716, 1527, 1297, 182, 17]
 processed_at: "2026-04-09T21:36:22.504827"
 ---
 

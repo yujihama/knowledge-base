@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Claude Code, 長期記憶, 記憶の宮殿, Structured Distillation, ハイブリッド検索, BM25, HNSW, RRF, tree-sitter, multilingual-e5-small, SessionStartHook, palace object]
 category: "agent-arch"
 memo: "[Zenn LLM] Claude Codeの長期記憶を「記憶の宮殿」で実装した話"
+related: [969, 9, 1429, 430, 1335]
 processed_at: "2026-04-10T09:34:20.484028"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Transformers.js, MobileViT, ONNX, ブラウザ推論, Web Workers, ファインチューニング, Quick Draw, Vite, React]
 category: "ai-ml"
 memo: "[HF Blog] Making ML-powered web games with Transformers.js"
+related: [1, 1529, 1310, 1480, 1169]
 processed_at: "2026-04-10T09:17:19.742793"
 ---
 

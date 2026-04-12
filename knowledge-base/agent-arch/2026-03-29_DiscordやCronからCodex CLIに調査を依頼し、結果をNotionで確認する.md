@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [Codex CLI, Discord Bot, Notion, Vercel, RSS, Feedly, Cron, 自動化パイプライン, LLMオーケストレーション]
 category: "agent-arch"
 memo: "[Zenn LLM] DiscordやCronからCodex CLIに調査を依頼し、結果をNotionで確認する"
+related: [862]
 processed_at: "2026-03-29T22:07:42.096642"
 ---
 

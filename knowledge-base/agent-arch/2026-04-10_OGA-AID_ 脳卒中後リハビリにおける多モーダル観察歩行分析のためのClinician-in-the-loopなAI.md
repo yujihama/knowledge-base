@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [multi-agent, clinician-in-the-loop, multimodal-LLM, gait-analysis, ReAct, structured-report-generation, rehabilitation-AI]
 category: "agent-arch"
 memo: "[HF Daily Papers] OGA-AID: Clinician-in-the-loop AI Report Drafting Assistant for Multimodal Observational Gait Analysis in Post-Stroke Rehabilitation"
+related: [76, 5, 629, 564, 1480]
 processed_at: "2026-04-10T12:03:53.417574"
 ---
 

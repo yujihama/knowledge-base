@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Argilla, HuggingFace, データセット構築, 選好データ, アノテーション, RLHF, コミュニティ]
 category: "ai-ml"
 memo: "[HF Blog] Data is better together: Enabling communities to collectively build better datasets together using Argilla and Hugging Face Spaces"
+related: [906, 1391, 835, 1213, 1305]
 processed_at: "2026-04-09T12:23:24.685543"
 ---
 

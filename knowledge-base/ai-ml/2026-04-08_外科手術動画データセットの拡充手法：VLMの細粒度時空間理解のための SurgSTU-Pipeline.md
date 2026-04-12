@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [VLM, surgical-video, multimodal, fine-tuning, dataset, spatial-temporal, in-context-learning, video-understanding]
 category: "ai-ml"
 memo: "[HF Daily Papers] An Approach to Enriching Surgical Video Datasets for Fine-Grained Spatial-Temporal Understanding of Vision-Language Models"
+related: [1608, 975, 650, 522, 71]
 processed_at: "2026-04-08T12:22:30.466541"
 ---
 

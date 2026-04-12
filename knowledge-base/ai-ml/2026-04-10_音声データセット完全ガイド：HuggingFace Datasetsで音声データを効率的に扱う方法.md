@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [HuggingFace, 音声データセット, ASR, streaming, データ前処理, GigaSpeech, Common Voice, LibriSpeech]
 category: "ai-ml"
 memo: "[HF Blog] A Complete Guide to Audio Datasets"
+related: [1529, 128, 171, 649, 1572]
 processed_at: "2026-04-10T21:10:07.263007"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Mamba, SSM, 状態空間モデル, Transformer, 選択的状態空間, 線形スケーリング, 長文コンテキスト, HiPPO, 並列スキャン]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [199, 222, 833, 255, 1494]
 processed_at: "2026-04-08T12:09:45.397829"
 ---
 

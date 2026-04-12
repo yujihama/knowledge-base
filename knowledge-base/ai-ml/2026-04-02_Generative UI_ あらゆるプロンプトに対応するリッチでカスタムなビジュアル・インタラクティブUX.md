@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [Generative UI, Gemini 3, agentic coding, dynamic UI generation, PAGEN dataset, LLM-as-UI-generator, Google Research]
 category: "ai-ml"
 memo: "[Google AI Blog] Generative UI: A rich, custom, visual interactive user experience for any prompt"
+related: [248, 148, 190]
 processed_at: "2026-04-02T12:06:44.175204"
 ---
 

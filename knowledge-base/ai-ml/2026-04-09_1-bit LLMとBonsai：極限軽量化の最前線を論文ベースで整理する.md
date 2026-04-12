@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [1-bit LLM, BitNet, Bonsai, 量子化, QAT, BitLinear, PrismML, モデル軽量化, ternary重み]
 category: "ai-ml"
 memo: "[Zenn LLM] 1-bit LLMとBonsai：極限軽量化の最前線を論文ベースで整理する"
+related: [1147, 1249, 944, 820, 298]
 processed_at: "2026-04-09T09:39:56.661395"
 ---
 

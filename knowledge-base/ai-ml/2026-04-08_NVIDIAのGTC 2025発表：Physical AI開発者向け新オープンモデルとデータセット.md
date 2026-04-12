@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Physical AI, World Foundation Model, Cosmos Transfer, Isaac GR00T N1, ControlNet, Diffusion Transformer, Vision-Language Model, ヒューマノイドロボット, 合成データ生成, LeRobot]
 category: "ai-ml"
 memo: "[HF Blog] NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets"
+related: [216, 1500, 1585, 1123, 1183]
 processed_at: "2026-04-08T09:16:00.851638"
 ---
 

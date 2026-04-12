@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [DDPM, 拡散モデル, U-Net, PyTorch, 生成モデル, ノイズスケジュール, denoising, varational inference]
 category: "ai-ml"
 memo: "[HF Blog] The Annotated Diffusion Model"
+related: [506, 1653, 586, 1572, 1476]
 processed_at: "2026-04-12T09:10:47.189973"
 ---
 

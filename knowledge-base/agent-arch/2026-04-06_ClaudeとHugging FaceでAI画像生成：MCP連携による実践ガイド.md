@@ -5,6 +5,7 @@ date: 2026-04-06
 tags: [MCP, Claude, Hugging Face, FLUX, Qwen-Image, image-generation, ZeroGPU, Gradio, function-calling]
 category: "agent-arch"
 memo: "[HF Blog] Generate Images with Claude and Hugging Face"
+related: [88, 526, 426, 64, 652]
 processed_at: "2026-04-06T21:03:08.818212"
 ---
 

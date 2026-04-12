@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [PatternBoost, Axplorer, グラフ理論, 数学的パターン探索, AlphaEvolve, DARPA-expMath, オープンソース, 記号的AI]
 category: "ai-ml"
 memo: "[MIT Technology Review AI] This startup wants to change how mathematicians do math"
+related: [203, 1121, 1305, 1190, 948]
 processed_at: "2026-04-11T21:36:32.904332"
 ---
 

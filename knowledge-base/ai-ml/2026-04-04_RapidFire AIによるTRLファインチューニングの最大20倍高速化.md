@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [TRL, GRPO, SFT, DPO, LoRA, ファインチューニング, ハイパーパラメータ最適化, 並列学習, MLflow]
 category: "ai-ml"
 memo: "[HF Blog] 20x Faster TRL Fine-tuning with RapidFire AI"
+related: [405, 520, 1397, 335, 1169]
 processed_at: "2026-04-04T09:09:10.687059"
 ---
 

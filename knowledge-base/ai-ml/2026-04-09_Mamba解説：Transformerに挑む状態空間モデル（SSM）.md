@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Mamba, SSM, State Space Model, Transformer, 線形アテンション, 長文脈, 選択的状態空間, ZOH離散化, シーケンスモデル]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [199, 222, 833, 255, 1494]
 processed_at: "2026-04-09T21:18:44.005699"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [PyTorch, LSTM, 時系列予測, Google Colab, Claude Code, スライディングウィンドウ, MinMaxScaler, GPU]
 category: "ai-ml"
 memo: "[Zenn 機械学習] Claude Code × Google Colab 第3弾 PyTorch LSTMが怖くなかった話 GPUで気温予測"
+related: [113, 828, 26, 415, 116]
 processed_at: "2026-04-07T12:02:44.093203"
 ---
 

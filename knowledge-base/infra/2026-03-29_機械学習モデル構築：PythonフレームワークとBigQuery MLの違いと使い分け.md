@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [BigQuery ML, scikit-learn, Google Cloud, SQL, 機械学習, Vertex AI, データパイプライン, MLOps]
 category: "infra"
 memo: "[Zenn 機械学習] 機械学習モデル構築：PythonフレームワークとBigQuery MLの違いと使い分け"
+related: [1577, 1574, 1190, 1615, 1645]
 processed_at: "2026-03-29T22:44:54.193304"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [Swift, MLX, Apple-Silicon, llama.cpp, Ollama, Foundation-Models, HuggingFace, LLM-API]
 category: "infra"
 memo: "[HF Blog] Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms"
+related: [647, 52, 399, 859, 400]
 processed_at: "2026-04-04T09:10:20.428155"
 ---
 

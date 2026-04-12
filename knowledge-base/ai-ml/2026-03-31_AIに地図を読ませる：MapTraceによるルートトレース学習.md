@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [MLLM, 空間推論, 合成データ生成, MapTrace, Gemini, ファインチューニング, ダイクストラ法, グラフ構造, LLM-as-judge]
 category: "ai-ml"
 memo: "[Google AI Blog] Teaching AI to read a map"
+related: [112, 234, 260, 166, 993]
 processed_at: "2026-03-31T09:13:05.192602"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [自動運転, 画像編集, シーン生成, セマンティックセグメンテーション, データ拡張, nuScenes, Argoverse2, マルチモーダル]
 category: "ai-ml"
 memo: "[HF Daily Papers] HorizonWeaver: Generalizable Multi-Level Semantic Editing for Driving Scenes"
+related: [1343, 986, 607, 927, 1377]
 processed_at: "2026-04-10T09:12:26.450010"
 ---
 

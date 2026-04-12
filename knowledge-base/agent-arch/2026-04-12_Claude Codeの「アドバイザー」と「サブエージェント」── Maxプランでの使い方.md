@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [Claude Code, advisor, サブエージェント, Opus 4.6, Sonnet 4.6, マルチエージェント, CLAUDE.md, コスト最適化]
 category: "agent-arch"
 memo: "[Zenn LLM] Claude Codeの「アドバイザー」と「サブエージェント」── Maxプランでの使い方"
+related: [1641, 18, 609, 1045, 973]
 processed_at: "2026-04-12T09:01:44.334334"
 ---
 

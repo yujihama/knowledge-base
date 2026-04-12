@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Authority Engineering, ハーネスエンジニアリング, コンテキストエンジニアリング, AIエージェント, 自律性設計, マルチエージェント, Claude Code, MCP, METR, Darwin Gödel Machine]
 category: "agent-arch"
 memo: "[Zenn LLM] AIエンジニアリング進化の系譜 — 第4の波は何か"
+related: [94, 51, 18, 430, 88]
 processed_at: "2026-04-09T21:40:05.168555"
 ---
 

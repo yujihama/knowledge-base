@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [ASI-Evolve, GRPO, 強化学習アルゴリズム設計, ニューラルアーキテクチャ探索, 進化的エージェント, AI-for-AI, 線形アテンション, データキュレーション, クローズドループ研究]
 category: "ai-ml"
 memo: "[HF Daily Papers] ASI-Evolve: AI Accelerates AI"
+related: [1611, 1605, 1156, 938, 1169]
 processed_at: "2026-04-08T09:09:11.173464"
 ---
 

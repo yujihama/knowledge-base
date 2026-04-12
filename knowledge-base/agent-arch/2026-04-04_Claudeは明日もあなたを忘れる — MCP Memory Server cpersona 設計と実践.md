@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [MCP, Memory, SQLite, cpersona, エピソード記憶, Confidence Score, Cascading Recall, マルチエージェント, Anti-Contamination, LLM永続化]
 category: "agent-arch"
 memo: "[Zenn LLM] Claudeは明日もあなたを忘れる — MCP Memory Server cpersona 設計と実践"
+related: [9, 88, 628, 1245, 1242]
 processed_at: "2026-04-04T21:10:03.157479"
 ---
 

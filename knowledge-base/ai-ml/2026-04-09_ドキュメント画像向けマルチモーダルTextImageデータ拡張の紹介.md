@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [VLM, データ拡張, Albumentations, OCR, ドキュメント理解, マルチモーダル, SynthDOG, ファインチューニング]
 category: "ai-ml"
 memo: "[HF Blog] Introducing TextImage Augmentation for Document Images"
+related: [305, 21, 1117, 234, 1257]
 processed_at: "2026-04-09T09:04:32.352664"
 ---
 

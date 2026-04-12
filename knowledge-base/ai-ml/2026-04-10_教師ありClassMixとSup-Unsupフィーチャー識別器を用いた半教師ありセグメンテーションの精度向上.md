@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [semi-supervised-learning, semantic-segmentation, ClassMix, data-augmentation, adversarial-training, mIoU, 医療画像]
 category: "ai-ml"
 memo: "[HF Daily Papers] Accuracy Improvement of Semi-Supervised Segmentation Using Supervised ClassMix and Sup-Unsup Feature Discriminator"
+related: [1575, 153, 982, 1485, 1433]
 processed_at: "2026-04-10T12:33:34.073807"
 ---
 

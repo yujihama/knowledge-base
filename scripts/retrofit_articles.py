@@ -56,6 +56,29 @@ def insert_related_section(content: str, related_lines: str) -> str:
     return content.rstrip() + "\n\n" + related_lines + "\n"
 
 
+def upsert_frontmatter_related(content: str, related_ids: list[int]) -> str:
+    """frontmatterにrelated: [id, ...]を追加または更新"""
+    related_yaml = ", ".join(str(i) for i in related_ids)
+    new_field = f"related: [{related_yaml}]"
+
+    # 既にrelated:行がある場合は上書き
+    if re.search(r"^related:\s*\[", content, re.MULTILINE):
+        return re.sub(
+            r"^related:\s*\[.*?\]",
+            new_field,
+            content,
+            count=1,
+            flags=re.MULTILINE,
+        )
+
+    # なければ processed_at: の直前に挿入（なければ閉じ---の直前）
+    if "processed_at:" in content:
+        return content.replace("processed_at:", new_field + "\n" + "processed_at:", 1)
+
+    # fallback: 最初の閉じ---の直前
+    return re.sub(r"\n---", f"\n{new_field}\n---", content, count=1)
+
+
 def parse_tags_from_content(content: str) -> list[str]:
     """frontmatterからタグを抽出"""
     m = re.search(r"^tags:\s*\[([^\]]*)\]", content, re.MULTILINE)
@@ -96,26 +119,36 @@ def process_file(
             content = remove_section(content, heading)
             result["removed"].append(heading)
 
-    # 2. 関連記事追加（既に存在する場合はスキップ）
-    if not has_section(content, "## 関連記事"):
-        tags = parse_tags_from_content(content)
-        title = parse_title_from_content(content)
-        url = parse_url_from_content(content)
+    # 2. 関連記事追加（本文セクション + frontmatterプロパティ）
+    tags = parse_tags_from_content(content)
+    title = parse_title_from_content(content)
+    url = parse_url_from_content(content)
+    related: list[dict] = []
 
-        if tags:
-            related = find_related_articles(tags, url, title, kb_index, top_k=5)
-            if related:
-                lines = "## 関連記事\n\n"
-                for r in related:
-                    kb_id = r.get("kb_id")
-                    if kb_id is not None:
-                        lines += f"- /deep_{kb_id} {r['title']}\n"
-                    else:
-                        rel_path = "../" + r["path"]
-                        lines += f"- [{r['title']}]({rel_path})\n"
+    if tags:
+        related = find_related_articles(tags, url, title, kb_index, top_k=5)
 
-                content = insert_related_section(content, lines)
-                result["related_added"] = True
+    if related:
+        related_ids = [r["kb_id"] for r in related if r.get("kb_id") is not None]
+
+        # frontmatterに related: [...] を追加/更新
+        if related_ids:
+            content = upsert_frontmatter_related(content, related_ids)
+
+        # 本文セクションがなければ追加
+        if not has_section(content, "## 関連記事"):
+            lines = "## 関連記事\n\n"
+            for r in related:
+                kb_id = r.get("kb_id")
+                if kb_id is not None:
+                    lines += f"- /deep_{kb_id} {r['title']}\n"
+                else:
+                    rel_path = "../" + r["path"]
+                    lines += f"- [{r['title']}]({rel_path})\n"
+
+            content = insert_related_section(content, lines)
+
+        result["related_added"] = True
 
     # 変更があれば書き込み
     if content != original:

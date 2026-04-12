@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Hugging Face, Google Cloud, Vertex AI, TPU, GKE, Inference Endpoints, オープンソース, モデルデプロイ]
 category: "infra"
 memo: "[HF Blog] Hugging Face and Google partner for open AI collaboration"
+related: [396, 418, 1396, 709, 1578]
 processed_at: "2026-04-09T21:07:45.751177"
 ---
 

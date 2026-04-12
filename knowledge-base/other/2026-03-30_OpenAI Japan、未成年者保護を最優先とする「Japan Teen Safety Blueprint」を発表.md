@@ -5,6 +5,7 @@ date: 2026-03-30
 tags: [teen-safety, AI-governance, OpenAI-Japan, age-verification, content-filtering, child-protection]
 category: "other"
 memo: "[OpenAI Blog] OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first"
+related: [555, 953, 385]
 processed_at: "2026-03-30T12:04:32.720898"
 ---
 

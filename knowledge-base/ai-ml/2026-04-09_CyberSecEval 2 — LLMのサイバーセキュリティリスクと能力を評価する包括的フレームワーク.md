@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [CyberSecEval, LLMセキュリティ, ベンチマーク, プロンプトインジェクション, CWE, コードインタープリター悪用, CTF, Meta, オープンソース評価]
 category: "ai-ml"
 memo: "[HF Blog] CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models"
+related: [1517, 1068, 899, 1251, 1065]
 processed_at: "2026-04-09T09:26:28.010925"
 ---
 

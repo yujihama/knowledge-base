@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [SegFormer, UNETR, 医用画像セグメンテーション, 7T-MRI, 多発性硬化症, Transformer, BraTS, FLAIR]
 category: "ai-ml"
 memo: "[HF Daily Papers] Automated Detection of Multiple Sclerosis Lesions on 7-tesla MRI Using U-net and Transformer-based Segmentation"
+related: [1494, 113, 216, 370, 501]
 processed_at: "2026-04-08T12:24:45.530839"
 ---
 

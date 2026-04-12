@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Fourier Neural Operator, Vision Transformer, PDE surrogate model, Scientific ML, Maxwell equations, autoregressive prediction, wave simulation]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Predicting Wave Reflection and Transmission in Heterogeneous Media via Fourier Operator-Based Transformer Modeling"
+related: [1172, 1575, 694, 1380, 607]
 processed_at: "2026-04-08T09:36:07.345322"
 ---
 

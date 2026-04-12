@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [LTN, Logic Tensor Network, ニューロシンボリックAI, XAI, 説明可能AI, 公共調達, コンプライアンス検証, 述語論理, LLM]
 category: "audit-ai"
 memo: "[HF Daily Papers] From Large Language Model Predicates to Logic Tensor Networks: Neurosymbolic Offer Validation in Regulated Procurement"
+related: [456, 389, 1604, 1563, 1266]
 processed_at: "2026-04-10T09:39:00.873915"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [Whisper, vLLM, Inference Endpoints, torch.compile, CUDA graphs, float8, ASR, HuggingFace, L4 GPU, FastRTC]
 category: "infra"
 memo: "[HF Blog] Blazingly fast whisper transcriptions with Inference Endpoints"
+related: [1529, 1488, 128, 1358, 647]
 processed_at: "2026-04-07T21:36:50.232723"
 ---
 

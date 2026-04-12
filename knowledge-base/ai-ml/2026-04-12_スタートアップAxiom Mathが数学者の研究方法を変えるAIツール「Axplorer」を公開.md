@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [PatternBoost, Axplorer, グラフ理論, 数学的パターン探索, AlphaEvolve, 組み合わせ最適化, オープンソース]
 category: "ai-ml"
 memo: "[MIT Technology Review AI] This startup wants to change how mathematicians do math"
+related: [687, 203, 1121, 1305, 1190]
 processed_at: "2026-04-12T09:20:03.778589"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [LLM, Transformer, MLA, GQA, MoE, RoPE, QK-Norm, GatedDeltaNet, DeepSeek, アーキテクチャ比較]
 category: "ai-ml"
 memo: "[Zenn 機械学習] LLM Architecture Gallery徹底解説：30+モデルの内部構造を4軸で横断比較する"
+related: [216, 1264, 1335, 641, 203]
 processed_at: "2026-03-29T22:20:09.191113"
 ---
 

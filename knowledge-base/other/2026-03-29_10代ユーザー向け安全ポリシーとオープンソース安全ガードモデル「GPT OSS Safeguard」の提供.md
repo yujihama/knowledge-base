@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [OpenAI, コンテンツモデレーション, 安全ガードモデル, オープンソース, 未成年保護, APIポリシー, テキスト分類]
 category: "other"
 memo: "[OpenAI Blog] Helping developers build safer AI experiences for teens"
+related: [126, 117, 21, 365, 722]
 processed_at: "2026-03-29T22:49:07.916413"
 ---
 

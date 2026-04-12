@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [CortexCode, SubAgents, Skills, Hooks, MCP, AGENTS.md, Snowflake, エージェントカスタマイズ, WorktreeIsolation]
 category: "agent-arch"
 memo: "[Zenn LLM] Cortex Code CLI 実践カスタマイズガイド"
+related: [94, 430, 88, 1561, 1247]
 processed_at: "2026-04-07T09:09:11.088325"
 ---
 

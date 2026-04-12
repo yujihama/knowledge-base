@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [multimodal-LLM, benchmark, LLM-as-judge, vision-language, text-rich-image, GPT-4V, LLaVA, OCR]
 category: "ai-ml"
 memo: "[HF Blog] Introducing ConTextual: How well can your Multimodal model jointly reason over text and image in text-rich scenes?"
+related: [23, 1602, 56, 21, 251]
 processed_at: "2026-04-09T12:22:56.281244"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [TGI, AWS Inferentia2, Amazon SageMaker, Neuron, Zephyr-7B, Continuous Batching, Tensor Parallelism, LLM Serving, Optimum, bf16]
 category: "infra"
 memo: "[HF Blog] Hugging Face Text Generation Inference available for AWS Inferentia2"
+related: [1021, 994, 419, 1536, 1267]
 processed_at: "2026-04-09T21:04:39.728861"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [Transformers.js, WebGPU, ONNX Runtime, JavaScript, NPM, MoE, Mamba, エッジAI推論, esbuild, ModelRegistry]
 category: "infra"
 memo: "[HF Blog] Transformers.js v4 Preview: Now Available on NPM!"
+related: [152, 641, 1102, 1159, 650]
 processed_at: "2026-04-02T09:07:09.271148"
 ---
 

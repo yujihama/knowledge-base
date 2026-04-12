@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [AMIE, conversational-AI, RCT, multi-agent, healthcare-AI, Personal-Health-Agent, LLM-clinical]
 category: "ai-ml"
 memo: "[Google AI Blog] Collaborating on a nationwide randomized study of AI in real-world virtual care"
+related: [5, 132, 629, 564, 1057]
 processed_at: "2026-03-31T12:06:25.424562"
 ---
 

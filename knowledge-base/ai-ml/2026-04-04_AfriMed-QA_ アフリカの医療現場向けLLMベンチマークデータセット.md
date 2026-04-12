@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [LLM-benchmark, medical-QA, evaluation, MedGemma, low-resource, multilingual, ACL2025]
 category: "ai-ml"
 memo: "[Google AI Blog] AfriMed-QA: Benchmarking large language models for global health"
+related: [1353, 846, 963, 1137, 544]
 processed_at: "2026-04-04T12:03:44.673048"
 ---
 

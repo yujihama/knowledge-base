@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [RLHF, LLM-as-judge, Elo, human-preference, evaluation, Open-LLM-Leaderboard, GPT-4-eval, Vicuna, Scale-AI]
 category: "ai-ml"
 memo: "[HF Blog] Can foundation models label data like humans?"
+related: [963, 1137, 544, 888, 1296]
 processed_at: "2026-04-10T09:42:39.146210"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [OCR, 評価指標, Character Error Rate, Document Understanding, Jensen-Shannon距離, SpACER, アーカイブ文書処理]
 category: "ai-ml"
 memo: "[HF Daily Papers] The Character Error Vector: Decomposable errors for page-level OCR evaluation"
+related: [158, 986, 305, 231, 610]
 processed_at: "2026-04-10T09:35:53.066699"
 ---
 

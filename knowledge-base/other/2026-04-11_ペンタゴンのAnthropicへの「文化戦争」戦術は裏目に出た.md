@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [Anthropic, Claude, Pentagon, 政府調達, サプライチェーンリスク, AI規制, 修正第1条, Palantir]
 category: "other"
 memo: "[MIT Technology Review AI] The Pentagon’s culture war tactic against Anthropic has backfired"
+related: [538, 1419, 435, 1032, 451]
 processed_at: "2026-04-11T21:36:03.483965"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [quantization, PyTorch, Optimum, int8, float8, LLM推論最適化, safetensors, transformers]
 category: "infra"
 memo: "[HF Blog] Quanto: a PyTorch quantization backend for Optimum"
+related: [1266, 647, 1532, 26, 1529]
 processed_at: "2026-04-09T12:21:30.563139"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [KAN, SAR画像認識, 軽量モデル, ResNet, グラム多項式, エッジAI, パラメータ共有, Kolmogorov-Arnold Network]
 category: "ai-ml"
 memo: "[HF Daily Papers] Light-ResKAN: A Parameter-Sharing Lightweight KAN with Gram Polynomials for Efficient SAR Image Recognition"
+related: [324, 896, 154, 619, 1171]
 processed_at: "2026-04-08T21:29:28.613986"
 ---
 

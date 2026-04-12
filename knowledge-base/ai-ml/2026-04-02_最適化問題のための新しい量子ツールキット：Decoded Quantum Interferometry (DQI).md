@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [量子コンピュータ, 量子アルゴリズム, 最適化, DQI, Reed-Solomon, NP困難, 誤り訂正符号, 量子優位性]
 category: "ai-ml"
 memo: "[Google AI Blog] A new quantum toolkit for optimization"
+related: [246, 624, 441, 1182]
 processed_at: "2026-04-02T12:07:48.237095"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [LLM-benchmark, drug-discovery, embedding, drug-protein-interaction, chemical-reasoning, LLM-evaluation]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] DrugPlayGround: Benchmarking Large Language Models and Embeddings for Drug Discovery"
+related: [161, 902, 155, 846, 1092]
 processed_at: "2026-04-09T12:46:37.389119"
 ---
 

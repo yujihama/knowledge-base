@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [AIO, llms.txt, RAG, LLMクローラー, セマンティックウェブ, JSON-LD, ハルシネーション対策]
 category: "agent-arch"
 memo: "[Zenn LLM] LLMクローラーを制御する『AIO』基本マニュアル"
+related: [1116, 1334, 861, 112, 111]
 processed_at: "2026-03-29T21:57:27.072560"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [HuggingFace, GoogleCloud, VertexAI, GKE, TPU, CDN, InferenceEndpoints, ModelGarden, オープンモデル, CloudRun]
 category: "infra"
 memo: "[HF Blog] Building for an Open Future - our new partnership with Google Cloud"
+related: [1579, 1535, 1190, 1448, 1612]
 processed_at: "2026-04-04T12:02:11.172184"
 ---
 

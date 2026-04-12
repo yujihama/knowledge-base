@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [HuggingFace, コンテンツポリシー, AI倫理, コミュニティガイドライン, 同意, モデレーション, 責任あるAI]
 category: "other"
 memo: "[HF Blog] Announcing our new Content Guidelines and Policy"
+related: [1398, 1441, 1572, 1529, 1494]
 processed_at: "2026-04-10T09:41:36.745835"
 ---
 

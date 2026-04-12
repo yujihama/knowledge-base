@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [拡散モデル, 空間トランスクリプトミクス, ドメイン適応, データ拡張, 生成モデル, 転移学習, 病理画像解析, 遺伝子発現予測]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Central-to-Local Adaptive Generative Diffusion Framework for Improving Gene Expression Prediction in Data-Limited Spatial Transcriptomics"
+related: [1179, 362, 490, 1662, 570]
 processed_at: "2026-04-07T12:11:03.951972"
 ---
 

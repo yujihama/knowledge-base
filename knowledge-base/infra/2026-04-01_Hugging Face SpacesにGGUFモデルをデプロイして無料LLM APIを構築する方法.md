@@ -5,6 +5,7 @@ date: 2026-04-01
 tags: [GGUF, llama.cpp, Hugging Face Spaces, FastAPI, Docker, llama-server, OpenAI互換API, CPU推論]
 category: "infra"
 memo: "[Zenn LLM] Hugging Face Spacesに小型LLMをあげて、夢の無料LLM-API を立てる方法"
+related: [399, 1146, 647, 524, 390]
 processed_at: "2026-04-01T21:10:44.669006"
 ---
 

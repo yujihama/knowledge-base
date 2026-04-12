@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [Hugging Face Optimum, IPU, Graphcore, Transformer, ViT, BERT, T5, BART, Wav2Vec2, HuBERT, Bow IPU, Poplar SDK]
 category: "infra"
 memo: "[HF Blog] Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers"
+related: [1575, 1489, 518, 1393, 1494]
 processed_at: "2026-04-12T09:11:42.557300"
 ---
 

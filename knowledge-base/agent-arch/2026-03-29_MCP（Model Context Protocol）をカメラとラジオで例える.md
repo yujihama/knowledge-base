@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [MCP, Model Context Protocol, LLMエージェント, Tools, Resources, Prompts, YOLO]
 category: "agent-arch"
 memo: "[Zenn LLM] MCP（Model Context Protocol）をカメラとラジオで例える"
+related: [88, 1475, 11, 430, 889]
 processed_at: "2026-03-29T22:06:42.162594"
 ---
 

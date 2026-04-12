@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [WebVoyager, エージェント評価, ベンチマーク, OpenAI Operator, inter-annotator agreement, 再現性, ウェブエージェント]
 category: "agent-arch"
 memo: "[arXiv cs.AI+cs.LG] Emergence WebVoyager: Toward Consistent and Transparent Evaluation of (Web) Agents in The Wild"
+related: [749, 187, 1068, 899, 1251]
 processed_at: "2026-04-07T21:28:14.516441"
 ---
 

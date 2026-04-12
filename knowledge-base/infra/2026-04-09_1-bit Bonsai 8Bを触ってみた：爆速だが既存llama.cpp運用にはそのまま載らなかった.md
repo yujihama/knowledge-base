@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Bonsai-8B, 1-bit量子化, llama.cpp, PrismML, GGUF, ローカルLLM, CUDA, Docker, RTX-4060, Windows]
 category: "infra"
 memo: "[Zenn LLM] 1-bit Bonsai 8Bを触ってみた。爆速だったが、普段のllama.cpp運用にはそのまま載らなかった"
+related: [1143, 399, 409, 647, 1423]
 processed_at: "2026-04-09T12:38:50.820089"
 ---
 

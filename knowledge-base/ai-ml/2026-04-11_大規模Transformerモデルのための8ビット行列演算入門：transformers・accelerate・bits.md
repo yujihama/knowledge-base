@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [LLM.int8(), 8ビット量子化, bitsandbytes, INT8, 混合精度, absmax量子化, BLOOM-176B, HuggingFace, メモリ削減, 大規模言語モデル]
 category: "ai-ml"
 memo: "[HF Blog] A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes"
+related: [1449, 1389, 944, 1357, 1572]
 processed_at: "2026-04-11T21:07:36.710682"
 ---
 

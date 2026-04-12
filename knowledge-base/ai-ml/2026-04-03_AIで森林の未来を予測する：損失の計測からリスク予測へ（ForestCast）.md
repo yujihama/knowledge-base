@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [Vision Transformer, 深層学習, 衛星画像解析, 時系列予測, ForestCast, 地理空間AI, リスク予測, Google DeepMind]
 category: "ai-ml"
 memo: "[Google AI Blog] Forecasting the future of forests with AI: From counting losses to predicting risk"
+related: [182, 116, 1494, 113, 1482]
 processed_at: "2026-04-03T12:01:44.209995"
 ---
 

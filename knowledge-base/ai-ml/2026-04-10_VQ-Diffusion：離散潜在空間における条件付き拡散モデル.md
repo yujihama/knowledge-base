@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [VQ-Diffusion, discrete-diffusion, VQ-VAE, VQGAN, latent-diffusion, CLIP, transformer, diffusers, text-to-image]
 category: "ai-ml"
 memo: "[HF Blog] VQ-Diffusion"
+related: [1572, 1302, 1265, 1538, 1494]
 processed_at: "2026-04-10T21:13:46.993506"
 ---
 

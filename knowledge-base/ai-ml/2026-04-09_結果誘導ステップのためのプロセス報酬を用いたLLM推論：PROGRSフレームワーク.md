@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [GRPO, PRM, process-reward-model, RLVR, mathematical-reasoning, reward-hacking, outcome-conditioned-centering, LLM-training]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] LLM Reasoning with Process Rewards for Outcome-Guided Steps"
+related: [520, 1611, 1605, 861, 938]
 processed_at: "2026-04-09T12:44:00.013158"
 ---
 

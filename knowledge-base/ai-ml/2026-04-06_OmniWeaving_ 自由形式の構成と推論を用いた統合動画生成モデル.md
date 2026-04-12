@@ -5,6 +5,7 @@ date: 2026-04-06
 tags: [video-generation, multimodal, unified-model, reasoning, open-source, benchmark, pretraining]
 category: "ai-ml"
 memo: "[HF Daily Papers] OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning"
+related: [212, 975, 522, 1519, 616]
 processed_at: "2026-04-06T21:00:59.029624"
 ---
 

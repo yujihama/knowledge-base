@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [Google Research, マルチエージェント, 地理空間AI, ゲノムAI, 量子コンピューティング, AI co-scientist, LLM推論, CNNゲノム解析, Willow, 科学的発見加速]
 category: "ai-ml"
 memo: "[Google AI Blog] Accelerating the magic cycle of research breakthroughs and real-world applications"
+related: [1641, 16, 21, 972, 931]
 processed_at: "2026-04-03T12:02:49.552920"
 ---
 

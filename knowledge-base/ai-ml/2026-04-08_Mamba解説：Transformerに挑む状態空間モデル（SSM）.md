@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Mamba, SSM, 状態空間モデル, SelectiveSSM, 線形スキャン, 長文脈推論, アーキテクチャ比較, Transformer代替]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [222, 833, 255, 617, 410]
 processed_at: "2026-04-08T21:26:34.582461"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Mamba, SSM, 状態空間モデル, Transformer, 線形RNN, 選択的状態空間, 長文脈, FlashAttention, parallel-scan]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [199, 222, 833, 221, 255]
 processed_at: "2026-04-10T21:24:52.443545"
 ---
 

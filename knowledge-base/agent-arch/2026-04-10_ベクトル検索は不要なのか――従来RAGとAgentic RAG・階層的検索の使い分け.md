@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [RAG, Agentic-RAG, ベクトル検索, 階層的検索, PageIndex, DeepRead, LlamaIndex, Gemini-Embedding2, Progressive-Disclosure]
 category: "agent-arch"
 memo: "[Zenn LLM] ベクトル検索は不要なのか"
+related: [858, 1337, 9, 1116, 1334]
 processed_at: "2026-04-10T21:01:31.191930"
 ---
 

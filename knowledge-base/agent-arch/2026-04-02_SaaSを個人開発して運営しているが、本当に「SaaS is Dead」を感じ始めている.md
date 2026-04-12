@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [MCP, SaaS, AIエージェント, MCPサーバー, 課金モデル, Claude Code, LLMプロバイダー]
 category: "agent-arch"
 memo: "[Zenn LLM] SaaSを個人開発して運営しているが、本当に「SaaS is Dead」を感じ始めている"
+related: [1245, 430, 13, 9, 528]
 processed_at: "2026-04-02T21:12:38.283182"
 ---
 

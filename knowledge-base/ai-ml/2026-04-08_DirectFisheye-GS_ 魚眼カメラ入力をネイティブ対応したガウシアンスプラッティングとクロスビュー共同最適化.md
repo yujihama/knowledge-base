@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [3D Gaussian Splatting, 魚眼カメラ, 3D再構成, クロスビュー最適化, VR/AR, ニューラルレンダリング, アーティファクト除去]
 category: "ai-ml"
 memo: "[HF Daily Papers] DirectFisheye-GS: Enabling Native Fisheye Input in Gaussian Splatting with Cross-View Joint Optimization"
+related: [1053, 1343, 130, 353, 572]
 processed_at: "2026-04-08T09:40:42.622186"
 ---
 

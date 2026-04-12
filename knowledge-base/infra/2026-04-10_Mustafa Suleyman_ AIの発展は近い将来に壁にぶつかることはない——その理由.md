@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [compute-scaling, GPU, HBM, NVLink, AI-agents, Microsoft-AI, exponential-growth, inference-cost]
 category: "infra"
 memo: "[MIT Technology Review AI] Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why"
+related: [404, 518, 828, 408, 488]
 processed_at: "2026-04-10T09:45:34.352869"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Hugging Face, Inference Endpoints, モニタリング, アナリティクス, レプリカ管理, リアルタイムメトリクス]
 category: "infra"
 memo: "[HF Blog] The New and Fresh analytics in Inference Endpoints"
+related: [1396, 1190, 1308, 1218, 1645]
 processed_at: "2026-04-08T09:14:20.232164"
 ---
 

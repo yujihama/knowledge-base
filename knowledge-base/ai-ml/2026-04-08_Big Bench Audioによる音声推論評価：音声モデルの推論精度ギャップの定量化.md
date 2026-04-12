@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Big Bench Hard, audio LLM, Speech-to-Speech, LLM-as-judge, GPT-4o Realtime, Gemini 1.5, 評価ベンチマーク, Whisper, TTS]
 category: "ai-ml"
 memo: "[HF Blog] Evaluating Audio Reasoning with Big Bench Audio"
+related: [23, 128, 137, 1529, 21]
 processed_at: "2026-04-08T12:27:42.672316"
 ---
 

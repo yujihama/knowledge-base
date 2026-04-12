@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [Daggr, Gradio, ワークフローオーケストレーション, HuggingFace Spaces, DAG, パイプラインデバッグ, ビジュアルキャンバス, InferenceProviders]
 category: "agent-arch"
 memo: "[HF Blog] Introducing Daggr: Chain apps programmatically, inspect visually"
+related: [1571, 1304, 88, 1619, 701]
 processed_at: "2026-04-02T12:01:02.516845"
 ---
 

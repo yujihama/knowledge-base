@@ -5,6 +5,7 @@ date: 2026-04-01
 tags: [ChatGPT, Excel, Microsoft365, financial-data, LLM-integration, natural-language-interface]
 category: "audit-ai"
 memo: "[OpenAI Blog] Introducing ChatGPT for Excel and new financial data integrations"
+related: [440, 643, 1546, 952, 913]
 processed_at: "2026-04-01T09:04:35.118427"
 ---
 

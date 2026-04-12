@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [Hugging Face Spaces, 小型LLM, API, transformers, FastAPI, Gradio, Qwen2.5, LLMデプロイ]
 category: "infra"
 memo: "[Zenn LLM] Hugging Face Spacesの無料枠に小型LLMをあげてAPI を立てる方法（非推奨）"
+related: [1619, 409, 1448, 1354, 1529]
 processed_at: "2026-03-29T22:06:59.847769"
 ---
 

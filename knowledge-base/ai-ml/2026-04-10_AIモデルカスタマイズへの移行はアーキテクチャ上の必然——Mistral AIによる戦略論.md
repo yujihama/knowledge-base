@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [model-customization, fine-tuning, domain-specific-AI, ModelOps, sovereign-AI, Mistral-AI, RL, data-governance]
 category: "ai-ml"
 memo: "[MIT Technology Review AI] Shifting to AI model customization is an architectural imperative"
+related: [301, 1449, 159, 892, 364]
 processed_at: "2026-04-10T09:48:48.534807"
 ---
 

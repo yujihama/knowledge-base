@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [Mamba, SSM, ハイブリッドアーキテクチャ, Arabic-NLP, 長コンテキスト, DPO, SFT, Falcon-H1, vLLM, 多言語LLM]
 category: "ai-ml"
 memo: "[HF Blog] Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture"
+related: [879, 1012, 341, 672, 1598]
 processed_at: "2026-04-03T09:09:40.459851"
 ---
 

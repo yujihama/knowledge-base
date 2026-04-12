@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [VTG, Vid-LLM, visual-token-sampling, temporal-grounding, multimodal-LLM, video-understanding]
 category: "ai-ml"
 memo: "[HF Daily Papers] GroundVTS: Visual Token Sampling in Multimodal Large Language Models for Video Temporal Grounding"
+related: [178, 819, 1293, 1381, 1602]
 processed_at: "2026-04-08T21:06:42.922731"
 ---
 

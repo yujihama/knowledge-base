@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Core ML, Stable Diffusion, Apple Silicon, Neural Engine, Swift, 画像生成, ローカル推論]
 category: "infra"
 memo: "[HF Blog] Swift 🧨Diffusers - Fast Stable Diffusion for Mac"
+related: [1493, 992, 1181, 1211, 1489]
 processed_at: "2026-04-10T12:36:56.104779"
 ---
 

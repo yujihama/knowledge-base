@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [異常検出, 拡散モデル, Few-Shot学習, 画像生成, U-Net, Spatial Conditioning, Gated Attention, MVTec AD, VisA, 品質検査, データ拡張]
 category: "ai-ml"
 memo: "[HF Daily Papers] GroundingAnomaly: Spatially-Grounded Diffusion for Few-Shot Anomaly Synthesis"
+related: [506, 1662, 570, 1572, 1476]
 processed_at: "2026-04-12T09:06:30.135817"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [edge-AI, super-resolution, Sentinel-2, depthwise-separable-convolution, attention-gate, lightweight-model, environmental-monitoring]
 category: "ai-ml"
 memo: "[HF Daily Papers] TinyNina: A Resource-Efficient Edge-AI Framework for Sustainable Air Quality Monitoring via Intra-Image Satellite Super-Resolution"
+related: [1174, 500, 182]
 processed_at: "2026-04-09T21:44:36.580597"
 ---
 

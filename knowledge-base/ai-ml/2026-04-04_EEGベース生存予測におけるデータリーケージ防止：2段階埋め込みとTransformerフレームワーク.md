@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [データリーケージ, EEG, Transformer, ArcFace, CNN, 患者レベル分離, 生存予測, マルチステージ学習, 医療AI]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Preventing Data Leakage in EEG-Based Survival Prediction: A Two-Stage Embedding and Transformer Framework"
+related: [364, 504, 691, 750, 1494]
 processed_at: "2026-04-04T09:03:44.846354"
 ---
 

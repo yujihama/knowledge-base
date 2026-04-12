@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [generalist-agent, transformer, multi-task-RL, Gato, GPT-Neo, imitation-learning, Atari, MuJoCo, Meta-World, BabyAI, multimodal]
 category: "ai-ml"
 memo: "[HF Blog] Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent"
+related: [1057, 739, 1494, 113, 216]
 processed_at: "2026-04-09T09:51:42.058920"
 ---
 

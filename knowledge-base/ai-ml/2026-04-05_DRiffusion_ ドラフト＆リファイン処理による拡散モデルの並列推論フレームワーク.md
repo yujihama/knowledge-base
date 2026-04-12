@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [Diffusion Models, 並列推論, サンプリング高速化, スキップ遷移, マルチGPU, FID, CLIP, 推論最適化]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] DRiffusion: Draft-and-Refine Process Parallelizes Diffusion Models with Ease"
+related: [1572, 1256, 358, 204, 498]
 processed_at: "2026-04-05T09:04:55.506123"
 ---
 

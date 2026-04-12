@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [HuggingFace, 中国AIコミュニティ, ChatGLM, RWKV, オープンソースML, コミュニティ, 多言語化]
 category: "other"
 memo: "[HF Blog] Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community"
+related: [1119, 1665, 1572, 1529, 1494]
 processed_at: "2026-04-10T12:08:29.107472"
 ---
 

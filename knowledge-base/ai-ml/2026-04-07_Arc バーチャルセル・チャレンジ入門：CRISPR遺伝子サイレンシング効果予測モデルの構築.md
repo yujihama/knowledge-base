@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [single-cell-RNA-seq, CRISPR, perturbation-modeling, ESM2, transformer, MMD, cell-embedding, protein-language-model, context-generalization]
 category: "ai-ml"
 memo: "[HF Blog] Arc Virtual Cell Challenge: A Primer"
+related: [1494, 328, 113, 216, 370]
 processed_at: "2026-04-07T12:19:52.178054"
 ---
 

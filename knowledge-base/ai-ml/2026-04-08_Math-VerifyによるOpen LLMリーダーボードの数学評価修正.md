@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [evaluation, benchmark, MATH-Hard, SymPy, Math-Verify, Open-LLM-Leaderboard, LLM評価, Qwen, DeepSeek, AceMath]
 category: "ai-ml"
 memo: "[HF Blog] Fixing Open LLM Leaderboard with Math-Verify"
+related: [1353, 203, 236, 894, 522]
 processed_at: "2026-04-08T09:47:18.055266"
 ---
 

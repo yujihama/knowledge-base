@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [GRPO, MLLM, 強化学習, 自己修正, チャートからコード生成, マルチターン最適化, コード実行フィードバック]
 category: "ai-ml"
 memo: "[HF Daily Papers] MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning and Self-Correction"
+related: [1611, 1605, 492, 1169, 520]
 processed_at: "2026-04-08T21:29:57.084899"
 ---
 

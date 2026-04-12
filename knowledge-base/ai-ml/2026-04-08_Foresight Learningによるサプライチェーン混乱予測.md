@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [LLM fine-tuning, probabilistic forecasting, supply chain, calibration, domain-specific model, weak supervision, GPT-5]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Forecasting Supply Chain Disruptions with Foresight Learning"
+related: [370, 738, 1166, 155, 386]
 processed_at: "2026-04-08T12:51:10.566033"
 ---
 

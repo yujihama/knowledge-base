@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [llama.cpp, GGML, GGUF, HuggingFace, ローカル推論, オープンソース, エッジAI, transformers]
 category: "infra"
 memo: "[HF Blog] GGML and llama.cpp join HF to ensure the long-term progress of Local AI"
+related: [647, 399, 1529, 771, 1214]
 processed_at: "2026-03-31T21:06:37.131635"
 ---
 

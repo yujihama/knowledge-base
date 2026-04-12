@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [multi-agent, LLM, knowledge-graph, RAG, research-discovery, coder-LLM, orchestration, BibTeX, graph-QA]
 category: "agent-arch"
 memo: "[HF Daily Papers] Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework"
+related: [77, 1093, 564, 111, 686]
 processed_at: "2026-04-10T09:36:17.017743"
 ---
 

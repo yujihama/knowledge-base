@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [HuggingFace, NVIDIA, DGX Cloud, H100, AutoTrain, ファインチューニング, Mistral, Llama, クラウドGPU]
 category: "infra"
 memo: "[HF Blog] Easily Train Models with H100 GPUs on NVIDIA DGX Cloud"
+related: [1529, 1216, 994, 835, 1213]
 processed_at: "2026-04-09T12:21:02.930660"
 ---
 

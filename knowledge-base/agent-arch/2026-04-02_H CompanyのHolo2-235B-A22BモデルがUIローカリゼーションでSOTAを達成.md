@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [GUI-grounding, UI-localization, agentic-localization, ScreenSpot-Pro, MoE, computer-use, SkyPilot, multi-step-agent]
 category: "agent-arch"
 memo: "[HF Blog] H Company's new Holo2 model takes the lead in UI Localization"
+related: [645, 32, 152, 641, 827]
 processed_at: "2026-04-02T09:08:45.647926"
 ---
 

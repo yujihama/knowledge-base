@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Gemma3, Google, マルチモーダルLLM, SigLIP, RoPE, 長コンテキスト, オープンウェイト, 多言語モデル, transformers, 量子化]
 category: "ai-ml"
 memo: "[HF Blog] Welcome Gemma 3: Google's all new multimodal, multilingual, long context open LLM"
+related: [1264, 299, 859, 1529, 1266]
 processed_at: "2026-04-08T09:17:09.485699"
 ---
 

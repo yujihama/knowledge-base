@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [長期記憶, SQLite, sentence-transformers, RAG, MCP, Claude Code, エピソード記憶, ベクトル検索, 忘却曲線, エージェント記憶]
 category: "agent-arch"
 memo: "LLMに長期記憶を実装する"
+related: [68, 1242, 430, 1470, 1247]
 processed_at: "2026-03-29T21:56:24.467127"
 ---
 

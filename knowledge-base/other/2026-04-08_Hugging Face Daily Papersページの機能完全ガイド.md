@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [HuggingFace, Daily Papers, AI論文, arXiv, 研究コミュニティ, librarian-bot]
 category: "other"
 memo: "[HF Blog] Exploring the Daily Papers Page on Hugging Face"
+related: [1572, 1529, 1494, 1449, 1302]
 processed_at: "2026-04-08T21:34:09.832796"
 ---
 

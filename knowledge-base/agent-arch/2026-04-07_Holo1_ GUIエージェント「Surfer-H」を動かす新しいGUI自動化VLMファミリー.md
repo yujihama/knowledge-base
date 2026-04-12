@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [VLM, GUI-agent, UIローカライゼーション, Qwen2.5-VL, web-automation, multimodal, Surfer-H, WebClick]
 category: "agent-arch"
 memo: "[HF Blog] Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H"
+related: [1608, 650, 522, 584, 819]
 processed_at: "2026-04-07T21:02:40.524889"
 ---
 

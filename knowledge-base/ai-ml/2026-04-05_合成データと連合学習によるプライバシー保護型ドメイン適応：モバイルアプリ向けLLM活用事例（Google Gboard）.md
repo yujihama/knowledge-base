@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [federated-learning, differential-privacy, synthetic-data, LLM, domain-adaptation, Gemini, Gboard, DP-FTRL, privacy-preserving-ML, small-language-model]
 category: "ai-ml"
 memo: "[Google AI Blog] Synthetic and federated: Privacy-preserving domain adaptation with LLMs for mobile applications"
+related: [892, 208, 514, 77, 835]
 processed_at: "2026-04-05T21:03:13.747373"
 ---
 

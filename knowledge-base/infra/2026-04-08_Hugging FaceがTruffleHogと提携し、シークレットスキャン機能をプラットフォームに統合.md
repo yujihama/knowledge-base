@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [TruffleHog, シークレットスキャン, Hugging Face, セキュリティ, ClamAV, picklescan, API key leak, オープンソース]
 category: "infra"
 memo: "[HF Blog] Hugging Face partners with TruffleHog to Scan for Secrets"
+related: [1190, 1398, 1310, 88, 365]
 processed_at: "2026-04-08T21:37:23.811020"
 ---
 

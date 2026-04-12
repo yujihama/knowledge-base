@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [NAIRR, AI政策, Model Cards, Responsible AI License, オープンサイエンス, BigScience, AIガバナンス]
 category: "other"
 memo: "[HF Blog] Comments on U.S. National AI Research Resource Interim Report"
+related: [473, 1516, 593, 1407, 1679]
 processed_at: "2026-04-11T21:27:52.767044"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [Parquet, PyArrow, HuggingFace, CDC, Xet, データ重複排除, コンテンツ定義チャンキング, Pandas]
 category: "infra"
 memo: "[HF Blog] Parquet Content-Defined Chunking"
+related: [771, 900, 713, 904, 402]
 processed_at: "2026-04-07T12:17:56.694653"
 ---
 

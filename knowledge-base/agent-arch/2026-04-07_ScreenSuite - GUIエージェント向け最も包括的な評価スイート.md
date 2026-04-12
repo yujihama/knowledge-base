@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [GUI-Agent, VLM, ベンチマーク, smolagents, OSWorld, AndroidWorld, Qwen2.5-VL, vision-only, 評価フレームワーク, Docker]
 category: "agent-arch"
 memo: "[HF Blog] ScreenSuite - The most comprehensive evaluation suite for GUI Agents!"
+related: [587, 1608, 305, 650, 522]
 processed_at: "2026-04-07T21:01:09.731518"
 ---
 

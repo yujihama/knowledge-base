@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [Differential Attention, GQA, FlashAttention, attention-sink, Transformer, アーキテクチャ改良, RMSNorm, KVキャッシュ, YOCO, Microsoft]
 category: "ai-ml"
 memo: "[HF Blog] Differential Transformer V2"
+related: [1264, 1513, 262, 99, 580]
 processed_at: "2026-04-03T09:07:27.155727"
 ---
 

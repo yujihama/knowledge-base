@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [CLAP, 対照学習, 音声-テキスト埋め込み, デュアルエンコーダ, TTS, スタイル制御, 推論時報酬モデル, 音声表現学習]
 category: "ai-ml"
 memo: "[HF Daily Papers] ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining"
+related: [1256, 1299, 1157, 1100, 128]
 processed_at: "2026-04-07T12:15:27.030297"
 ---
 

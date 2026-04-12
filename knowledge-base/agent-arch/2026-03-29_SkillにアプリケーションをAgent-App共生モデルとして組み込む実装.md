@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [Agent Skill, MCP, AG-UI, A2UI, React, SSE, Codex App Server, self-contained skill, Claude Code]
 category: "agent-arch"
 memo: "Skillにアプリケーションを組み込んでみる - 逆瀬川ちゃんのブログ"
+related: [430, 1247, 51, 9, 652]
 processed_at: "2026-03-29T21:55:55.758577"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [multi-agent, LaMAS, Agentic Web, orchestration, incentive compatibility, agent scaling, LLM-based agents, emergent coordination]
 category: "agent-arch"
 memo: "[arXiv cs.AI+cs.LG] Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web"
+related: [1340, 61, 629, 564, 609]
 processed_at: "2026-04-09T12:40:55.103490"
 ---
 

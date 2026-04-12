@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [Mamba, SSM, 状態空間モデル, Transformer, 長コンテキスト, 選択機構, S6, Zero-Order Hold, 並列スキャン, LLM]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [222, 833, 216, 105, 199]
 processed_at: "2026-04-07T21:50:23.755941"
 ---
 

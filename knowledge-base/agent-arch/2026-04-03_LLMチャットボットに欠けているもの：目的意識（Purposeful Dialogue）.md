@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [Purposeful Dialogue, RLHF, LLM-as-judge, マルチターン対話, システムプロンプト, ロールプレイ一貫性, SWE-bench, 対話評価, メモリ機構]
 category: "agent-arch"
 memo: "[The Gradient] What's Missing From LLM Chatbots: A Sense of Purpose"
+related: [1353, 888, 1296, 991, 23]
 processed_at: "2026-04-03T21:03:05.412275"
 ---
 

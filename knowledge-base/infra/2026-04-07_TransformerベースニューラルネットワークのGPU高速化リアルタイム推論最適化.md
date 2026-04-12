@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [TensorRT, 混合精度, FP16, BERT, GPT-2, 推論最適化, GPU, NVIDIA A100, Transformer, レイテンシ]
 category: "infra"
 memo: "[HF Daily Papers] GPU-Accelerated Optimization of Transformer-Based Neural Networks for Real-Time Inference"
+related: [1489, 1220, 1664, 1494, 1531]
 processed_at: "2026-04-07T12:16:20.443263"
 ---
 

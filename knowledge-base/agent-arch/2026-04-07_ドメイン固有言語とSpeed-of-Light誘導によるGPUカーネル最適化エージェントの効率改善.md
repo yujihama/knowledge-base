@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [GPU最適化, LLMエージェント, DSL, CUTLASS, Speed-of-Light, KernelBench, 探索効率, エージェント設計]
 category: "agent-arch"
 memo: "[arXiv cs.AI+cs.LG] Improving Efficiency of GPU Kernel Optimization Agents using a Domain-Specific Language and Speed-of-Light Guidance"
+related: [1035, 665, 367, 1409, 1321]
 processed_at: "2026-04-07T12:41:30.589849"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [LLMエージェント, コード変換, Rust, C言語, ABI, メモリ安全性, 静的解析, 自動ロールバック]
 category: "agent-arch"
 memo: "[HF Daily Papers] ENCRUST: Encapsulated Substitution and Agentic Refinement on a Live Scaffold for Safe C-to-Rust Translation"
+related: [976, 631, 566, 771, 1603]
 processed_at: "2026-04-10T09:12:54.138491"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [HuggingFace, Hub, Pull Request, コラボレーション, MLOps, モデル共有, コミュニティ]
 category: "infra"
 memo: "[HF Blog] Introducing Pull Requests and Discussions 🥳"
+related: [1354, 1391, 1119, 1446, 1448]
 processed_at: "2026-04-12T09:12:05.744388"
 ---
 

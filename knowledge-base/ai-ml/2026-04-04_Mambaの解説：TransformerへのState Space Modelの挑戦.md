@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [Mamba, SSM, State Space Model, Transformer, 長文脈, 選択的状態空間, Zero-Order Hold, Parallel Scan, LTI, Gu-Dao]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [199, 222, 833, 255, 1494]
 processed_at: "2026-04-04T09:00:42.812679"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [VLM, WebSight, 合成データセット, Sightseer, HTMLコード生成, Tailwind CSS, マルチモーダル, UI自動化]
 category: "ai-ml"
 memo: "[HF Blog] Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset"
+related: [21, 986, 305, 1257, 63]
 processed_at: "2026-04-09T12:22:23.956369"
 ---
 

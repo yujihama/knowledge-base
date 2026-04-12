@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [StarCoder2, コードLLM, Fill-in-the-Middle, Grouped Query Attention, The Stack v2, BigCode, オープンソース, 事前学習データ]
 category: "ai-ml"
 memo: "[HF Blog] StarCoder2 and The Stack v2"
+related: [365, 722, 210, 322, 1216]
 processed_at: "2026-04-09T12:24:23.977245"
 ---
 

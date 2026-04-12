@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [LLM, オープンソース, RLHF, LoRA, PEFT, Llama2, Falcon, TGI, HuggingFace, ファインチューニング]
 category: "ai-ml"
 memo: "[HF Blog] Open-Source Text Generation & LLM Ecosystem at Hugging Face"
+related: [1357, 1449, 1214, 1303, 1216]
 processed_at: "2026-04-10T09:16:17.566908"
 ---
 

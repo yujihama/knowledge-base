@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [Llama Guard 4, safety model, multimodal, content moderation, pruning, MLCommons, prompt injection, jailbreak detection, dense model, Meta]
 category: "ai-ml"
 memo: "[HF Blog] Welcoming Llama Guard 4 on Hugging Face Hub"
+related: [1057, 1434, 1608, 212, 1172]
 processed_at: "2026-04-07T21:39:36.145845"
 ---
 

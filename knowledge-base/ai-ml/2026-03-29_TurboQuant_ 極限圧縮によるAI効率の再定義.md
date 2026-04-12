@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [量子化, KVキャッシュ, TurboQuant, PolarQuant, QJL, Johnson-Lindenstrauss, ベクトル検索, LLM推論最適化, ICLR2026]
 category: "ai-ml"
 memo: "[Google AI Blog] TurboQuant: Redefining AI efficiency with extreme compression"
+related: [183, 1264, 992, 820, 1116]
 processed_at: "2026-03-29T22:54:54.459725"
 ---
 

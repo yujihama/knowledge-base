@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [speculative-decoding, LLM-inference, cascades, Gemma, T5, inference-optimization, cost-quality-tradeoff]
 category: "ai-ml"
 memo: "[Google AI Blog] Speculative cascades — A hybrid approach for smarter, faster LLM inference"
+related: [901, 168, 1489, 419, 251]
 processed_at: "2026-04-04T12:07:30.308084"
 ---
 

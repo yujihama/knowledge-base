@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [Claude API, Go, ECS Fargate, エージェントループ, ToolChoice, トークン最適化, LLM-as-judge, 2フェーズ設計, サーバーレス, 自己選好バイアス]
 category: "agent-arch"
 memo: "[Zenn LLM] フレームワークを使わずにLLMエージェントを作る — Go + Claude API + AWSの設計と実装"
+related: [23, 21, 430, 251, 931]
 processed_at: "2026-04-07T12:00:38.517858"
 ---
 

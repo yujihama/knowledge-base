@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [LLM推論最適化, 量子化, bitsandbytes, Flash Attention, KVキャッシュ, GQA, MQA, RoPE, bfloat16, HuggingFace Transformers]
 category: "infra"
 memo: "[HF Blog] Optimizing your LLM in production"
+related: [106, 183, 1536, 992, 820]
 processed_at: "2026-04-09T21:49:33.086108"
 ---
 

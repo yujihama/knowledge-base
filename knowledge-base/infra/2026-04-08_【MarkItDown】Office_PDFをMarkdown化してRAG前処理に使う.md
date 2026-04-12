@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [MarkItDown, RAG, 前処理, PDF変換, Markdown, LLM, uv, Office文書]
 category: "infra"
 memo: "[Zenn LLM] 【MarkItDown】Office/PDFをMarkdown化してRAG前処理に使う"
+related: [111, 77, 1340, 856, 36]
 processed_at: "2026-04-08T09:01:17.405396"
 ---
 

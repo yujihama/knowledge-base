@@ -5,6 +5,7 @@ date: 2026-03-30
 tags: [OpenTelemetry, Langfuse, Arize Phoenix, LLM Observability, GenAI Semantic Conventions, Evals, Structured Outputs, トレーシング, コスト監視, HITL]
 category: "infra"
 memo: "[Zenn LLM] LLMで“見える運用”へ――可観測性を強化する実務メモ（OpenTelemetry GenAI / Langfuse / Phoenix)"
+related: [1349, 1516, 1426, 146, 392]
 processed_at: "2026-03-30T12:09:33.312001"
 ---
 

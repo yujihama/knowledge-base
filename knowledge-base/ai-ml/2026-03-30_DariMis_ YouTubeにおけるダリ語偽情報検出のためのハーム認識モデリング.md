@@ -5,6 +5,7 @@ date: 2026-03-30
 tags: [BERT, XLM-RoBERTa, ParsBERT, 偽情報検出, コンテンツモデレーション, 低リソース言語, テキスト分類, マルチラベル分類]
 category: "ai-ml"
 memo: "[HF Daily Papers] DariMis: Harm-Aware Modeling for Dari Misinformation Detection on YouTube"
+related: [1261, 431, 1489, 21, 158]
 processed_at: "2026-03-30T21:08:48.515343"
 ---
 

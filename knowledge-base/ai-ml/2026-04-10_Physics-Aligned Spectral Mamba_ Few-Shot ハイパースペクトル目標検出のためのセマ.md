@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Mamba, State-Space Model, Few-Shot Learning, Meta-Learning, ハイパースペクトル, DCT, Parameter-Efficient Fine-Tuning, PEFT, テスト時適応, リモートセンシング]
 category: "ai-ml"
 memo: "[HF Daily Papers] Physics-Aligned Spectral Mamba: Decoupling Semantics and Dynamics for Few-Shot Hyperspectral Target Detection"
+related: [1110, 1449, 1167, 700, 1216]
 processed_at: "2026-04-10T12:05:09.188745"
 ---
 

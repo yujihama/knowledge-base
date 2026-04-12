@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [Vision Transformer, Sentinel-2, 衛星画像解析, マルチモーダル, 時系列分類, セマンティックセグメンテーション, EUDR, 森林モニタリング, Google DeepMind]
 category: "ai-ml"
 memo: "[Google AI Blog] Separating natural forests from other tree cover with AI for deforestation-free supply chains"
+related: [218, 692, 1297, 607, 927]
 processed_at: "2026-04-02T12:07:19.827170"
 ---
 

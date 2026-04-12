@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [MLLM, VQA, アテンション機構, マルチモーダルRAG, training-free, 証拠ハイライト, 推論時介入, ハルシネーション抑制]
 category: "ai-ml"
 memo: "[HF Daily Papers] Look Twice: Training-Free Evidence Highlighting in Multimodal Large Language Models"
+related: [895, 492, 637, 970, 155]
 processed_at: "2026-04-09T09:45:51.701604"
 ---
 

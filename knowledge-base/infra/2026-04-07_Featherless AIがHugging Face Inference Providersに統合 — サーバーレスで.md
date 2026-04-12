@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [Featherless-AI, Hugging-Face, Inference-Provider, serverless, DeepSeek-R1, huggingface_hub, GPU-orchestration, model-catalog]
 category: "infra"
 memo: "[HF Blog] Featherless AI on Hugging Face Inference Providers 🔥"
+related: [767, 768, 861, 1263, 1487]
 processed_at: "2026-04-07T21:00:32.634752"
 ---
 

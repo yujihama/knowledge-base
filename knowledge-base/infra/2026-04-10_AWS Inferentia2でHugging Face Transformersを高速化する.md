@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [AWS Inferentia2, Hugging Face, optimum-neuron, Transformer推論, 推論アクセラレータ, AWS Neuron SDK, BERT, ViT, 分散推論]
 category: "infra"
 memo: "[HF Blog] Accelerating Hugging Face Transformers with AWS Inferentia2"
+related: [1575, 1664, 1217, 1489, 1310]
 processed_at: "2026-04-10T12:09:23.748271"
 ---
 

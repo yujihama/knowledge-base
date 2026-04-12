@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [deep-research, context-engineering, ReAct, multi-agent, Tavily, token-optimization, web-retrieval, reflection]
 category: "agent-arch"
 memo: "[HF Blog] Building Deep Research: How we Achieved State of the Art"
+related: [1381, 704, 629, 564, 1480]
 processed_at: "2026-04-04T09:08:12.505097"
 ---
 

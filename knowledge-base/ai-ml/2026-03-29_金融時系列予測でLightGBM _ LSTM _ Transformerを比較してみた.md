@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [LightGBM, LSTM, Transformer, アンサンブル学習, 時系列予測, PyTorch, 金融ML, 特徴量エンジニアリング]
 category: "ai-ml"
 memo: "[Zenn 機械学習] 金融時系列予測でLightGBM / LSTM / Transformerを比較してみた"
+related: [1429, 122, 488, 97, 1494]
 processed_at: "2026-03-29T22:22:18.468888"
 ---
 

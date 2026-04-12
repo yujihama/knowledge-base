@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [Deep Research, 拡散モデル, RAG, LLM-as-judge, 自己進化, マルチエージェント, 反復改善, 長文生成]
 category: "agent-arch"
 memo: "[Google AI Blog] Deep researcher with test-time diffusion"
+related: [21, 931, 112, 858, 93]
 processed_at: "2026-04-04T12:04:50.359225"
 ---
 

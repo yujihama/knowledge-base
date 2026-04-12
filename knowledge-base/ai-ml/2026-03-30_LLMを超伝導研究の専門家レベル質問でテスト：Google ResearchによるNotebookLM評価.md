@@ -5,6 +5,7 @@ date: 2026-03-30
 tags: [RAG, NotebookLM, LLM評価, 科学的QA, ソースキュレーション, GPT-4o, Gemini, PNAS]
 category: "ai-ml"
 memo: "[Google AI Blog] Testing LLMs on superconductivity research questions"
+related: [112, 1251, 77, 908, 260]
 processed_at: "2026-03-30T12:05:41.367124"
 ---
 

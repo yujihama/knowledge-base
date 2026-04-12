@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [TensorFlow Serving, Kubernetes, Docker, GKE, ViT, SavedModel, gRPC, Locust, HuggingFace, コンテナデプロイ]
 category: "infra"
 memo: "[HF Blog] Deploying 🤗 ViT on Kubernetes with TF Serving"
+related: [1617, 418, 1530, 1574, 1448]
 processed_at: "2026-04-11T21:09:06.063801"
 ---
 

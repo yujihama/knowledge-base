@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Gemma4, オンデバイスLLM, LiteRT-LM, Android, Pixel, TensorG4, Google AI Edge Gallery, ベンチマーク, GPUコンパイル]
 category: "infra"
 memo: "[Zenn LLM] Gemma 4をPixel 9aとPixel 7で動かしてみた — Google AI Edge Galleryベンチマーク比較"
+related: [1420, 1068, 899, 1251, 1065]
 processed_at: "2026-04-09T09:41:41.018441"
 ---
 

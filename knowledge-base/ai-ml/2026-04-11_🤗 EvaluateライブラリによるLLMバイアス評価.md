@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [LLMバイアス評価, HuggingFace Evaluate, Toxicity, Regard, WinoBias, BOLD, HolisticBias, GPT-2, 公平性測定]
 category: "ai-ml"
 memo: "[HF Blog] Evaluating Language Model Bias with 🤗 Evaluate"
+related: [706, 1186, 518, 1616, 1219]
 processed_at: "2026-04-11T09:07:50.253739"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [DeepFloyd-IF, Diffusers, テキスト-to-画像, bitsandbytes, 8bit量子化, T5-XXL, メモリ最適化, Google-Colab, HuggingFace]
 category: "ai-ml"
 memo: "[HF Blog] Running IF with 🧨 diffusers on a Free Tier Google Colab"
+related: [1572, 1449, 1302, 1576, 1265]
 processed_at: "2026-04-10T12:07:36.586237"
 ---
 

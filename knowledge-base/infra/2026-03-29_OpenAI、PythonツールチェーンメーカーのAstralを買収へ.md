@@ -5,6 +5,7 @@ date: 2026-03-29
 tags: [OpenAI, Astral, Ruff, uv, Python, パッケージ管理, 開発ツール, 買収, Rust]
 category: "infra"
 memo: "[OpenAI Blog] OpenAI to acquire Astral"
+related: [389, 440, 32, 387, 41]
 processed_at: "2026-03-29T22:53:12.691515"
 ---
 

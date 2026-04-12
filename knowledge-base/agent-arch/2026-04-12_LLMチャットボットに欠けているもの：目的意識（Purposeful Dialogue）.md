@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [Purposeful Dialogue, RLHF, システムプロンプト, マルチターン対話, SWE-bench, 指示追従, 対話評価, LLMエージェント]
 category: "agent-arch"
 memo: "[The Gradient] What's Missing From LLM Chatbots: A Sense of Purpose"
+related: [973, 754, 540, 1369, 247]
 processed_at: "2026-04-12T09:22:25.794719"
 ---
 

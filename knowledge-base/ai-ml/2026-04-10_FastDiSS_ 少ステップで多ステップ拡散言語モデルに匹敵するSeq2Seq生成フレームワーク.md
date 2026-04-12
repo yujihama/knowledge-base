@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [diffusion-language-model, self-conditioning, few-step-inference, seq2seq, noise-perturbation, token-level-noise-awareness, fast-inference]
 category: "ai-ml"
 memo: "[HF Daily Papers] FastDiSS: Few-step Match Many-step Diffusion Language Model on Sequence-to-Sequence Generation--Full Version"
+related: [1529, 201]
 processed_at: "2026-04-10T09:39:58.342393"
 ---
 

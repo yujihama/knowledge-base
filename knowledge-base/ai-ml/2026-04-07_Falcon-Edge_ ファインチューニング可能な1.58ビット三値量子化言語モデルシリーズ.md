@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [BitNet, 量子化LLM, 1bit-LLM, Falcon, エッジAI, SFT, TII-UAE, onebitllms, ternary-weights, モデル圧縮]
 category: "ai-ml"
 memo: "[HF Blog] Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models."
+related: [1249, 1147, 826, 1528, 154]
 processed_at: "2026-04-07T21:35:24.378457"
 ---
 

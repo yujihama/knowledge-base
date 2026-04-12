@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [知識蒸留, DeepSeek-R1, Chain-of-Thought, ソフトラベル, 量子化, PRM, Self-Consistency, Best-of-N, RAG, Qwen, Llama]
 category: "ai-ml"
 memo: "[Zenn LLM] 蒸留モデルって何？ - DeepSeek R1の登場から1年の節目に振り返る"
+related: [125, 1116, 773, 715, 141]
 processed_at: "2026-04-08T12:45:58.767072"
 ---
 

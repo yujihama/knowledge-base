@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [VQA, LAVE, LLM-as-judge, Docmatix, ゼロショット評価, VLM, DocVQA, mPLUG-DocOwl, Llama-2, OOD評価]
 category: "ai-ml"
 memo: "[HF Blog] LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?"
+related: [21, 155, 993, 23, 251]
 processed_at: "2026-04-09T09:06:36.159313"
 ---
 

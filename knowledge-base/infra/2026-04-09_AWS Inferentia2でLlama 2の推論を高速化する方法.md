@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [AWS-Inferentia2, optimum-neuron, Llama2, NeuronSDK, LLM推論, テキスト生成, モデルデプロイ, fp16]
 category: "infra"
 memo: "[HF Blog] Make your llama generation time fly with AWS Inferentia2"
+related: [972, 248, 983, 1173, 1102]
 processed_at: "2026-04-09T21:20:56.556553"
 ---
 

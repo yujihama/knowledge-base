@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [MedGemma, MedSigLIP, TxGemma, LoRA, RAG, Vertex AI, 医療AI, ヘルスケアAI, アフリカ, 子宮頸がん]
 category: "ai-ml"
 memo: "[Google AI Blog] Spotlight on innovation: Google-sponsored Data Science for Health Ideathon across Africa"
+related: [299, 171, 1049, 234, 20]
 processed_at: "2026-04-02T12:03:29.094774"
 ---
 

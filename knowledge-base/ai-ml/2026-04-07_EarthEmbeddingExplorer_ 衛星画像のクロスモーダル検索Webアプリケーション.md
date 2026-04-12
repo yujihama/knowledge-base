@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [Earth Observation, クロスモーダル検索, 衛星画像, エンベディング, マルチモーダルRAG, 基盤モデル, ベクトル検索, ModelScope]
 category: "ai-ml"
 memo: "[HF Daily Papers] EarthEmbeddingExplorer: A Web Application for Cross-Modal Retrieval of Global Satellite Images"
+related: [1116, 1470, 106, 232, 348]
 processed_at: "2026-04-07T21:32:05.295802"
 ---
 

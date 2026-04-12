@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Contrastive Learning, Prompt Tuning, PEFT, Green Software Development, コード生成, LLM, エネルギー効率, Parameter-Efficient Fine-Tuning]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] An Initial Exploration of Contrastive Prompt Tuning to Generate Energy-Efficient Code"
+related: [1449, 863, 1267, 1384, 1305]
 processed_at: "2026-04-09T12:19:02.592818"
 ---
 

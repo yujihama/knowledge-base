@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [GRPO, VLM, Saliency-Map, RLAIF, 解釈可能性, ハルシネーション対策, 報酬設計, マルチモーダル]
 category: "ai-ml"
 memo: "[HF Daily Papers] Saliency-R1: Enforcing Interpretable and Faithful Vision-language Reasoning via Saliency-map Alignment Reward"
+related: [21, 938, 1169, 1652, 986]
 processed_at: "2026-04-09T21:45:59.890595"
 ---
 

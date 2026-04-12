@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [diffusers, Modular Diffusers, HuggingFace, FLUX, ControlNet, ComponentsManager, pipeline-composition, Depth-Anything-V2]
 category: "infra"
 memo: "[HF Blog] Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines"
+related: [1572, 1302, 1389, 1265, 1268]
 processed_at: "2026-03-31T21:04:50.139517"
 ---
 

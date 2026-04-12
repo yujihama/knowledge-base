@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [責任経路設計, HITL, RACI, Guardrails, AIエージェント設計, リスク管理, アーキテクチャ]
 category: "agent-arch"
 memo: "[Zenn LLM] RACI / HITL / Guardrails / 責任経路設計 の違い"
+related: [1516, 1661, 398, 1421, 531]
 processed_at: "2026-04-10T12:28:36.136368"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [continual-learning, Bridge-Diffusion, Gaussian-mixture-model, stochastic-process, memory-compression, resource-constrained-agent, catastrophic-forgetting, information-theory]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Temporal Memory for Resource-Constrained Agents: Continual Learning via Stochastic Compress-Add-Smooth"
+related: [975, 892, 371, 499, 1569]
 processed_at: "2026-04-07T21:53:54.317507"
 ---
 

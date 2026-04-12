@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [LVLM, Object Hallucination, Contrastive Decoding, Logit Manipulation, Visual Grounding, Training-Free, Multimodal LLM]
 category: "ai-ml"
 memo: "[HF Daily Papers] First Logit Boosting: Visual Grounding Method to Mitigate Object Hallucination in Large Vision-Language Models"
+related: [369, 641, 352, 493, 197]
 processed_at: "2026-04-09T12:53:16.944701"
 ---
 

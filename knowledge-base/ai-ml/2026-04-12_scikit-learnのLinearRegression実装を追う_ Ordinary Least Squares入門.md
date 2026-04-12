@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [scikit-learn, LinearRegression, OLS, 最小二乗法, numpy, lstsq, 回帰分析, Diabetesデータセット, R², MSE]
 category: "ai-ml"
 memo: "[Zenn 機械学習] scikit-learnのLinearRegressionを実装まで追う: Ordinary Least Squares入門"
+related: [173, 396, 1577, 865, 340]
 processed_at: "2026-04-12T09:04:21.597854"
 ---
 

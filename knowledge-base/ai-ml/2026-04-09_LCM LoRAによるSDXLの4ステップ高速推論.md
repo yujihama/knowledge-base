@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [LCM, LoRA, SDXL, Stable Diffusion, 蒸留, 高速推論, diffusers, 画像生成]
 category: "ai-ml"
 memo: "[HF Blog] SDXL in 4 steps with Latent Consistency LoRAs"
+related: [1268, 1181, 1302, 1444, 1220]
 processed_at: "2026-04-09T21:20:22.756974"
 ---
 

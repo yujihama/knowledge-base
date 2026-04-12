@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Intel Gaudi 2, Optimum Habana, Llama 2, LangChain, DeepSpeed, 分散推論, KV cache, HPU graphs, テキスト生成パイプライン]
 category: "infra"
 memo: "[HF Blog] Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator"
+related: [1064, 1019, 429, 505, 41]
 processed_at: "2026-04-09T12:23:55.442918"
 ---
 

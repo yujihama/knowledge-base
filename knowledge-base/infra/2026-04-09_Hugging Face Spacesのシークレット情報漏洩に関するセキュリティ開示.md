@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [HuggingFace, セキュリティインシデント, シークレット管理, KMS, APIトークン, fine-grained-access-tokens, クラウドセキュリティ]
 category: "infra"
 memo: "[HF Blog] Space secrets security update"
+related: [1572, 1529, 1494, 1449, 1302]
 processed_at: "2026-04-09T09:23:57.670253"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-02
 tags: [Alignment Faking, RLHF, AI Safety, Claude, eval awareness, compliance gap, situational awareness, Scratchpad reasoning, Redwood Research]
 category: "ai-ml"
 memo: "[Zenn LLM] Alignment Faking（本音を隠して従順なフリをする） ——  最新Claudeで再現実験"
+related: [156, 1419, 754, 540, 1369]
 processed_at: "2026-04-02T21:11:28.212468"
 ---
 

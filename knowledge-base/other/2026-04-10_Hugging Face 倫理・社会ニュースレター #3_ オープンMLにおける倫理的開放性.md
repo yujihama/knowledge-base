@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [AI倫理, オープンソース, モデレーション, RAIL, Model Card, バイアス監査, Hugging Face, コンテンツガバナンス]
 category: "other"
 memo: "[HF Blog] Ethics and Society Newsletter #3: Ethical Openness at Hugging Face"
+related: [1669, 1351, 1190, 948, 1310]
 processed_at: "2026-04-10T12:12:01.890578"
 ---
 

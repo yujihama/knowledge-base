@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Diffusers, Stable Diffusion, AI倫理, Safe Latent Diffusion, OpenRAIL, HuggingFace, bias, 生成AIガバナンス]
 category: "ai-ml"
 memo: "[HF Blog] Ethical Guidelines for developing the Diffusers library"
+related: [1572, 1302, 1389, 1265, 1181]
 processed_at: "2026-04-10T12:35:24.334804"
 ---
 

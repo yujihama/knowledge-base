@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [KGWAS, 知識グラフ, GWAS, perturb-seq, グラフニューラルネットワーク, バイオインフォマティクス, 因果推論, コンテキスト特異的KG]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Incorporating contextual information into KGWAS for interpretable GWAS discovery"
+related: [1482, 875, 805, 804, 640]
 processed_at: "2026-04-05T09:03:29.790023"
 ---
 

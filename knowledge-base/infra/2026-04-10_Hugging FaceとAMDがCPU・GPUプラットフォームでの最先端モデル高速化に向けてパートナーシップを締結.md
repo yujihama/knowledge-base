@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [AMD, ROCm, Hugging Face, Instinct MI250, EPYC, Optimum, TransformersライブラリGPU最適化, 量子化]
 category: "infra"
 memo: "[HF Blog] Hugging Face and AMD partner on accelerating state-of-the-art models for CPU and GPU platforms"
+related: [580, 413, 1116, 1310, 861]
 processed_at: "2026-04-10T09:42:08.419725"
 ---
 

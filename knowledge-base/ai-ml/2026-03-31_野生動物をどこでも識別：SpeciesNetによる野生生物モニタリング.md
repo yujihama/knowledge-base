@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [CNN, transfer-learning, fine-tuning, computer-vision, open-source, wildlife-monitoring, MegaDetector, Google-Earth-AI]
 category: "ai-ml"
 memo: "[Google AI Blog] Where wild things roam: Identifying wildlife with SpeciesNet"
+related: [1564, 214, 1492, 1449, 161]
 processed_at: "2026-03-31T09:11:56.173390"
 ---
 

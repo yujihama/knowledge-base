@@ -5,6 +5,7 @@ date: 2026-04-03
 tags: [JEPA, World Model, ViT, SIGReg, 表現崩壊, 自己教師あり学習, ロボティクス, 潜在空間モデル, PyTorch]
 category: "ai-ml"
 memo: "[Zenn 機械学習] LeWorldModel入門 15Mパラメータで実現するJEPAベースWorld Model"
+related: [1478, 884, 812, 294, 113]
 processed_at: "2026-04-03T21:07:17.982655"
 ---
 

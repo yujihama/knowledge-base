@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [TimesFM, time-series-forecasting, in-context-learning, few-shot-learning, foundation-model, transformer, ICML2025, continued-pretraining]
 category: "ai-ml"
 memo: "[Google AI Blog] Time series foundation models can be few-shot learners"
+related: [161, 492, 1494, 113, 216]
 processed_at: "2026-04-04T12:04:18.383336"
 ---
 

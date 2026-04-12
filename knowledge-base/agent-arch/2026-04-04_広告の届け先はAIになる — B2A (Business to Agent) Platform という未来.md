@@ -5,6 +5,7 @@ date: 2026-04-04
 tags: [B2A, AIエージェント, 広告プラットフォーム, インテントマッチング, 構造化データ, 成果報酬, ビジネスモデル]
 category: "agent-arch"
 memo: "[Zenn LLM] 広告の届け先は AI になる — B2A (Business to Agent) Platform という未来"
+related: [1422, 485, 51, 1539, 1671]
 processed_at: "2026-04-04T21:11:23.819595"
 ---
 

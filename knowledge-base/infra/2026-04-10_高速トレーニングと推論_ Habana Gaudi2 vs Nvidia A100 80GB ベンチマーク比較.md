@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [Habana Gaudi2, Nvidia A100, GPU benchmark, HuggingFace Optimum, SynapseAI, BERT, Stable Diffusion, T5, bfloat16, 分散学習]
 category: "infra"
 memo: "[HF Blog] Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB"
+related: [518, 1306, 1664, 1264, 429]
 processed_at: "2026-04-10T21:10:37.773622"
 ---
 

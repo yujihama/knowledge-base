@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [MoE, Stable Diffusion, SDXL, 画像生成, モデルマージ, diffusers, sparse-MoE, mergekit]
 category: "ai-ml"
 memo: "[HF Blog] SegMoE: Segmind Mixture of Diffusion Experts"
+related: [1211, 1268, 1302, 1444, 1220]
 processed_at: "2026-04-09T21:03:06.079579"
 ---
 

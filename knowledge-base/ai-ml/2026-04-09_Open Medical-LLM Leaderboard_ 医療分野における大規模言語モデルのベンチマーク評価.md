@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Medical-LLM, benchmark, USMLE, MedQA, MedMCQA, PubMedQA, MMLU, lm-evaluation-harness, GPT-4, Med-PaLM-2]
 category: "ai-ml"
 memo: "[HF Blog] The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare"
+related: [23, 212, 1068, 902, 975]
 processed_at: "2026-04-09T09:52:13.630799"
 ---
 

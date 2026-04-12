@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [world-model, self-improvement, cycle-consistency, inverse-model, sample-efficiency, RoboMimic, ManiSkill, video-corpus, subgoal-generation]
 category: "ai-ml"
 memo: "[HF Daily Papers] World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry"
+related: [560, 625, 235, 151, 1160]
 processed_at: "2026-04-08T21:30:26.263061"
 ---
 

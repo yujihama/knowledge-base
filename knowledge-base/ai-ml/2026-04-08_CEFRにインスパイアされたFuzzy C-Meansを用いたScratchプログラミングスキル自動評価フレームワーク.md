@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [Fuzzy C-Means, クラスタリング, CEFR, スキル評価, 教育AI, Scratch, 習熟度分類, 不確実性定量化]
 category: "ai-ml"
 memo: "[HF Daily Papers] A CEFR-Inspired Classification Framework with Fuzzy C-Means To Automate Assessment of Programming Skills in Scratch"
+related: [327, 471, 319, 274, 310]
 processed_at: "2026-04-08T12:23:54.230831"
 ---
 

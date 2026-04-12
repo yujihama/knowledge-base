@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [SentenceTransformers, multimodal-embedding, CrossEncoder, reranker, Qwen3-VL, RAG, visual-document-retrieval, retrieval]
 category: "ai-ml"
 memo: "[HF Blog] Multimodal Embedding & Reranker Models with Sentence Transformers"
+related: [1580, 707, 1022, 1116, 1334]
 processed_at: "2026-04-10T12:34:56.281000"
 ---
 

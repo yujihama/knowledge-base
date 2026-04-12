@@ -5,6 +5,7 @@ date: 2026-04-06
 tags: [LLM評価, エージェントベンチマーク, 長文脈推論, インタラクティブフィクション, テスト時計算, 自律エージェント, 空間推論]
 category: "agent-arch"
 memo: "[HF Blog] TextQuests: How Good are LLMs at Text-Based Video Games?"
+related: [1516, 1068, 1483, 763, 899]
 processed_at: "2026-04-06T21:06:17.542124"
 ---
 

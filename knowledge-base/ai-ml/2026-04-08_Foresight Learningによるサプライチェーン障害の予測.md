@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [LLM, probabilistic-forecasting, fine-tuning, supply-chain, calibration, domain-adaptation, rare-event-prediction]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Forecasting Supply Chain Disruptions with Foresight Learning"
+related: [892, 1449, 316, 1018, 1404]
 processed_at: "2026-04-08T12:12:47.101915"
 ---
 

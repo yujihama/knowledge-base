@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [時系列予測, Transformer, FFT, カーボンフットプリント, 外生変数, ロバスト学習, 周波数解析, マスキング正則化]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] FTimeXer: Frequency-aware Time-series Transformer with Exogenous variables for Robust Carbon Footprint Forecasting"
+related: [1494, 113, 1185, 798, 869]
 processed_at: "2026-04-09T12:16:41.560092"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [OlympicCoder, LM-Studio, GGUF, Continue.dev, ローカルLLM, VS-Code, Open-R1, 量子化]
 category: "infra"
 memo: "[HF Blog] Open R1: How to use OlympicCoder locally for coding"
+related: [1423, 399, 524, 1146, 1116]
 processed_at: "2026-04-08T09:14:51.096737"
 ---
 

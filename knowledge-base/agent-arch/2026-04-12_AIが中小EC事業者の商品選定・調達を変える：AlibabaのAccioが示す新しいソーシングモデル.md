@@ -5,6 +5,7 @@ date: 2026-04-12
 tags: [Accio, Alibaba.com, Qwen, AIソーシング, 調達エージェント, RAG, eコマース, B2B]
 category: "agent-arch"
 memo: "[MIT Technology Review AI] AI is changing how small online sellers decide what to make"
+related: [861, 1654, 1116, 1334, 112]
 processed_at: "2026-04-12T09:16:39.962543"
 ---
 

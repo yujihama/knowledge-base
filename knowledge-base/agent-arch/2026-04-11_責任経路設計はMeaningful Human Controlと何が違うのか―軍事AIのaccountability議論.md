@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [責任経路設計, Meaningful Human Control, Accountability gap, Human oversight, HITL, 自律エージェント, AIガバナンス, 説明責任]
 category: "agent-arch"
 memo: "[Zenn LLM] 責任経路設計は Meaningful Human Control と何が違うのか―軍事AIの accountability 議論との接点とは"
+related: [1426, 1227, 237, 862, 86]
 processed_at: "2026-04-11T09:00:34.866993"
 ---
 

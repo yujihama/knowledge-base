@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Hugging Face, datasets, Renumics Spotlight, データ可視化, 埋め込みベクトル, ViT, CIFAR-100, データ検査, モデルデバッグ]
 category: "ai-ml"
 memo: "[HF Blog] Interactively explore your Huggingface dataset with one line of code"
+related: [1575, 1393, 1615, 1310, 88]
 processed_at: "2026-04-09T21:23:28.426408"
 ---
 

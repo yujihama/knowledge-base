@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [MoE, PEFT, LoRA, マルチタスク学習, マルチモーダル, パラメータ効率, ファインチューニング]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] LiME: Lightweight Mixture of Experts for Efficient Multimodal Multi-task Learning"
+related: [1305, 1449, 1216, 986, 234]
 processed_at: "2026-04-09T12:42:23.155524"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [self-alignment, instruction-tuning, StarCoder2, OSS-Instruct, execution-guided-validation, code-generation, SFT, LLM-as-judge]
 category: "ai-ml"
 memo: "[HF Blog] StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation"
+related: [826, 23, 21, 251, 931]
 processed_at: "2026-04-09T09:50:39.477950"
 ---
 

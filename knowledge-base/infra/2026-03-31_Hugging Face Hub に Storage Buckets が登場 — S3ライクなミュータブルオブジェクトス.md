@@ -5,6 +5,7 @@ date: 2026-03-31
 tags: [HuggingFace, StorageBuckets, Xet, オブジェクトストレージ, fsspec, huggingface_hub, MLOps, チェックポイント管理]
 category: "infra"
 memo: "[HF Blog] Introducing Storage Buckets on the Hugging Face Hub"
+related: [1486, 900, 771, 713, 521]
 processed_at: "2026-03-31T09:01:51.830690"
 ---
 

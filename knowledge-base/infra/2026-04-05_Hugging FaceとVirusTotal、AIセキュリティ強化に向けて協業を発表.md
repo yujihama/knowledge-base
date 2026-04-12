@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [Hugging Face, VirusTotal, AIセキュリティ, マルウェアスキャン, ハッシュ照合, 脅威インテリジェンス, モデルセキュリティ, CI/CD]
 category: "infra"
 memo: "[HF Blog] Hugging Face and VirusTotal collaborate to strengthen AI security"
+related: [1310, 88, 1669, 1575, 985]
 processed_at: "2026-04-05T12:05:35.143591"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [SentenceTransformers, EmbeddingModel, FineTuning, MultipleNegativesRankingLoss, CoSENTLoss, RAG, SemanticSearch, HuggingFace]
 category: "ai-ml"
 memo: "[HF Blog] Training and Finetuning Embedding Models with Sentence Transformers v3"
+related: [1021, 1440, 141, 1016, 1572]
 processed_at: "2026-04-09T09:25:27.017765"
 ---
 

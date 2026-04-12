@@ -5,6 +5,7 @@ date: 2026-04-05
 tags: [BigCodeArena, LLM評価, コード生成, Bradley-Terry, Eloレーティング, human-in-the-loop, サンドボックス実行, ベンチマーク]
 category: "ai-ml"
 memo: "[HF Blog] BigCodeArena: Judging code generations end to end with code executions"
+related: [1068, 899, 1251, 1065, 774]
 processed_at: "2026-04-05T21:00:34.944284"
 ---
 

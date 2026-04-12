@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [Vertex AI, ViT, TensorFlow, SavedModel, GCP, MLOps, デプロイ, オートスケーリング, google-cloud-aiplatform]
 category: "infra"
 memo: "[HF Blog] Deploying 🤗 ViT on Vertex AI"
+related: [396, 1579, 1261, 1617, 1645]
 processed_at: "2026-04-11T21:06:31.674564"
 ---
 

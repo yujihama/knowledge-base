@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [SafeCoder, StarCoder, BigCode, コード生成, LLM, ファインチューニング, エンタープライズ, オンプレミス, Docker, Optimum, Multi-Query Attention, The Stack]
 category: "infra"
 memo: "[HF Blog] SafeCoder vs. Closed-source Code Assistants"
+related: [1310, 389, 1216, 1110, 863]
 processed_at: "2026-04-09T21:51:40.379692"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [DuckDB, DuckDB-WASM, Parquet, HuggingFace-Hub, データセット前処理, SQL]
 category: "infra"
 memo: "[HF Blog] Introducing the SQL Console on Datasets"
+related: [1355, 904, 396, 521]
 processed_at: "2026-04-08T21:35:48.059841"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-10
 tags: [DuckDB, Parquet, HuggingFace, データセット分析, httpfs, SQL, Dataset Viewer]
 category: "infra"
 memo: "[HF Blog] DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub"
+related: [945, 904, 521, 1572, 1529]
 processed_at: "2026-04-10T09:43:36.621834"
 ---
 

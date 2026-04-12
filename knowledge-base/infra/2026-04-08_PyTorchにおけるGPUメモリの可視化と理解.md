@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [PyTorch, GPU, CUDA, メモリプロファイリング, gradient_checkpointing, 混合精度訓練, BF16, Qwen2.5, bitsandbytes, TRL]
 category: "infra"
 memo: "[HF Blog] Visualize and understand GPU memory in PyTorch"
+related: [1536, 428, 1102, 404, 1275]
 processed_at: "2026-04-08T12:26:44.950468"
 ---
 

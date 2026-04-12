@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [ViT, Vision Transformer, Hugging Face, Graphcore, IPU, fine-tuning, 医療画像, 多ラベル分類, ImageNet-21k, ChestX-ray14]
 category: "ai-ml"
 memo: "[HF Blog] Deep Dive: Vision Transformers On Hugging Face Optimum Graphcore"
+related: [1664, 1380, 1390, 1393, 699]
 processed_at: "2026-04-11T21:07:04.056529"
 ---
 

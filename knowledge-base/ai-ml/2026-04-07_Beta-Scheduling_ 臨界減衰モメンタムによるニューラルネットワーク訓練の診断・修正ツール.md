@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [Beta-Scheduling, momentum, optimizer, gradient-attribution, ResNet, 臨界減衰, learning-rate-schedule, model-diagnosis]
 category: "ai-ml"
 memo: "[arXiv cs.AI+cs.LG] Beta-Scheduling: Momentum from Critical Damping as a Diagnostic and Correction Tool for Neural Network Training"
+related: [324, 562, 932]
 processed_at: "2026-04-07T12:35:29.023972"
 ---
 

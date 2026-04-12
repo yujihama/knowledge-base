@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [HuggingFace, ストレージリージョン, GDPR, Enterprise Hub, データ主権, EU規制, MLOps]
 category: "infra"
 memo: "[HF Blog] Introducing Storage Regions on the HF Hub"
+related: [1446, 1448, 1665, 402, 1612]
 processed_at: "2026-04-09T21:22:25.488761"
 ---
 

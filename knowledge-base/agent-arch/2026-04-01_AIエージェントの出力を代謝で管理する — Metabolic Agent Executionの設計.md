@@ -5,6 +5,7 @@ date: 2026-04-01
 tags: [Metabolic-Agent-Execution, Validator-Ladder, LLM-output-validation, asyncio, repair-loop, post-hoc-validation, parallel-execution, rollback]
 category: "agent-arch"
 memo: "[Zenn LLM] AIエージェントの出力を代謝で管理する — Metabolic Agent Executionの設計"
+related: [1241]
 processed_at: "2026-04-01T21:09:31.667019"
 ---
 

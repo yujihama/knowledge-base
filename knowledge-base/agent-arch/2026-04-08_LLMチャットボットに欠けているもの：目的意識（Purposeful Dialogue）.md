@@ -5,6 +5,7 @@ date: 2026-04-08
 tags: [purposeful-dialogue, multi-turn, RLHF, instruction-following, dialogue-evaluation, LLM-chatbot, system-prompt, SWE-bench]
 category: "agent-arch"
 memo: "[The Gradient] What's Missing From LLM Chatbots: A Sense of Purpose"
+related: [23, 754, 540, 1369, 247]
 processed_at: "2026-04-08T21:45:57.493345"
 ---
 

@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [Mamba, SSM, 状態空間モデル, Transformer, HiPPO, ZOH離散化, 選択的状態空間, 長文コンテキスト, 線形スケーリング]
 category: "ai-ml"
 memo: "[The Gradient] Mamba Explained"
+related: [199, 222, 833, 255, 1494]
 processed_at: "2026-04-07T12:32:05.801225"
 ---
 

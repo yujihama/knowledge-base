@@ -5,6 +5,7 @@ date: 2026-04-09
 tags: [Hugging Face, Enterprise Hub, AWS Marketplace, SSO, 監査ログ, GDPR, SOC2, DGX Cloud, NVIDIA H100]
 category: "infra"
 memo: "[HF Blog] Subscribe to Enterprise Hub with your AWS Account"
+related: [989, 1215, 1310, 88, 1434]
 processed_at: "2026-04-09T09:47:34.025855"
 ---
 

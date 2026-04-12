@@ -5,6 +5,7 @@ date: 2026-04-11
 tags: [Stable Diffusion, fine-tuning, Japanese NLP, text-to-image, SentencePiece, CLIP, latent diffusion model, rinna, LAION-5B, 多段階学習]
 category: "ai-ml"
 memo: "[HF Blog] Japanese Stable Diffusion"
+related: [1572, 1495, 1449, 1302, 1489]
 processed_at: "2026-04-11T09:11:13.353893"
 ---
 

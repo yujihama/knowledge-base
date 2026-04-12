@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [3D Gaussian Splatting, 3DGS, 圧縮, エントロピー符号化, 幾何学的文脈モデリング, ニューラル3D表現, rate-distortion最適化]
 category: "ai-ml"
 memo: "[HF Daily Papers] GeoHCC: Local Geometry-Aware Hierarchical Context Compression for 3D Gaussian Splatting"
+related: [353, 1053, 1343, 130, 189]
 processed_at: "2026-04-07T12:44:16.717731"
 ---
 

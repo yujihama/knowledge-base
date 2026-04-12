@@ -5,6 +5,7 @@ date: 2026-04-07
 tags: [semantic-segmentation, synthetic-dataset, autonomous-vehicle, AirSim, Unreal-Engine, off-road, benchmark]
 category: "ai-ml"
 memo: "[HF Daily Papers] ForestSim: A Synthetic Benchmark for Intelligent Vehicle Perception in Unstructured Forest Environments"
+related: [23, 212, 902, 1437, 975]
 processed_at: "2026-04-07T12:13:48.881143"
 ---
 
