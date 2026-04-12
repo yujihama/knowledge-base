@@ -24,6 +24,14 @@ LeMat-Bulkの主要な技術的貢献は以下の通り。（1）データ統合
 - 異なるデータソース間のフォーマット・バイアス・計算互換性の不整合を体系的に解決したデータ統合パイプラインの設計は、マルチソースデータを扱う任意のAI4Scienceプロジェクトのリファレンスアーキテクチャになりうる
 - 670万エントリの統一済みデータセット上でEquiformerv2・FAENetのような等変ニューラルネットワークを訓練し、基礎材料モデルを構築するアプローチは、大規模基盤モデルの材料科学版（Materials Foundation Model）の実現に向けた具体的な実装例となっている
 
+## 関連記事
+
+- /deep_1390 DatabricksとHugging Faceの統合：LLMのトレーニング・ファインチューニングを最大40%高速化
+- /deep_159 野生動物をどこでも識別：SpeciesNetによる野生生物モニタリング
+- /deep_1310 複雑な生成AIユースケースへのHugging Face活用事例：Writer社CTOインタビュー
+- /deep_88 研究者向けMCP：AIを研究ツールに接続する方法
+- /deep_1459 数学者の研究を変えるAIツール「Axplorer」——PatternBoostをMac Pro上で動作させるAxiom Mathの取り組み
+
 ## 原文リンク
 
 [LeMaterial: 材料科学研究を加速するオープンソースイニシアチブ](https://huggingface.co/blog/lematerial)

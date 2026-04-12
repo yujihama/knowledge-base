@@ -26,6 +26,14 @@ Enchanted Castleデモでは、540pでレンダリングしたフレームを108
 - Neural Accelerator（NX）専用最適化：汎用GPUシェーダーではなく、モバイルSoC内の専用ML推論ユニットにオフロードすることでGPU負荷を50%削減する設計思想は、エッジデバイスでのAI推論最適化の好例
 - Neural Graphics Model Gymによるデータ収集・再学習パイプラインの公開予定：ゲームエンジンからの合成データ（モーション・深度・カラー）を用いたモデル学習フローは、ドメイン特化型AIモデルの継続的改善サイクルとして参考になる構成
 
+## 関連記事
+
+- /deep_1572 🧨 DiffusersによるStable Diffusion：仕組みと実装ガイド
+- /deep_1529 🤗 TransformersによるWhisperの多言語ASRファインチューニング
+- /deep_1494 🤗 TransformersによるProbabilistic時系列予測
+- /deep_1449 🤗 PEFT：低リソースハードウェアで数十億パラメータモデルをパラメータ効率的にファインチューニング
+- /deep_1302 🤗 Diffusers 1周年記念：1年間の主要機能まとめ
+
 ## 原文リンク
 
 [Neural Super Sampling（NSS）：ArmによるモバイルGPU向けAIアップスケーリング技術](https://huggingface.co/blog/Arm/neural-super-sampling)

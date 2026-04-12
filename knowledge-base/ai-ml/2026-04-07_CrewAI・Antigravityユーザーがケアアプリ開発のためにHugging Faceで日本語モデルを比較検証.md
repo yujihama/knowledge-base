@@ -17,10 +17,13 @@ processed_at: "2026-04-07T21:18:53.940923"
 - Hugging Face Spacesによるノーコードのモデル評価：PythonなしでブラウザからLLMの挙動を10分以内に確認できる手法は、モデル選定の初期フェーズでの工数削減に有効
 - 日本語特化モデルの感情・文脈理解の差異：rinna(3.6B)・open-calm(7B)・Swallowを同一タスクで比較した結果、Swallowがケア文脈の感情的ニュアンス理解で最も優位という実用的な知見
 - オープンソースモデルのライセンスリスク管理：Llama 2 Community Licenseは商用利用に制約があり、プロダクション投入前にライセンス確認が必須という実務上の注意点
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェント開発において日本語での文書理解・記録処理が必要な場面では、Swallowやopen-calm-7bの比較知見が参考になる。特に監査調書や内部統制文書の日本語テキスト処理に用いるモデルを選定する際、Hugging Face Spacesでの迅速な検証アプローチは有効。ただし本記事の技術的深度は浅く、LangGraph・Pydantic・GRPO/RLAIFといった研究領域への直接的な示唆は乏しい。
+- /deep_1529 🤗 TransformersによるWhisperの多言語ASRファインチューニング
+- /deep_1420 秘匿環境で使うAI議事録の構成を考える - パイプライン型とLLM完結型の検証
+- /deep_411 faster-whisperで手元の録画を文字起こしする：Metal非対応でもM2 Maxで実用速度
+- /deep_1358 UnityでAI音声認識を実装する方法（Hugging Face Unity API活用）
+- /deep_649 Inference Endpoints で実現する超高速 Whisper 音声認識（最大8倍高速化）
 
 ## 原文リンク
 

@@ -27,10 +27,13 @@ faster-whisperはCUDA専用実装のため、MacのMetal（MPS）には非対応
 - CUDA非依存のCPU推論でもINT8量子化により実用速度（3〜5倍速）が出る点は、GPU環境がないマシンでのLLM/音声処理パイプライン設計に示唆がある
 - faster-whisperとpyannoteの出力をタイムスタンプで照合してマージする手法は、複数モデルの非同期出力を統合するエージェントパイプライン設計のパターンとして参考になる
 - 録画直後にwav変換を習慣化するというワークフロー設計は、データ収集パイプラインにおける「後処理に必要な中間成果物の早期保存」という原則の具体例
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェントの開発において、会議録・ヒアリング音声のテキスト化は証跡収集の自動化に直結する。faster-whisper + pyannoteのローカルパイプラインは、機密性の高い監査情報をクラウドに送らずに処理できる点で有効。LangGraphベースのエージェントの入力ノードとして音声→テキスト変換ステップを組み込む際、タイムスタンプ付き話者ラベル付きテキストはRAGのチャンク設計にもそのまま活用できる。
+- /deep_1420 秘匿環境で使うAI議事録の構成を考える - パイプライン型とLLM完結型の検証
+- /deep_1358 UnityでAI音声認識を実装する方法（Hugging Face Unity API活用）
+- /deep_1067 Hugging Face Inference Endpointsで実現するASR＋話者分離＋Speculative Decodingの統合パイプライン
+- /deep_613 CrewAI・Antigravityユーザーがケアアプリ開発のためにHugging Faceで日本語モデルを比較検証
+- /deep_1529 🤗 TransformersによるWhisperの多言語ASRファインチューニング
 
 ## 原文リンク
 

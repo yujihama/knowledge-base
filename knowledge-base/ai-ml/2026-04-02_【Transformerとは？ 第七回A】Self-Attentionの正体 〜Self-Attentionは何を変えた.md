@@ -25,10 +25,13 @@ TransformerはRNNを完全に排除し、Attentionのみで系列を扱う設計
 - Attentionは『既成の情報を選ぶ（参照）』であり、Self-Attentionは『情報そのものを再構築する（生成）』という役割の非対称性は、RAGにおける検索フェーズ（参照）と読解フェーズ（文脈統合）の設計を直感的に理解する枠組みとして応用できる
 - 進化を5段階（Seq2Seq→Attention→Self-Attention→QKV→Multi-Head）の差分表で整理したアプローチは、新技術の能力評価フレームワーク構築の方法論として参考になる
 - Transformerが状態を持たず『毎回全トークンを参照して再計算する』設計は、エージェントが会話履歴を毎ターン全量コンテキストに含めるアーキテクチャと本質的に同型であり、メモリ管理コストとのトレードオフを考える出発点となる
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェント開発でLangGraphを使う場合、エージェントの各ステップでドキュメントや過去ステップの出力をどう『参照』するかの設計にSelf-Attentionの概念が直接対応する。特に『Attentionは参照、Self-Attentionは再構築』の区別は、RAGで検索した証憑テキストをエージェントが文脈統合する処理設計を言語化する際の土台になる。ただし本記事は基礎解説レベルであり、実装・研究への直接的な示唆は次回のQKV/Multi-Head解説に期待される。
+- /deep_585 nanoVLMでゼロから実装するKVキャッシュ
+- /deep_879 Mamba解説：TransformerへのState Space Modelによる挑戦
+- /deep_262 Mambaとは何か：TransformerへのState Space Modelによる挑戦
+- /deep_1529 🤗 TransformersによるWhisperの多言語ASRファインチューニング
+- /deep_1494 🤗 TransformersによるProbabilistic時系列予測
 
 ## 原文リンク
 

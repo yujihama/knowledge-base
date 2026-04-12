@@ -40,10 +40,13 @@ SentenceTransformersTrainingArgumentsでbatch_size、epochs、learning_rate、wa
 - MultipleNegativesRankingLossはラベルなしペアデータだけでEmbeddingモデルを訓練できるため、ドメイン固有データが少ない環境（監査文書等）でも活用しやすい
 - Multi-Dataset Trainingにより、異なる性質のタスク（類似度判定・検索・分類）を単一モデルに同時学習させる設計が可能で、汎用Embeddingの品質向上が期待できる
 - EvaluatorとW&B/MLflowの統合により、訓練中のモデル品質をリアルタイム追跡できる評価パイプラインを構築でき、LLM-as-judgeと組み合わせた自動評価ループの設計に示唆を与える
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェントのRAGコンポーネントにおいて、監査基準・内部統制文書・過去の監査調書などドメイン固有テキストに特化したEmbeddingモデルをファインチューニングすることで検索精度を向上させられる。MultipleNegativesRankingLossを使えばラベルなしの監査文書ペアからもモデルを訓練できるため、アノテーションコストを抑えながら専門領域に適応したベクトル表現を構築できる。LangGraphのRAGノードに組み込む際の具体的な実装手順（データ準備・ロス選択・評価指標設定）がそのまま参照できる内容となっている。
+- /deep_1021 Text Generation Inference（TGI）ベンチマークツールの使い方と活用指針
+- /deep_1440 Sentence TransformersによるマルチモーダルEmbedding・Rerankerモデルのサポート（v5.4）
+- /deep_141 Hugging Faceにおけるオープンソースの現状：2026年春
+- /deep_1016 Amazon SageMaker向けHugging Face埋め込みコンテナの正式リリース
+- /deep_1572 🧨 DiffusersによるStable Diffusion：仕組みと実装ガイド
 
 ## 原文リンク
 

@@ -17,10 +17,13 @@ processed_at: "2026-04-09T09:48:06.954823"
 - CPU（Xeon）でEmbedding、GPU/アクセラレータ（Gaudi 2）でLLM推論という役割分担により、コストと性能のバランスを最適化できる設計パターン
 - FP8量化によりBF16比で1.8倍のスループット向上が得られる点は、推論コスト削減の実用的な手段として有効
 - OPEAフレームワークによりRAGアプリのコンポーネント（Embedding・VectorDB・LLM・GUI）がDockerで標準化されており、エンタープライズ展開のテンプレートとして再利用可能
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-LangChainのChain APIを使ったRAGパイプライン構成（RunnableParallel、HuggingFaceEndpoint、Redisベクトルストア）は、Yujiが開発中の監査エージェントシステムのRAGレイヤー設計の参考になる。特に財務文書（Nike 10-K）を対象としたQAユースケースは内部監査領域と親和性が高く、同様のドキュメント処理パイプラインを監査証拠・規程文書への適用に転用できる。ただし、本記事の主眼はIntel固有ハードウェアの活用にあるため、ソフトウェアアーキテクチャの参考としての価値が中心であり、RTX 3090環境での直接的な再現には追加調整が必要。
+- /deep_1120 Intel® Gaudi® 2 AIアクセラレータ上でのテキスト生成パイプライン
+- /deep_858 【2026年最新】AIエージェントフレームワーク・ツール完全まとめ224選 — AgDex.aiディレクトリ紹介
+- /deep_1021 Text Generation Inference（TGI）ベンチマークツールの使い方と活用指針
+- /deep_857 AIエージェントフレームワーク比較【LangChain vs CrewAI vs AutoGen】実務で選ぶための完全ガイド【2026年最新】
+- /deep_1116 🤗 Optimum IntelとfastRAGによるCPU最適化エンベディング
 
 ## 原文リンク
 

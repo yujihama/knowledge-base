@@ -25,10 +25,13 @@ meta-llama/Meta-Llama-3.1-8B での評価では、AWQやHQQなどの最適化ア
 - eager modeで動作するため、LangGraphのカスタムモジュールや非標準アーキテクチャのエージェントモデルにも適用しやすい設計になっている点
 - QAT（Quantization-Aware Training）ステップを挟むことで、量子化による精度劣化を訓練で回復できる設計が、fine-tuned評価モデル（LLM-as-judge）の量子化展開に応用できる
 - safetensors + quantization_map の組み合わせによるシリアライズが、量子化済みモデルの再利用・配布を標準的なフローで実現している点
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェント開発においてローカルLLM（RTX 3090環境）でLLM-as-judgeや評価モデルを動かす際、Quantoを使ってint8/int4量子化することでVRAM使用量を削減しつつ推論速度を向上できる。LangGraphのカスタムノードとして使用するモデルをeager modeで量子化できるため、非標準アーキテクチャのエージェントモジュールにも適用可能。transformers統合により `QuantoConfig` を1行追加するだけで既存のモデルロードコードに組み込める点も実用的。
+- /deep_1266 🤗 Transformersでネイティブサポートされる量子化スキームの概要
+- /deep_647 Transformersライブラリ：モデル定義の標準化とエコシステムの統合
+- /deep_1532 PyTorch DDPからAccelerateとTrainerへ：分散学習を段階的にマスターする
+- /deep_26 CodaとClaudeによる全員向けカスタムCUDAカーネル自動生成エージェントスキル
+- /deep_1529 🤗 TransformersによるWhisperの多言語ASRファインチューニング
 
 ## 原文リンク
 

@@ -17,11 +17,6 @@ processed_at: "2026-03-29T21:54:31.452295"
 - GitHub Copilot に特定ツール（dotnet）を使わせるには、slash command でスキルを明示指定し、絶対パスでファイルを指定することで成功率が上がる
 - OpenXML SDK は .pptx の XML を spTree 単位で解析し、図形（sp）・コネクタ（cxnSp）・グラフィックフレーム（graphicFrame）の位置・サイズ・接続関係を EMU 座標で取得できる
 - 複雑な図形の Mermaid 変換は LLM による多段階コード生成で実現され、Claude Sonnet 4.6 クラスのモデルで高精度な変換が可能
-
-## 監査エージェントへの示唆
-
-監査業務では PowerPoint 形式の報告書や内部統制フローチャートを扱うことが多く、OpenXML SDK による図形・接続関係の構造化抽出は、エージェントが非構造化ドキュメントをグラフ構造として取り込む際の前処理パイプラインとして応用できる。また、LLM に slash command でスキルを明示指定して特定ツール使用を強制するプロンプト設計は、エージェントのツール選択制御にも参考になる。
-
 ## 原文リンク
 
 [図形入りの PowerPoint を Markdown に変換する方法（GitHub Copilot + OpenXML SDK）](https://zenn.dev/headwaters/articles/convert-pptx-with-shapes-to-markdown)

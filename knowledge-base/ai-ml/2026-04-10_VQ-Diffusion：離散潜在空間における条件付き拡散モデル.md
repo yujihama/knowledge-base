@@ -36,6 +36,14 @@ Hugging Faceのdiffusersライブラリに統合されており、VQDiffusionPip
 - 1回のフォワードパスで全トークンの事後分布を予測するため、ARモデルの逐次生成に比べて推論時の誤差累積が構造的に抑制される設計になっている
 - テキスト条件付けにCLIPエンコーダを凍結したまま使用し、拡散デコーダのみを学習する構成は、事前学習済み表現の効率的な活用パターンとして参考になる
 
+## 関連記事
+
+- /deep_1572 🧨 DiffusersによるStable Diffusion：仕組みと実装ガイド
+- /deep_1302 🤗 Diffusers 1周年記念：1年間の主要機能まとめ
+- /deep_1265 Würstchen：42倍圧縮による高速・低コスト画像生成拡散モデルの紹介
+- /deep_1538 Japanese Stable Diffusion: 日本語特化テキスト-画像生成モデル
+- /deep_1494 🤗 TransformersによるProbabilistic時系列予測
+
 ## 原文リンク
 
 [VQ-Diffusion：離散潜在空間における条件付き拡散モデル](https://huggingface.co/blog/vq-diffusion)

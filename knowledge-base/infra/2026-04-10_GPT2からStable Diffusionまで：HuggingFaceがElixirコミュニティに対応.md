@@ -28,6 +28,14 @@ Bumblebeeと合わせて公開されたTokenizersライブラリにより、Elix
 - 「Smart cells」によるコード生成UI：3クリックでニューラルネットワークタスクのスキャフォールディングを生成するLivebook機能は、ML実験のアクセシビリティを高める手法として、ノーコード寄りのアプローチと開発者体験の両立を示している
 - 言語エコシステム丸ごとのML対応戦略：テンソル（Nx）→ニューラルネット（Axon）→データフレーム（Explorer）→事前学習済みモデル（Bumblebee）→トークナイザ（Tokenizers）という積み上げ型のライブラリスタック設計
 
+## 関連記事
+
+- /deep_1572 🧨 DiffusersによるStable Diffusion：仕組みと実装ガイド
+- /deep_1529 🤗 TransformersによるWhisperの多言語ASRファインチューニング
+- /deep_1302 🤗 Diffusers 1周年記念：1年間の主要機能まとめ
+- /deep_647 Transformersライブラリ：モデル定義の標準化とエコシステムの統合
+- /deep_1214 LoRAを用いたRoBERTa・Llama 2・Mistral 7Bの災害ツイート分類性能比較
+
 ## 原文リンク
 
 [GPT2からStable Diffusionまで：HuggingFaceがElixirコミュニティに対応](https://huggingface.co/blog/elixir-bumblebee)

@@ -29,10 +29,13 @@ logit処理の本質的な利点は、モデルの再学習なしにプロンプ
 - 多肢選択タスクでMultipleChoiceLogitsProcessorを使うと、プロンプトによる指示に比べて出力が確実にA/B/C等に限定され、後段のパース処理が不要になる——エージェントの構造化出力問題をデコード層で解決するアプローチ
 - PhraseLogitsProcessorによる必須フレーズ強制挿入は、出力フォーマット（免責事項・セクション見出し等）をモデル非依存で保証できる——Pydanticによる出力バリデーションと組み合わせると多層防御になる
 - GenLengthLogitsProcessorのboost_factor/pパラメータは連続値なので、タスクに応じた最適値をRLAIF/GRPOで学習させる研究に発展できる可能性がある
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェントでLLMに構造化回答（リスク分類・合否判定・根拠番号）を出力させる際、MultipleChoiceLogitsProcessorを使えばプロンプト依存なしに選択肢外の出力を排除でき、Pydanticバリデーションの失敗率を大幅に下げられる。また、PhraseLogitsProcessorで監査レポート固有のフレーズ（「内部統制上の重要な欠陥」等）を必須出力として強制する使い方も考えられる。LangGraphのノード出力をlogit処理で制約することで、エージェントループ中の出力安定性が向上し、リトライコストを削減できる。
+- /deep_1529 🤗 TransformersによるWhisperの多言語ASRファインチューニング
+- /deep_1266 🤗 Transformersでネイティブサポートされる量子化スキームの概要
+- /deep_907 Universal Assisted Generation：任意のアシスタントモデルによる高速デコード
+- /deep_647 Transformersライブラリ：モデル定義の標準化とエコシステムの統合
+- /deep_150 TransformersライブラリにおけるMixture of Experts (MoE)の実装と最適化
 
 ## 原文リンク
 

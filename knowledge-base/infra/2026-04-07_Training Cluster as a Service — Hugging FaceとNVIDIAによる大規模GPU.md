@@ -28,6 +28,14 @@ GTC Parisでの関連発表として、NVIDIA DGX Cloud LeptonによるEurope向
 - DGX Cloud Leptonがスケジューリング・モニタリングを担うミドルウェア層として機能することで、研究者がインフラ管理を意識せずHugging Faceのライブラリをそのまま使える抽象化レイヤーの設計が参考になる
 - 希少疾患研究・数学推論・材料科学という異なるドメインの非GPUリッチ組織が最初のユーザーとして挙がっており、汎用基盤モデルではなくドメイン特化モデル訓練の民主化が主眼であることが示唆される
 
+## 関連記事
+
+- /deep_1263 物体検出リーダーボード：評価指標とその落とし穴の解説
+- /deep_1487 機械学習におけるバイアスについて語ろう！倫理・社会ニュースレター第2号
+- /deep_524 NVIDIA NIMでHugging Face上の10万以上のLLMを高速デプロイ
+- /deep_1114 NVIDIA DGX CloudのH100 GPUでモデルを簡単にトレーニングする方法
+- /deep_989 Hugging FaceとNVIDIA NIMによるサーバーレス推論（DGX Cloud連携）
+
 ## 原文リンク
 
 [Training Cluster as a Service — Hugging FaceとNVIDIAによる大規模GPU クラスター提供サービスの発表](https://huggingface.co/blog/nvidia-training-cluster)

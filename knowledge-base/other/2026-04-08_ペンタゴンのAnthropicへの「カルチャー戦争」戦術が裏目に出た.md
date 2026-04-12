@@ -24,6 +24,14 @@ processed_at: "2026-04-08T21:40:20.849003"
 - 「ツイートファースト、法廷セカンド」戦略の失敗：SNS投稿が後の法廷での政府側立場と矛盾し、判決に不利に働いた構造的問題
 - 政府がClaudeに深く依存していながら制裁を試みるという矛盾が、重要AIシステムへのベンダーロックインリスクを可視化した
 
+## 関連記事
+
+- /deep_538 ベイエリアの動物福祉運動、AIをリクルートへ：効果的利他主義とLLMの価値観アライメント
+- /deep_1419 Claude Mythos Preview システムカード - 第1章：はじめに
+- /deep_435 Applied Engineerとは？SE・SAとの違いと求人800%増の背景【2026年版】
+- /deep_1032 AIハイプ指数：AIが戦場へ——軍事利用・エージェント化・社会的反発の最前線
+- /deep_451 AIハイプ指数：AIが戦争へ向かう
+
 ## 原文リンク
 
 [ペンタゴンのAnthropicへの「カルチャー戦争」戦術が裏目に出た](https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/)

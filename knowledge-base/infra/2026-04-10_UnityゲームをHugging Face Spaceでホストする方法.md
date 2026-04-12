@@ -18,6 +18,14 @@ Hugging Face Spacesは通常MLデモのホスティングに使われるが、Un
 - Git LFSによる大容量ファイル管理をデプロイフローに組み込む手法は、モデルウェイトや大規模データを扱う他のプロジェクトにも応用可能
 - Compression Formatを無効化しないとブラウザでの読み込みが失敗するという制約は、WebAssembly/WebGL系ビルドのデプロイ時に共通する注意点
 
+## 関連記事
+
+- /deep_1354 Hugging Face Hub：美術館・図書館・文書館・博物館（GLAM）向け活用ガイド
+- /deep_1572 🧨 DiffusersによるStable Diffusion：仕組みと実装ガイド
+- /deep_1529 🤗 TransformersによるWhisperの多言語ASRファインチューニング
+- /deep_1494 🤗 TransformersによるProbabilistic時系列予測
+- /deep_1449 🤗 PEFT：低リソースハードウェアで数十億パラメータモデルをパラメータ効率的にファインチューニング
+
 ## 原文リンク
 
 [UnityゲームをHugging Face Spaceでホストする方法](https://huggingface.co/blog/unity-in-spaces)

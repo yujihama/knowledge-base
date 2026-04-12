@@ -23,10 +23,13 @@ processed_at: "2026-04-09T09:06:03.203500"
 - OpenAI互換APIをbase_urlのみ変更して流用できる設計は、既存コードベースへの推論バックエンド差し替えのパターンとして参考になる
 - H100 GPU数とモデルサイズのマッピング（8B→1GPU、70B→4GPU、405B→8GPU）は、ローカルLLMインフラ設計時のGPUメモリ見積もりに直接使える数値
 - 2025年4月にサービス終了しInference Providersへ移行した経緯は、クラウドLLMサービスの継続性リスクを示す事例として重要
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-ローカルLLMインフラ（RTX 3090）構築中のYujiにとって、H100でのモデル別GPU要件（8B=1枚、70B=4枚）は自環境でのVRAM見積もりの参考になる。また監査エージェント開発でLangGraphを用いる際、OpenAI互換APIに標準化されたエンドポイントの活用パターンは、将来的にクラウド推論バックエンドへ切り替える際の設計選択肢として有用。サービスが終了しInference Providersへ移行した点も、エンタープライズ向けLLMサービス選定時の安定性評価の観点として参考になる。
+- /deep_1114 NVIDIA DGX CloudのH100 GPUでモデルを簡単にトレーニングする方法
+- /deep_1308 Hugging Face Inference EndpointsでLLMをデプロイする方法
+- /deep_1063 AWSアカウントでHugging Face Enterprise Hubを購読する方法
+- /deep_419 連続バッチ処理（Continuous Batching）をゼロから理解する
+- /deep_1310 複雑な生成AIユースケースへのHugging Face活用事例：Writer社CTOインタビュー
 
 ## 原文リンク
 

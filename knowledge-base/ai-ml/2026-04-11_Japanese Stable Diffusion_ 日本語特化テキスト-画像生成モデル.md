@@ -18,6 +18,14 @@ rinna株式会社が開発した「Japanese Stable Diffusion」は、Stability A
 - CLIPの汎用トークナイザーを言語固有のSentencePieceに置き換えることで、トークン数を削減しつつ意味的な分割精度を高める手法は、日本語LLMや日本語RAGのトークナイズ設計にも直接応用できる
 - 文化・言語固有の概念（「サラリーマン」等の英語由来だが意味が変容した語）を正しく扱うには翻訳では不十分であり、文化コンテキストを持つデータで直接学習する必要があるという知見は、ドメイン特化エージェント設計にも通じる
 
+## 関連記事
+
+- /deep_1572 🧨 DiffusersによるStable Diffusion：仕組みと実装ガイド
+- /deep_1495 VQ-Diffusion：離散潜在空間における条件付き拡散モデル
+- /deep_1449 🤗 PEFT：低リソースハードウェアで数十億パラメータモデルをパラメータ効率的にファインチューニング
+- /deep_1302 🤗 Diffusers 1周年記念：1年間の主要機能まとめ
+- /deep_1489 高速トレーニングと推論: Habana Gaudi2 vs Nvidia A100 80GB ベンチマーク比較
+
 ## 原文リンク
 
 [Japanese Stable Diffusion: 日本語特化テキスト-画像生成モデル](https://huggingface.co/blog/japanese-stable-diffusion)

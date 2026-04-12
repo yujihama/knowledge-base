@@ -25,10 +25,13 @@ Vertex AIはGCPが提供するフルマネージドMLプラットフォームで
 - 前処理・後処理をモデル内に埋め込むSavedModel設計により、training-serving skewをアーキテクチャレベルで排除できる点は、推論パイプラインの信頼性向上に有効
 - Vertex AI Model Registryによるモデルバージョン管理とトラフィック分割機能を組み合わせることで、カナリアリリースやロールバックを低コストで実現できる
 - google-cloud-aiplatform SDKのみでデプロイ全工程を完結させる設計は、KubernetesのYAML管理と比較してインフラコードの複雑性を大幅に低減する
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェントシステムをプロダクション運用する際、LangGraphベースのエージェントをVertex AI上にデプロイする参考事例として活用できる。特にモデルのバージョン管理・トラフィック分割機能は、監査エージェントのA/Bテストや段階的ロールアウトに直接応用可能。また、前処理をモデルに埋め込む設計パターンは、Pydanticによる入力バリデーションと組み合わせてエージェントのサービング品質を高める際の参考になる。
+- /deep_396 機械学習モデル構築：PythonフレームワークとBigQuery MLの違いと使い分け
+- /deep_1579 TF ServingとKubernetesを用いたHugging Face ViTモデルのデプロイ
+- /deep_1261 Rocket Money × Hugging Face: 本番環境における揮発性MLモデルのスケーリング事例
+- /deep_1617 HuggingFaceのTensorFlow Visionモデルをテンソルフロー・サービングでデプロイする
+- /deep_1645 雰囲気でML運用してない？Google流「ML Test Score」でMLパイプラインの信頼性を数値化する
 
 ## 原文リンク
 

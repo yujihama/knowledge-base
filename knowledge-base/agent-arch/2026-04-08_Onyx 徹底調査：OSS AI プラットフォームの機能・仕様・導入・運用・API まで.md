@@ -17,10 +17,13 @@ Onyx は GitHub 上で約 22,200 stars・3,000 forks・157 releases（最新 v3.
 - Onyx MCP Server を活用することで、Claude/Cursor などの既存ツールを変えずに社内知識基盤への参照のみを Onyx に委譲できる分離設計が実用的
 - Deep Research モードは通常推論の 10 倍超のトークンコストがかかる代わりに複数サイクルの agentic 探索を行う設計で、コスト対精度のトレードオフが明示されている点が参考になる
 - CE/EE 混合ライセンス構成（同一リポジトリ内で MIT と Enterprise License が共存）は OSS エンタープライズ製品の一般的な収益化パターンを示しており、自社ツール設計の参考になる
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェント開発において、Onyx の Custom Agent（instructions＋knowledge＋actions）構成は LangGraph の Agent 設計と補完的に活用できる。特に Onyx MCP Server を経由して Confluence・SharePoint・Jira 等の社内文書を Claude ベースの監査エージェントから参照する構成は、RAG 基盤を内製せずに既存インフラを活用できる点で実用性が高い。また、OpenAPI 経由の Action 拡張は Pydantic でスキーマ定義した外部ツールを監査ワークフローに組み込む際の実装参考になる。
+- /deep_36 LLMを「嘘つき」から「専門家」に変える技術 — Context Engineering 実践入門
+- /deep_111 生成AIのハルシネーションは「誤出力」？ 条件付き分布・真理条件・接地から見る数理的整理
+- /deep_1335 日本語入力システムSumibiの開発 part17: ピンインによる中国語入力に対応した
+- /deep_95 思考とプロンプトの間にある「空白」こそが、すべてを決める
+- /deep_77 パーソナルヘルスエージェントの解剖：マルチエージェント構造による個人健康支援フレームワーク
 
 ## 原文リンク
 

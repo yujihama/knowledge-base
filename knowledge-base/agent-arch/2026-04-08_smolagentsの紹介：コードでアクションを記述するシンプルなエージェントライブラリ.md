@@ -25,10 +25,13 @@ smolagentsはtransformers.agentsの後継であり、将来的にtransformers.ag
 - JSONではなくPythonコードでアクションを記述させることで、ツール出力の変数保持・ループ・条件分岐をLLMが自然に扱える。これはJSON形式のツール呼び出しに比べて表現力が根本的に異なる
 - エージェントの「agency」を0/1ではなく連続スペクトラムとして定義しており、Router（★☆☆）→Tool call（★★☆）→Multi-step Agent（★★★）→Multi-Agent（★★★）という段階的な分類が実用的な設計判断の指針になる
 - Qwen2.5-Coder-32B-InstructがGPT-4oと同等のエージェントベンチマーク性能を示しており、オープンモデルでもCode Agent形式であれば商用モデルに匹敵できることを示す
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-smolagentsのCodeAgentアーキテクチャは、LangGraphで構築中の監査エージェントにおけるツール呼び出し設計の参考になる。特にE2Bサンドボックス上でPythonコードを実行する仕組みは、監査ロジック（仕訳検証・異常検知スクリプト）をエージェントに動的生成・実行させる際の安全な実装パターンとして直接応用可能。またHugging Face Hub経由でツールを共有できる設計は、監査特化ツール（勘定科目分類器、リスク評価関数等）をチーム内でモジュール化・再利用する際のインフラとして活用できる。transformers.agentsの後継であるためHugging Faceエコシステムとの統合も容易で、ローカルLLM（RTX 3090環境）との組み合わせでオフライン監査エージェントを構築する際の選択肢になる。
+- /deep_775 オープンソースDeepResearch – 検索エージェントの解放
+- /deep_1572 🧨 DiffusersによるStable Diffusion：仕組みと実装ガイド
+- /deep_1529 🤗 TransformersによるWhisperの多言語ASRファインチューニング
+- /deep_1494 🤗 TransformersによるProbabilistic時系列予測
+- /deep_1449 🤗 PEFT：低リソースハードウェアで数十億パラメータモデルをパラメータ効率的にファインチューニング
 
 ## 原文リンク
 

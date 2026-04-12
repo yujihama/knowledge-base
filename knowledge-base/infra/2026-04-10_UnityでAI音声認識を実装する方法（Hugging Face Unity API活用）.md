@@ -18,6 +18,14 @@ processed_at: "2026-04-10T09:44:59.212580"
 - 録音の最大長（10秒）とMicrophone.GetPosition()による自動停止ロジックにより、クラウドAPIへの過大なペイロード送信を防ぐ設計になっている
 - ボタンのinteractability制御でAPI応答待ち中の二重送信を防ぐUXパターンは、非同期AIコール全般に応用できる汎用設計
 
+## 関連記事
+
+- /deep_1529 🤗 TransformersによるWhisperの多言語ASRファインチューニング
+- /deep_1420 秘匿環境で使うAI議事録の構成を考える - パイプライン型とLLM完結型の検証
+- /deep_1062 危機言語のドキュメント化に向けた自動音声認識：池間宮古語を事例として
+- /deep_411 faster-whisperで手元の録画を文字起こしする：Metal非対応でもM2 Maxで実用速度
+- /deep_128 WAXAL: アフリカ言語音声技術のための大規模オープンリソース
+
 ## 原文リンク
 
 [UnityでAI音声認識を実装する方法（Hugging Face Unity API活用）](https://huggingface.co/blog/unity-asr)

@@ -25,10 +25,13 @@ processed_at: "2026-04-08T21:34:41.295666"
 - INT8量子化はデータフリーでPPL劣化がほぼゼロ（7.3366→7.3463）という実測値は、精度要件の高い業務システムへの適用可否を判断する基準として使える
 - AWQ + scale estimation + INT4/INT8混合精度のスタックが単純INT4より高精度を維持するアプローチは、他の量子化ライブラリ（llama.cpp、bitsandbytes）との比較設計に応用できる
 - PythonとC++の両APIを単一モデルフォーマット（OpenVINO IR）で共有できる設計は、PoC（Python）から本番（C++）への移行コストを大幅に削減するアーキテクチャパターン
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェントをローカルLLMインフラ（RTX 3090、GALLERIA XA7C-R37T）で動かす場面では、OpenVINOはCPU/iGPU向けの選択肢として参照価値がある。ただしYujiの環境はNVIDIA GPU中心のため直接の適用優先度は低い。一方、INT4量子化のPPL比較手法（lm-evaluation-harness + Wikitext）は、自前でOllamaやllama.cppで量子化したモデルの精度検証手順として転用できる。また、モデルをIR形式に一元化してPython/C++双方から利用するパターンは、LangGraphエージェントのバックエンドをC++推論エンジンに切り替える際の参考設計になる。
+- /deep_1530 Optimum IntelとOpenVINOでTransformerモデルを高速化する
+- /deep_524 NVIDIA NIMでHugging Face上の10万以上のLLMを高速デプロイ
+- /deep_425 Arm & ExecuTorch 0.7：ジェネレーティブAIを大多数のデバイスへ
+- /deep_154 ロボティクスAIを組み込みプラットフォームへ展開：データセット収録・VLAファインチューニング・オンデバイス最適化
+- /deep_1171 ビッグデータからファストデータへ：クローズドループデータ収集による機械学習用高品質データセット構築
 
 ## 原文リンク
 

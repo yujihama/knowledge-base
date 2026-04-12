@@ -17,10 +17,13 @@ MoonshotAIが提案したAttention Residuals（arxiv:2603.15031）を自作Trans
 - Attention Residualsは固定加算ではなく学習可能な重み付き合成で残差を構成し、54Mモデルでも検証Lossを0.3以上改善できる
 - ゲート粒度は細かいほど（2層ごと）有効で、粗い設定（4層ごと）より汎化性能が高かった
 - 実装はblock_outputsを蓄積しsoftmax集約後にhを置換する方式で、標準残差との差分が明確に測定可能
+## 関連記事
 
-## 監査エージェントへの示唆
-
-監査エージェントで使用するLLMのファインチューニングや軽量モデル構築時に、残差接続の改善手法として参照できる。特にLangGraphベースのマルチステップ推論では中間層の情報活用が精度に影響するため、Attention Residuals的なアプローチがエージェントの判断品質向上に寄与する可能性がある。
+- /deep_113 金融時系列予測でLightGBM / LSTM / Transformerを比較してみた
+- /deep_216 金融市場へのLLM応用：価格予測・合成データ・マルチモーダル学習の可能性と限界
+- /deep_585 nanoVLMでゼロから実装するKVキャッシュ
+- /deep_1638 Mamba解説：Transformerに挑む状態空間モデル（SSM）
+- /deep_672 Mambaの解説：Transformerに挑む状態空間モデル
 
 ## 原文リンク
 

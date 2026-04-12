@@ -32,6 +32,14 @@ processed_at: "2026-04-11T21:08:31.788763"
 - XLAコンパイル（jit_compile=True）とtf.dataの固定長パディングの組み合わせによりGPU/TPUで大幅高速化が実現できる点は、推論コスト削減の実践的手法として参考になる
 - KerasのsubclassingによりGPT-2とViTのようなモデルを自由に合成できる設計は、マルチモーダルエージェントや複合AIシステムの構築パターンとして応用できる
 
+## 関連記事
+
+- /deep_1015 Transformersドキュメントの再設計：混乱を整理する
+- /deep_1616 TensorFlowとXLAによる高速テキスト生成
+- /deep_1190 Hugging FaceとGoogleがオープンAI協力のための戦略的パートナーシップを発表
+- /deep_1445 FetchがHugging FaceとAWSを活用してAIツールを統合し、開発時間を30%削減
+- /deep_1529 🤗 TransformersによるWhisperの多言語ASRファインチューニング
+
 ## 原文リンク
 
 [Hugging FaceのTensorFlow哲学：KerasネイティブなTransformersの設計方針](https://huggingface.co/blog/tensorflow-philosophy)

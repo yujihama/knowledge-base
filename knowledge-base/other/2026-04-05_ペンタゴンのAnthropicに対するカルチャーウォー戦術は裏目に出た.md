@@ -28,6 +28,14 @@ processed_at: "2026-04-05T21:07:05.718472"
 - SNS上の政治的発言が後の法廷での政府主張と矛盾するという構造は、企業がAIの利用制限条件をめぐり訴訟リスクを評価する際に参照すべき先例となり得る
 - 国家安全保障上の「サプライチェーンリスク」指定という行政手段がAI企業への政治的圧力ツールとして使われた事例は、AI調達・ガバナンス研究における法的・制度的脆弱性の具体例を提供する
 
+## 関連記事
+
+- /deep_538 ベイエリアの動物福祉運動、AIをリクルートへ：効果的利他主義とLLMの価値観アライメント
+- /deep_1419 Claude Mythos Preview システムカード - 第1章：はじめに
+- /deep_435 Applied Engineerとは？SE・SAとの違いと求人800%増の背景【2026年版】
+- /deep_466 AIハイプ指数：AIが戦争へ向かう
+- /deep_596 AIハイプ指数：AIが戦争へ向かう
+
 ## 原文リンク
 
 [ペンタゴンのAnthropicに対するカルチャーウォー戦術は裏目に出た](https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/)

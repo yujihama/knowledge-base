@@ -25,10 +25,13 @@ processed_at: "2026-04-09T12:23:55.442918"
 - GaudiTextGenerationPipelineはuse_with_langchain=Trueフラグ1つでLangChainのHuggingFacePipelineに直接渡せる設計になっており、推論バックエンドをLangChainチェーンから完全に隠蔽できる抽象化が参考になる
 - 70Bモデルの推論をDeepSpeedとgaudi_spawn.pyで8ノード分散化する構成は、単一GPUでは載らない大規模モデルを本番利用可能なスループットで動かすための実用的なパターンである
 - HPU GraphsによるグラフコンパイルとKVキャッシュを組み合わせた推論最適化は、NVIDIAエコシステム以外でも同等の高速化手法が適用可能であることを示しており、ハードウェア非依存なLLM推論最適化の考え方として汎用性がある
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-LangChain統合のサンプルコードは、YujiがLangGraphベースの監査エージェントにローカルLLMを組み込む際の参考になる。GaudiTextGenerationPipelineをHuggingFacePipelineにラップしてLLMChainに渡すパターンは、Ollamaや他のローカル推論バックエンドをLangGraph内のノードとして統合する設計に直接応用できる。また、RTX 3090構築予定のローカルLLMインフラの比較対象として、Intel Gaudi 2というNVIDIA以外のアクセラレータ選択肢のエコシステム成熟度を把握しておくことは有用である。
+- /deep_1064 Intel Gaudi 2とXeonを活用したコスト効率の高いエンタープライズRAGアプリケーション構築
+- /deep_1019 Intel Gaudi向けAssisted Generation（投機的サンプリング）の高速化サポート
+- /deep_429 大規模AIシステムにおける戦略的レバーとしてのスループット最適化：データローダーとメモリプロファイリング革新からの証拠
+- /deep_505 大規模AIシステムにおけるスループット最適化：データローダーとメモリプロファイリングの革新からの実証
+- /deep_41 ハーネスエンジニアリング完全ガイド — 2026年、AIエージェントの「手綱」を握る技術
 
 ## 原文リンク
 

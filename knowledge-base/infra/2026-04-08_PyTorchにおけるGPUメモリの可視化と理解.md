@@ -27,10 +27,13 @@ processed_at: "2026-04-08T12:26:44.950468"
 - torch.cuda.memory._record_memory_history()によるメモリ履歴の記録とpytorch.org/memory_vizでの可視化により、OOMエラーの原因をアクティベーション・勾配・オプティマイザ状態のどの成分か特定できる
 - gradient checkpointingはアクティベーションをforward pass時に破棄し、backward pass時に再計算することでメモリをO(√n)に削減できるが、約33%の計算オーバーヘッドが発生するというトレードオフが定量的に示されている
 - 予約メモリ（reserved）と割り当てメモリ（allocated）の差分を考慮しないとGPU要件を過小評価するという実践的な落とし穴は、モデルデプロイ計画時に見落としやすい重要な知見
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-LangGraphベースの監査エージェントシステムをローカルLLMインフラ（RTX 3090予定）で動かす際、LLMのfine-tuning（GRPO/RLAIF等）に直接役立つ。特にGPU 24GBのRTX 3090でQwen等のモデルを訓練する際、gradient checkpointingや混合精度訓練の適切な組み合わせを選択するための定量的な判断基準が得られる。メモリプロファイリングツールを用いてfine-tuning前にメモリ要件を見積もることで、OOMエラーを予防しつつ最大バッチサイズを決定できる。
+- /deep_1536 最適化の記録: BLOOM推論サーバーの高速化
+- /deep_428 ゼロからGPUへ: 本番環境対応CUDAカーネルの構築とスケーリングガイド
+- /deep_1102 WebGPUディスパッチオーバーヘッドのLLM推論への影響：4社GPU・3バックエンド・3ブラウザ横断的な特性分析
+- /deep_404 Ulyssesシーケンス並列化：100万トークンコンテキストでのLLM学習
+- /deep_1275 PyTorch FSDPを使ったLlama 2 70Bのファインチューニング
 
 ## 原文リンク
 

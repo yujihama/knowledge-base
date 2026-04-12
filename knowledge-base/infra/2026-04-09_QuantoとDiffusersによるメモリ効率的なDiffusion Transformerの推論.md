@@ -25,10 +25,13 @@ INT8はFP8よりレイテンシが良好で、fuse_qkv_projections()でQKVプロ
 - テキストエンコーダの量子化がDiffusion Backboneより劇的なメモリ削減効果をもたらす点（12GB→5.3GB）は、マルチモデルパイプラインでのボトルネックがエンコーダ側にあることを示唆する
 - SD3の第2テキストエンコーダのみ量子化不可という非対称な制約は、モデルアーキテクチャの数値安定性がエンコーダごとに異なることを示しており、量子化可能コンポーネントの事前評価が重要
 - INT4はメモリを3GBまで削減できるが計算はbfloat16で行うため速度向上がない、という「転送効率型量子化」の概念はLLM量子化（GPTQ等）と同様のトレードオフ設計
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェントシステムでローカルLLM（RTX 3090予定）を活用する際、Quantoの量子化手法はVRAM 24GBの制約内で大規模モデルを動かすための直接的な実装パターンとして参照できる。特にテキストエンコーダとメインモデルを個別に量子化する設計思想は、LangGraphのマルチエージェント構成でコンポーネントごとにメモリ最適化を適用する際に応用可能。save_pretrained()/from_pretrained()の互換性維持により、Diffusersベースのパイプラインを既存コードを大きく変更せず量子化できる点も実用的。
+- /deep_1187 Intel Xeon上でStarCoderを高速化：Q8/Q4量子化とSpeculative Decoding
+- /deep_1116 🤗 Optimum IntelとfastRAGによるCPU最適化エンベディング
+- /deep_1389 無料Google ColabでDeepFloyd IFをDiffusersで動かす方法
+- /deep_125 SliderQuant: LLM向け高精度ポストトレーニング量子化フレームワーク
+- /deep_1350 SafetensorsがPyTorch Foundationに参加——Linux Foundation傘下でコミュニティガバナンスへ移行
 
 ## 原文リンク
 

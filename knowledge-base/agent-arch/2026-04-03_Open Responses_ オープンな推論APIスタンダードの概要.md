@@ -23,10 +23,13 @@ Open ResponsesはOpenAIが2025年3月に公開したResponses APIをベースに
 - 推論トレースをcontent/encrypted_content/summaryの3段階で扱う設計は、LLM-as-judgeやデバッグ目的で推論過程の透明性を制御する際に応用できる
 - Model ProviderとRouterの明示的分離により、監査ログ・トレーサビリティの観点から『どのプロバイダーが何を実行したか』を構造的に追跡する基盤になりうる
 - max_tool_callsによるループ上限制御は、エージェントの暴走・無限ループ防止の標準的なガードレールとして、エンタープライズ向けエージェントシステム設計のリファレンスになる
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-LangGraphで構築している監査エージェントをAPI化・外部公開する際、Open ResponsesはChat Completionより適切な標準インターフェースの候補となる。特にサブエージェントループの仕様化（max_tool_calls、tool_choice、内部/外部ツール分類）はReActパターンの実装と直接対応しており、LangGraphのグラフ実行をOpen Responses準拠でラップする設計が検討できる。また、推論トレースの3段階可視性はLLM-as-judgeや監査証跡の要件とも親和性が高く、内部監査システムにおける説明可能性の確保に活用できる可能性がある。
+- /deep_88 研究者向けMCP：AIを研究ツールに接続する方法
+- /deep_83 ClaudeとHugging FaceでAI画像生成：MCP連携による実践ガイド
+- /deep_430 過去のセッションを必要時のみ参照する方針でclaude-memのトークン消費を激減させた話
+- /deep_1310 複雑な生成AIユースケースへのHugging Face活用事例：Writer社CTOインタビュー
+- /deep_1669 倫理原則を研究ライフサイクルの核心に据える：Hugging Face マルチモーダルプロジェクトの倫理憲章
 
 ## 原文リンク
 

@@ -27,10 +27,13 @@ processed_at: "2026-04-11T21:09:06.063801"
 - SavedModel内に前処理・後処理を埋め込むことでサービング側のコードを最小化できる設計パターンは、監査エージェントのモデルAPIサービング時にも同様に適用できる
 - AVX512最適化ビルドのTF Servingイメージを使うことで、GPUなし環境でも推論スループットを改善できる点は、コスト効率重視のオンプレ・クラウド混在構成で有用
 - Locustによるロードテストとkubectl scaleの組み合わせで、実際の負荷に応じたレプリカ数チューニングを定量的に行えるワークフローが確立されている
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェントをLangGraphで構築する際、推論APIをTF Serving＋Kubernetesで提供する構成は、エージェントのツール呼び出し先として本番運用に耐えうるスケーラブルなエンドポイントを整備する際の参考になる。特にSavedModelに前処理を内包するパターンは、LangGraphのノード設計でツール側の入力変換ロジックを削減する観点から応用できる。ローカルLLMインフラ（RTX 3090）でOllamaを使う場合でも、TF ServingのKubernetes構成と比較することでサービング設計の引き出しが広がる。
+- /deep_1617 HuggingFaceのTensorFlow Visionモデルをテンソルフロー・サービングでデプロイする
+- /deep_418 オープンな未来に向けて：Hugging FaceとGoogle Cloudの新たな戦略的パートナーシップ
+- /deep_1530 Optimum IntelとOpenVINOでTransformerモデルを高速化する
+- /deep_1574 HuggingFace ViTモデルをVertex AIにデプロイする
+- /deep_1448 Hugging Face Inference Endpointsへの移行事例：ECS+FargateからのMLモデルデプロイ刷新
 
 ## 原文リンク
 

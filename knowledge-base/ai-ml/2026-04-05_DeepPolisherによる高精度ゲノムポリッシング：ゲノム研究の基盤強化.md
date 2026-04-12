@@ -18,6 +18,14 @@ DeepPolisherは、GoogleとUC Santa Cruz Genomics Instituteが共同開発した
 - 学習・検証・テスト用に染色体を分割するホールドアウト戦略は、ゲノムデータの空間的相関を考慮した評価設計であり、ドメイン固有の評価分割の好例
 - 99.99999%精度のゴールドスタンダードデータを教師ラベルとして用いることで、極めて低いエラー率の修正モデルを学習できる点は、高品質アノテーションがモデル性能に直結することを示す実証例
 
+## 関連記事
+
+- /deep_195 Mamba解説：TransformerへのState Space Modelによる挑戦
+- /deep_1494 🤗 TransformersによるProbabilistic時系列予測
+- /deep_113 金融時系列予測でLightGBM / LSTM / Transformerを比較してみた
+- /deep_216 金融市場へのLLM応用：価格予測・合成データ・マルチモーダル学習の可能性と限界
+- /deep_370 設計段階でのスパース化によるクロスモダリティ予測：信頼性と効率的学習のためのL0ゲート表現
+
 ## 原文リンク
 
 [DeepPolisherによる高精度ゲノムポリッシング：ゲノム研究の基盤強化](https://research.google/blog/highly-accurate-genome-polishing-with-deeppolisher-enhancing-the-foundation-of-genomic-research/)

@@ -25,10 +25,13 @@ CLAUDE_MEM_CONTEXT_OBSERVATION_TYPES=''、CLAUDE_MEM_CONTEXT_OBSERVATION_CONCEPT
 - 「全量を事前注入するより、インデックスのみ保持して都度フェッチする」パターンはRAGのlazy retrievalと同じ思想であり、エージェントのメモリ設計全般に応用できる
 - Read/Glob/Grepのような状態変化を伴わない読み取り系ツールをスキップすることで観測記録のS/N比を上げる手法は、LangGraphの観測ログ設計にも転用できる
 - OBSERVATION_TYPESやCONCEPTSが表示時フィルタに過ぎずDB記録には無影響という事実をソースコード解析で確認したアプローチは、ツールの仕様を正確に把握する上でのLLM活用例として参考になる
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-LangGraphで構築する監査エージェントでもセッション間メモリ管理は重要な設計課題となる。claude-memのlazy取得パターン（最小インデックスのみ保持→必要時にsearch+get_observations）は、監査エージェントが大量の監査記録・証跡を扱う際のコンテキスト管理戦略として直接応用できる。また、Read/Grep等の読み取り専用ツールをメモリ記録から除外する手法は、LangGraphのツールノードに対するトレーシング設計（何を永続化すべきか）を考える際の具体的な指針になる。
+- /deep_13 SkillにアプリケーションをAgent-App共生モデルとして組み込む実装
+- /deep_51 SaaSを個人開発して運営しているが、本当に「SaaS is Dead」を感じ始めている
+- /deep_9 LLMに長期記憶を実装する — 脳の記憶メカニズムのPython実装
+- /deep_89 Claude CodeとCodexのPlan Modeはどこに何を保存しているのか
+- /deep_1245 AIエンジニアリング進化の系譜 — 第4の波「Authority Engineering」とは何か
 
 ## 原文リンク
 

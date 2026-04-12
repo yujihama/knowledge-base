@@ -21,10 +21,13 @@ processed_at: "2026-04-11T21:29:17.382630"
 - 前処理・後処理をSavedModelグラフに埋め込む「モデルサージェリー」パターンにより、クライアントは生画像（base64）を送るだけで推論結果を受け取れる設計が、training-serving skewを構造的に防止する
 - tf.functionとconcrete_functionを組み合わせてサービングシグネチャを上書きする手法は、任意のPythonロジック（前処理・ラベルマッピング等）をTensorFlowグラフとして固定化できる汎用テクニック
 - TF ServingはgRPCとRESTの両プロトコルをネイティブサポートし、サーバーサイドバッチングやモデルウォームアップを設定ファイルのみで有効化できるため、高スループット推論基盤を低コストで構築できる
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェントシステムにおいて、OCRや文書画像解析モデルをTF Servingでマイクロサービス化する際のリファレンス実装として直接活用できる。LangGraphのエージェントノードからREST/gRPCで画像分類サービスを呼び出す構成を取れば、エージェントとMLモデルの疎結合化が実現できる。前処理をサーバーグラフに内包させるパターンは、Pydanticによる入力スキーマ定義と組み合わせることでAPIの型安全性を高める設計にも応用可能。
+- /deep_1579 TF ServingとKubernetesを用いたHugging Face ViTモデルのデプロイ
+- /deep_1574 HuggingFace ViTモデルをVertex AIにデプロイする
+- /deep_1264 本番環境でのLLM最適化：低精度・Flash Attention・アーキテクチャ革新
+- /deep_1575 ビジョントランスフォーマー（ViT）をHugging Face Optimum Graphcoreで活用する詳細ガイド
+- /deep_878 データフリー共分散推定によるモデルマージ
 
 ## 原文リンク
 

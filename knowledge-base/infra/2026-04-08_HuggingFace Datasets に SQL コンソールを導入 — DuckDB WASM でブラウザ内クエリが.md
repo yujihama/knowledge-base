@@ -23,10 +23,12 @@ Hugging Face は 2024年9月、Hub 上のデータセットに対してブラウ
 - DuckDB WASM によりサーバーレス・依存ゼロでブラウザ内データ処理が完結する設計は、セキュリティ要件の厳しい環境（監査法人など）でのデータ探索ツールとして参考になるアーキテクチャパターン
 - Embedding カラムへの類似検索クエリが SQL で書けるため、RAG パイプラインのデータセット評価・フィルタリングをノーコードで試せる点が興味深い
 - SQL で LLM ファインチューニング用データのフォーマット変換（Alpaca → 会話形式）が完結するユースケースは、Python 前処理スクリプトの代替として再現性・共有性が高い
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェント開発において LangGraph や Pydantic で処理するデータセット（ログ・監査証跡等）を Hub に置いている場合、SQL Console で素早くフィルタリング・集計・品質確認ができる。特に GRPO/RLAIF の学習データ作成時に Alpaca→会話形式変換のような前処理を SQL で完結できる点は、Python スクリプト管理の手間を削減できる。また DuckDB の Embedding 類似検索機能は RAG パイプラインの評価データ構築にそのまま応用可能。
+- /deep_1355 DuckDB：Hugging Face Hub上の50,000以上のデータセットをSQLで分析する
+- /deep_904 Hugging Face HubでオープンなMLデータセットを共有する方法
+- /deep_396 機械学習モデル構築：PythonフレームワークとBigQuery MLの違いと使い分け
+- /deep_521 ParquetのContent-Defined Chunking（CDC）によるHugging Face Hub上のデータ転送最適化
 
 ## 原文リンク
 

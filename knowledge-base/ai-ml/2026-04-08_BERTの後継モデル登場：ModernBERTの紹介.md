@@ -25,10 +25,13 @@ ModernBERTは、Answer.AIとLightOnが共同開発したエンコーダー専用
 - 8,192トークンのコンテキスト長により、チャンク分割不要な全文書検索（full document retrieval）が可能になり、RAGパイプラインの設計を根本から変えられる点
 - Alternating Attentionによりグローバルとローカルの注意機構を交互に適用することで、長いシーケンスの計算コストを抑えつつ精度を維持する設計
 - コードデータを大量に含む学習データにより、コード検索・コード分類など開発ツール領域へのエンコーダー適用範囲が大幅に拡大した点
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェントのRAGパイプラインにおいて、BERTベースの埋め込みモデルをModernBERTに置き換えることで、監査報告書・規制文書など長文書の全文検索精度と速度が向上する可能性がある。8,192トークンの長文対応により、従来は細かくチャンク分割が必要だった内部統制文書やGRC関連ドキュメントをそのまま検索対象にできるため、検索精度の向上が期待できる。LangGraphベースのエージェントに組み込むRetrieverコンポーネントのバックエンドとしてModernBERTを採用する際、BERTとの完全互換性により移行コストが低い点も実用上の利点である。
+- /deep_1264 本番環境でのLLM最適化：低精度・Flash Attention・アーキテクチャ革新
+- /deep_1021 Text Generation Inference（TGI）ベンチマークツールの使い方と活用指針
+- /deep_707 Sentence Transformers v4によるリランカーモデルのトレーニングとファインチューニング
+- /deep_1218 Hugging Face Inference EndpointsでEmbeddingモデルをデプロイする
+- /deep_1016 Amazon SageMaker向けHugging Face埋め込みコンテナの正式リリース
 
 ## 原文リンク
 

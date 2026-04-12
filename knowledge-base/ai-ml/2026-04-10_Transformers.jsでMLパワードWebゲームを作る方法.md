@@ -30,6 +30,14 @@ worker.js内ではpipeline('image-classification', 'Xenova/quickdraw-mobilevit-s
 - Web Workers APIによる推論スレッド分離パターンは、UIを持つエージェントアプリケーションで推論待ちによるフリーズを防ぐ非同期設計の実装モデルになる
 - 5.6MパラメータのMobileViTが60fps超のリアルタイム推論を達成している点は、軽量モデルのエッジ活用可能性を示す具体的なベンチマークとして参照価値がある
 
+## 関連記事
+
+- /deep_1 Agent SkillにReactアプリを同梱するSkill Appアーキテクチャの実装
+- /deep_1529 🤗 TransformersによるWhisperの多言語ASRファインチューニング
+- /deep_1310 複雑な生成AIユースケースへのHugging Face活用事例：Writer社CTOインタビュー
+- /deep_1480 推論とデュアルメモリの共同最適化による自己学習型診断エージェント（SEA）
+- /deep_1169 広範な探索から安定した生成へ：自己回帰画像生成のためのエントロピー誘導最適化
+
 ## 原文リンク
 
 [Transformers.jsでMLパワードWebゲームを作る方法](https://huggingface.co/blog/ml-web-games)

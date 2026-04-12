@@ -17,10 +17,13 @@ NVIDIA NIMは、Hugging Face上の100,000以上のLLMを単一のDockerコンテ
 - 単一コンテナがモデルのアーキテクチャと量子化形式を自動検出してバックエンドを選択する設計は、推論基盤の抽象化レイヤーとして参考になる
 - hf://プレフィックスによるHugging Faceモデルの直接参照は、モデルレジストリとデプロイパイプラインを疎結合にするパターン
 - list-model-profilesでLoRAアダプター互換プロファイルも列挙できる点は、ファインチューニング済みモデルの切り替えをAPIレベルで管理できることを示している
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェント開発でローカルLLMインフラ（RTX 3090予定）を構築中のYujiにとって、NIMはOllamaより本番寄りの選択肢として検討価値がある。特にLangGraphベースのエージェントで複数モデルを切り替えながらLLM-as-judgeを実装する場合、NIMの単一エンドポイント（localhost:8000 OpenAPI互換）により実験コストを下げられる。GGUF・AWQの自動検出機能は、量子化モデルを低VRAMで動かすGRPO/RLAIF実験にも直接活用できる。
+- /deep_647 Transformersライブラリ：モデル定義の標準化とエコシステムの統合
+- /deep_1350 SafetensorsがPyTorch Foundationに参加——Linux Foundation傘下でコミュニティガバナンスへ移行
+- /deep_943 Optimum-IntelとOpenVINO GenAIによるモデルの最適化とデプロイ
+- /deep_773 Open R1 アップデート#2: 数学推論データセット OpenR1-Math-220k の構築
+- /deep_710 OlympicCoder をローカルで使う方法：LM Studio + VS Code による構築ガイド
 
 ## 原文リンク
 

@@ -23,10 +23,13 @@ processed_at: "2026-04-02T21:13:07.299742"
 - stop_reasonによる分岐制御がエージェントループの基本単位であり、この判定ロジックを拡張することでReActパターンやマルチステップエージェントに発展できる
 - ビルトインツール（web_search, web_fetch, code_execution）はAnthropic側で実行されるためtool_resultの返送が不要という非対称性は、自作ツールとの組み合わせ設計時にループ処理を複雑化させる要因になり得る
 - input_schemaをPydanticモデルから自動生成することで、型安全なツール定義とエージェントの堅牢性を同時に確保できる
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-LangGraphベースの監査エージェント開発において、Anthropic SDKのtool_use / tool_resultの往復構造はLangGraphのノード間メッセージパッシングと対応しており、SDK直呼び出しとLangGraph抽象化の差異を理解する上で有用。PydanticでスキーマをすでにモデリングしているならばPydanticのmodel_json_schema()をinput_schemaに直接流用することでツール定義の重複実装を排除できる。また監査エージェントにweb_fetchビルトインツールを組み込むことで、規制文書や公開ガイドラインをリアルタイム参照する機能を低コストで追加できる。
+- /deep_391 LLM SDK を基礎から理解する③〜ストリーミング編〜
+- /deep_862 VPSに感情モデルを放置したら、罪悪感が育った話
+- /deep_349 Pythonでノイズ除去あり・なしを比較する ― 音声分類の精度はどう変わるか
+- /deep_867 PythonではじめるDSP・音声処理 実践入門
+- /deep_1471 Python × AI（LLM API入門）コースを追加しました
 
 ## 原文リンク
 

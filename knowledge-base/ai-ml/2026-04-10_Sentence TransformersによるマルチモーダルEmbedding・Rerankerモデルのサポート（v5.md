@@ -27,10 +27,13 @@ Retrieve & Rerankパイプラインの実装例も示されており、BM25やEm
 - モダリティギャップ（modality gap）の存在：テキストと画像の埋め込みは同一空間内で別クラスターを形成するため類似度スコアが低くなるが、相対順序は保たれる。スコアの絶対値ではなく順序で判断すべきという設計上の示唆
 - encode_query()/encode_document()によるインストラクション自動適用：クエリ側とドキュメント側で異なるプロンプトを自動選択する設計は、retrieval性能向上のベストプラクティスであり、エージェントシステムでの検索コンポーネント設計に応用可能
 - マルチモーダルReranker（CrossEncoder）のRetrieve & Rerankパターン：Embeddingで粗く候補を絞りRerankerで精度を上げる2段階構造は、監査ドキュメントの検索精度を保ちながらコストを抑える実装戦略として直接応用できる
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェントにおいて、財務諸表のスキャン画像・PDFスクリーンショットと自然言語クエリをクロスモーダルで照合するRetrieval層を構築する際に直接活用できる。LangGraphのRetrieverノードにSentenceTransformers v5.4のマルチモーダルEmbeddingを組み込むことで、テキストベース監査証跡と画像ドキュメントを統一インデックスで管理するRAGパイプラインが実現可能。また、LLM-as-judgeの評価対象にマルチモーダルドキュメントを含める場合にも、Rerankerモデルで関連度スコアを取得しPydanticで構造化して後段エージェントに渡す設計が参考になる。
+- /deep_1580 Sentence Transformersモデルのトレーニングとファインチューニング
+- /deep_707 Sentence Transformers v4によるリランカーモデルのトレーニングとファインチューニング
+- /deep_1022 Sentence Transformers v3によるEmbeddingモデルのトレーニングとファインチューニング
+- /deep_1116 🤗 Optimum IntelとfastRAGによるCPU最適化エンベディング
+- /deep_1334 製造業向けRAGシステムのアクセス制御設計
 
 ## 原文リンク
 

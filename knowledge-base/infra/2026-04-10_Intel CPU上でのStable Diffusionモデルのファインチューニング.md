@@ -29,10 +29,13 @@ processed_at: "2026-04-10T09:16:51.162411"
 - GPU不要のCPUクラスタ分散ファインチューニング：AMX内蔵のSapphire Rapids + IPEX + oneCCLの組み合わせにより、GPUなしで実用的な速度（200ステップ約35分）のStable Diffusionファインチューニングを実現。コスト・調達面での選択肢が広がる
 - Textual Inversionによる超少数ショット概念学習：5枚の画像だけでモデルの重みを変えずに新概念を埋め込む手法は、ドメイン特化型画像生成（例：特定の書類フォーマットや図表スタイルの合成データ生成）に応用可能
 - ipex.optimize()2行追加という最小変更での最適化：既存のHugging Face学習スクリプトへの変更が極小で済むため、既存パイプラインへのIntel最適化の組み込みコストが低く、段階的な移行が現実的
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェント開発における合成データ生成の観点から参照価値がある。監査ドキュメント・財務諸表・内部統制フローなどの画像データをTextual Inversionで少数サンプルから生成する用途に応用できる可能性がある。ただしYujiの主軸であるLangGraph・Pydantic・GRPO/RLAIFとの直接的な技術的接点は薄く、インフラ選定（CPU vs GPU）の参考情報として位置づけるのが適切。ローカルLLMインフラ（RTX 3090）を検討中の観点からは、CPU-onlyのファインチューニング手法としての比較材料になり得る。
+- /deep_1116 🤗 Optimum IntelとfastRAGによるCPU最適化エンベディング
+- /deep_1489 高速トレーニングと推論: Habana Gaudi2 vs Nvidia A100 80GB ベンチマーク比較
+- /deep_1181 SegMoE: Segmindによる拡散モデルのMixture of Experts フレームワーク
+- /deep_1275 PyTorch FSDPを使ったLlama 2 70Bのファインチューニング
+- /deep_1211 LCM LoRAによるSDXLの4ステップ高速推論
 
 ## 原文リンク
 

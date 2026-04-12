@@ -28,10 +28,13 @@ TrainerはAccelerateをバックエンドに使い、さらに高水準のAPIを
 - Acceleratorの抽象化設計：prepare()1関数でモデル・オプティマイザ・DataLoaderをまとめてラップし、バックエンド（DDP/FSDP/TPU）を差し替え可能にするパターンは、LangGraphのノード抽象化と類似した「実行環境の隠蔽」設計思想
 - torchrunによるプロセス管理：rank/world_sizeを環境変数経由で各プロセスに注入する仕組みは、マルチエージェントシステムにおけるワーカーID割り当て・通信グループ初期化の参考モデルになる
 - 3段階の抽象化レイヤー構造：Native→Accelerate→Trainerという設計は、低レベル制御と使いやすさのトレードオフを段階的に示しており、APIレイヤー設計の教科書的な事例
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェントのLLMコンポーネントをローカルGPU（RTX 3090）でファインチューニングする際、AccelerateはGRPO/RLAIFの学習ループをほぼそのままシングル→マルチGPUに移行できる点で直接的に有用。特にPydanticで構造化した報酬モデルの出力をカスタム学習ループ内で使う場合、TrainerよりAccelerateの方がコード制御を維持しやすい。LangGraphのエージェントグラフをバッチ並列実行する際の分散化アーキテクチャの参考にもなる。
+- /deep_1275 PyTorch FSDPを使ったLlama 2 70Bのファインチューニング
+- /deep_947 Accelerate 1.0.0 リリース：マルチGPU・大規模モデル訓練フレームワークのメジャーバージョン公開
+- /deep_1529 🤗 TransformersによるWhisperの多言語ASRファインチューニング
+- /deep_1115 Quanto: Optimum向けPyTorchクォンタイゼーションバックエンド
+- /deep_1390 DatabricksとHugging Faceの統合：LLMのトレーニング・ファインチューニングを最大40%高速化
 
 ## 原文リンク
 

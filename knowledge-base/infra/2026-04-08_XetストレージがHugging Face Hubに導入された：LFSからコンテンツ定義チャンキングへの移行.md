@@ -24,6 +24,14 @@ Hugging Face（HF）のXetチームが、Hub上のモデル・データセット
 - LFSブリッジを設けることで旧クライアントとの後方互換性を維持しながら段階的移行を実現した設計は、既存システムのインフラ刷新における互換性戦略の好例
 - ブロックフォーマットにチャンク長メタデータを追加しダウンロード比を4:1から1:1に改善した事例は、ストリーミングデータ形式設計における「ランダムアクセス対応」の重要性を示す
 
+## 関連記事
+
+- /deep_771 チャンクからブロックへ：Hugging Face Hubにおけるアップロード・ダウンロードの高速化
+- /deep_900 ファイルからチャンクへ：HuggingFaceストレージ効率の改善
+- /deep_521 ParquetのContent-Defined Chunking（CDC）によるHugging Face Hub上のデータ転送最適化
+- /deep_402 Hugging Face Hub に Storage Buckets が登場 — S3ライクなミュータブルオブジェクトストレージ
+- /deep_1572 🧨 DiffusersによるStable Diffusion：仕組みと実装ガイド
+
 ## 原文リンク
 
 [XetストレージがHugging Face Hubに導入された：LFSからコンテンツ定義チャンキングへの移行](https://huggingface.co/blog/xet-on-the-hub)

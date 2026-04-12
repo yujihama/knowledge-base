@@ -18,6 +18,14 @@ HuggingFace（HF）は2024年11月時点でモデル・データセット・Spac
 - Content-Addressed Storeによるチャンク単位のアドレッシングは、ファインチューニング差分やチェックポイント間の変分を最小転送量で管理する仕組みとして応用範囲が広い
 - CDC攻撃（意図的な境界操作によるデータ推測）への対策が未解決課題として残っており、セキュリティと効率のトレードオフが実運用上の論点になる
 
+## 関連記事
+
+- /deep_771 チャンクからブロックへ：Hugging Face Hubにおけるアップロード・ダウンロードの高速化
+- /deep_713 XetストレージがHugging Face Hubに導入された：LFSからコンテンツ定義チャンキングへの移行
+- /deep_521 ParquetのContent-Defined Chunking（CDC）によるHugging Face Hub上のデータ転送最適化
+- /deep_402 Hugging Face Hub に Storage Buckets が登場 — S3ライクなミュータブルオブジェクトストレージ
+- /deep_1572 🧨 DiffusersによるStable Diffusion：仕組みと実装ガイド
+
 ## 原文リンク
 
 [ファイルからチャンクへ：HuggingFaceストレージ効率の改善](https://huggingface.co/blog/from-files-to-chunks)

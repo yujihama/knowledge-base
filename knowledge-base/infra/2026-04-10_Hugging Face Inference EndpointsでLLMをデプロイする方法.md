@@ -27,10 +27,13 @@ Hugging Face Inference Endpoints（HF IEP）は、オープンソースLLMを本
 - scale-to-zero機能により、推論エンドポイントをアイドル時にコストゼロで維持できる設計は、スポット的にしか使わない監査用途のAIエージェントに適している
 - Text Generation InferenceのPaged Attentionは、長文コンテキスト（監査報告書・契約書等）を扱うLLM推論でメモリ効率と処理速度を両立する重要な技術
 - stop_sequencesパラメータによる生成制御は、エージェントが構造化出力（JSON・ReActフォーマット等）を生成する際のパース安定性向上に直接活用できる
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェントシステムの推論バックエンドとして、HF Inference EndpointsはOllamaのようなローカル環境が整うまでのクラウド代替として機能する。特にVPC専用接続・SOC2認証・GDPR対応はDeloitteのエンタープライズ要件を満たしやすい。LangGraphのノード内でInferenceClientを呼び出す設計にすることで、ローカルLLM（RTX 3090）とクラウドエンドポイントをプロバイダー切り替え可能な形で実装できる。stop_sequencesによるReAct形式の出力制御も実装パターンとして参考になる。
+- /deep_1305 Hugging Faceにおけるオープンソーステキスト生成・LLMエコシステム
+- /deep_1310 複雑な生成AIユースケースへのHugging Face活用事例：Writer社CTOインタビュー
+- /deep_1021 Text Generation Inference（TGI）ベンチマークツールの使い方と活用指針
+- /deep_1396 Snorkel AI × Hugging Face：エンタープライズ向けファウンデーションモデル活用基盤の構築
+- /deep_709 Inference Endpoints の新しいアナリティクスダッシュボード
 
 ## 原文リンク
 

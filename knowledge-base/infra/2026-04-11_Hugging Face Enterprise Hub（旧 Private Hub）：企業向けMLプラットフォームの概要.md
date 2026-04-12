@@ -21,10 +21,13 @@ Private Hub（Enterprise Hub）はこのHubのプライベート版として、S
 - モデルカードをModel Risk Management（MRM）ドキュメントとして標準化することで、コンプライアンス審査プロセスをML開発フロー内に組み込める
 - Spacesを使えばコード不要でMLモデルのデモをブラウザ上で非技術系ステークホルダーに共有でき、フィードバックループを短縮できる
 - Inference Endpointsにより、Dockerやk8s運用なしにファインチューニング済みモデルをセキュアな専用APIとして即日公開可能
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェント開発においてファインチューニング済みモデル（例：LLM-as-judgeや内部統制分類モデル）を組織内で管理・共有する際、Enterprise HubのプライベートモデルレジストリとSSO連携は有用なインフラ候補となる。モデルカードをMRMドキュメントとして活用するアプローチは、Deloitteのコンプライアンス要件（監査証跡・モデルリスク管理）と直接接続しており、AIスペシャリストとして社内展開を推進する際の説得材料になりうる。
+- /deep_1448 Hugging Face Inference Endpointsへの移行事例：ECS+FargateからのMLモデルデプロイ刷新
+- /deep_1486 モデルカード：MLモデルのドキュメント化フレームワークとHugging Faceの取り組み
+- /deep_418 オープンな未来に向けて：Hugging FaceとGoogle Cloudの新たな戦略的パートナーシップ
+- /deep_835 Synthetic Data Generator：自然言語でデータセットを構築するノーコードツール
+- /deep_1114 NVIDIA DGX CloudのH100 GPUでモデルを簡単にトレーニングする方法
 
 ## 原文リンク
 

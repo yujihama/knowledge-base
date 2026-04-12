@@ -17,10 +17,13 @@ processed_at: "2026-03-30T12:09:33.312001"
 - OTel GenAI属性をスキーマの共通語彙として固定することで、LangfuseやPhoenixなどツールを乗り換えても既存ダッシュボードが生き続ける「語彙先行設計」の考え方
 - LLM自身を可観測性パイプラインに組み込み、膨大なスパンをクラスタリング→要約→異常の「物語」として抽出する自己参照的な運用ループ
 - Structured Outputs（JSON Schema）でLLM出力を構造化し可観測基盤に直接連携する設計と、パース失敗を前提とした再試行・フォールバックの必要性
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-LangGraphで構築する監査エージェントのプロダクション化に際し、ツール呼び出しの失敗率・レイテンシ・LLM-as-judgeのスコアドリフトをOTel GenAI属性で統一トレースすることで、監査ステップ単位の品質劣化を早期検知できる。Langfuseのgenerations/events自動変換機能はLangGraphの各ノード実行を自然にトレース対象にできるため、エージェント内のReActループやPydantic検証ステップの可視化に直接応用可能。さらに、評価スコア（LLM-as-judge）をトレースと結合してデータセット化→GRPO/RLAIFの学習データとして活用するフィードバックループの設計指針としても参考になる。
+- /deep_1349 ALTK-Evolve: AIエージェントのオンザジョブ学習システム
+- /deep_1516 責任経路設計はMeaningful Human Controlと何が違うのか―軍事AIのaccountability議論との接点とは
+- /deep_1426 RACI / HITL / Guardrails / 責任経路設計の違い
+- /deep_146 OpenAI、LLMテスト・評価フレームワーク「Promptfoo」を買収
+- /deep_392 OllamaでローカルLLM：導入から最新エコシステムまでを解説（2026年版）
 
 ## 原文リンク
 

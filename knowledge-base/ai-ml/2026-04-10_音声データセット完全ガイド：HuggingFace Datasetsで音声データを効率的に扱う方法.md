@@ -18,6 +18,14 @@ HuggingFace Datasetsライブラリを使って音声データセットをダウ
 - map+num_procによるバッチ並列前処理とArrowキャッシュの組み合わせは、監査ログ等の大規模テキストデータのETLパイプラインの設計パターンとして参考になる
 - cast_column+resample_to_hzによるモダリティ変換をAPIレベルで抽象化している点は、マルチモーダルエージェントの入力正規化層の設計に示唆を与える
 
+## 関連記事
+
+- /deep_1529 🤗 TransformersによるWhisperの多言語ASRファインチューニング
+- /deep_128 WAXAL: アフリカ言語音声技術のための大規模オープンリソース
+- /deep_171 MedGemma 1.5による次世代医療画像解析と音声認識モデルMedASRの公開
+- /deep_649 Inference Endpoints で実現する超高速 Whisper 音声認識（最大8倍高速化）
+- /deep_1572 🧨 DiffusersによるStable Diffusion：仕組みと実装ガイド
+
 ## 原文リンク
 
 [音声データセット完全ガイド：HuggingFace Datasetsで音声データを効率的に扱う方法](https://huggingface.co/blog/audio-datasets)

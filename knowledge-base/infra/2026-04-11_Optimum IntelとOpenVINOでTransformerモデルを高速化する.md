@@ -25,10 +25,13 @@ HuggingFaceとIntelの共同プロジェクトとして、Optimum Intelライブ
 - ポストトレーニング量子化のみで精度劣化なしにモデルサイズ3.8倍圧縮・レイテンシ2.4倍削減を達成しており、専用ハードウェアなしにCPUレベルで実用的な高速化が可能な点
 - TransformersのAPIと完全互換のOVModelForXxxクラス設計により、既存コードの変更を最小限に抑えてバックエンドをOpenVINOに切り替えられる抽象化設計
 - OpenVINO IR形式（XML+BIN）による中間表現エクスポートにより、一度変換したモデルをIntel製デバイス全般（CPU/GPU/VPU）で再利用できるポータビリティ
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェントシステムにおいてローカルLLM推論を行う際、RTX 3090（CUDA）以外にIntel CPU環境での軽量推論が必要なシナリオで参考になる。特にPydanticで定義した入出力スキーマを持つエージェントのサブコンポーネント（分類・判定モジュール等）をOpenVINO量子化モデルに置き換えることで、GPU非依存の省リソース推論パスを確保できる。ただし本記事は2022年時点の情報であり、現在のOptimum Intel/OpenVINOのLLM（GPT系）対応状況は別途確認が必要。
+- /deep_424 Intel CPU上でVLMを3ステップで動かす方法（OpenVINO + SmolVLM2）
+- /deep_1116 🤗 Optimum IntelとfastRAGによるCPU最適化エンベディング
+- /deep_1579 TF ServingとKubernetesを用いたHugging Face ViTモデルのデプロイ
+- /deep_125 SliderQuant: LLM向け高精度ポストトレーニング量子化フレームワーク
+- /deep_943 Optimum-IntelとOpenVINO GenAIによるモデルの最適化とデプロイ
 
 ## 原文リンク
 

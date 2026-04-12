@@ -24,6 +24,14 @@ ControlLoRA（rank 128相当、197.78M、396MB）との比較でも、T2I-Adapte
 - `adapter_conditioning_factor`で条件付けを適用するステップ割合を制御できる設計は、出力の制御強度をソフトに調整する手法として、LLMの制約付き生成設計に参考になる
 - 本体モデルを凍結しつつ79Mの小型アダプターで制御を注入するアーキテクチャは、基盤モデルの汎用性を保ちながらタスク特化の能力を付加するPEFTの一形態として整理できる
 
+## 関連記事
+
+- /deep_1211 LCM LoRAによるSDXLの4ステップ高速推論
+- /deep_1302 🤗 Diffusers 1周年記念：1年間の主要機能まとめ
+- /deep_1181 SegMoE: Segmindによる拡散モデルのMixture of Experts フレームワーク
+- /deep_1449 🤗 PEFT：低リソースハードウェアで数十億パラメータモデルをパラメータ効率的にファインチューニング
+- /deep_405 UnslothとHugging Face Jobsで無料でAIモデルをファインチューニングする方法
+
 ## 原文リンク
 
 [T2I-AdapterによるSDXLの効率的な制御可能生成](https://huggingface.co/blog/t2i-sdxl-adapters)

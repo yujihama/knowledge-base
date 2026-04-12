@@ -18,6 +18,14 @@ Hugging FaceのDaily Papersページは、AKおよびコミュニティ研究者
 - 著者がREADME.mdにarXiv URLを記述するだけでモデル・データセットと論文が自動リンクされる仕組みは、メタデータ管理の省力化設計として興味深い
 - arXiv Chrome拡張によるクロスプラットフォームな論文ステータス表示は、外部サービス間の軽量な情報統合アーキテクチャの好例
 
+## 関連記事
+
+- /deep_1572 🧨 DiffusersによるStable Diffusion：仕組みと実装ガイド
+- /deep_1529 🤗 TransformersによるWhisperの多言語ASRファインチューニング
+- /deep_1494 🤗 TransformersによるProbabilistic時系列予測
+- /deep_1449 🤗 PEFT：低リソースハードウェアで数十億パラメータモデルをパラメータ効率的にファインチューニング
+- /deep_1302 🤗 Diffusers 1周年記念：1年間の主要機能まとめ
+
 ## 原文リンク
 
 [Hugging Face Daily Papersページの機能完全ガイド](https://huggingface.co/blog/daily-papers)

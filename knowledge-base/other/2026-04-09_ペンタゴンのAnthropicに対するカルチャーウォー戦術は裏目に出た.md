@@ -18,6 +18,14 @@ processed_at: "2026-04-09T12:27:41.177187"
 - ソーシャルメディアでの公開批判→法的手続きという順序の逆転が、行政の裁量権行使を違憲・違法たらしめるリスク——Tweet first, lawyer laterのアンチパターン
 - AI企業が「安全重視」のブランディングと国防契約を両立させるトレードオフ：Anthropicの事例は、ポリシー透明性が法廷での正当性主張の根拠となることを示す
 
+## 関連記事
+
+- /deep_538 ベイエリアの動物福祉運動、AIをリクルートへ：効果的利他主義とLLMの価値観アライメント
+- /deep_1419 Claude Mythos Preview システムカード - 第1章：はじめに
+- /deep_435 Applied Engineerとは？SE・SAとの違いと求人800%増の背景【2026年版】
+- /deep_1032 AIハイプ指数：AIが戦場へ——軍事利用・エージェント化・社会的反発の最前線
+- /deep_451 AIハイプ指数：AIが戦争へ向かう
+
 ## 原文リンク
 
 [ペンタゴンのAnthropicに対するカルチャーウォー戦術は裏目に出た](https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/)

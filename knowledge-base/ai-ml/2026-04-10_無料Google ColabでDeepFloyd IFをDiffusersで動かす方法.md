@@ -18,6 +18,14 @@ DeepFloyd IFは2023年4月にDeepFloydがリリースしたピクセル空間ベ
 - モデルコンポーネントを使用時だけGPUへ転送し終わったらCPUへ戻す逐次オフロード戦略——複数の大規模コンポーネントを持つエージェントパイプラインにも応用できる設計パターン
 - CLIPではなくT5-XXLをテキストエンコーダに採用することで画像内テキスト生成精度が大幅向上した点——エンコーダの選択がマルチモーダル出力品質に与える影響の好例
 
+## 関連記事
+
+- /deep_1572 🧨 DiffusersによるStable Diffusion：仕組みと実装ガイド
+- /deep_1449 🤗 PEFT：低リソースハードウェアで数十億パラメータモデルをパラメータ効率的にファインチューニング
+- /deep_1302 🤗 Diffusers 1周年記念：1年間の主要機能まとめ
+- /deep_1576 大規模Transformerモデルのための8ビット行列演算入門：transformers・accelerate・bitsandbytesを用いたスケール推論
+- /deep_1265 Würstchen：42倍圧縮による高速・低コスト画像生成拡散モデルの紹介
+
 ## 原文リンク
 
 [無料Google ColabでDeepFloyd IFをDiffusersで動かす方法](https://huggingface.co/blog/if)

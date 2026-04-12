@@ -27,10 +27,13 @@ Hub ユーザー向けには、Inference EndpointsによるGoogle Cloud上のプ
 - Vertex AI + Hugging Face Hubの統合により、100万件超のオープンモデルをエンタープライズグレードのMLOpsパイプラインに直接組み込める経路が確立された
 - TPUをHugging Face Spaces上で利用可能にする設計は、高コストなGPUなしに大規模推論を試験できる民主化モデルとして注目に値する
 - Enterprise HubサブスクリプションをGoogle Cloud課金に統合することで、企業のガバナンス・コスト管理とオープンモデル利用を両立させるアーキテクチャパターンを示している
+## 関連記事
 
-## Yujiの取り組みへの示唆
-
-監査エージェント開発においてVertex AI上でLangGraphやPydanticベースのエージェントをデプロイする際、Hugging Faceのオープンモデル（例：LLM-as-judgeに使えるモデル）をInference Endpoints経由でVertex AIに統合できる点が実用的。GKE上でのコンテナ化エージェント実行とTPUアクセラレーションの組み合わせは、RLAIFやGRPOの実験コストを下げる可能性があり、ローカルRTX 3090環境の補完インフラとして検討価値がある。
+- /deep_396 機械学習モデル構築：PythonフレームワークとBigQuery MLの違いと使い分け
+- /deep_418 オープンな未来に向けて：Hugging FaceとGoogle Cloudの新たな戦略的パートナーシップ
+- /deep_1396 Snorkel AI × Hugging Face：エンタープライズ向けファウンデーションモデル活用基盤の構築
+- /deep_709 Inference Endpoints の新しいアナリティクスダッシュボード
+- /deep_1578 Hugging FaceのTensorFlow哲学：KerasネイティブなTransformersの設計方針
 
 ## 原文リンク
 
