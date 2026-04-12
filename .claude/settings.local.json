@@ -9,7 +9,9 @@
       "Bash(git config:*)",
       "Bash(xargs grep:*)",
       "Bash(git add:*)",
-      "Bash(git commit -m ':*)"
+      "Bash(git commit -m ':*)",
+      "Bash(git branch:*)",
+      "Bash(git checkout:*)"
     ]
   }
 }

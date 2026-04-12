@@ -208,6 +208,7 @@ https://huggingface.co/blog/bloom-megatron-deepspeed
 https://huggingface.co/blog/bridgetower
 https://huggingface.co/blog/build-rocm-kernels
 https://huggingface.co/blog/building-hf-mcp
+https://huggingface.co/blog/carbon-emissions-on-the-hub
 https://huggingface.co/blog/cfm-case-study
 https://huggingface.co/blog/chat-templates
 https://huggingface.co/blog/chatbot-amd-gpu
@@ -243,6 +244,7 @@ https://huggingface.co/blog/databricks-case-study
 https://huggingface.co/blog/datasets-docs-update
 https://huggingface.co/blog/datasets-filters
 https://huggingface.co/blog/debate
+https://huggingface.co/blog/decision-transformers
 https://huggingface.co/blog/dedup
 https://huggingface.co/blog/deep-learning-with-proteins
 https://huggingface.co/blog/deep-rl-a2c
@@ -278,6 +280,7 @@ https://huggingface.co/blog/dpo_vlm
 https://huggingface.co/blog/dreambooth
 https://huggingface.co/blog/duckdb-nsql-7b
 https://huggingface.co/blog/dynamic_speculation_lookahead
+https://huggingface.co/blog/education
 https://huggingface.co/blog/elixir-bumblebee
 https://huggingface.co/blog/embedding-quantization
 https://huggingface.co/blog/embeddinggemma
@@ -343,6 +346,7 @@ https://huggingface.co/blog/gemma3
 https://huggingface.co/blog/gemma3n
 https://huggingface.co/blog/gemma4
 https://huggingface.co/blog/generative-ai-models-on-intel-cpu
+https://huggingface.co/blog/getting-started-habana
 https://huggingface.co/blog/getting-started-with-embeddings
 https://huggingface.co/blog/ggml-joins-hf
 https://huggingface.co/blog/ggml-org/model-management-in-llamacpp
@@ -365,6 +369,7 @@ https://huggingface.co/blog/gradio-reload
 https://huggingface.co/blog/gradio-vton-mcp
 https://huggingface.co/blog/graphcore-update
 https://huggingface.co/blog/graphml-classification
+https://huggingface.co/blog/habana
 https://huggingface.co/blog/habana-gaudi-2-benchmark
 https://huggingface.co/blog/habana-gaudi-2-bloom
 https://huggingface.co/blog/hello-hf-kernels
@@ -488,6 +493,7 @@ https://huggingface.co/blog/lerobot-goes-to-driving-school
 https://huggingface.co/blog/lerobot-release-v040
 https://huggingface.co/blog/lerobot-release-v050
 https://huggingface.co/blog/lerobotxnvidia-healthcare
+https://huggingface.co/blog/lewis-tunstall-interview
 https://huggingface.co/blog/liberate-your-openclaw
 https://huggingface.co/blog/liger-grpo
 https://huggingface.co/blog/livebook-app-deployment
@@ -517,6 +523,7 @@ https://huggingface.co/blog/microsoft/diff-attn-v2
 https://huggingface.co/blog/migrating-the-hub-to-xet
 https://huggingface.co/blog/mistral-coreml
 https://huggingface.co/blog/mixtral
+https://huggingface.co/blog/ml-director-insights
 https://huggingface.co/blog/ml-director-insights-2
 https://huggingface.co/blog/ml-director-insights-3
 https://huggingface.co/blog/ml-director-insights-4
@@ -580,6 +587,7 @@ https://huggingface.co/blog/openenv
 https://huggingface.co/blog/openenv-turing
 https://huggingface.co/blog/openvino
 https://huggingface.co/blog/openvino-vlm
+https://huggingface.co/blog/opinion-classification-with-kili
 https://huggingface.co/blog/optimize-llm
 https://huggingface.co/blog/optimizing-bark
 https://huggingface.co/blog/optimum-inference
@@ -702,6 +710,7 @@ https://huggingface.co/blog/static-embeddings
 https://huggingface.co/blog/storage-buckets
 https://huggingface.co/blog/streaming-datasets
 https://huggingface.co/blog/structured-codeagent
+https://huggingface.co/blog/supercharge-customer-service-with-machine-learning
 https://huggingface.co/blog/swift-coreml-llm
 https://huggingface.co/blog/swift-huggingface
 https://huggingface.co/blog/swift-transformers
@@ -752,6 +761,7 @@ https://huggingface.co/blog/train-sparse-encoder
 https://huggingface.co/blog/train-your-controlnet
 https://huggingface.co/blog/train_memory
 https://huggingface.co/blog/transformers-backend-sglang
+https://huggingface.co/blog/transformers-design-philosophy
 https://huggingface.co/blog/transformers-docs-redesign
 https://huggingface.co/blog/transformers-model-definition
 https://huggingface.co/blog/transformers-v5
@@ -1373,6 +1383,7 @@ https://tldr.takara.ai/p/2604.03741
 https://tldr.takara.ai/p/2604.03753
 https://tldr.takara.ai/p/2604.03877
 https://tldr.takara.ai/p/2604.03926
+https://tldr.takara.ai/p/2604.04117
 https://tldr.takara.ai/p/2604.04239
 https://tldr.takara.ai/p/2604.04325
 https://tldr.takara.ai/p/2604.04347
@@ -1429,11 +1440,13 @@ https://tldr.takara.ai/p/2604.04908
 https://tldr.takara.ai/p/2604.04916
 https://tldr.takara.ai/p/2604.04929
 https://tldr.takara.ai/p/2604.04934
+https://tldr.takara.ai/p/2604.05045
 https://tldr.takara.ai/p/2604.05115
 https://tldr.takara.ai/p/2604.05267
 https://tldr.takara.ai/p/2604.05296
 https://tldr.takara.ai/p/2604.05303
 https://tldr.takara.ai/p/2604.05335
+https://tldr.takara.ai/p/2604.05354
 https://tldr.takara.ai/p/2604.05358
 https://tldr.takara.ai/p/2604.05360
 https://tldr.takara.ai/p/2604.05363
@@ -1465,6 +1478,7 @@ https://tldr.takara.ai/p/2604.05718
 https://tldr.takara.ai/p/2604.05727
 https://tldr.takara.ai/p/2604.05767
 https://tldr.takara.ai/p/2604.05774
+https://tldr.takara.ai/p/2604.05777
 https://tldr.takara.ai/p/2604.05826
 https://tldr.takara.ai/p/2604.05845
 https://tldr.takara.ai/p/2604.05865
@@ -1486,7 +1500,11 @@ https://tldr.takara.ai/p/2604.06160
 https://tldr.takara.ai/p/2604.06168
 https://tldr.takara.ai/p/2604.06169
 https://tldr.takara.ai/p/2604.06170
+https://tldr.takara.ai/p/2604.06279
 https://tldr.takara.ai/p/2604.06420
+https://tldr.takara.ai/p/2604.06440
+https://tldr.takara.ai/p/2604.06474
+https://tldr.takara.ai/p/2604.06525
 https://tldr.takara.ai/p/2604.06543
 https://tldr.takara.ai/p/2604.06568
 https://tldr.takara.ai/p/2604.06610
@@ -1500,6 +1518,7 @@ https://tldr.takara.ai/p/2604.06718
 https://tldr.takara.ai/p/2604.06720
 https://tldr.takara.ai/p/2604.06737
 https://tldr.takara.ai/p/2604.06740
+https://tldr.takara.ai/p/2604.06753
 https://tldr.takara.ai/p/2604.06770
 https://tldr.takara.ai/p/2604.06784
 https://tldr.takara.ai/p/2604.06787
@@ -1532,6 +1551,7 @@ https://tldr.takara.ai/p/2604.07198
 https://tldr.takara.ai/p/2604.07210
 https://tldr.takara.ai/p/2604.07240
 https://tldr.takara.ai/p/2604.07263
+https://tldr.takara.ai/p/2604.07267
 https://tldr.takara.ai/p/2604.07269
 https://tldr.takara.ai/p/2604.07272
 https://tldr.takara.ai/p/2604.07273
@@ -1852,6 +1872,7 @@ https://zenn.dev/neos21/articles/d5d2f0e10feec1
 https://zenn.dev/nextbeat/articles/practical-claude-code-introduction
 https://zenn.dev/niikun/articles/1a6d62e5869373
 https://zenn.dev/niikun/articles/34736342a633e4
+https://zenn.dev/niikun/articles/90e9da9c00b9b3
 https://zenn.dev/niikun/articles/ab962690ac94f1
 https://zenn.dev/nishiken_zenn/articles/claude-mem-token-optimization
 https://zenn.dev/nkktech_global/articles/4ad5e6c7e35b2c
