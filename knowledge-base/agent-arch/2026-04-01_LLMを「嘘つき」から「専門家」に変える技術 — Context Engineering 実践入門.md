@@ -1,0 +1,37 @@
+---
+title: "LLMを「嘘つき」から「専門家」に変える技術 — Context Engineering 実践入門"
+url: "https://zenn.dev/kenimo49/books/context-engineering"
+date: 2026-04-01
+tags: [Context Engineering, RAG, Agentic RAG, MCP, System Prompt, Few-shot, Vector DB, CLAUDE.md, LLM, エンタープライズRAG]
+category: "agent-arch"
+memo: "[Zenn LLM] LLMを「嘘つき」から「専門家」に変える技術 — Context Engineering 実践入門"
+processed_at: "2026-04-01T21:08:22.884110"
+---
+
+## 要約
+
+本書はZennで公開された約22万字の有料書籍（1,500円）で、LLMの出力品質をプロンプトエンジニアリングの限界を超えて改善するための「Context Engineering」を体系的に解説する。著者は井本賢氏（WebRTC×音声AI/LLMO専門エンジニア）。
+
+核心的な主張は、LLMが「嘘をつく」主因はモデルそのものではなく、提供されるコンテキストの設計不足にあるという点。同じ質問でも5つの異なる回答が返ってくる現象を出発点として、コンテキスト設計の体系化を提唱する。
+
+構成は大きく5層に分かれる：①System Promptの設計（役割・制約の明文化）、②Few-shot Examples（出力形式のお手本提示）、③Retrieved Knowledge（RAGによる外部知識注入）、④Tools & APIs（MCPによる外部サービス接続）、⑤State & Memory（長期記憶・対話連続性）。これらを統合した「Full Context Engineering」が本書の中心概念となる。
+
+RAGに関しては「本書の核心」と位置付けており、Agentic RAGのアーキテクチャ設計、Search API比較・実装、エンタープライズ向けパイプライン設計（評価・セキュリティ・Vector DB選定）まで複数章を割いて詳述している。
+
+MCPについても独立した章を設け、外部APIとの接続によってコンテキストを動的に拡張する手法を解説。Claude Code向けにはCLAUDE.mdを活用した開発プロジェクトのコンテキスト設計まで言及している。
+
+設計哲学として「小さいモデル＋良いコンテキスト」を推奨しており、大規模モデルへの依存ではなくコンテキスト品質の向上によってコスト効率よく高品質な出力を実現する方向性を示す。付録にはContext Engineeringチェックリストと実験再現手順を収録。エンタープライズ実用を意識した構成が特徴。
+
+## アイデア
+
+- 「小さいモデル＋良いコンテキスト」の設計哲学：GPT-4クラスの大モデルに頼るのではなく、コンテキスト品質を高めることでコスト効率と出力品質を両立できるという観点は、本番エージェントシステムの設計方針として直接適用可能
+- Agentic RAGとMCPの統合：静的なRAGに留まらず、ツール呼び出し（MCP）で動的にコンテキストを拡張するアーキテクチャは、エージェントがリアルタイム情報を扱う場面で特に有効
+- エンタープライズRAGの評価・セキュリティ・Vector DB選定を体系化している点：本番導入時のチェックリストとして活用でき、PoC止まりにならない実装設計の指針になる
+
+## Yujiの取り組みへの示唆
+
+LangGraph上で動作する監査エージェントにおいて、RAGによる監査基準・規程文書の動的注入と、MCPによる外部システム（ERPログ、GRCツール等）との接続は中核的なアーキテクチャ要素となる。本書のAgentic RAG章とTools & APIs章は、監査エージェントの情報取得レイヤー設計に直接転用できる。また「小さいモデル＋良いコンテキスト」の哲学は、ローカルLLM（RTX 3090環境でのOllama）運用コスト最適化の観点からも参考になる。CLAUDE.md活用の章は、監査エージェント開発プロジェクト自体のClaude Codeとの協働設計にも応用可能。
+
+## 原文リンク
+
+[LLMを「嘘つき」から「専門家」に変える技術 — Context Engineering 実践入門](https://zenn.dev/kenimo49/books/context-engineering)

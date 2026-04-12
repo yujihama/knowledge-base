@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m py_compile scripts/process_inbox.py)",
+      "Bash(python -c ':*)"
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "bf2dbcf9ec5644c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "968415e4c738ab69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21149ad175c8f2fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai-ml/2026-04-11_AIにおけるジェンダーバイアスの概要.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-11_AIにおけるジェンダーバイアスの概要"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31cf44011205c881",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f52a6f1ca778111",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5def8f0a0c5a7799",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "65251a7156ca4047",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "3e454fd9ef515368",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78c1e20578a990fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ea28b869db26fb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3714a846d5978ba0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ai-ml/2026-04-11_AIにおけるジェンダーバイアスの概要.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-04-11_AIにおけるジェンダーバイアスの概要へのバックリンク"
+            }
+          },
+          {
+            "id": "b63ef8adb0c1343a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ai-ml/2026-04-11_AIにおけるジェンダーバイアスの概要.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2026-04-11_AIにおけるジェンダーバイアスの概要からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "95ec34161cc153e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "c632b8764b4b7f96",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "bd65be873e3e05e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ai-ml/2026-04-11_AIにおけるジェンダーバイアスの概要.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-04-11_AIにおけるジェンダーバイアスの概要のアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "21149ad175c8f2fc",
+  "lastOpenFiles": [
+    "other/2026-04-11_あなたがAIに疲れる理由は、あなたが「翻訳」を押しつけられているからだ.md",
+    "agent-arch/2026-04-11_CLAUDE.mdがなくても戦える — LLMの構造的制約を踏まえたプロンプト駆動開発.md",
+    "ai-ml/2026-04-11_テキスト埋め込みはテキストを完全にエンコードするか？――vec2textによる埋め込み逆変換の研究.md",
+    "ai-ml/2026-04-11_Car-GPT：LLMは自動運転を実現できるか？.md",
+    "ai-ml/2026-04-11_Mamba解説：Transformerに挑む状態空間モデル.md",
+    "ai-ml/2026-04-11_AIにおけるジェンダーバイアスの概要.md",
+    "ai-ml/2026-04-11_LLMの金融市場への応用：価格予測・マルチモーダル・合成データ生成.md",
+    "ai-ml/2026-04-11_ウェルビーイングに根ざしたAIのポジティブビジョンが必要だ.md",
+    "agent-arch/2026-04-11_LLMチャットボットに欠けているもの：目的意識（Purposeful Dialogue）.md",
+    "ai-ml/2026-04-11_形状・対称性・構造：機械学習研究における数学の変化する役割.md",
+    "ai-ml/2026-04-11_AGIはマルチモーダルではない：身体性と世界モデルの欠如がもたらす限界.md",
+    "ai-ml/2026-04-11_直交性を超えて：徳倫理学的エージェンシーとAIアライメント.md",
+    "ai-ml/2026-04-11_スタートアップAxiom Mathが数学者の研究手法を変えるAIツール「Axplorer」を公開.md",
+    "other/2026-04-11_ペンタゴンのAnthropicに対するカルチャーウォー戦術は裏目に出た.md",
+    "ai-ml/2026-04-11_AIヘルスツールは急増しているが、その有効性はどれほどか？.md",
+    "audit-ai/2026-04-11_AIベンチマークは壊れている――Human-AI Context-Specific（HAIC）評価への転換.md",
+    "ai-ml/2026-04-11_AIモデルカスタマイズへの移行はアーキテクチャ上の必然である.md",
+    "ai-ml/2026-04-11_ヒューマノイドロボットを自宅で訓練するギグワーカーたち.md",
+    "agent-arch/2026-04-11_AIが中小オンライン販売者の商品開発・仕入れ意思決定を変える：AlibaaのAccioの事例.md",
+    "other/2026-04-11_AI時代の雇用予測に必要な「唯一のデータ」：価格弾力性の欠如という盲点.md",
+    "agent-arch/2026-04-11_エージェントファーストのプロセス再設計を実現する.md",
+    "ai-ml/2026-04-11_Mustafa Suleyman（Microsoft AI CEO）：AIの発展は近い将来も壁に当たらない——その理由.md",
+    "ai-ml/2026-04-11_Japanese Stable Diffusion_ 日本語特化テキスト-画像生成モデル.md",
+    "infra/2026-04-11_DOI（デジタルオブジェクト識別子）のデータセット・モデルへの導入.md",
+    "infra/2026-04-11_最適化の記録_ BLOOM推論サーバーの高速化.md",
+    "infra/2026-04-11_JAX _ Flax で Stable Diffusion を高速推論する方法.md",
+    "index/knowledge_graph.html"
+  ]
+}

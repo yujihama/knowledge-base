@@ -1,0 +1,72 @@
+{
+  "feeds": [
+    {
+      "name": "Zenn LLM",
+      "url": "https://zenn.dev/topics/llm/feed",
+      "max_items": 15,
+      "lang": "ja",
+      "enabled": true
+    },
+    {
+      "name": "Zenn 機械学習",
+      "url": "https://zenn.dev/topics/machinelearning/feed",
+      "max_items": 15,
+      "lang": "ja",
+      "enabled": true
+    },
+    {
+      "name": "arXiv cs.AI+cs.LG",
+      "url": "https://rss.arxiv.org/rss/cs.AI+cs.LG",
+      "max_items": 20,
+      "lang": "en",
+      "enabled": false,
+      "note": "平日のみ新着あり（土日は0件が正常）。量が多すぎるため無効化"
+    },
+    {
+      "name": "HF Daily Papers",
+      "url": "https://papers.takara.ai/api/feed",
+      "max_items": 10,
+      "lang": "en",
+      "enabled": true,
+      "note": "arXiv論文のコミュニティ厳選版"
+    },
+    {
+      "name": "HF Blog",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "max_items": 10,
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/news/rss.xml",
+      "max_items": 10,
+      "lang": "en",
+      "enabled": false,
+      "note": "403 Forbiddenのため無効化"
+    },
+    {
+      "name": "Google AI Blog",
+      "url": "https://research.google/blog/rss",
+      "max_items": 10,
+      "lang": "en",
+      "enabled": true
+    },
+    {
+      "name": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "max_items": 10,
+      "lang": "en",
+      "enabled": true,
+      "note": "The Batchの代替。中国AI動向もカバー"
+    },
+    {
+      "name": "The Gradient",
+      "url": "https://thegradient.pub/rss/",
+      "max_items": 10,
+      "lang": "en",
+      "enabled": true,
+      "note": "研究者向け深掘り記事"
+    }
+  ]
+}

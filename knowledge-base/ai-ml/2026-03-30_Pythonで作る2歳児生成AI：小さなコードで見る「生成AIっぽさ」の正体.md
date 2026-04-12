@@ -1,0 +1,35 @@
+---
+title: "Pythonで作る2歳児生成AI：小さなコードで見る「生成AIっぽさ」の正体"
+url: "https://zenn.dev/albatrosary/articles/03c0d57df1ba03"
+date: 2026-03-30
+tags: [n-gram, temperature, top-p, repetition-penalty, tokenization, language-model, next-token-prediction, sampling]
+category: "ai-ml"
+memo: "[Zenn 機械学習] [AIの中を覗く] Pythonで作る2歳児生成AI ：小さなコードで見る「生成AIっぽさ」の正体"
+processed_at: "2026-03-30T21:04:48.922917"
+---
+
+## 要約
+
+本記事は、LLMの巨大アーキテクチャ（Transformer・Attention等）を一切使わず、Pythonの極小コードで「生成AIらしい振る舞い」を再現する試みを解説している。
+
+実装の核心はbigram/trigramによる次トークン予測で、各単語列から遷移確率テーブル（defaultdict(Counter)）を構築し、P(w_{t+1}|w_t)およびP(w_{t+1}|w_{t-1},w_t)を近似する。文の境界には<BOS>/<EOS>トークンを付与し、文脈の境界を明示することで自然な文頭・文末を再現している。
+
+「生成AIらしさ」を演出する主要機構は5つある。①Temperature制御：元確率p_iをp_i^(1/T)に変形してからサンプリング。T<1で分布を尖らせ保守的な出力、T>1で分布を平坦化して多様な出力を生成。②Top-pサンプリング：確率上位候補の累積和がpに達するまでの集合Sのみに候補を絞り、その中でサンプリング。③短期記憶（deque maxlen=3）：直近3ターンの会話履歴から頻出語を抽出し、次語候補の確率をmemory_boostで乗算してバイアスをかける。④Repetition penalty：同語の出現回数に応じてrepetition_penalty^countで確率を除算し、同語ループを抑制。⑤入力正規化：「抱っこ」→「だっこ」「ジュース」→「じゅーちゅ」等、多様な自然文入力を幼児語コーパスの語彙空間にマッピングする前処理写像φ(x)。
+
+実際の出力例として「ねむい→ねむい ママ だっこ もっと！」のように局所整合性は高いが大域的な質問適合性が弱い現象が観察され、これは本物のLLMでも見られる挙動のミニチュア版として位置づけられる。
+
+本記事はAndrej KarpathyのmicrogptやKarpathy自身が「GPTの最も原子的な実装」と説明する純粋Python実装とも方向性が近く、「生成の雰囲気を掴む最小模型」対「GPTアーキテクチャ骨格の剥き出し実装」として対比されている。
+
+## アイデア
+
+- 入力正規化層（normalize_mother_input）の設計思想は、LLMエージェントへの入力をDSLやJSON等の構造化表現に変換するプロンプトエンジニアリングと本質的に同じ写像φ(x)であり、エージェント設計の基本原理として整理できる
+- deque(maxlen=3)による短期記憶とmemory_boostは、Attentionを使わずに「文脈の残り香」を実装した最小モデルであり、コンテキスト管理の概念的な理解に有用
+- bigram/trigramのような超近視眼的モデルでも局所整合性は担保されるが大域整合性が欠如するという観察は、RAGや長いコンテキストウィンドウの必要性を実証的に示すデモとして機能する
+
+## Yujiの取り組みへの示唆
+
+監査エージェント開発において、LLMへの入力正規化（構造化・DSL化）がなぜ応答安定性を高めるかを、このφ(x)写像の概念で説明・設計の根拠として活用できる。またtemperature/top-pのサンプリング制御はLangGraphのエージェントノードでLLM-as-judgeを呼び出す際のパラメータ設計に直結するため、挙動の直感的理解として参考になる。
+
+## 原文リンク
+
+[Pythonで作る2歳児生成AI：小さなコードで見る「生成AIっぽさ」の正体](https://zenn.dev/albatrosary/articles/03c0d57df1ba03)
