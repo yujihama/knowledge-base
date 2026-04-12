@@ -540,6 +540,77 @@ processed_at: "{datetime.now().isoformat()}"
     }
 
 
+# ── Git自動反映 ──────────────────────────────────────
+GIT_REPO_ROOT = Path(__file__).parent.parent
+
+
+def git_commit_and_push(saved_articles: list[dict]) -> bool:
+    """新記事をgit commit & pushする。成功時True"""
+    if not saved_articles:
+        return False
+
+    try:
+        # 新記事ファイルをステージング
+        paths_to_add = []
+        for article in saved_articles:
+            p = Path(article["path"])
+            if p.exists():
+                paths_to_add.append(str(p.relative_to(GIT_REPO_ROOT)))
+
+        if not paths_to_add:
+            logger.info("Git: ステージング対象ファイルなし")
+            return False
+
+        for path in paths_to_add:
+            subprocess.run(
+                ["git", "add", path],
+                cwd=str(GIT_REPO_ROOT),
+                check=True,
+                capture_output=True,
+            )
+
+        # レジストリもコミット対象に含める
+        registry_rel = str(REGISTRY_FILE.relative_to(GIT_REPO_ROOT))
+        subprocess.run(
+            ["git", "add", registry_rel],
+            cwd=str(GIT_REPO_ROOT),
+            check=True,
+            capture_output=True,
+        )
+
+        # コミット
+        date_str = datetime.now().strftime("%Y-%m-%d %H:%M")
+        msg = f"Add {len(paths_to_add)} KB article(s) [{date_str}]"
+        result = subprocess.run(
+            ["git", "commit", "-m", msg],
+            cwd=str(GIT_REPO_ROOT),
+            capture_output=True,
+            text=True,
+        )
+        if result.returncode != 0:
+            logger.warning(f"Git commit failed: {result.stderr.strip()}")
+            return False
+        logger.info(f"Git commit: {msg}")
+
+        # プッシュ
+        result = subprocess.run(
+            ["git", "push"],
+            cwd=str(GIT_REPO_ROOT),
+            capture_output=True,
+            text=True,
+            timeout=60,
+        )
+        if result.returncode != 0:
+            logger.warning(f"Git push failed: {result.stderr.strip()}")
+            return False
+        logger.info("Git push 完了")
+        return True
+
+    except Exception as e:
+        logger.warning(f"Git操作失敗: {e}")
+        return False
+
+
 # ── Telegram通知 ─────────────────────────────────────
 def send_telegram_notification(message: str) -> None:
     """処理完了をTelegramで通知する"""
@@ -653,6 +724,14 @@ def main() -> None:
             logger.info(f"レジストリ更新: {len(saved_articles)}件登録 (next_id={registry['next_id']})")
         except Exception as e:
             logger.warning(f"レジストリ更新失敗: {e}")
+
+    # Git commit & push
+    if saved_articles:
+        git_ok = git_commit_and_push(saved_articles)
+        if git_ok:
+            logger.info("Git: リモートに反映完了")
+        else:
+            logger.warning("Git: リモート反映に失敗（ローカル保存は完了済み）")
 
     # last_processed.json に書き出し（後方互換）
     if saved_articles:

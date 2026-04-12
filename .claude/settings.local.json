@@ -2,7 +2,14 @@
   "permissions": {
     "allow": [
       "Bash(python -m py_compile scripts/process_inbox.py)",
-      "Bash(python -c ':*)"
+      "Bash(python -c ':*)",
+      "Bash(git remote:*)",
+      "Bash(git push:*)",
+      "Bash(grep -r \"subprocess\\\\|Popen\" /c/Users/nyham/work/KB_bot/scripts/*.py)",
+      "Bash(git config:*)",
+      "Bash(xargs grep:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m ':*)"
     ]
   }
 }
