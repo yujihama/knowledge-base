@@ -1,5 +1,5 @@
 {
-  "next_id": 5762,
+  "next_id": 5793,
   "articles": {
     "1": {
       "title": "Agent SkillにReactアプリを同梱するSkill Appアーキテクチャの実装",
@@ -34565,6 +34565,192 @@
       "title": "論文メモ：BERTからEmbeddingを整理する",
       "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_論文メモ：BERTからEmbeddingを整理する.md",
       "url": "https://zenn.dev/kas_blog/articles/20260509-llm-03-embedding",
+      "category": "ai-ml"
+    },
+    "5762": {
+      "title": "LeRobot — 録画したデータセットでポリシーをトレーニングする",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_LeRobot — 録画したデータセットでポリシーをトレーニングする.md",
+      "url": "https://zenn.dev/adawarp/articles/lerobot-train-policy",
+      "category": "ai-ml"
+    },
+    "5763": {
+      "title": "ドイツ語政治テキストのイデオロギー予測：Transformerモデルによる左右スペクトラム推定",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_ドイツ語政治テキストのイデオロギー予測：Transformerモデルによる左右スペクトラム推定.md",
+      "url": "https://tldr.takara.ai/p/2605.14352",
+      "category": "ai-ml"
+    },
+    "5764": {
+      "title": "PROVE: 視覚メディアにおける物体除去の知覚的整合性ベンチマーク",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_PROVE_ 視覚メディアにおける物体除去の知覚的整合性ベンチマーク.md",
+      "url": "https://tldr.takara.ai/p/2605.14534",
+      "category": "ai-ml"
+    },
+    "5765": {
+      "title": "認知的不確実性ガイド付き知識蒸留による生徒の誤概念分類の高精度化",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_認知的不確実性ガイド付き知識蒸留による生徒の誤概念分類の高精度化.md",
+      "url": "https://tldr.takara.ai/p/2605.14752",
+      "category": "ai-ml"
+    },
+    "5766": {
+      "title": "Conformal Predictionにおける公平性達成のコスト：カバレッジとセットサイズのトレードオフ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_Conformal Predictionにおける公平性達成のコスト：カバレッジとセットサイズのトレードオフ.md",
+      "url": "https://tldr.takara.ai/p/2605.14260",
+      "category": "ai-ml"
+    },
+    "5767": {
+      "title": "3D スキュー正規スプラッティング：非対称カーネルによる高品質シーン再構成",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_3D スキュー正規スプラッティング：非対称カーネルによる高品質シーン再構成.md",
+      "url": "https://tldr.takara.ai/p/2605.15010",
+      "category": "ai-ml"
+    },
+    "5768": {
+      "title": "ROAD: 二段階最適化によるオフライン-オンライン強化学習の適応的データ混合",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_ROAD_ 二段階最適化によるオフライン-オンライン強化学習の適応的データ混合.md",
+      "url": "https://tldr.takara.ai/p/2605.14497",
+      "category": "ai-ml"
+    },
+    "5769": {
+      "title": "長期LLMペルソナ一貫性のための異種時系列メモリガバナンスフレームワーク（ARPM）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-16_長期LLMペルソナ一貫性のための異種時系列メモリガバナンスフレームワーク（ARPM）.md",
+      "url": "https://tldr.takara.ai/p/2605.14802",
+      "category": "agent-arch"
+    },
+    "5770": {
+      "title": "SpeakerLLM：話者理解・検証推論に特化したオーディオLLMフレームワーク",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_SpeakerLLM：話者理解・検証推論に特化したオーディオLLMフレームワーク.md",
+      "url": "https://tldr.takara.ai/p/2605.15044",
+      "category": "ai-ml"
+    },
+    "5771": {
+      "title": "言語生成を最適制御として再定式化：潜在制御空間における閉ループ拡散",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_言語生成を最適制御として再定式化：潜在制御空間における閉ループ拡散.md",
+      "url": "https://tldr.takara.ai/p/2605.14531",
+      "category": "ai-ml"
+    },
+    "5772": {
+      "title": "Falkor-IRAC：インド司法AIにおけるグラフ制約生成による検証済み法的推論",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-16_Falkor-IRAC：インド司法AIにおけるグラフ制約生成による検証済み法的推論.md",
+      "url": "https://tldr.takara.ai/p/2605.14665",
+      "category": "audit-ai"
+    },
+    "5773": {
+      "title": "マスク対オルトマン裁判第3週：信頼性を巡る攻防、陪審員の評決へ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-16_マスク対オルトマン裁判第3週：信頼性を巡る攻防、陪審員の評決へ.md",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "category": "other"
+    },
+    "5774": {
+      "title": "中国のショートドラマがAIコンテンツ製造機になった経緯",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-16_中国のショートドラマがAIコンテンツ製造機になった経緯.md",
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "category": "other"
+    },
+    "5775": {
+      "title": "金融サービスにおけるエージェンティックAIのためのデータ準備態勢",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-16_金融サービスにおけるエージェンティックAIのためのデータ準備態勢.md",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "category": "audit-ai"
+    },
+    "5776": {
+      "title": "自律システム時代におけるAIとデータ主権の確立",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-16_自律システム時代におけるAIとデータ主権の確立.md",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "category": "audit-ai"
+    },
+    "5777": {
+      "title": "ディープフェイクポルノに自分の身体を無断使用された衝撃：忘れられた被害者たち",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-16_ディープフェイクポルノに自分の身体を無断使用された衝撃：忘れられた被害者たち.md",
+      "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+      "category": "other"
+    },
+    "5778": {
+      "title": "AIチャットボットが実在する人々の電話番号を漏洩している",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-16_AIチャットボットが実在する人々の電話番号を漏洩している.md",
+      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "category": "other"
+    },
+    "5779": {
+      "title": "ノーベル賞経済学者が注目するAIの3つのトレンド：エージェント・雇用・アプリ普及",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-16_ノーベル賞経済学者が注目するAIの3つのトレンド：エージェント・雇用・アプリ普及.md",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "category": "other"
+    },
+    "5780": {
+      "title": "カスタマーバック・エンジニアリングによるAIイノベーションの促進：Capital Oneの事例",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-16_カスタマーバック・エンジニアリングによるAIイノベーションの促進：Capital Oneの事例.md",
+      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+      "category": "agent-arch"
+    },
+    "5781": {
+      "title": "金融部門におけるAI先進技術の実装：ガバナンス後追い問題とエージェント化の展望",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-16_金融部門におけるAI先進技術の実装：ガバナンス後追い問題とエージェント化の展望.md",
+      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+      "category": "audit-ai"
+    },
+    "5782": {
+      "title": "Musk対Altman裁判第2週：OpenAIの反論とShivon ZilisによるMuskのSam Altman引き抜き試みの証言",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-16_Musk対Altman裁判第2週：OpenAIの反論とShivon ZilisによるMuskのSam Altman引き抜.md",
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "category": "other"
+    },
+    "5783": {
+      "title": "直交性の先へ：徳倫理的エージェンシーとAIアライメント",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-16_直交性の先へ：徳倫理的エージェンシーとAIアライメント.md",
+      "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+      "category": "agent-arch"
+    },
+    "5784": {
+      "title": "AGIはマルチモーダルではない：身体性と環境インタラクションを中心に据えたAGIアーキテクチャの必要性",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_AGIはマルチモーダルではない：身体性と環境インタラクションを中心に据えたAGIアーキテクチャの必要性.md",
+      "url": "https://thegradient.pub/agi-is-not-multimodal/",
+      "category": "ai-ml"
+    },
+    "5785": {
+      "title": "形・対称性・構造：機械学習研究における数学の役割の変遷",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_形・対称性・構造：機械学習研究における数学の役割の変遷.md",
+      "url": "https://thegradient.pub/shape-symmetry-structure/",
+      "category": "ai-ml"
+    },
+    "5786": {
+      "title": "LLMチャットボットに欠けているもの：目的意識のある対話",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-16_LLMチャットボットに欠けているもの：目的意識のある対話.md",
+      "url": "https://thegradient.pub/dialog/",
+      "category": "agent-arch"
+    },
+    "5787": {
+      "title": "ウェルビーイングに根ざしたAIのポジティブなビジョンが必要だ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-16_ウェルビーイングに根ざしたAIのポジティブなビジョンが必要だ.md",
+      "url": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/",
+      "category": "other"
+    },
+    "5788": {
+      "title": "LLMの金融市場への応用：価格予測・合成データ生成・マルチモーダル学習の可能性と限界",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_LLMの金融市場への応用：価格予測・合成データ生成・マルチモーダル学習の可能性と限界.md",
+      "url": "https://thegradient.pub/financial-market-applications-of-llms/",
+      "category": "ai-ml"
+    },
+    "5789": {
+      "title": "AIにおけるジェンダーバイアスの概観：測定・評価・緩和手法",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_AIにおけるジェンダーバイアスの概観：測定・評価・緩和手法.md",
+      "url": "https://thegradient.pub/gender-bias-in-ai/",
+      "category": "ai-ml"
+    },
+    "5790": {
+      "title": "Mamba解説：Transformerに挑む状態空間モデル（SSM）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_Mamba解説：Transformerに挑む状態空間モデル（SSM）.md",
+      "url": "https://thegradient.pub/mamba-explained/",
+      "category": "ai-ml"
+    },
+    "5791": {
+      "title": "Car-GPT：LLMはついに自動運転を実現できるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_Car-GPT：LLMはついに自動運転を実現できるか？.md",
+      "url": "https://thegradient.pub/car-gpt/",
+      "category": "ai-ml"
+    },
+    "5792": {
+      "title": "テキスト埋め込みはテキストを完全にエンコードしているか？：vec2textによる埋め込みの逆変換",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-16_テキスト埋め込みはテキストを完全にエンコードしているか？：vec2textによる埋め込みの逆変換.md",
+      "url": "https://thegradient.pub/text-embedding-inversion/",
       "category": "ai-ml"
     }
   }
