@@ -2,6 +2,7 @@ bot/.env
 venv/
 __pycache__/
 *.pyc
-logs/
+logs/*
+!logs/article_registry.json
 knowledge-base/inbox/inbox.jsonl
 knowledge-base/index/

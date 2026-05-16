@@ -542,6 +542,19 @@ processed_at: "{datetime.now().isoformat()}"
 
 # ── Git自動反映 ──────────────────────────────────────
 GIT_REPO_ROOT = Path(__file__).parent.parent
+GIT_REMOTE = os.getenv("KB_GIT_REMOTE", "origin")
+GIT_PUSH_BRANCH = os.getenv("KB_GIT_PUSH_BRANCH", "main")
+
+
+def run_git(args: list[str], *, timeout: int | None = None) -> subprocess.CompletedProcess:
+    """Run a git command in the repository root and return the result."""
+    return subprocess.run(
+        ["git", *args],
+        cwd=str(GIT_REPO_ROOT),
+        capture_output=True,
+        text=True,
+        timeout=timeout,
+    )
 
 
 def git_commit_and_push(saved_articles: list[dict]) -> bool:
@@ -556,54 +569,53 @@ def git_commit_and_push(saved_articles: list[dict]) -> bool:
             p = Path(article["path"])
             if p.exists():
                 paths_to_add.append(str(p.relative_to(GIT_REPO_ROOT)))
+        paths_to_add = sorted(set(paths_to_add))
 
         if not paths_to_add:
             logger.info("Git: ステージング対象ファイルなし")
             return False
 
-        for path in paths_to_add:
-            subprocess.run(
-                ["git", "add", path],
-                cwd=str(GIT_REPO_ROOT),
-                check=True,
-                capture_output=True,
-            )
+        result = run_git(["add", "--", *paths_to_add])
+        if result.returncode != 0:
+            logger.warning(f"Git add articles failed: {result.stderr.strip()}")
+            return False
 
         # レジストリもコミット対象に含める
         registry_rel = str(REGISTRY_FILE.relative_to(GIT_REPO_ROOT))
-        subprocess.run(
-            ["git", "add", registry_rel],
-            cwd=str(GIT_REPO_ROOT),
-            check=True,
-            capture_output=True,
-        )
+        commit_paths = [*paths_to_add]
+        if REGISTRY_FILE.exists():
+            result = run_git(["add", "-f", "--", registry_rel])
+            if result.returncode != 0:
+                logger.warning(f"Git add registry failed: {result.stderr.strip()}")
+                return False
+            commit_paths.append(registry_rel)
+
+        diff_result = run_git(["diff", "--cached", "--name-only", "--", *commit_paths])
+        if diff_result.returncode != 0:
+            logger.warning(f"Git diff failed: {diff_result.stderr.strip()}")
+            return False
+        if not diff_result.stdout.strip():
+            logger.info("Git: コミット対象の差分なし")
+            return False
 
         # コミット
         date_str = datetime.now().strftime("%Y-%m-%d %H:%M")
         msg = f"Add {len(paths_to_add)} KB article(s) [{date_str}]"
-        result = subprocess.run(
-            ["git", "commit", "-m", msg],
-            cwd=str(GIT_REPO_ROOT),
-            capture_output=True,
-            text=True,
-        )
+        result = run_git(["commit", "-m", msg, "--", *commit_paths])
         if result.returncode != 0:
             logger.warning(f"Git commit failed: {result.stderr.strip()}")
             return False
         logger.info(f"Git commit: {msg}")
 
-        # プッシュ
-        result = subprocess.run(
-            ["git", "push"],
-            cwd=str(GIT_REPO_ROOT),
-            capture_output=True,
-            text=True,
+        # 現在のローカルブランチ名に依存せず、ナレッジベースの既定ブランチへ反映する
+        result = run_git(
+            ["push", GIT_REMOTE, f"HEAD:{GIT_PUSH_BRANCH}"],
             timeout=60,
         )
         if result.returncode != 0:
             logger.warning(f"Git push failed: {result.stderr.strip()}")
             return False
-        logger.info("Git push 完了")
+        logger.info(f"Git push 完了: {GIT_REMOTE}/{GIT_PUSH_BRANCH}")
         return True
 
     except Exception as e:
@@ -612,27 +624,81 @@ def git_commit_and_push(saved_articles: list[dict]) -> bool:
 
 
 # ── Telegram通知 ─────────────────────────────────────
+TELEGRAM_MESSAGE_LIMIT = 4096
+TELEGRAM_SAFE_MESSAGE_LIMIT = 3800
+
+
+def split_telegram_message(
+    message: str, limit: int = TELEGRAM_SAFE_MESSAGE_LIMIT
+) -> list[str]:
+    """Split long Telegram messages on line boundaries."""
+    if len(message) <= limit:
+        return [message]
+
+    chunks: list[str] = []
+    current = ""
+    for line in message.splitlines(keepends=True):
+        if len(line) > limit:
+            if current:
+                chunks.append(current.rstrip())
+                current = ""
+            for i in range(0, len(line), limit):
+                part = line[i:i + limit].rstrip()
+                if part:
+                    chunks.append(part)
+            continue
+
+        if current and len(current) + len(line) > limit:
+            chunks.append(current.rstrip())
+            current = line
+        else:
+            current += line
+
+    if current:
+        chunks.append(current.rstrip())
+
+    return [chunk for chunk in chunks if chunk]
+
+
 def send_telegram_notification(message: str) -> None:
     """処理完了をTelegramで通知する"""
     if not BOT_TOKEN or not ALLOWED_USER_IDS:
         logger.debug("Telegram通知スキップ（トークンまたはユーザーID未設定）")
         return
+
+    chunks = split_telegram_message(message)
     ssl_ctx = ssl.create_default_context()
     ssl_ctx.check_hostname = False
     ssl_ctx.verify_mode = ssl.CERT_NONE
     for user_id in ALLOWED_USER_IDS:
-        try:
-            payload = json.dumps({"chat_id": user_id, "text": message}).encode("utf-8")
-            req = urllib.request.Request(
-                f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
-                data=payload,
-                headers={"Content-Type": "application/json"},
-            )
-            with urllib.request.urlopen(req, timeout=10, context=ssl_ctx) as resp:
-                if resp.status == 200:
-                    logger.info(f"Telegram通知送信完了 → user_id={user_id}")
-        except Exception as e:
-            logger.warning(f"Telegram通知失敗: {e}")
+        for index, chunk in enumerate(chunks, start=1):
+            try:
+                text = chunk
+                if len(chunks) > 1:
+                    prefix = f"[{index}/{len(chunks)}]\n"
+                    max_body_len = TELEGRAM_MESSAGE_LIMIT - len(prefix)
+                    text = prefix + text[:max_body_len]
+
+                payload = json.dumps({"chat_id": user_id, "text": text}).encode("utf-8")
+                req = urllib.request.Request(
+                    f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
+                    data=payload,
+                    headers={"Content-Type": "application/json"},
+                )
+                with urllib.request.urlopen(req, timeout=10, context=ssl_ctx) as resp:
+                    if resp.status == 200:
+                        logger.info(
+                            f"Telegram通知送信完了: user_id={user_id}, "
+                            f"part={index}/{len(chunks)}"
+                        )
+            except urllib.error.HTTPError as e:
+                body = e.read().decode("utf-8", errors="replace")
+                logger.warning(
+                    f"Telegram通知失敗: status={e.code}, "
+                    f"part={index}/{len(chunks)}, body={body[:300]}"
+                )
+            except Exception as e:
+                logger.warning(f"Telegram通知失敗: part={index}/{len(chunks)}, error={e}")
 
 
 # ── メイン処理 ────────────────────────────────────────
