@@ -1,5 +1,5 @@
 {
-  "next_id": 5939,
+  "next_id": 5959,
   "articles": {
     "1": {
       "title": "Agent SkillにReactアプリを同梱するSkill Appアーキテクチャの実装",
@@ -35628,6 +35628,126 @@
       "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-18_AIに広告コピーを自動生成させる——AOS準拠ツールが30回連続テストまで踏み込む理由.md",
       "url": "https://zenn.dev/aos_standard/articles/6d13f169125b51",
       "category": "agent-arch"
+    },
+    "5939": {
+      "title": "マスク対アルトマン裁判 第3週：両者の信頼性をめぐる攻防、陪審員が評決へ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-18_マスク対アルトマン裁判 第3週：両者の信頼性をめぐる攻防、陪審員が評決へ.md",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "category": "other"
+    },
+    "5940": {
+      "title": "中国の短尺ドラマがAIコンテンツ製造機になった経緯",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-18_中国の短尺ドラマがAIコンテンツ製造機になった経緯.md",
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "category": "other"
+    },
+    "5941": {
+      "title": "金融サービスにおけるエージェントAIのデータ準備態勢",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-18_金融サービスにおけるエージェントAIのデータ準備態勢.md",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "category": "audit-ai"
+    },
+    "5942": {
+      "title": "自律型AIシステム時代におけるAI・データ主権の確立",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-18_自律型AIシステム時代におけるAI・データ主権の確立.md",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "category": "audit-ai"
+    },
+    "5943": {
+      "title": "ディープフェイクポルノに自分の身体を使われるショック――忘れられた被害者たち",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-18_ディープフェイクポルノに自分の身体を使われるショック――忘れられた被害者たち.md",
+      "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+      "category": "other"
+    },
+    "5944": {
+      "title": "AIチャットボットが実在する人物の電話番号を漏洩している問題",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-18_AIチャットボットが実在する人物の電話番号を漏洩している問題.md",
+      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "category": "ai-ml"
+    },
+    "5945": {
+      "title": "ノーベル賞経済学者が注目するAIの3つのトレンド：エージェント・採用・アプリ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-18_ノーベル賞経済学者が注目するAIの3つのトレンド：エージェント・採用・アプリ.md",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "category": "other"
+    },
+    "5946": {
+      "title": "カスタマーバック・エンジニアリングによるAIイノベーションの推進",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-18_カスタマーバック・エンジニアリングによるAIイノベーションの推進.md",
+      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+      "category": "agent-arch"
+    },
+    "5947": {
+      "title": "金融部門における先進AI技術の実装：ガバナンス後追いと人材ギャップの課題",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-18_金融部門における先進AI技術の実装：ガバナンス後追いと人材ギャップの課題.md",
+      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+      "category": "audit-ai"
+    },
+    "5948": {
+      "title": "マスク対アルトマン裁判第2週：OpenAIが反論、シボン・ジリスがマスクのアルトマン引き抜き工作を証言",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-18_マスク対アルトマン裁判第2週：OpenAIが反論、シボン・ジリスがマスクのアルトマン引き抜き工作を証言.md",
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "category": "other"
+    },
+    "5949": {
+      "title": "直交性を超えて：徳倫理学的エージェンシーとAIアライメント",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-18_直交性を超えて：徳倫理学的エージェンシーとAIアライメント.md",
+      "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+      "category": "ai-ml"
+    },
+    "5950": {
+      "title": "AGIはマルチモーダルではない：身体性と物理世界モデルの必要性",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-18_AGIはマルチモーダルではない：身体性と物理世界モデルの必要性.md",
+      "url": "https://thegradient.pub/agi-is-not-multimodal/",
+      "category": "ai-ml"
+    },
+    "5951": {
+      "title": "形状・対称性・構造：機械学習研究における数学の役割の変化",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-18_形状・対称性・構造：機械学習研究における数学の役割の変化.md",
+      "url": "https://thegradient.pub/shape-symmetry-structure/",
+      "category": "ai-ml"
+    },
+    "5952": {
+      "title": "LLMチャットボットに欠けているもの：目的意識を持った対話",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-18_LLMチャットボットに欠けているもの：目的意識を持った対話.md",
+      "url": "https://thegradient.pub/dialog/",
+      "category": "ai-ml"
+    },
+    "5953": {
+      "title": "ウェルビーイングに根ざしたAIのポジティブなビジョンが必要だ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-18_ウェルビーイングに根ざしたAIのポジティブなビジョンが必要だ.md",
+      "url": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/",
+      "category": "ai-ml"
+    },
+    "5954": {
+      "title": "LLMの金融市場応用：価格予測・合成データ・マルチモーダル分析の可能性と限界",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-18_LLMの金融市場応用：価格予測・合成データ・マルチモーダル分析の可能性と限界.md",
+      "url": "https://thegradient.pub/financial-market-applications-of-llms/",
+      "category": "ai-ml"
+    },
+    "5955": {
+      "title": "AIにおけるジェンダーバイアスの概観",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-18_AIにおけるジェンダーバイアスの概観.md",
+      "url": "https://thegradient.pub/gender-bias-in-ai/",
+      "category": "ai-ml"
+    },
+    "5956": {
+      "title": "Mamba解説：Transformerに挑む状態空間モデル",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-18_Mamba解説：Transformerに挑む状態空間モデル.md",
+      "url": "https://thegradient.pub/mamba-explained/",
+      "category": "ai-ml"
+    },
+    "5957": {
+      "title": "Car-GPT：LLMはついに自動運転を実現できるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-18_Car-GPT：LLMはついに自動運転を実現できるか？.md",
+      "url": "https://thegradient.pub/car-gpt/",
+      "category": "ai-ml"
+    },
+    "5958": {
+      "title": "テキスト埋め込みはテキストを完全にエンコードするか？vec2textによる埋め込み逆変換の研究",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-18_テキスト埋め込みはテキストを完全にエンコードするか？vec2textによる埋め込み逆変換の研究.md",
+      "url": "https://thegradient.pub/text-embedding-inversion/",
+      "category": "ai-ml"
     }
   }
 }
