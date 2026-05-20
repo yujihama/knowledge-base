@@ -1,5 +1,5 @@
 {
-  "next_id": 6121,
+  "next_id": 6189,
   "articles": {
     "1": {
       "title": "Agent SkillにReactアプリを同梱するSkill Appアーキテクチャの実装",
@@ -36718,6 +36718,414 @@
     "6120": {
       "title": "テキスト埋め込みはテキストを完全にエンコードしているか？ ── vec2textによる埋め込みの逆変換",
       "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_テキスト埋め込みはテキストを完全にエンコードしているか？ ── vec2textによる埋め込みの逆変換.md",
+      "url": "https://thegradient.pub/text-embedding-inversion/",
+      "category": "ai-ml"
+    },
+    "6121": {
+      "title": "システムプロンプトって漏れるの？LLM07 System Prompt Leakageを初心者向けに解説",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-20_システムプロンプトって漏れるの？LLM07 System Prompt Leakageを初心者向けに解説.md",
+      "url": "https://zenn.dev/mapellion/articles/b1e06117b5b7bf",
+      "category": "audit-ai"
+    },
+    "6122": {
+      "title": "Local Coding Agentが身近なタスクをどれくらいこなせるか検証した（Qwen3.6-27B + OpenCode）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-20_Local Coding Agentが身近なタスクをどれくらいこなせるか検証した（Qwen3.6-27B + OpenC.md",
+      "url": "https://zenn.dev/aishift/articles/5b048ff347fd7b",
+      "category": "agent-arch"
+    },
+    "6123": {
+      "title": "Splunk AI Agent Monitoring と OTel GenAI Spanの計装（2026年4月時点）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-05-20_Splunk AI Agent Monitoring と OTel GenAI Spanの計装（2026年4月時点）.md",
+      "url": "https://zenn.dev/gen_sobunya/articles/splunk-ai-agent-otel-attributes",
+      "category": "infra"
+    },
+    "6124": {
+      "title": "Google I/O 2026のAI発表をAIエンジニア・研究視点で読む",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-20_Google I_O 2026のAI発表をAIエンジニア・研究視点で読む.md",
+      "url": "https://zenn.dev/sonder01/articles/google-io-2026-ai-research-engineer",
+      "category": "agent-arch"
+    },
+    "6125": {
+      "title": "AI覇権争いが加速中——韓国・マルタ・Dellに見るAI企業の地政学的展開戦略",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_AI覇権争いが加速中——韓国・マルタ・Dellに見るAI企業の地政学的展開戦略.md",
+      "url": "https://zenn.dev/lingmu/articles/2026-05-19-ai-geopolitics-korea-malta-strategy",
+      "category": "other"
+    },
+    "6126": {
+      "title": "無料GPUでAI論文を自動復元する——FeynmanとColab-MCPで研究パイプラインを構築した",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-20_無料GPUでAI論文を自動復元する——FeynmanとColab-MCPで研究パイプラインを構築した.md",
+      "url": "https://zenn.dev/bayar/articles/357285c1e785e5",
+      "category": "agent-arch"
+    },
+    "6127": {
+      "title": "微細な有意差を検出する手法 PWTAB の検証",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_微細な有意差を検出する手法 PWTAB の検証.md",
+      "url": "https://zenn.dev/dmmdata/articles/e230af2cb91692",
+      "category": "ai-ml"
+    },
+    "6128": {
+      "title": "現代AIと語る夢、成長する機械について",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_現代AIと語る夢、成長する機械について.md",
+      "url": "https://zenn.dev/azamshato/articles/f42bc75124ec1b",
+      "category": "ai-ml"
+    },
+    "6129": {
+      "title": "PH-Dreamer: ポート・ハミルトニアン生成ダイナミクスによる物理駆動型ワールドモデル",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_PH-Dreamer_ ポート・ハミルトニアン生成ダイナミクスによる物理駆動型ワールドモデル.md",
+      "url": "https://tldr.takara.ai/p/2605.18303",
+      "category": "ai-ml"
+    },
+    "6130": {
+      "title": "EgoExoMem: 自己視点と外部視点の同期動画を横断するクロスビュー記憶推論ベンチマーク",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_EgoExoMem_ 自己視点と外部視点の同期動画を横断するクロスビュー記憶推論ベンチマーク.md",
+      "url": "https://tldr.takara.ai/p/2605.18734",
+      "category": "ai-ml"
+    },
+    "6131": {
+      "title": "PPAI: エッジデバイス上のパーソナライズドLLMエージェント相互運用システム",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-20_PPAI_ エッジデバイス上のパーソナライズドLLMエージェント相互運用システム.md",
+      "url": "https://tldr.takara.ai/p/2605.18067",
+      "category": "agent-arch"
+    },
+    "6132": {
+      "title": "SVFSearch: ゲーム縦型ドメインにおける短尺動画フレーム検索のマルチモーダル知識集約型ベンチマーク",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-20_SVFSearch_ ゲーム縦型ドメインにおける短尺動画フレーム検索のマルチモーダル知識集約型ベンチマーク.md",
+      "url": "https://tldr.takara.ai/p/2605.17946",
+      "category": "agent-arch"
+    },
+    "6133": {
+      "title": "FöllmerプロセスとDDPMの接続関係に関する考察",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_FöllmerプロセスとDDPMの接続関係に関する考察.md",
+      "url": "https://tldr.takara.ai/p/2605.18040",
+      "category": "ai-ml"
+    },
+    "6134": {
+      "title": "持続可能な成長に向けて：Eコマース検索のためのマルチバリュー認識型検索フレームワーク",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_持続可能な成長に向けて：Eコマース検索のためのマルチバリュー認識型検索フレームワーク.md",
+      "url": "https://tldr.takara.ai/p/2605.17994",
+      "category": "ai-ml"
+    },
+    "6135": {
+      "title": "Rectified Flowにおける発散抑制カップリング",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_Rectified Flowにおける発散抑制カップリング.md",
+      "url": "https://tldr.takara.ai/p/2605.17733",
+      "category": "ai-ml"
+    },
+    "6136": {
+      "title": "スパイク共分散モデルにおけるスペクトル収縮推定量の中でSelf-Distillationが最適である",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_スパイク共分散モデルにおけるスペクトル収縮推定量の中でSelf-Distillationが最適である.md",
+      "url": "https://tldr.takara.ai/p/2605.17778",
+      "category": "ai-ml"
+    },
+    "6137": {
+      "title": "Koopman演算子ベースのモデル予測制御による動的ロボット布折り畳み",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_Koopman演算子ベースのモデル予測制御による動的ロボット布折り畳み.md",
+      "url": "https://tldr.takara.ai/p/2605.18373",
+      "category": "ai-ml"
+    },
+    "6138": {
+      "title": "スケジューリングに語らせる：解釈可能なプログラマティック強化学習フレームワーク",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_スケジューリングに語らせる：解釈可能なプログラマティック強化学習フレームワーク.md",
+      "url": "https://tldr.takara.ai/p/2605.18454",
+      "category": "ai-ml"
+    },
+    "6139": {
+      "title": "イーロン・マスクがOpenAIへの訴訟で敗訴した理由",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_イーロン・マスクがOpenAIへの訴訟で敗訴した理由.md",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "category": "other"
+    },
+    "6140": {
+      "title": "Google I/O 2026のAI発表を読むエンジニア・研究視点",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_Google I_O 2026のAI発表を読むエンジニア・研究視点.md",
+      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "category": "other"
+    },
+    "6141": {
+      "title": "AndurilとMetaが進める軍事用スマートグラスの開発内幕",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_AndurilとMetaが進める軍事用スマートグラスの開発内幕.md",
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "category": "other"
+    },
+    "6142": {
+      "title": "マスク対オルトマン裁判第3週：陪審員がOpenAI側の勝訴を支持する評決を下す",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_マスク対オルトマン裁判第3週：陪審員がOpenAI側の勝訴を支持する評決を下す.md",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "category": "other"
+    },
+    "6143": {
+      "title": "中国の縦型ショートドラマがAIコンテンツ製造機になった経緯",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_中国の縦型ショートドラマがAIコンテンツ製造機になった経緯.md",
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "category": "other"
+    },
+    "6144": {
+      "title": "金融サービスにおけるエージェントAIのためのデータ・レディネス",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-20_金融サービスにおけるエージェントAIのためのデータ・レディネス.md",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "category": "audit-ai"
+    },
+    "6145": {
+      "title": "自律システム時代におけるAIとデータ主権の確立",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-20_自律システム時代におけるAIとデータ主権の確立.md",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "category": "audit-ai"
+    },
+    "6146": {
+      "title": "ディープフェイクポルノに自分の身体が使われる衝撃——「忘れられた被害者」たちの実態",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_ディープフェイクポルノに自分の身体が使われる衝撃——「忘れられた被害者」たちの実態.md",
+      "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+      "category": "other"
+    },
+    "6147": {
+      "title": "AIチャットボットが実在する人物の電話番号を漏洩している",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-20_AIチャットボットが実在する人物の電話番号を漏洩している.md",
+      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "category": "audit-ai"
+    },
+    "6148": {
+      "title": "ノーベル賞経済学者が注目するAIの3つのトレンド：エージェント・採用・アプリ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_ノーベル賞経済学者が注目するAIの3つのトレンド：エージェント・採用・アプリ.md",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "category": "other"
+    },
+    "6149": {
+      "title": "直交性の先へ：徳倫理学的エージェンシーとAIアライメント",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-20_直交性の先へ：徳倫理学的エージェンシーとAIアライメント.md",
+      "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+      "category": "agent-arch"
+    },
+    "6150": {
+      "title": "AGIはマルチモーダルではない：身体性なき汎用知能の限界",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_AGIはマルチモーダルではない：身体性なき汎用知能の限界.md",
+      "url": "https://thegradient.pub/agi-is-not-multimodal/",
+      "category": "ai-ml"
+    },
+    "6151": {
+      "title": "形状・対称性・構造：機械学習研究における数学の変容する役割",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_形状・対称性・構造：機械学習研究における数学の変容する役割.md",
+      "url": "https://thegradient.pub/shape-symmetry-structure/",
+      "category": "ai-ml"
+    },
+    "6152": {
+      "title": "LLMチャットボットに欠けているもの：目的志向の対話能力",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-20_LLMチャットボットに欠けているもの：目的志向の対話能力.md",
+      "url": "https://thegradient.pub/dialog/",
+      "category": "agent-arch"
+    },
+    "6153": {
+      "title": "ウェルビーイングに根ざしたAIの肯定的ビジョンの必要性",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_ウェルビーイングに根ざしたAIの肯定的ビジョンの必要性.md",
+      "url": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/",
+      "category": "other"
+    },
+    "6154": {
+      "title": "LLMの金融市場への応用：価格予測・合成データ・マルチモーダル分析",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_LLMの金融市場への応用：価格予測・合成データ・マルチモーダル分析.md",
+      "url": "https://thegradient.pub/financial-market-applications-of-llms/",
+      "category": "ai-ml"
+    },
+    "6155": {
+      "title": "AIにおけるジェンダーバイアスの概観",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_AIにおけるジェンダーバイアスの概観.md",
+      "url": "https://thegradient.pub/gender-bias-in-ai/",
+      "category": "ai-ml"
+    },
+    "6156": {
+      "title": "Mamba解説：TransformerへのState Space Modelによる挑戦",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_Mamba解説：TransformerへのState Space Modelによる挑戦.md",
+      "url": "https://thegradient.pub/mamba-explained/",
+      "category": "ai-ml"
+    },
+    "6157": {
+      "title": "Car-GPT: LLMは自動運転を実現できるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_Car-GPT_ LLMは自動運転を実現できるか？.md",
+      "url": "https://thegradient.pub/car-gpt/",
+      "category": "ai-ml"
+    },
+    "6158": {
+      "title": "テキスト埋め込みはテキストを完全にエンコードするか？── vec2textによる埋め込み逆変換の実証",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_テキスト埋め込みはテキストを完全にエンコードするか？── vec2textによる埋め込み逆変換の実証.md",
+      "url": "https://thegradient.pub/text-embedding-inversion/",
+      "category": "ai-ml"
+    },
+    "6159": {
+      "title": "おもちゃの組み合わせ解釈可能性モデルが初期特徴空間におけるロッタリーチケットを明らかにする",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_おもちゃの組み合わせ解釈可能性モデルが初期特徴空間におけるロッタリーチケットを明らかにする.md",
+      "url": "https://tldr.takara.ai/p/2605.17704",
+      "category": "ai-ml"
+    },
+    "6160": {
+      "title": "CATA: 競合回避タスク算術による継続的機械アンラーニング",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_CATA_ 競合回避タスク算術による継続的機械アンラーニング.md",
+      "url": "https://tldr.takara.ai/p/2605.18610",
+      "category": "ai-ml"
+    },
+    "6161": {
+      "title": "球面調和関数を用いた最適輸送：気候モデル比較への応用",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_球面調和関数を用いた最適輸送：気候モデル比較への応用.md",
+      "url": "https://tldr.takara.ai/p/2605.18389",
+      "category": "ai-ml"
+    },
+    "6162": {
+      "title": "非交換可能パネルデータに対するオンライン共形予測",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_非交換可能パネルデータに対するオンライン共形予測.md",
+      "url": "https://tldr.takara.ai/p/2605.17705",
+      "category": "ai-ml"
+    },
+    "6163": {
+      "title": "TeleCom-Bench: LLMは産業用通信アプリケーションにどこまで対応できるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_TeleCom-Bench_ LLMは産業用通信アプリケーションにどこまで対応できるか？.md",
+      "url": "https://tldr.takara.ai/p/2605.18025",
+      "category": "ai-ml"
+    },
+    "6164": {
+      "title": "StatQAT: 深層ニューラルネットワーク向け統計的量子化パラメータ最適化フレームワーク",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_StatQAT_ 深層ニューラルネットワーク向け統計的量子化パラメータ最適化フレームワーク.md",
+      "url": "https://tldr.takara.ai/p/2605.17745",
+      "category": "ai-ml"
+    },
+    "6165": {
+      "title": "MA²P: 複雑な説得タスクのためのメタ認知型自律エージェントフレームワーク",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-20_MA²P_ 複雑な説得タスクのためのメタ認知型自律エージェントフレームワーク.md",
+      "url": "https://tldr.takara.ai/p/2605.18572",
+      "category": "agent-arch"
+    },
+    "6166": {
+      "title": "古代ギリシャ語から現代ギリシャ語への機械翻訳：新ベンチマークとLLM・NMTモデルのファインチューニング実験",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_古代ギリシャ語から現代ギリシャ語への機械翻訳：新ベンチマークとLLM・NMTモデルのファインチューニング実験.md",
+      "url": "https://tldr.takara.ai/p/2605.18504",
+      "category": "ai-ml"
+    },
+    "6167": {
+      "title": "PanoWorld: 一貫した全室パノラマ合成のための生成的空間ワールドモデル",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_PanoWorld_ 一貫した全室パノラマ合成のための生成的空間ワールドモデル.md",
+      "url": "https://tldr.takara.ai/p/2605.17916",
+      "category": "ai-ml"
+    },
+    "6168": {
+      "title": "RGBカメラのみで動作する屋内モバイルロボット向けアクティブ3Dシーングラフ生成",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_RGBカメラのみで動作する屋内モバイルロボット向けアクティブ3Dシーングラフ生成.md",
+      "url": "https://tldr.takara.ai/p/2605.18197",
+      "category": "ai-ml"
+    },
+    "6169": {
+      "title": "マスク対オルトマン裁判第3週：陪審員がOpenAI側の勝訴を支持する評決を下す",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_マスク対オルトマン裁判第3週：陪審員がOpenAI側の勝訴を支持する評決を下す.md",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "category": "other"
+    },
+    "6170": {
+      "title": "Google I/O 2026に向けた期待：コーディングAIの挽回、科学AI、業界ドラマ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_Google I_O 2026に向けた期待：コーディングAIの挽回、科学AI、業界ドラマ.md",
+      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "category": "other"
+    },
+    "6171": {
+      "title": "AndurilとMetaが進める軍事用スマートグラスの開発内幕",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_AndurilとMetaが進める軍事用スマートグラスの開発内幕.md",
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "category": "other"
+    },
+    "6172": {
+      "title": "マスク対オルトマン裁判第3週：陪審員がOpenAI側の勝訴を支持する評決を下す",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_マスク対オルトマン裁判第3週：陪審員がOpenAI側の勝訴を支持する評決を下す.md",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "category": "other"
+    },
+    "6173": {
+      "title": "中国の縦型ショートドラマがAIコンテンツ製造機になった経緯",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_中国の縦型ショートドラマがAIコンテンツ製造機になった経緯.md",
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "category": "other"
+    },
+    "6174": {
+      "title": "金融サービスにおけるエージェントAIのためのデータ・レディネス",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-20_金融サービスにおけるエージェントAIのためのデータ・レディネス.md",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "category": "audit-ai"
+    },
+    "6175": {
+      "title": "自律システム時代におけるAIとデータ主権の確立",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-20_自律システム時代におけるAIとデータ主権の確立.md",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "category": "audit-ai"
+    },
+    "6176": {
+      "title": "ディープフェイクポルノに自分の身体が使われる衝撃——「忘れられた被害者」たちの実態",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_ディープフェイクポルノに自分の身体が使われる衝撃——「忘れられた被害者」たちの実態.md",
+      "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+      "category": "other"
+    },
+    "6177": {
+      "title": "AIチャットボットが実在する人物の電話番号を漏洩している",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-20_AIチャットボットが実在する人物の電話番号を漏洩している.md",
+      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "category": "audit-ai"
+    },
+    "6178": {
+      "title": "ノーベル賞経済学者が注目するAIの3つのトレンド：エージェント・採用・アプリ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_ノーベル賞経済学者が注目するAIの3つのトレンド：エージェント・採用・アプリ.md",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "category": "other"
+    },
+    "6179": {
+      "title": "直交性の先へ：徳倫理学的エージェンシーとAIアライメント",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-20_直交性の先へ：徳倫理学的エージェンシーとAIアライメント.md",
+      "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+      "category": "agent-arch"
+    },
+    "6180": {
+      "title": "AGIはマルチモーダルではない：身体性なき汎用知性の限界",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_AGIはマルチモーダルではない：身体性なき汎用知性の限界.md",
+      "url": "https://thegradient.pub/agi-is-not-multimodal/",
+      "category": "ai-ml"
+    },
+    "6181": {
+      "title": "形状・対称性・構造：機械学習研究における数学の役割の変容",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_形状・対称性・構造：機械学習研究における数学の役割の変容.md",
+      "url": "https://thegradient.pub/shape-symmetry-structure/",
+      "category": "ai-ml"
+    },
+    "6182": {
+      "title": "LLMチャットボットに欠けているもの：目的志向の対話能力",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-20_LLMチャットボットに欠けているもの：目的志向の対話能力.md",
+      "url": "https://thegradient.pub/dialog/",
+      "category": "agent-arch"
+    },
+    "6183": {
+      "title": "ウェルビーイングに根ざしたAIのポジティブビジョンの必要性",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-20_ウェルビーイングに根ざしたAIのポジティブビジョンの必要性.md",
+      "url": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/",
+      "category": "other"
+    },
+    "6184": {
+      "title": "LLMの金融市場への応用：価格予測・合成データ・マルチモーダル分析",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_LLMの金融市場への応用：価格予測・合成データ・マルチモーダル分析.md",
+      "url": "https://thegradient.pub/financial-market-applications-of-llms/",
+      "category": "ai-ml"
+    },
+    "6185": {
+      "title": "AIにおけるジェンダーバイアスの概観",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_AIにおけるジェンダーバイアスの概観.md",
+      "url": "https://thegradient.pub/gender-bias-in-ai/",
+      "category": "ai-ml"
+    },
+    "6186": {
+      "title": "Mamba解説：TransformerへのState Space Modelによる挑戦",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_Mamba解説：TransformerへのState Space Modelによる挑戦.md",
+      "url": "https://thegradient.pub/mamba-explained/",
+      "category": "ai-ml"
+    },
+    "6187": {
+      "title": "Car-GPT: LLMは自動運転を実現できるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_Car-GPT_ LLMは自動運転を実現できるか？.md",
+      "url": "https://thegradient.pub/car-gpt/",
+      "category": "ai-ml"
+    },
+    "6188": {
+      "title": "テキスト埋め込みはテキストを完全にエンコードするか？——vec2textによる埋め込み逆変換の実証",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-20_テキスト埋め込みはテキストを完全にエンコードするか？——vec2textによる埋め込み逆変換の実証.md",
       "url": "https://thegradient.pub/text-embedding-inversion/",
       "category": "ai-ml"
     }
