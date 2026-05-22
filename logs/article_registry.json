@@ -1,5 +1,5 @@
 {
-  "next_id": 6269,
+  "next_id": 6316,
   "articles": {
     "1": {
       "title": "Agent SkillにReactアプリを同梱するSkill Appアーキテクチャの実装",
@@ -37606,6 +37606,288 @@
     "6268": {
       "title": "テキスト埋め込みはテキストを完全にエンコードしているか？vec2textによる埋め込み反転攻撃",
       "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-21_テキスト埋め込みはテキストを完全にエンコードしているか？vec2textによる埋め込み反転攻撃.md",
+      "url": "https://thegradient.pub/text-embedding-inversion/",
+      "category": "ai-ml"
+    },
+    "6269": {
+      "title": "開発しながらLoRAデータが自動で貯まる仕組み「M2LoRA」を作った",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_開発しながらLoRAデータが自動で貯まる仕組み「M2LoRA」を作った.md",
+      "url": "https://zenn.dev/hakaru/articles/m2lora-code-review-pipeline",
+      "category": "ai-ml"
+    },
+    "6270": {
+      "title": "AI ブログに飽きたお前らに、澱から醸した俺をやる——LLM キャラクター人格の持続的蓄積システム",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-22_AI ブログに飽きたお前らに、澱から醸した俺をやる——LLM キャラクター人格の持続的蓄積システム.md",
+      "url": "https://zenn.dev/generald/articles/pirate-captain-blogs",
+      "category": "agent-arch"
+    },
+    "6271": {
+      "title": "Ollamaでコミットメッセージ生成を実装してわかったコストと速度の現実",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-05-22_Ollamaでコミットメッセージ生成を実装してわかったコストと速度の現実.md",
+      "url": "https://zenn.dev/tottoko_hamu/articles/2026-05-19-105812",
+      "category": "infra"
+    },
+    "6272": {
+      "title": "vLLMでデプロイしたLLMにJSON構造化出力を確実に行わせる方法",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-05-22_vLLMでデプロイしたLLMにJSON構造化出力を確実に行わせる方法.md",
+      "url": "https://zenn.dev/k_eclaire39/articles/991a53229004c1",
+      "category": "infra"
+    },
+    "6273": {
+      "title": "Vector DBを外したら、RAGではなくAgent Runtimeが残った",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-22_Vector DBを外したら、RAGではなくAgent Runtimeが残った.md",
+      "url": "https://zenn.dev/mofuteq/articles/8a2193df98ac05",
+      "category": "agent-arch"
+    },
+    "6274": {
+      "title": "DeepSeek V4 Flash (ds4.c) を Lisp 的に扱う――エージェントループをS式として走行中に書き換える",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-22_DeepSeek V4 Flash (ds4.c) を Lisp 的に扱う――エージェントループをS式として走行中に書き.md",
+      "url": "https://zenn.dev/j_m/articles/73cd078357b7b0",
+      "category": "agent-arch"
+    },
+    "6275": {
+      "title": "製造業RAGを意思決定者に説明する——導入ロードマップと1枚資料の設計",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-22_製造業RAGを意思決定者に説明する——導入ロードマップと1枚資料の設計.md",
+      "url": "https://zenn.dev/kukyotolab/articles/manufacturing-rag-business-design",
+      "category": "audit-ai"
+    },
+    "6276": {
+      "title": "製造業RAGの本番運用設計：Evals・Observability・Prompt Versioning・Fallback【コード付き】",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-22_製造業RAGの本番運用設計：Evals・Observability・Prompt Versioning・Fallback.md",
+      "url": "https://zenn.dev/kukyotolab/articles/llm_production_ops",
+      "category": "audit-ai"
+    },
+    "6277": {
+      "title": "LLM解説シリーズ：Self-Attentionを数式と実装から理解する",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_LLM解説シリーズ：Self-Attentionを数式と実装から理解する.md",
+      "url": "https://zenn.dev/kas_blog/articles/20260509-llm-06-self-attention",
+      "category": "ai-ml"
+    },
+    "6278": {
+      "title": "iPhoneにローカルLLMを載せようとして、結局Apple Foundation Modelsに戻った話",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-05-22_iPhoneにローカルLLMを載せようとして、結局Apple Foundation Modelsに戻った話.md",
+      "url": "https://zenn.dev/kitadesign/articles/iphone-local-llm-back-to-afm",
+      "category": "infra"
+    },
+    "6279": {
+      "title": "Nemotron 3 Nano Omni：効率的なオープンマルチモーダルLLM（NVIDIA）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_Nemotron 3 Nano Omni：効率的なオープンマルチモーダルLLM（NVIDIA）.md",
+      "url": "https://zenn.dev/team_nishika/articles/fc597b5f983199",
+      "category": "ai-ml"
+    },
+    "6280": {
+      "title": "Agent Memoryって知ってる？――完全に理解した人へ贈る絶望の谷",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-22_Agent Memoryって知ってる？――完全に理解した人へ贈る絶望の谷.md",
+      "url": "https://zenn.dev/memorylakeai/articles/3c01d12dfb8787",
+      "category": "agent-arch"
+    },
+    "6281": {
+      "title": "Claude Code・Codex時代に重要になる「ハーネス」という考え方",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-22_Claude Code・Codex時代に重要になる「ハーネス」という考え方.md",
+      "url": "https://zenn.dev/taka000/articles/ffe2f97499a151",
+      "category": "agent-arch"
+    },
+    "6282": {
+      "title": "Matrix Factorizationによる推薦システム：ランダム推薦・人気度推薦との比較",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_Matrix Factorizationによる推薦システム：ランダム推薦・人気度推薦との比較.md",
+      "url": "https://zenn.dev/ihiratch/articles/9c7b7ab3759583",
+      "category": "ai-ml"
+    },
+    "6283": {
+      "title": "SEブロック（Squeeze-and-Excitation）を追加すると精度は上がるか？CIFAR-10で実験【Keras】",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_SEブロック（Squeeze-and-Excitation）を追加すると精度は上がるか？CIFAR-10で実験【Kera.md",
+      "url": "https://zenn.dev/wasurenamemo/articles/cc2c6088fb3104",
+      "category": "ai-ml"
+    },
+    "6284": {
+      "title": "長い時系列予測における効率的なTransformer：LogTrans・Informer・Reformer・Pyraformerの比較整理",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_長い時系列予測における効率的なTransformer：LogTrans・Informer・Reformer・Pyrafo.md",
+      "url": "https://zenn.dev/yuyu1/articles/a7160c5c5f5241",
+      "category": "ai-ml"
+    },
+    "6285": {
+      "title": "HindsightのrerankerをGPUなしCPUで9倍高速化 — batch size最適化とONNX化",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-05-22_HindsightのrerankerをGPUなしCPUで9倍高速化 — batch size最適化とONNX化.md",
+      "url": "https://zenn.dev/valda68k/articles/hindsight-reranker-9x-cpu-ja",
+      "category": "infra"
+    },
+    "6286": {
+      "title": "PALS: Mixture-of-Expertsモデル向け電力対応LLM推論サービング",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-05-22_PALS_ Mixture-of-Expertsモデル向け電力対応LLM推論サービング.md",
+      "url": "https://tldr.takara.ai/p/2605.21427",
+      "category": "infra"
+    },
+    "6287": {
+      "title": "AIがマイクロ波フォトニクスを再定義する：包括的レビュー",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-22_AIがマイクロ波フォトニクスを再定義する：包括的レビュー.md",
+      "url": "https://tldr.takara.ai/p/2605.21224",
+      "category": "other"
+    },
+    "6288": {
+      "title": "DeCoR: 強化学習による都市道路の設計・制御の共同最適化",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_DeCoR_ 強化学習による都市道路の設計・制御の共同最適化.md",
+      "url": "https://tldr.takara.ai/p/2605.21311",
+      "category": "ai-ml"
+    },
+    "6289": {
+      "title": "重点度平滑化による深層状態空間モデルの効率的学習",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_重点度平滑化による深層状態空間モデルの効率的学習.md",
+      "url": "https://tldr.takara.ai/p/2605.21108",
+      "category": "ai-ml"
+    },
+    "6290": {
+      "title": "Prevalence Shift下でのConformal Triageにおけるリリース側リスクのデプロイメント監査",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-22_Prevalence Shift下でのConformal Triageにおけるリリース側リスクのデプロイメント監査.md",
+      "url": "https://tldr.takara.ai/p/2605.20956",
+      "category": "audit-ai"
+    },
+    "6291": {
+      "title": "WikiVQABench：WikipediaとWikidataを活用した知識根拠付き視覚的質問応答ベンチマーク",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_WikiVQABench：WikipediaとWikidataを活用した知識根拠付き視覚的質問応答ベンチマーク.md",
+      "url": "https://tldr.takara.ai/p/2605.21479",
+      "category": "ai-ml"
+    },
+    "6292": {
+      "title": "Mem-π: いつ・何を生成するかを学習することによる適応型メモリ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-22_Mem-π_ いつ・何を生成するかを学習することによる適応型メモリ.md",
+      "url": "https://tldr.takara.ai/p/2605.21463",
+      "category": "agent-arch"
+    },
+    "6293": {
+      "title": "EvoStruct: タンパク質言語モデル適応による進化的・構造的事前知識を統合した抗体CDR設計",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_EvoStruct_ タンパク質言語モデル適応による進化的・構造的事前知識を統合した抗体CDR設計.md",
+      "url": "https://tldr.takara.ai/p/2605.21485",
+      "category": "ai-ml"
+    },
+    "6294": {
+      "title": "FruitEnsemble: 細粒度果物認識のためのMLLM誘導アービトレーションによる異種アンサンブル",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_FruitEnsemble_ 細粒度果物認識のためのMLLM誘導アービトレーションによる異種アンサンブル.md",
+      "url": "https://tldr.takara.ai/p/2605.20892",
+      "category": "ai-ml"
+    },
+    "6295": {
+      "title": "自己収縮曲線を用いた制約付きオンライン凸最適化の改良保証",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_自己収縮曲線を用いた制約付きオンライン凸最適化の改良保証.md",
+      "url": "https://tldr.takara.ai/p/2605.21107",
+      "category": "ai-ml"
+    },
+    "6296": {
+      "title": "AnthropicのCode with Claudeイベントが示したコーディングの未来——好むと好まざるとにかかわらず",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-22_AnthropicのCode with Claudeイベントが示したコーディングの未来——好むと好まざるとにかかわらず.md",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "category": "agent-arch"
+    },
+    "6297": {
+      "title": "ラウンドテーブル：マスク対オルトマン裁判の内幕",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-22_ラウンドテーブル：マスク対オルトマン裁判の内幕.md",
+      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+      "category": "other"
+    },
+    "6298": {
+      "title": "イーロン・マスクがOpenAIを相手取った訴訟で敗訴した理由",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-22_イーロン・マスクがOpenAIを相手取った訴訟で敗訴した理由.md",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "category": "other"
+    },
+    "6299": {
+      "title": "Google I/O 2026で期待されること：コーディングAIの巻き返しと科学AI強化",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-22_Google I_O 2026で期待されること：コーディングAIの巻き返しと科学AI強化.md",
+      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "category": "other"
+    },
+    "6300": {
+      "title": "AndurilとMetaが進める軍事用スマートグラス開発——視線追跡・音声命令でドローン攻撃を指示する構想",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-22_AndurilとMetaが進める軍事用スマートグラス開発——視線追跡・音声命令でドローン攻撃を指示する構想.md",
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "category": "other"
+    },
+    "6301": {
+      "title": "マスク対オルトマン裁判第3週：陪審員がOpenAI側の評決を下す",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-22_マスク対オルトマン裁判第3週：陪審員がOpenAI側の評決を下す.md",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "category": "other"
+    },
+    "6302": {
+      "title": "中国ショートドラマがAIコンテンツ量産機械になった経緯",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-22_中国ショートドラマがAIコンテンツ量産機械になった経緯.md",
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "category": "other"
+    },
+    "6303": {
+      "title": "金融サービスにおけるエージェントAIのデータ準備態勢",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-22_金融サービスにおけるエージェントAIのデータ準備態勢.md",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "category": "audit-ai"
+    },
+    "6304": {
+      "title": "自律型AIシステム時代におけるAI・データ主権の確立",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-05-22_自律型AIシステム時代におけるAI・データ主権の確立.md",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "category": "audit-ai"
+    },
+    "6305": {
+      "title": "ディープフェイクポルノに自分の身体を無断使用された衝撃——「忘れられた被害者」たちの実態",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-22_ディープフェイクポルノに自分の身体を無断使用された衝撃——「忘れられた被害者」たちの実態.md",
+      "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+      "category": "other"
+    },
+    "6306": {
+      "title": "直交性を超えて：徳倫理学的エージェンシーとAIアライメント",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-22_直交性を超えて：徳倫理学的エージェンシーとAIアライメント.md",
+      "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+      "category": "agent-arch"
+    },
+    "6307": {
+      "title": "AGIはマルチモーダルではない――身体性なき知能の限界",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_AGIはマルチモーダルではない――身体性なき知能の限界.md",
+      "url": "https://thegradient.pub/agi-is-not-multimodal/",
+      "category": "ai-ml"
+    },
+    "6308": {
+      "title": "形状・対称性・構造：機械学習研究における数学の役割の変化",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_形状・対称性・構造：機械学習研究における数学の役割の変化.md",
+      "url": "https://thegradient.pub/shape-symmetry-structure/",
+      "category": "ai-ml"
+    },
+    "6309": {
+      "title": "LLMチャットボットに欠けているもの：目的意識のある対話",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-22_LLMチャットボットに欠けているもの：目的意識のある対話.md",
+      "url": "https://thegradient.pub/dialog/",
+      "category": "agent-arch"
+    },
+    "6310": {
+      "title": "ウェルビーイングに根ざしたAIのポジティブビジョンが必要だ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-22_ウェルビーイングに根ざしたAIのポジティブビジョンが必要だ.md",
+      "url": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/",
+      "category": "other"
+    },
+    "6311": {
+      "title": "LLMの金融市場への応用：価格予測・合成データ・マルチモーダル学習",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_LLMの金融市場への応用：価格予測・合成データ・マルチモーダル学習.md",
+      "url": "https://thegradient.pub/financial-market-applications-of-llms/",
+      "category": "ai-ml"
+    },
+    "6312": {
+      "title": "AIにおけるジェンダーバイアスの概観",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_AIにおけるジェンダーバイアスの概観.md",
+      "url": "https://thegradient.pub/gender-bias-in-ai/",
+      "category": "ai-ml"
+    },
+    "6313": {
+      "title": "Mamba解説：Transformerに挑む状態空間モデル",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_Mamba解説：Transformerに挑む状態空間モデル.md",
+      "url": "https://thegradient.pub/mamba-explained/",
+      "category": "ai-ml"
+    },
+    "6314": {
+      "title": "Car-GPT：LLMは自動運転を実現できるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_Car-GPT：LLMは自動運転を実現できるか？.md",
+      "url": "https://thegradient.pub/car-gpt/",
+      "category": "ai-ml"
+    },
+    "6315": {
+      "title": "テキスト埋め込みはテキストを完全にエンコードするか？——vec2textによる埋め込み逆変換",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-22_テキスト埋め込みはテキストを完全にエンコードするか？——vec2textによる埋め込み逆変換.md",
       "url": "https://thegradient.pub/text-embedding-inversion/",
       "category": "ai-ml"
     }
