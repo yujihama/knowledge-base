@@ -1,5 +1,5 @@
 {
-  "next_id": 6384,
+  "next_id": 6385,
   "articles": {
     "1": {
       "title": "Agent SkillにReactアプリを同梱するSkill Appアーキテクチャの実装",
@@ -38298,6 +38298,12 @@
       "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-23_テキスト埋め込みは元のテキストを完全に復元できるか？ vec2textによる埋め込み逆変換の研究.md",
       "url": "https://thegradient.pub/text-embedding-inversion/",
       "category": "ai-ml"
+    },
+    "6384": {
+      "title": "AnthropicのCode with Claudeイベントが示したコーディングの未来——好む好まざるに関わらず",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-23_AnthropicのCode with Claudeイベントが示したコーディングの未来——好む好まざるに関わらず.md",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "category": "agent-arch"
     }
   }
 }
