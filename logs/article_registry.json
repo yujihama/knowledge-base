@@ -1,5 +1,5 @@
 {
-  "next_id": 6666,
+  "next_id": 6710,
   "articles": {
     "1": {
       "title": "Agent SkillにReactアプリを同梱するSkill Appアーキテクチャの実装",
@@ -39988,6 +39988,270 @@
     "6665": {
       "title": "テキスト埋め込みはテキストを完全にエンコードするか？——vec2textによる埋め込み逆変換攻撃",
       "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-26_テキスト埋め込みはテキストを完全にエンコードするか？——vec2textによる埋め込み逆変換攻撃.md",
+      "url": "https://thegradient.pub/text-embedding-inversion/",
+      "category": "ai-ml"
+    },
+    "6666": {
+      "title": "(2026/5/25号)週刊AIニュース: Gemini新モデル発表、OpenAI上場申請、GitLab組織改革など",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_(2026_5_25号)週刊AIニュース_ Gemini新モデル発表、OpenAI上場申請、GitLab組織改革など.md",
+      "url": "https://zenn.dev/my_vision/articles/6e46478a6f7e6b",
+      "category": "ai-ml"
+    },
+    "6667": {
+      "title": "疲弊したアインシュタインAIに講演させた ─ vital stateをシステムプロンプトに注入したら何が起きたか",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-27_疲弊したアインシュタインAIに講演させた ─ vital stateをシステムプロンプトに注入したら何が起きたか.md",
+      "url": "https://zenn.dev/yoshi_katakura/articles/4e52d3e6547a82",
+      "category": "agent-arch"
+    },
+    "6668": {
+      "title": "M5 Max のローカル LLM ベンチ — MoE は GPU 性能、Dense はメモリ帯域幅がボトルネック、発熱の影響も調査",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-05-27_M5 Max のローカル LLM ベンチ — MoE は GPU 性能、Dense はメモリ帯域幅がボトルネック、発熱の.md",
+      "url": "https://zenn.dev/kamo78/articles/ds4-m5max-benchmark",
+      "category": "infra"
+    },
+    "6669": {
+      "title": "AIによる消費者調査パネル化に向けて：個人モデルを作ってアンケートに回答させる",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_AIによる消費者調査パネル化に向けて：個人モデルを作ってアンケートに回答させる.md",
+      "url": "https://zenn.dev/minedia/articles/2026-05-25-ai-consumer-panel-digital-twin",
+      "category": "ai-ml"
+    },
+    "6670": {
+      "title": "MCPの富豪設計に敗北宣言：ローカルLLM運用は自作Tool組み込みの方が圧倒的に有利な件",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-27_MCPの富豪設計に敗北宣言：ローカルLLM運用は自作Tool組み込みの方が圧倒的に有利な件.md",
+      "url": "https://zenn.dev/dewins/articles/continue-m-w-g",
+      "category": "agent-arch"
+    },
+    "6671": {
+      "title": "Difyで社内問い合わせAIを作ってみた — 情シス・人事・経費の質問に答える5つのKnowledge",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-27_Difyで社内問い合わせAIを作ってみた — 情シス・人事・経費の質問に答える5つのKnowledge.md",
+      "url": "https://zenn.dev/makinestai/articles/dify-vs-claude-ops-rag-20-cases",
+      "category": "agent-arch"
+    },
+    "6672": {
+      "title": "「この契約、危ないかも」を問いに変えるAgent設計",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-27_「この契約、危ないかも」を問いに変えるAgent設計.md",
+      "url": "https://zenn.dev/mofuteq/articles/678bbb06ae46d1",
+      "category": "agent-arch"
+    },
+    "6673": {
+      "title": "AIが開発者に聞く ── R.E.V.I.S. #1「最初の一行と、その足場」",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-05-27_AIが開発者に聞く ── R.E.V.I.S. #1「最初の一行と、その足場」.md",
+      "url": "https://zenn.dev/enigma96y/articles/8dd4ca5623ef79",
+      "category": "infra"
+    },
+    "6674": {
+      "title": "LLMエージェントの失敗でCADを汚さないロールバック設計",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-27_LLMエージェントの失敗でCADを汚さないロールバック設計.md",
+      "url": "https://zenn.dev/0xliclog/articles/ca6381b58160f9",
+      "category": "agent-arch"
+    },
+    "6675": {
+      "title": "Anthropicに学ぶエージェント「設計」と「評価」——複雑なフレームワークより、シンプルなパターン",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-27_Anthropicに学ぶエージェント「設計」と「評価」——複雑なフレームワークより、シンプルなパターン.md",
+      "url": "https://zenn.dev/shintaroamaike/articles/67c21b040af42f",
+      "category": "agent-arch"
+    },
+    "6676": {
+      "title": "LLMの安全判定をSNNで補完する試み — Brian2による反射層プロトタイプ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_LLMの安全判定をSNNで補完する試み — Brian2による反射層プロトタイプ.md",
+      "url": "https://zenn.dev/naikaku01/articles/42c3f851e18b70",
+      "category": "ai-ml"
+    },
+    "6677": {
+      "title": "LLM観測性ツール5社の実装思想を並べてみた",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-27_LLM観測性ツール5社の実装思想を並べてみた.md",
+      "url": "https://zenn.dev/kenimo49/articles/llm-observability-5-tools-langfuse-langsmith-arize",
+      "category": "agent-arch"
+    },
+    "6678": {
+      "title": "AIエージェントのツール定義設計原則：スキーマ・命名・レスポンスの実践ガイド",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-27_AIエージェントのツール定義設計原則：スキーマ・命名・レスポンスの実践ガイド.md",
+      "url": "https://zenn.dev/0h_n0/articles/581a4e0ece7056",
+      "category": "agent-arch"
+    },
+    "6679": {
+      "title": "ハーネスエンジニアが知っておくべき Claude Code Plugin の落とし穴：環境変数・事前置換・sensitive の tier 別挙動",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-05-27_ハーネスエンジニアが知っておくべき Claude Code Plugin の落とし穴：環境変数・事前置換・sensiti.md",
+      "url": "https://zenn.dev/storehero/articles/20ed4b2e8772b3",
+      "category": "infra"
+    },
+    "6680": {
+      "title": "レガシーC言語プロジェクトへの単体テストフレームワーク導入と生成AI活用の失敗談",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-27_レガシーC言語プロジェクトへの単体テストフレームワーク導入と生成AI活用の失敗談.md",
+      "url": "https://zenn.dev/catspawengineer/articles/447b6b97c14579",
+      "category": "agent-arch"
+    },
+    "6681": {
+      "title": "StreamProfileBench：リアルタイムストリーミングシナリオにおける細粒度ユーザープロファイル推定ベンチマーク",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_StreamProfileBench：リアルタイムストリーミングシナリオにおける細粒度ユーザープロファイル推定ベンチマー.md",
+      "url": "https://tldr.takara.ai/p/2605.25758",
+      "category": "ai-ml"
+    },
+    "6682": {
+      "title": "TopoAlign: トポロジーを考慮した視覚的表現アライメントフレームワーク",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_TopoAlign_ トポロジーを考慮した視覚的表現アライメントフレームワーク.md",
+      "url": "https://tldr.takara.ai/p/2605.25541",
+      "category": "ai-ml"
+    },
+    "6683": {
+      "title": "StructBreak：MLLMにおける構造的認知過負荷によるセーフティ障害",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_StructBreak：MLLMにおける構造的認知過負荷によるセーフティ障害.md",
+      "url": "https://tldr.takara.ai/p/2605.25534",
+      "category": "ai-ml"
+    },
+    "6684": {
+      "title": "ソースフリークロスドメイン少数ショット学習における悪化するAttention Sinkへの対処",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_ソースフリークロスドメイン少数ショット学習における悪化するAttention Sinkへの対処.md",
+      "url": "https://tldr.takara.ai/p/2605.25799",
+      "category": "ai-ml"
+    },
+    "6685": {
+      "title": "エントロピー正則化強化学習におけるWasserstein方策勾配の大域収束",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_エントロピー正則化強化学習におけるWasserstein方策勾配の大域収束.md",
+      "url": "https://tldr.takara.ai/p/2605.26078",
+      "category": "ai-ml"
+    },
+    "6686": {
+      "title": "説明しすぎ？LLMの推論トレースがパフォーマンスとメタ認知に与える影響の解明",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_説明しすぎ？LLMの推論トレースがパフォーマンスとメタ認知に与える影響の解明.md",
+      "url": "https://tldr.takara.ai/p/2605.25856",
+      "category": "ai-ml"
+    },
+    "6687": {
+      "title": "AutoSG: タスクプロンプトのみからLLMが高コスト最適化ソルバーを自動生成するフレームワーク",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_AutoSG_ タスクプロンプトのみからLLMが高コスト最適化ソルバーを自動生成するフレームワーク.md",
+      "url": "https://tldr.takara.ai/p/2605.25658",
+      "category": "ai-ml"
+    },
+    "6688": {
+      "title": "FLOATBench：浮体式洋上風力タービンタワー疲労予測のためのデータセット＆ベンチマーク",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_FLOATBench：浮体式洋上風力タービンタワー疲労予測のためのデータセット＆ベンチマーク.md",
+      "url": "https://tldr.takara.ai/p/2605.25717",
+      "category": "ai-ml"
+    },
+    "6689": {
+      "title": "Selective Latent Thinking：LLM推論チェーンの適応的圧縮",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_Selective Latent Thinking：LLM推論チェーンの適応的圧縮.md",
+      "url": "https://tldr.takara.ai/p/2605.25745",
+      "category": "ai-ml"
+    },
+    "6690": {
+      "title": "EMA-Nesterov：深層学習最適化のためのNesterovルックアヘッドの安定化",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_EMA-Nesterov：深層学習最適化のためのNesterovルックアヘッドの安定化.md",
+      "url": "https://tldr.takara.ai/p/2605.25395",
+      "category": "ai-ml"
+    },
+    "6691": {
+      "title": "エージェントAI時代における組織設計の再考",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-27_エージェントAI時代における組織設計の再考.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "category": "agent-arch"
+    },
+    "6692": {
+      "title": "AIによる雇用消滅ヒステリーへの現実確認：データが示す労働市場の実態",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-27_AIによる雇用消滅ヒステリーへの現実確認：データが示す労働市場の実態.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "category": "other"
+    },
+    "6693": {
+      "title": "エントリーレベル職の危機に今こそ対処すべき時",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-27_エントリーレベル職の危機に今こそ対処すべき時.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "category": "other"
+    },
+    "6694": {
+      "title": "Google I/Oが示したAI駆動科学の方向転換：専用ツールから汎用エージェントへ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-27_Google I_Oが示したAI駆動科学の方向転換：専用ツールから汎用エージェントへ.md",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "category": "agent-arch"
+    },
+    "6695": {
+      "title": "ラウンドテーブル：AIは世界を理解できるようになるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_ラウンドテーブル：AIは世界を理解できるようになるか？.md",
+      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "category": "ai-ml"
+    },
+    "6696": {
+      "title": "AIの時代におけるクリエイティビティのスケーリング",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-27_AIの時代におけるクリエイティビティのスケーリング.md",
+      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+      "category": "other"
+    },
+    "6697": {
+      "title": "AnthropicのCode with Claudeが示したコーディングの未来——好むと好まざるとにかかわらず",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-27_AnthropicのCode with Claudeが示したコーディングの未来——好むと好まざるとにかかわらず.md",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "category": "agent-arch"
+    },
+    "6698": {
+      "title": "ラウンドテーブル：マスク対オルトマン裁判の内幕",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-27_ラウンドテーブル：マスク対オルトマン裁判の内幕.md",
+      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+      "category": "other"
+    },
+    "6699": {
+      "title": "イーロン・マスクがOpenAIへの訴訟で敗訴した理由",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-27_イーロン・マスクがOpenAIへの訴訟で敗訴した理由.md",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "category": "other"
+    },
+    "6700": {
+      "title": "直交性を超えて：徳倫理的エージェンシーとAIアライメント",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-27_直交性を超えて：徳倫理的エージェンシーとAIアライメント.md",
+      "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+      "category": "agent-arch"
+    },
+    "6701": {
+      "title": "AGIはマルチモーダルでは実現できない：身体性と物理世界モデルの必要性",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_AGIはマルチモーダルでは実現できない：身体性と物理世界モデルの必要性.md",
+      "url": "https://thegradient.pub/agi-is-not-multimodal/",
+      "category": "ai-ml"
+    },
+    "6702": {
+      "title": "形状・対称性・構造：機械学習研究における数学の変わりゆく役割",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_形状・対称性・構造：機械学習研究における数学の変わりゆく役割.md",
+      "url": "https://thegradient.pub/shape-symmetry-structure/",
+      "category": "ai-ml"
+    },
+    "6703": {
+      "title": "LLMチャットボットに欠けているもの：目的意識のある対話",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-05-27_LLMチャットボットに欠けているもの：目的意識のある対話.md",
+      "url": "https://thegradient.pub/dialog/",
+      "category": "agent-arch"
+    },
+    "6704": {
+      "title": "ウェルビーイングに根ざしたAIのポジティブビジョンが必要な理由",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-05-27_ウェルビーイングに根ざしたAIのポジティブビジョンが必要な理由.md",
+      "url": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/",
+      "category": "other"
+    },
+    "6705": {
+      "title": "LLMの金融市場応用：価格予測・合成データ・マルチモーダル学習の可能性と限界",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_LLMの金融市場応用：価格予測・合成データ・マルチモーダル学習の可能性と限界.md",
+      "url": "https://thegradient.pub/financial-market-applications-of-llms/",
+      "category": "ai-ml"
+    },
+    "6706": {
+      "title": "AIにおけるジェンダーバイアスの概観",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_AIにおけるジェンダーバイアスの概観.md",
+      "url": "https://thegradient.pub/gender-bias-in-ai/",
+      "category": "ai-ml"
+    },
+    "6707": {
+      "title": "Mamba解説：TransformerへのSSMによる挑戦",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_Mamba解説：TransformerへのSSMによる挑戦.md",
+      "url": "https://thegradient.pub/mamba-explained/",
+      "category": "ai-ml"
+    },
+    "6708": {
+      "title": "Car-GPT：LLMは自動運転を実現できるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_Car-GPT：LLMは自動運転を実現できるか？.md",
+      "url": "https://thegradient.pub/car-gpt/",
+      "category": "ai-ml"
+    },
+    "6709": {
+      "title": "テキスト埋め込みはテキストを完全にエンコードするか？――vec2textによる埋め込み逆変換の実証",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-05-27_テキスト埋め込みはテキストを完全にエンコードするか？――vec2textによる埋め込み逆変換の実証.md",
       "url": "https://thegradient.pub/text-embedding-inversion/",
       "category": "ai-ml"
     }
