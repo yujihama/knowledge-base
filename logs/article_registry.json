@@ -1,5 +1,5 @@
 {
-  "next_id": 7335,
+  "next_id": 7381,
   "articles": {
     "1": {
       "title": "Agent SkillにReactアプリを同梱するSkill Appアーキテクチャの実装",
@@ -44003,6 +44003,282 @@
       "title": "テキスト埋め込みはテキストを完全にエンコードするか？——vec2textによる埋め込み逆変換の実証",
       "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_テキスト埋め込みはテキストを完全にエンコードするか？——vec2textによる埋め込み逆変換の実証.md",
       "url": "https://thegradient.pub/text-embedding-inversion/",
+      "category": "ai-ml"
+    },
+    "7335": {
+      "title": "Whisperの10倍速以上: NVIDIAの高速ASRモデル Canary-1B-v2 & Parakeet-TDT-0.6B-v3",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_Whisperの10倍速以上_ NVIDIAの高速ASRモデル Canary-1B-v2 & Parakeet-TDT-.md",
+      "url": "https://zenn.dev/team_nishika/articles/1ab82243c2cf7b",
+      "category": "ai-ml"
+    },
+    "7336": {
+      "title": "【実録】同じ指示を2回出した日、AIがGCPを7万円分焼き尽くした話（OpenClaw転換劇 Vol.2）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-03_【実録】同じ指示を2回出した日、AIがGCPを7万円分焼き尽くした話（OpenClaw転換劇 Vol.2）.md",
+      "url": "https://zenn.dev/i_ichi/articles/openclaw-agent-vol2",
+      "category": "agent-arch"
+    },
+    "7337": {
+      "title": "GitHub CopilotでユーザーごとにAICreditの上限を設定しダッシュボードで可視化する方法",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-06-03_GitHub CopilotでユーザーごとにAICreditの上限を設定しダッシュボードで可視化する方法.md",
+      "url": "https://zenn.dev/port_inc/articles/edd7db058df9b3",
+      "category": "infra"
+    },
+    "7338": {
+      "title": "LLMの出力を追跡可能にする：正規化・ハッシュ・状態遷移の設計",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-03_LLMの出力を追跡可能にする：正規化・ハッシュ・状態遷移の設計.md",
+      "url": "https://zenn.dev/exorql/articles/f656e64e15152d",
+      "category": "agent-arch"
+    },
+    "7339": {
+      "title": "Claude Code 最大の要望 AGENTS.md 対応——5,200超のreactionsの痛みと今すぐできる回避策",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-03_Claude Code 最大の要望 AGENTS.md 対応——5,200超のreactionsの痛みと今すぐできる回避.md",
+      "url": "https://zenn.dev/yurukusa/articles/agentsmd-interop-5-paths-2026",
+      "category": "agent-arch"
+    },
+    "7340": {
+      "title": "Qwen2.5-Coder-7BをMLXで量子化してMac Mini M4 16GBにLLMサーバを構築する方法",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-06-03_Qwen2.5-Coder-7BをMLXで量子化してMac Mini M4 16GBにLLMサーバを構築する方法.md",
+      "url": "https://zenn.dev/supertaro/articles/db2536826e0084",
+      "category": "infra"
+    },
+    "7341": {
+      "title": "Tool Calling のコンテキストと呼び出し率についての調査",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-03_Tool Calling のコンテキストと呼び出し率についての調査.md",
+      "url": "https://zenn.dev/yy7613/articles/82245b8a573dce",
+      "category": "agent-arch"
+    },
+    "7342": {
+      "title": "AIに「自分だけの知識」を持たせる技術 — RAG入門で汎用AIを専用エキスパートに変える実践ガイド",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_AIに「自分だけの知識」を持たせる技術 — RAG入門で汎用AIを専用エキスパートに変える実践ガイド.md",
+      "url": "https://zenn.dev/akira_papa/articles/3651cc849d97e3",
+      "category": "ai-ml"
+    },
+    "7343": {
+      "title": "「AIでできます」の意味がズレると、現場が燃えてDXから遠ざかる",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-03_「AIでできます」の意味がズレると、現場が燃えてDXから遠ざかる.md",
+      "url": "https://zenn.dev/continuitymodel/articles/187d60ad01ab6e",
+      "category": "other"
+    },
+    "7344": {
+      "title": "MOPAC2016をPythonで全力活用！第2回：マテリアルズ・インフォマティクス用データセットの作成",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_MOPAC2016をPythonで全力活用！第2回：マテリアルズ・インフォマティクス用データセットの作成.md",
+      "url": "https://zenn.dev/pincolo/articles/a3e793b093d99d",
+      "category": "ai-ml"
+    },
+    "7345": {
+      "title": "拡散モデルベースのドリフト推定量に対する誤差上界の導出",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_拡散モデルベースのドリフト推定量に対する誤差上界の導出.md",
+      "url": "https://tldr.takara.ai/p/2606.02115",
+      "category": "ai-ml"
+    },
+    "7346": {
+      "title": "ATLAS: エージェント型テスト時学習・計算量配分スケーリング",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-03_ATLAS_ エージェント型テスト時学習・計算量配分スケーリング.md",
+      "url": "https://tldr.takara.ai/p/2606.01667",
+      "category": "agent-arch"
+    },
+    "7347": {
+      "title": "位置エンコーディングの役割を再考：PEなしのスライディングウィンドウTransformerはチューリング完全である",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_位置エンコーディングの役割を再考：PEなしのスライディングウィンドウTransformerはチューリング完全である.md",
+      "url": "https://tldr.takara.ai/p/2606.01532",
+      "category": "ai-ml"
+    },
+    "7348": {
+      "title": "RoboDream: スケーラブルなロボットデータ合成のための構成的ワールドモデル",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_RoboDream_ スケーラブルなロボットデータ合成のための構成的ワールドモデル.md",
+      "url": "https://tldr.takara.ai/p/2606.02577",
+      "category": "ai-ml"
+    },
+    "7349": {
+      "title": "LLMガイド付き進化的探索による双変数自転車符号の発見",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_LLMガイド付き進化的探索による双変数自転車符号の発見.md",
+      "url": "https://tldr.takara.ai/p/2606.02418",
+      "category": "ai-ml"
+    },
+    "7350": {
+      "title": "画像・テキストベースの人物再識別における最適化競合の解消に向けて",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_画像・テキストベースの人物再識別における最適化競合の解消に向けて.md",
+      "url": "https://tldr.takara.ai/p/2606.02242",
+      "category": "ai-ml"
+    },
+    "7351": {
+      "title": "エージェントOS（AOS）：エージェント型コントロールプレーンを既存OSに統合し、その先へ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-03_エージェントOS（AOS）：エージェント型コントロールプレーンを既存OSに統合し、その先へ.md",
+      "url": "https://tldr.takara.ai/p/2606.01508",
+      "category": "agent-arch"
+    },
+    "7352": {
+      "title": "確率的ミニマックス木における二段階精度最良行動識別",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_確率的ミニマックス木における二段階精度最良行動識別.md",
+      "url": "https://tldr.takara.ai/p/2606.01708",
+      "category": "ai-ml"
+    },
+    "7353": {
+      "title": "GJDNet: 敵対的攻撃に対するロバストなグラフニューラルネットワーク（結合分離学習）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_GJDNet_ 敵対的攻撃に対するロバストなグラフニューラルネットワーク（結合分離学習）.md",
+      "url": "https://tldr.takara.ai/p/2606.01560",
+      "category": "ai-ml"
+    },
+    "7354": {
+      "title": "WALL-WM: イベント境界でワールドアクションモデリングを彫刻する",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_WALL-WM_ イベント境界でワールドアクションモデリングを彫刻する.md",
+      "url": "https://tldr.takara.ai/p/2606.01955",
+      "category": "ai-ml"
+    },
+    "7355": {
+      "title": "エージェントAIで医療を再人間化する：Hospital for Special Surgeryの実践事例",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-03_エージェントAIで医療を再人間化する：Hospital for Special Surgeryの実践事例.md",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "category": "agent-arch"
+    },
+    "7356": {
+      "title": "中小企業がAIを活用する方法：Notion AIと業種特化ツールの実践事例",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-03_中小企業がAIを活用する方法：Notion AIと業種特化ツールの実践事例.md",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "category": "other"
+    },
+    "7357": {
+      "title": "ローマ教皇の回勅「Magnifica Humanitas」がAI時代に個人が向き合うための指針を示す",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-03_ローマ教皇の回勅「Magnifica Humanitas」がAI時代に個人が向き合うための指針を示す.md",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "category": "other"
+    },
+    "7358": {
+      "title": "AIハイプ指数：卒業シーズンにAIが「ブーイング」を受ける",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-03_AIハイプ指数：卒業シーズンにAIが「ブーイング」を受ける.md",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "category": "other"
+    },
+    "7359": {
+      "title": "エージェントAI時代における組織設計の再考",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-03_エージェントAI時代における組織設計の再考.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "category": "agent-arch"
+    },
+    "7360": {
+      "title": "AIによる雇用破壊ヒステリアへの現実確認：データが示す「まだ大規模な影響なし」",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-03_AIによる雇用破壊ヒステリアへの現実確認：データが示す「まだ大規模な影響なし」.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "category": "other"
+    },
+    "7361": {
+      "title": "エントリーレベル雇用の危機に今こそ向き合うべき理由",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-03_エントリーレベル雇用の危機に今こそ向き合うべき理由.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "category": "other"
+    },
+    "7362": {
+      "title": "Google I/Oが示すAI駆動科学の方向転換：専用ツールから汎用エージェントへ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-03_Google I_Oが示すAI駆動科学の方向転換：専用ツールから汎用エージェントへ.md",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "category": "agent-arch"
+    },
+    "7363": {
+      "title": "ラウンドテーブル：AIは世界を理解できるようになるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_ラウンドテーブル：AIは世界を理解できるようになるか？.md",
+      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "category": "ai-ml"
+    },
+    "7364": {
+      "title": "AI時代におけるクリエイティビティのスケーリング：Adobe Fireflyとエージェント型コンテンツ戦略",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-03_AI時代におけるクリエイティビティのスケーリング：Adobe Fireflyとエージェント型コンテンツ戦略.md",
+      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+      "category": "agent-arch"
+    },
+    "7365": {
+      "title": "直交性を超えて：徳倫理的エージェンシーとAIアライメント",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-03_直交性を超えて：徳倫理的エージェンシーとAIアライメント.md",
+      "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+      "category": "agent-arch"
+    },
+    "7366": {
+      "title": "AGIはマルチモーダルでは実現しない：具身化と物理世界モデルの必要性",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_AGIはマルチモーダルでは実現しない：具身化と物理世界モデルの必要性.md",
+      "url": "https://thegradient.pub/agi-is-not-multimodal/",
+      "category": "ai-ml"
+    },
+    "7367": {
+      "title": "形状・対称性・構造：機械学習研究における数学の役割の変容",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_形状・対称性・構造：機械学習研究における数学の役割の変容.md",
+      "url": "https://thegradient.pub/shape-symmetry-structure/",
+      "category": "ai-ml"
+    },
+    "7368": {
+      "title": "LLMチャットボットに欠けているもの：目的意識のある対話",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-03_LLMチャットボットに欠けているもの：目的意識のある対話.md",
+      "url": "https://thegradient.pub/dialog/",
+      "category": "agent-arch"
+    },
+    "7369": {
+      "title": "ウェルビーイングに根ざしたAIのポジティブビジョンが必要だ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-03_ウェルビーイングに根ざしたAIのポジティブビジョンが必要だ.md",
+      "url": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/",
+      "category": "other"
+    },
+    "7370": {
+      "title": "LLMの金融市場応用：価格予測・合成データ・マルチモーダル学習の可能性と限界",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_LLMの金融市場応用：価格予測・合成データ・マルチモーダル学習の可能性と限界.md",
+      "url": "https://thegradient.pub/financial-market-applications-of-llms/",
+      "category": "ai-ml"
+    },
+    "7371": {
+      "title": "AIにおけるジェンダーバイアスの概説",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_AIにおけるジェンダーバイアスの概説.md",
+      "url": "https://thegradient.pub/gender-bias-in-ai/",
+      "category": "ai-ml"
+    },
+    "7372": {
+      "title": "Mamba解説：Transformerに挑む状態空間モデル（SSM）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_Mamba解説：Transformerに挑む状態空間モデル（SSM）.md",
+      "url": "https://thegradient.pub/mamba-explained/",
+      "category": "ai-ml"
+    },
+    "7373": {
+      "title": "Car-GPT：LLMはついに自動運転を実現できるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_Car-GPT：LLMはついに自動運転を実現できるか？.md",
+      "url": "https://thegradient.pub/car-gpt/",
+      "category": "ai-ml"
+    },
+    "7374": {
+      "title": "テキスト埋め込みはテキストを完全にエンコードするか？―vec2textによる埋め込み逆変換",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_テキスト埋め込みはテキストを完全にエンコードするか？―vec2textによる埋め込み逆変換.md",
+      "url": "https://thegradient.pub/text-embedding-inversion/",
+      "category": "ai-ml"
+    },
+    "7375": {
+      "title": "学生が個人開発でLightGBM競馬予想アプリを運用してわかったこと",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_学生が個人開発でLightGBM競馬予想アプリを運用してわかったこと.md",
+      "url": "https://zenn.dev/mocha_lily/articles/504ab859882e9d",
+      "category": "ai-ml"
+    },
+    "7376": {
+      "title": "論文メモ：DALSで学習率設計を層×時間に拡張する",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_論文メモ：DALSで学習率設計を層×時間に拡張する.md",
+      "url": "https://zenn.dev/kas_blog/articles/20260603-learning-rate-engineering-dals",
+      "category": "ai-ml"
+    },
+    "7377": {
+      "title": "ニューラル非対称ルーティングのためのエッジ考慮デコーディング",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_ニューラル非対称ルーティングのためのエッジ考慮デコーディング.md",
+      "url": "https://tldr.takara.ai/p/2606.02136",
+      "category": "ai-ml"
+    },
+    "7378": {
+      "title": "GloResNet：早産児脳損傷予測のためのグローバルトポロジー特徴を持つ軽量3D CNN",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_GloResNet：早産児脳損傷予測のためのグローバルトポロジー特徴を持つ軽量3D CNN.md",
+      "url": "https://tldr.takara.ai/p/2606.02498",
+      "category": "ai-ml"
+    },
+    "7379": {
+      "title": "正定値行列上のDNNにおける合同変換ベースアーキテクチャの表現力",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_正定値行列上のDNNにおける合同変換ベースアーキテクチャの表現力.md",
+      "url": "https://tldr.takara.ai/p/2606.02490",
+      "category": "ai-ml"
+    },
+    "7380": {
+      "title": "複雑性最小化によるメタ学習のデータスケーリング則の理論的証明",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-03_複雑性最小化によるメタ学習のデータスケーリング則の理論的証明.md",
+      "url": "https://tldr.takara.ai/p/2606.02008",
       "category": "ai-ml"
     }
   }
