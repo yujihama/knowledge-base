@@ -1,5 +1,5 @@
 {
-  "next_id": 7481,
+  "next_id": 7543,
   "articles": {
     "1": {
       "title": "Agent SkillにReactアプリを同梱するSkill Appアーキテクチャの実装",
@@ -44880,6 +44880,378 @@
       "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-04_シーン中心の教師なし動画パノプティックセグメンテーション.md",
       "url": "https://tldr.takara.ai/p/2606.04925",
       "category": "ai-ml"
+    },
+    "7481": {
+      "title": "GCL/SL複合ライナーにおける生分解性汚染物質輸送の物理情報ニューラルネットワークモデリング",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_GCL_SL複合ライナーにおける生分解性汚染物質輸送の物理情報ニューラルネットワークモデリング.md",
+      "url": "https://tldr.takara.ai/p/2606.04392",
+      "category": "ai-ml"
+    },
+    "7482": {
+      "title": "TCR抗原エピトープ予測モデルの汎化能力に関する新たなベンチマーク評価",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_TCR抗原エピトープ予測モデルの汎化能力に関する新たなベンチマーク評価.md",
+      "url": "https://tldr.takara.ai/p/2606.04994",
+      "category": "ai-ml"
+    },
+    "7483": {
+      "title": "エージェントAIによるグローバルヘルスケアの再人間化",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_エージェントAIによるグローバルヘルスケアの再人間化.md",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "category": "agent-arch"
+    },
+    "7484": {
+      "title": "中小企業がAIを活用する方法：Notion AIを使った個人事業主の実例",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-05_中小企業がAIを活用する方法：Notion AIを使った個人事業主の実例.md",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "category": "other"
+    },
+    "7485": {
+      "title": "教皇のMagnifica Humanitas：個人がAI時代に向き合うための指針",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-05_教皇のMagnifica Humanitas：個人がAI時代に向き合うための指針.md",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "category": "other"
+    },
+    "7486": {
+      "title": "AIハイプ指数：卒業シーズンにAIがブーイングを受ける",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-05_AIハイプ指数：卒業シーズンにAIがブーイングを受ける.md",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "category": "other"
+    },
+    "7487": {
+      "title": "エージェントAI時代における組織設計の再考",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_エージェントAI時代における組織設計の再考.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "category": "agent-arch"
+    },
+    "7488": {
+      "title": "AIによる雇用喪失ヒステリーへの現実確認：データが示す労働市場の実態",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-05_AIによる雇用喪失ヒステリーへの現実確認：データが示す労働市場の実態.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "category": "other"
+    },
+    "7489": {
+      "title": "エントリーレベル雇用の危機に今こそ対処すべき理由",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-05_エントリーレベル雇用の危機に今こそ対処すべき理由.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "category": "other"
+    },
+    "7490": {
+      "title": "Google I/Oが示すAI駆動科学の方向転換：専用ツールから汎用エージェントへ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_Google I_Oが示すAI駆動科学の方向転換：専用ツールから汎用エージェントへ.md",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "category": "agent-arch"
+    },
+    "7491": {
+      "title": "ラウンドテーブル：AIは世界を理解できるようになるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_ラウンドテーブル：AIは世界を理解できるようになるか？.md",
+      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "category": "ai-ml"
+    },
+    "7492": {
+      "title": "AI時代におけるクリエイティビティのスケーリング：コンテンツ制作の戦略的転換",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_AI時代におけるクリエイティビティのスケーリング：コンテンツ制作の戦略的転換.md",
+      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+      "category": "agent-arch"
+    },
+    "7493": {
+      "title": "直交性の先へ：徳倫理的エージェンシーとAIアライメント",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_直交性の先へ：徳倫理的エージェンシーとAIアライメント.md",
+      "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+      "category": "agent-arch"
+    },
+    "7494": {
+      "title": "AGIはマルチモーダルでは実現しない：身体性と世界モデルの必要性",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_AGIはマルチモーダルでは実現しない：身体性と世界モデルの必要性.md",
+      "url": "https://thegradient.pub/agi-is-not-multimodal/",
+      "category": "ai-ml"
+    },
+    "7495": {
+      "title": "形状・対称性・構造：機械学習研究における数学の役割の変遷",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_形状・対称性・構造：機械学習研究における数学の役割の変遷.md",
+      "url": "https://thegradient.pub/shape-symmetry-structure/",
+      "category": "ai-ml"
+    },
+    "7496": {
+      "title": "LLMチャットボットに欠けているもの：目的意識のある対話",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_LLMチャットボットに欠けているもの：目的意識のある対話.md",
+      "url": "https://thegradient.pub/dialog/",
+      "category": "agent-arch"
+    },
+    "7497": {
+      "title": "ウェルビーイングに根ざしたAIのポジティブなビジョンが必要な理由",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-05_ウェルビーイングに根ざしたAIのポジティブなビジョンが必要な理由.md",
+      "url": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/",
+      "category": "other"
+    },
+    "7498": {
+      "title": "LLMの金融市場への応用：価格予測・合成データ・マルチモーダル学習の可能性と限界",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_LLMの金融市場への応用：価格予測・合成データ・マルチモーダル学習の可能性と限界.md",
+      "url": "https://thegradient.pub/financial-market-applications-of-llms/",
+      "category": "ai-ml"
+    },
+    "7499": {
+      "title": "AIにおけるジェンダーバイアスの概要",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_AIにおけるジェンダーバイアスの概要.md",
+      "url": "https://thegradient.pub/gender-bias-in-ai/",
+      "category": "ai-ml"
+    },
+    "7500": {
+      "title": "Mamba解説：Transformerに挑む状態空間モデル",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_Mamba解説：Transformerに挑む状態空間モデル.md",
+      "url": "https://thegradient.pub/mamba-explained/",
+      "category": "ai-ml"
+    },
+    "7501": {
+      "title": "Car-GPT：LLMは自動運転を実現できるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_Car-GPT：LLMは自動運転を実現できるか？.md",
+      "url": "https://thegradient.pub/car-gpt/",
+      "category": "ai-ml"
+    },
+    "7502": {
+      "title": "テキスト埋め込みはテキストを完全にエンコードするか？：vec2textによる埋め込み反転攻撃",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_テキスト埋め込みはテキストを完全にエンコードするか？：vec2textによる埋め込み反転攻撃.md",
+      "url": "https://thegradient.pub/text-embedding-inversion/",
+      "category": "ai-ml"
+    },
+    "7503": {
+      "title": "生成AIモデルの隠れ層にOQCの超伝導量子コンピュータの量子回路をドッキングさせてみた",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_生成AIモデルの隠れ層にOQCの超伝導量子コンピュータの量子回路をドッキングさせてみた.md",
+      "url": "https://zenn.dev/yuichirominato/articles/d6f1b094fcd13b",
+      "category": "ai-ml"
+    },
+    "7504": {
+      "title": "エージェントに「脆弱性を探して」はなぜ失敗するのか──CloudflareのProject Glasswingが示したharnessの正体",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_エージェントに「脆弱性を探して」はなぜ失敗するのか──CloudflareのProject Glasswingが示したh.md",
+      "url": "https://zenn.dev/aiwatch_jp/articles/agent-vuln-hunting-harness-glasswing",
+      "category": "agent-arch"
+    },
+    "7505": {
+      "title": "RAGでトレンドを要約するのをやめたら、欲しかったのは「共通ルール」だった",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_RAGでトレンドを要約するのをやめたら、欲しかったのは「共通ルール」だった.md",
+      "url": "https://zenn.dev/mofuteq/articles/41e6c33f903d6e",
+      "category": "agent-arch"
+    },
+    "7506": {
+      "title": "Microsoft Agent Frameworkで学ぶAIエージェント設計原則：最小権限原則（PoLP）の適用",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_Microsoft Agent Frameworkで学ぶAIエージェント設計原則：最小権限原則（PoLP）の適用.md",
+      "url": "https://zenn.dev/naruaki/articles/af-design-08-least-privilege",
+      "category": "agent-arch"
+    },
+    "7507": {
+      "title": "【AIエージェント自作】tool_useを理解してツールを作る",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_【AIエージェント自作】tool_useを理解してツールを作る.md",
+      "url": "https://zenn.dev/pekopugu/articles/agent01-a3-tool-use",
+      "category": "agent-arch"
+    },
+    "7508": {
+      "title": "フレームワークなし・Jekyll なしで GitHub Pages に会社サイトを運用する設計判断",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-06-05_フレームワークなし・Jekyll なしで GitHub Pages に会社サイトを運用する設計判断.md",
+      "url": "https://zenn.dev/teru_m/articles/draft-encoding-ci",
+      "category": "infra"
+    },
+    "7509": {
+      "title": "ローカルLLM分散処理システムR.E.V.I.S. v0.1.2：「1Mac1推論」原則と家庭LAN向け軽量分散設計",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-06-05_ローカルLLM分散処理システムR.E.V.I.S. v0.1.2：「1Mac1推論」原則と家庭LAN向け軽量分散設計.md",
+      "url": "https://zenn.dev/enigma96y/articles/613031e289b93f",
+      "category": "infra"
+    },
+    "7510": {
+      "title": "LLM開発・活用の全体像：仕組みから実務応用まで",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_LLM開発・活用の全体像：仕組みから実務応用まで.md",
+      "url": "https://zenn.dev/podtech/articles/c604248552e8e6",
+      "category": "ai-ml"
+    },
+    "7511": {
+      "title": "AIと本気で協働して気づいた「人間の判断」の置き場所 — waku2-ai-protocol v0.1.0",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_AIと本気で協働して気づいた「人間の判断」の置き場所 — waku2-ai-protocol v0.1.0.md",
+      "url": "https://zenn.dev/waku2_eng/articles/ddca007765c615",
+      "category": "agent-arch"
+    },
+    "7512": {
+      "title": "iPhoneのローカルLLM：GPUは短距離、Neural Engineは長距離（熱スロットリング実測）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-06-05_iPhoneのローカルLLM：GPUは短距離、Neural Engineは長距離（熱スロットリング実測）.md",
+      "url": "https://zenn.dev/mlboydaisuke/articles/iphone-llm-ane-throttling",
+      "category": "infra"
+    },
+    "7513": {
+      "title": "【Snowflake Summit 2026】Snowflake CoWorkで変わる「データに聞く」から「仕事を進める」への進化",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_【Snowflake Summit 2026】Snowflake CoWorkで変わる「データに聞く」から「仕事を進める.md",
+      "url": "https://zenn.dev/finatext/articles/snowflake-summit-2026-cortex-cowork",
+      "category": "agent-arch"
+    },
+    "7514": {
+      "title": "Wesnoth派生ゲームに追加するAIエージェント同士の対戦機能の仕様考察",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_Wesnoth派生ゲームに追加するAIエージェント同士の対戦機能の仕様考察.md",
+      "url": "https://zenn.dev/robobuncho/articles/aff324c58877cb",
+      "category": "agent-arch"
+    },
+    "7515": {
+      "title": "「AIエージェント」はなぜユーザーをバカにした不誠実なワードなのか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_「AIエージェント」はなぜユーザーをバカにした不誠実なワードなのか？.md",
+      "url": "https://zenn.dev/pdfractal/articles/8ca84a8d7eea77",
+      "category": "agent-arch"
+    },
+    "7516": {
+      "title": "広告コピー10案を一括生成するLLMシステムの実装【Google/Meta/X対応】",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-05_広告コピー10案を一括生成するLLMシステムの実装【Google_Meta_X対応】.md",
+      "url": "https://zenn.dev/kotaozaki/articles/adcopyai-generation-system-2026-06-04",
+      "category": "other"
+    },
+    "7517": {
+      "title": "Gemini APIのPrompt Cachingで会話履歴を効率的に管理する（Go言語編）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-06-05_Gemini APIのPrompt Cachingで会話履歴を効率的に管理する（Go言語編）.md",
+      "url": "https://zenn.dev/yamitake/articles/gemini-prompt-caching-go",
+      "category": "infra"
+    },
+    "7518": {
+      "title": "表形式データ拡張手法 part17：SMOTEBoost",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_表形式データ拡張手法 part17：SMOTEBoost.md",
+      "url": "https://zenn.dev/haruto_big6/articles/913789507bd621",
+      "category": "ai-ml"
+    },
+    "7519": {
+      "title": "NVIDIA LocateAnything-3B を試してみた：マルチモーダル物体位置特定モデルの実装レポート",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_NVIDIA LocateAnything-3B を試してみた：マルチモーダル物体位置特定モデルの実装レポート.md",
+      "url": "https://zenn.dev/hitoruna/articles/9494c8dbdc7c40",
+      "category": "ai-ml"
+    },
+    "7520": {
+      "title": "Jリーグ順位予測 第4回：新評価指標で見えたポアソン回帰とロジスティック回帰の補完関係",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_Jリーグ順位予測 第4回：新評価指標で見えたポアソン回帰とロジスティック回帰の補完関係.md",
+      "url": "https://zenn.dev/nonokuno/articles/c1506fd6733882",
+      "category": "ai-ml"
+    },
+    "7521": {
+      "title": "Jリーグ順位予測 第3回：ロジスティック回帰×モンテカルロと特徴量アブレーション",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_Jリーグ順位予測 第3回：ロジスティック回帰×モンテカルロと特徴量アブレーション.md",
+      "url": "https://zenn.dev/nonokuno/articles/d54eff3bf0fb4c",
+      "category": "ai-ml"
+    },
+    "7522": {
+      "title": "CUDA Programming Guide Part 1：Programming ModelとGPUハードウェア基礎",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-06-05_CUDA Programming Guide Part 1：Programming ModelとGPUハードウェア基礎.md",
+      "url": "https://zenn.dev/kaz20/articles/1e622ef249d133",
+      "category": "infra"
+    },
+    "7523": {
+      "title": "SHAPはモデルのバイアスも反映する：GBDTの特徴量重要度の落とし穴",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_SHAPはモデルのバイアスも反映する：GBDTの特徴量重要度の落とし穴.md",
+      "url": "https://zenn.dev/gatechnologies/articles/2026-05-11-shap-reflects-model-bias",
+      "category": "ai-ml"
+    },
+    "7524": {
+      "title": "Self-Reflective API：構造化フィードバックがAIエージェントのエラー回復を劇的に改善する",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_Self-Reflective API：構造化フィードバックがAIエージェントのエラー回復を劇的に改善する.md",
+      "url": "https://tldr.takara.ai/p/2606.05037",
+      "category": "agent-arch"
+    },
+    "7525": {
+      "title": "拡散過程のベイズ推論のための Neural Galerkin 正規化流：アクセス不能境界への対応",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_拡散過程のベイズ推論のための Neural Galerkin 正規化流：アクセス不能境界への対応.md",
+      "url": "https://tldr.takara.ai/p/2606.04324",
+      "category": "ai-ml"
+    },
+    "7526": {
+      "title": "深層ニューラルネットワークの勾配損失を用いたラジオミクス特徴選択による肺癌ステージ検出",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_深層ニューラルネットワークの勾配損失を用いたラジオミクス特徴選択による肺癌ステージ検出.md",
+      "url": "https://tldr.takara.ai/p/2606.04453",
+      "category": "ai-ml"
+    },
+    "7527": {
+      "title": "マルチビデオ要約における位置バイアスの体系的評価：MLLMsの信頼性検証",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_マルチビデオ要約における位置バイアスの体系的評価：MLLMsの信頼性検証.md",
+      "url": "https://tldr.takara.ai/p/2606.04596",
+      "category": "ai-ml"
+    },
+    "7528": {
+      "title": "深層教師なしドメイン適応における正確なモデル選択に向けて",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_深層教師なしドメイン適応における正確なモデル選択に向けて.md",
+      "url": "https://tldr.takara.ai/p/2606.04665",
+      "category": "ai-ml"
+    },
+    "7529": {
+      "title": "平坦性と汎化：同次斉次ニューラルネットワークによるマルチインデックスモデルの学習",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_平坦性と汎化：同次斉次ニューラルネットワークによるマルチインデックスモデルの学習.md",
+      "url": "https://tldr.takara.ai/p/2606.04429",
+      "category": "ai-ml"
+    },
+    "7530": {
+      "title": "BiasGRPO：グループ相対方策最適化による高分散報酬環境でのバイアス軽減の安定化",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_BiasGRPO：グループ相対方策最適化による高分散報酬環境でのバイアス軽減の安定化.md",
+      "url": "https://tldr.takara.ai/p/2606.04807",
+      "category": "ai-ml"
+    },
+    "7531": {
+      "title": "REGAIN：予測調整における補助方向学習の利得最大化フレームワーク",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_REGAIN：予測調整における補助方向学習の利得最大化フレームワーク.md",
+      "url": "https://tldr.takara.ai/p/2606.04380",
+      "category": "ai-ml"
+    },
+    "7532": {
+      "title": "CHASMBrain：Mamba逐次処理による粗から細への階層的脳活動予測アーキテクチャ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-05_CHASMBrain：Mamba逐次処理による粗から細への階層的脳活動予測アーキテクチャ.md",
+      "url": "https://tldr.takara.ai/p/2606.04772",
+      "category": "ai-ml"
+    },
+    "7533": {
+      "title": "AutoLab: フロンティアモデルは長期的な自律研究・エンジニアリングタスクを解けるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_AutoLab_ フロンティアモデルは長期的な自律研究・エンジニアリングタスクを解けるか？.md",
+      "url": "https://tldr.takara.ai/p/2606.05080",
+      "category": "agent-arch"
+    },
+    "7534": {
+      "title": "AIが生成した訴訟の洪水に裁判所はどう対処しているか",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-05_AIが生成した訴訟の洪水に裁判所はどう対処しているか.md",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "category": "other"
+    },
+    "7535": {
+      "title": "エージェントAIによるグローバルヘルスケアの再人間化",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_エージェントAIによるグローバルヘルスケアの再人間化.md",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "category": "agent-arch"
+    },
+    "7536": {
+      "title": "中小企業がAIを活用する方法：Notion AIを使った個人事業主の実例",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-05_中小企業がAIを活用する方法：Notion AIを使った個人事業主の実例.md",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "category": "other"
+    },
+    "7537": {
+      "title": "教皇のMagnifica Humanitas：個人がAI時代に向き合うための指針",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-05_教皇のMagnifica Humanitas：個人がAI時代に向き合うための指針.md",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "category": "other"
+    },
+    "7538": {
+      "title": "AIハイプ指数：卒業シーズンにAIがブーイングを受ける",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-05_AIハイプ指数：卒業シーズンにAIがブーイングを受ける.md",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "category": "other"
+    },
+    "7539": {
+      "title": "エージェントAI時代における組織設計の再考",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_エージェントAI時代における組織設計の再考.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "category": "agent-arch"
+    },
+    "7540": {
+      "title": "AI雇用ヒステリアへの現実確認：データが示す「まだ大規模な影響なし」",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-05_AI雇用ヒステリアへの現実確認：データが示す「まだ大規模な影響なし」.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "category": "other"
+    },
+    "7541": {
+      "title": "エントリーレベル雇用の危機に今こそ対処すべき理由",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-05_エントリーレベル雇用の危機に今こそ対処すべき理由.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "category": "other"
+    },
+    "7542": {
+      "title": "Google I/Oが示すAI駆動科学の方向転換：専用ツールから汎用エージェントへ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-05_Google I_Oが示すAI駆動科学の方向転換：専用ツールから汎用エージェントへ.md",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "category": "agent-arch"
     }
   }
 }
