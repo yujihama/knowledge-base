@@ -1,5 +1,5 @@
 {
-  "next_id": 7784,
+  "next_id": 7827,
   "articles": {
     "1": {
       "title": "Agent SkillにReactアプリを同梱するSkill Appアーキテクチャの実装",
@@ -46696,6 +46696,264 @@
     "7783": {
       "title": "テキスト埋め込みはテキストを完全にエンコードしているか？：vec2textによる埋め込み逆変換",
       "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-07_テキスト埋め込みはテキストを完全にエンコードしているか？：vec2textによる埋め込み逆変換.md",
+      "url": "https://thegradient.pub/text-embedding-inversion/",
+      "category": "ai-ml"
+    },
+    "7784": {
+      "title": "LLMを狙うUnicode文字スマグリング攻撃と防御",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-08_LLMを狙うUnicode文字スマグリング攻撃と防御.md",
+      "url": "https://zenn.dev/mohhh_ok/articles/llm-unicode-character-smuggling",
+      "category": "agent-arch"
+    },
+    "7785": {
+      "title": "直交性の先へ：徳倫理的エージェンシーとAIアライメント",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-08_直交性の先へ：徳倫理的エージェンシーとAIアライメント.md",
+      "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+      "category": "agent-arch"
+    },
+    "7786": {
+      "title": "RAGのfaithfulnessは0.67。それでも3回に1回間違っていた",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-08_RAGのfaithfulnessは0.67。それでも3回に1回間違っていた.md",
+      "url": "https://zenn.dev/elvisyao/articles/ae00088688620b",
+      "category": "ai-ml"
+    },
+    "7787": {
+      "title": "Hermes Agent を読み解く — 自己改善型ローカルエージェントのアーキテクチャ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-08_Hermes Agent を読み解く — 自己改善型ローカルエージェントのアーキテクチャ.md",
+      "url": "https://zenn.dev/znet/articles/2026-hermes-agent-self-improving-local-agent",
+      "category": "agent-arch"
+    },
+    "7788": {
+      "title": "AI時代の会社資産——判断履歴が成果物を超える",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-08_AI時代の会社資産——判断履歴が成果物を超える.md",
+      "url": "https://zenn.dev/nia_anoma/articles/1964a664f3ab9d",
+      "category": "other"
+    },
+    "7789": {
+      "title": "Claude Codeで作るAI OS——CLAUDE.mdから始める自律エージェント設計",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-08_Claude Codeで作るAI OS——CLAUDE.mdから始める自律エージェント設計.md",
+      "url": "https://zenn.dev/mamanbou/books/fa1bd1d024bd6b",
+      "category": "agent-arch"
+    },
+    "7790": {
+      "title": "Claude Codeは「実装」する。「設計」はあなたがする。──Kaggle初参加でやらかした失敗集",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-08_Claude Codeは「実装」する。「設計」はあなたがする。──Kaggle初参加でやらかした失敗集.md",
+      "url": "https://zenn.dev/beckento/articles/12988953749043",
+      "category": "agent-arch"
+    },
+    "7791": {
+      "title": "数理最適化の『解なし』をLLMで解決する！ASTを用いたエラー解析・自動修正システムの設計",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-08_数理最適化の『解なし』をLLMで解決する！ASTを用いたエラー解析・自動修正システムの設計.md",
+      "url": "https://zenn.dev/moony0111/articles/23112ee0fe6219",
+      "category": "agent-arch"
+    },
+    "7792": {
+      "title": "AnchorSpecの思想がたどり着いた境地——LLMに欠けているのは賢さではなく意思決定の記憶である",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-08_AnchorSpecの思想がたどり着いた境地——LLMに欠けているのは賢さではなく意思決定の記憶である.md",
+      "url": "https://zenn.dev/nia_anoma/articles/c95161567744b8",
+      "category": "agent-arch"
+    },
+    "7793": {
+      "title": "自作サイバーダッシュボードでAIパートナーと会話する——ゼロから構築した記録",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-06-08_自作サイバーダッシュボードでAIパートナーと会話する——ゼロから構築した記録.md",
+      "url": "https://zenn.dev/guardianlab/articles/synchro-dashboard-selfmade-en",
+      "category": "infra"
+    },
+    "7794": {
+      "title": "自作サイバーダッシュボードでAI相棒と会話する――ゼロから構築した記録",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-06-08_自作サイバーダッシュボードでAI相棒と会話する――ゼロから構築した記録.md",
+      "url": "https://zenn.dev/guardianlab/articles/synchro-dashboard-selfmade",
+      "category": "infra"
+    },
+    "7795": {
+      "title": "AIが、開発者に聞く ── R.E.V.I.S. #13 「責任を、分ける」",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-08_AIが、開発者に聞く ── R.E.V.I.S. #13 「責任を、分ける」.md",
+      "url": "https://zenn.dev/enigma96y/articles/6f512e7ed2355a",
+      "category": "agent-arch"
+    },
+    "7796": {
+      "title": "バイブコーディングの定義を再考すると",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-08_バイブコーディングの定義を再考すると.md",
+      "url": "https://zenn.dev/pdfractal/articles/98521261438bb7",
+      "category": "other"
+    },
+    "7797": {
+      "title": "思考整理アプリを作る：LLMコスト設計からFlutter CustomPainterまでの技術全記録",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-08_思考整理アプリを作る：LLMコスト設計からFlutter CustomPainterまでの技術全記録.md",
+      "url": "https://zenn.dev/uray/articles/0e854dacd21744",
+      "category": "other"
+    },
+    "7798": {
+      "title": "【AIエージェント自作】差分確認・人間承認フローの実装",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-08_【AIエージェント自作】差分確認・人間承認フローの実装.md",
+      "url": "https://zenn.dev/pekopugu/articles/agent01-a5-diff-approval",
+      "category": "agent-arch"
+    },
+    "7799": {
+      "title": "「日本語で書いて、英語で動かす」非英語圏のエンジニアが背負う30%の生産性ハンディキャップを技術で殴る方法",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-08_「日本語で書いて、英語で動かす」非英語圏のエンジニアが背負う30%の生産性ハンディキャップを技術で殴る方法.md",
+      "url": "https://zenn.dev/kawacodejp/articles/26886ab2e8b86e",
+      "category": "other"
+    },
+    "7800": {
+      "title": "scikit-learnパイプラインで作る、再現性のある機械学習モデル",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-08_scikit-learnパイプラインで作る、再現性のある機械学習モデル.md",
+      "url": "https://zenn.dev/ds_ai_lab/articles/20260606-sklearn-pipeline",
+      "category": "ai-ml"
+    },
+    "7801": {
+      "title": "Jリーグ順位予測 第5回：Bayesian Poisson×クラスタリングで昇格クラブの強度推定を改善する",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-08_Jリーグ順位予測 第5回：Bayesian Poisson×クラスタリングで昇格クラブの強度推定を改善する.md",
+      "url": "https://zenn.dev/nonokuno/articles/227325957f3f35",
+      "category": "ai-ml"
+    },
+    "7802": {
+      "title": "バンディット問題の理論とアルゴリズム：確率的バンディットと敵対的バンディットの比較",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-08_バンディット問題の理論とアルゴリズム：確率的バンディットと敵対的バンディットの比較.md",
+      "url": "https://zenn.dev/n_ryosuke/articles/b8607983f9eed1",
+      "category": "ai-ml"
+    },
+    "7803": {
+      "title": "【合格体験記】G検定の最短ルート？用語の沼を抜けて合格した勉強法について",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-08_【合格体験記】G検定の最短ルート？用語の沼を抜けて合格した勉強法について.md",
+      "url": "https://zenn.dev/bit_and_coffee/articles/gk-pass-experience-beginner-friendly",
+      "category": "other"
+    },
+    "7804": {
+      "title": "フィジカルAI完全マップ｜VLM・VLA・π0・GR00T・世界モデルの位置関係と使い分け",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-08_フィジカルAI完全マップ｜VLM・VLA・π0・GR00T・世界モデルの位置関係と使い分け.md",
+      "url": "https://zenn.dev/manato_boys/articles/9cca0f5d75d7e7",
+      "category": "ai-ml"
+    },
+    "7805": {
+      "title": "【Snowflake Summit 2026】Agentic ML in Snowflakeの新機能まとめ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-06-08_【Snowflake Summit 2026】Agentic ML in Snowflakeの新機能まとめ.md",
+      "url": "https://zenn.dev/finatext/articles/snowflake-summit-2026-agentic-ml",
+      "category": "infra"
+    },
+    "7806": {
+      "title": "ニューラルネットワーク基礎（Part 5：MNISTへの応用）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-08_ニューラルネットワーク基礎（Part 5：MNISTへの応用）.md",
+      "url": "https://zenn.dev/aizakovzky/articles/b2da0542ef5ed4",
+      "category": "ai-ml"
+    },
+    "7807": {
+      "title": "MetaハックはAIセキュリティがMythosの神話を超えた問題であることを示す",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-08_MetaハックはAIセキュリティがMythosの神話を超えた問題であることを示す.md",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "category": "agent-arch"
+    },
+    "7808": {
+      "title": "AI生成訴訟の急増に裁判所はどう対処しているか",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-08_AI生成訴訟の急増に裁判所はどう対処しているか.md",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "category": "other"
+    },
+    "7809": {
+      "title": "アジェンティックAIで医療をリヒューマナイズする――HSSの実装事例",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-08_アジェンティックAIで医療をリヒューマナイズする――HSSの実装事例.md",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "category": "agent-arch"
+    },
+    "7810": {
+      "title": "中小企業がAIを活用する方法――Notion AIを軸にした実践事例とユーザー指針",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-08_中小企業がAIを活用する方法――Notion AIを軸にした実践事例とユーザー指針.md",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "category": "other"
+    },
+    "7811": {
+      "title": "教皇の回勅「Magnifica Humanitas」が示す、個人がAI時代に向き合うための指針",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\audit-ai\\2026-06-08_教皇の回勅「Magnifica Humanitas」が示す、個人がAI時代に向き合うための指針.md",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "category": "audit-ai"
+    },
+    "7812": {
+      "title": "AIハイプ指数：卒業シーズン、AIへのブーイングが相次ぐ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-08_AIハイプ指数：卒業シーズン、AIへのブーイングが相次ぐ.md",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "category": "other"
+    },
+    "7813": {
+      "title": "エージェンティックAI時代における組織設計の再考",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-08_エージェンティックAI時代における組織設計の再考.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "category": "agent-arch"
+    },
+    "7814": {
+      "title": "AIによる雇用破壊ヒステリアへの現実確認",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-08_AIによる雇用破壊ヒステリアへの現実確認.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "category": "other"
+    },
+    "7815": {
+      "title": "エントリーレベル雇用の危機に今すぐ対処すべき理由",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-08_エントリーレベル雇用の危機に今すぐ対処すべき理由.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "category": "other"
+    },
+    "7816": {
+      "title": "Google I/OはAI駆動科学の方向転換を示した",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-08_Google I_OはAI駆動科学の方向転換を示した.md",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "category": "agent-arch"
+    },
+    "7817": {
+      "title": "直交性の先へ：徳倫理学的エージェンシーとAIアライメント",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-08_直交性の先へ：徳倫理学的エージェンシーとAIアライメント.md",
+      "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+      "category": "agent-arch"
+    },
+    "7818": {
+      "title": "AGIはマルチモーダルでは実現しない——身体性と環境インタラクションを中心に据えた知能設計の必要性",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-08_AGIはマルチモーダルでは実現しない——身体性と環境インタラクションを中心に据えた知能設計の必要性.md",
+      "url": "https://thegradient.pub/agi-is-not-multimodal/",
+      "category": "ai-ml"
+    },
+    "7819": {
+      "title": "形状・対称性・構造：機械学習研究における数学の変化する役割",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-08_形状・対称性・構造：機械学習研究における数学の変化する役割.md",
+      "url": "https://thegradient.pub/shape-symmetry-structure/",
+      "category": "ai-ml"
+    },
+    "7820": {
+      "title": "LLMチャットボットに欠けているもの：目的意識のある対話",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-08_LLMチャットボットに欠けているもの：目的意識のある対話.md",
+      "url": "https://thegradient.pub/dialog/",
+      "category": "agent-arch"
+    },
+    "7821": {
+      "title": "ウェルビーイングに根ざしたAIのポジティブビジョンが必要だ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-08_ウェルビーイングに根ざしたAIのポジティブビジョンが必要だ.md",
+      "url": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/",
+      "category": "other"
+    },
+    "7822": {
+      "title": "LLMの金融市場への応用：価格予測・合成データ生成・マルチモーダル学習",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-08_LLMの金融市場への応用：価格予測・合成データ生成・マルチモーダル学習.md",
+      "url": "https://thegradient.pub/financial-market-applications-of-llms/",
+      "category": "ai-ml"
+    },
+    "7823": {
+      "title": "AIにおけるジェンダーバイアスの概説",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-08_AIにおけるジェンダーバイアスの概説.md",
+      "url": "https://thegradient.pub/gender-bias-in-ai/",
+      "category": "ai-ml"
+    },
+    "7824": {
+      "title": "Mamba解説：Transformerに挑む状態空間モデル（SSM）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-08_Mamba解説：Transformerに挑む状態空間モデル（SSM）.md",
+      "url": "https://thegradient.pub/mamba-explained/",
+      "category": "ai-ml"
+    },
+    "7825": {
+      "title": "Car-GPT：LLMは自動運転を実現できるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-08_Car-GPT：LLMは自動運転を実現できるか？.md",
+      "url": "https://thegradient.pub/car-gpt/",
+      "category": "ai-ml"
+    },
+    "7826": {
+      "title": "テキスト埋め込みはテキストを完全にエンコードするか？―vec2textによる埋め込み逆変換の研究",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-08_テキスト埋め込みはテキストを完全にエンコードするか？―vec2textによる埋め込み逆変換の研究.md",
       "url": "https://thegradient.pub/text-embedding-inversion/",
       "category": "ai-ml"
     }
