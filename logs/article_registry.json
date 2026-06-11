@@ -1,5 +1,5 @@
 {
-  "next_id": 8101,
+  "next_id": 8137,
   "articles": {
     "1": {
       "title": "Agent SkillにReactアプリを同梱するSkill Appアーキテクチャの実装",
@@ -48598,6 +48598,222 @@
     "8100": {
       "title": "テキスト埋め込みはテキストを完全にエンコードするか：vec2textによる埋め込み逆変換",
       "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_テキスト埋め込みはテキストを完全にエンコードするか：vec2textによる埋め込み逆変換.md",
+      "url": "https://thegradient.pub/text-embedding-inversion/",
+      "category": "ai-ml"
+    },
+    "8101": {
+      "title": "声は「完璧」、漢字はポンコツ——TTSデモに踊らされず読み分けを数値化した",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_声は「完璧」、漢字はポンコツ——TTSデモに踊らされず読み分けを数値化した.md",
+      "url": "https://zenn.dev/tellernovel_inc/articles/ja-tts-g2p-benchmark",
+      "category": "ai-ml"
+    },
+    "8102": {
+      "title": "Mambaの解説：TransformerへのSSMによる挑戦",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_Mambaの解説：TransformerへのSSMによる挑戦.md",
+      "url": "https://thegradient.pub/mamba-explained/",
+      "category": "ai-ml"
+    },
+    "8103": {
+      "title": "DiffusionGemmaはなぜ4倍速いのか：速さの正体はメモリ帯域で、クラウドでは逆に高くつく",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_DiffusionGemmaはなぜ4倍速いのか：速さの正体はメモリ帯域で、クラウドでは逆に高くつく.md",
+      "url": "https://zenn.dev/hironakamura_ai/articles/2f48596812d112",
+      "category": "ai-ml"
+    },
+    "8104": {
+      "title": "ディープラーニングとは？機械学習・ニューラルネットワークとの違い",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_ディープラーニングとは？機械学習・ニューラルネットワークとの違い.md",
+      "url": "https://zenn.dev/h888s/articles/genai-term-deep-learning",
+      "category": "ai-ml"
+    },
+    "8105": {
+      "title": "AIエージェント、選択の時代が来た：モデル選択・観測可能性・コストの3軸設計",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-11_AIエージェント、選択の時代が来た：モデル選択・観測可能性・コストの3軸設計.md",
+      "url": "https://zenn.dev/lingmu/articles/2026-06-10-claude-fable-gpt-agent-era",
+      "category": "agent-arch"
+    },
+    "8106": {
+      "title": "G検定2026第4回 学習記録②：機械学習とディープラーニングの基礎",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_G検定2026第4回 学習記録②：機械学習とディープラーニングの基礎.md",
+      "url": "https://zenn.dev/kingkin/articles/dd4ee14579d435",
+      "category": "ai-ml"
+    },
+    "8107": {
+      "title": "LLM×グラフ：グラフネイティブな相乗的AIシステムに向けて",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-11_LLM×グラフ：グラフネイティブな相乗的AIシステムに向けて.md",
+      "url": "https://tldr.takara.ai/p/2606.11560",
+      "category": "agent-arch"
+    },
+    "8108": {
+      "title": "TextHOI-3D: テキストから3D手物体インタラクション生成——離散マルチビュー生成と関節メッシュ最適化",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_TextHOI-3D_ テキストから3D手物体インタラクション生成——離散マルチビュー生成と関節メッシュ最適化.md",
+      "url": "https://tldr.takara.ai/p/2606.11805",
+      "category": "ai-ml"
+    },
+    "8109": {
+      "title": "ポストトレーニングの解剖学：解釈可能性を用いたデータ特性評価と学習シグナルの制御",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_ポストトレーニングの解剖学：解釈可能性を用いたデータ特性評価と学習シグナルの制御.md",
+      "url": "https://tldr.takara.ai/p/2606.12360",
+      "category": "ai-ml"
+    },
+    "8110": {
+      "title": "LLMエージェントにおける探索構造：マルチファイル変更箇所特定のための非線形並列アプローチ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-11_LLMエージェントにおける探索構造：マルチファイル変更箇所特定のための非線形並列アプローチ.md",
+      "url": "https://tldr.takara.ai/p/2606.11976",
+      "category": "agent-arch"
+    },
+    "8111": {
+      "title": "MLT-Dedup：マルチレベル表現と時空間マッチングによる大規模オンライン動画重複排除",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_MLT-Dedup：マルチレベル表現と時空間マッチングによる大規模オンライン動画重複排除.md",
+      "url": "https://tldr.takara.ai/p/2606.12215",
+      "category": "ai-ml"
+    },
+    "8112": {
+      "title": "ラベルシフト下のConformal Bayes：事後キャリブレーション vs 訓練時適応",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_ラベルシフト下のConformal Bayes：事後キャリブレーション vs 訓練時適応.md",
+      "url": "https://tldr.takara.ai/p/2606.11865",
+      "category": "ai-ml"
+    },
+    "8113": {
+      "title": "グラフアテンションネットワークと混合密度ネットワークによる確率的給与予測",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_グラフアテンションネットワークと混合密度ネットワークによる確率的給与予測.md",
+      "url": "https://tldr.takara.ai/p/2606.11663",
+      "category": "ai-ml"
+    },
+    "8114": {
+      "title": "RLCSD：対照的オンポリシー自己蒸留を用いた強化学習",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_RLCSD：対照的オンポリシー自己蒸留を用いた強化学習.md",
+      "url": "https://tldr.takara.ai/p/2606.11709",
+      "category": "ai-ml"
+    },
+    "8115": {
+      "title": "AI研究者は軍事AIリスク軽減のために軍備管理をリードしなければならない",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-11_AI研究者は軍事AIリスク軽減のために軍備管理をリードしなければならない.md",
+      "url": "https://tldr.takara.ai/p/2606.11533",
+      "category": "other"
+    },
+    "8116": {
+      "title": "MSUE：マルチモーダルサッカー理解エキスパート",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_MSUE：マルチモーダルサッカー理解エキスパート.md",
+      "url": "https://tldr.takara.ai/p/2606.12106",
+      "category": "ai-ml"
+    },
+    "8117": {
+      "title": "ハイブリッド人間-AI企業における新たなリーダーシップ：エージェント型AIが変える組織・役割・文化",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-11_ハイブリッド人間-AI企業における新たなリーダーシップ：エージェント型AIが変える組織・役割・文化.md",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "category": "agent-arch"
+    },
+    "8118": {
+      "title": "2026年中盤のAI現状：知っておくべき5つのこと（MIT Technology Review）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-11_2026年中盤のAI現状：知っておくべき5つのこと（MIT Technology Review）.md",
+      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "category": "other"
+    },
+    "8119": {
+      "title": "MetaのAIエージェントハック：AIセキュリティはMythosだけの問題ではない",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-11_MetaのAIエージェントハック：AIセキュリティはMythosだけの問題ではない.md",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "category": "agent-arch"
+    },
+    "8120": {
+      "title": "裁判所はAI生成訴訟の洪水にどう対処しているか",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-11_裁判所はAI生成訴訟の洪水にどう対処しているか.md",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "category": "other"
+    },
+    "8121": {
+      "title": "エージェントAIで医療を再人間化する：HSS病院の実装事例",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-11_エージェントAIで医療を再人間化する：HSS病院の実装事例.md",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "category": "agent-arch"
+    },
+    "8122": {
+      "title": "中小企業がAIを活用する方法：Notion AIを使ったケーススタディ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-11_中小企業がAIを活用する方法：Notion AIを使ったケーススタディ.md",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "category": "other"
+    },
+    "8123": {
+      "title": "教皇の回勅「Magnifica Humanitas」が示すAI時代における個人の行動指針",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-11_教皇の回勅「Magnifica Humanitas」が示すAI時代における個人の行動指針.md",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "category": "other"
+    },
+    "8124": {
+      "title": "2026年中盤のAI現状：知っておくべき5つのこと（MIT Technology Review）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-11_2026年中盤のAI現状：知っておくべき5つのこと（MIT Technology Review）.md",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "category": "other"
+    },
+    "8125": {
+      "title": "エージェント型AIの時代における組織設計の再考",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-11_エージェント型AIの時代における組織設計の再考.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "category": "agent-arch"
+    },
+    "8126": {
+      "title": "AI雇用ヒステリアへの現実的検証：データが示す労働市場への影響は限定的",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-11_AI雇用ヒステリアへの現実的検証：データが示す労働市場への影響は限定的.md",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "category": "other"
+    },
+    "8127": {
+      "title": "正道の彼方へ：徳倫理学的エージェンシーとAIアライメント",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-11_正道の彼方へ：徳倫理学的エージェンシーとAIアライメント.md",
+      "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+      "category": "agent-arch"
+    },
+    "8128": {
+      "title": "AGIはマルチモーダルではない：身体性と環境インタラクションを基盤とすべき理由",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_AGIはマルチモーダルではない：身体性と環境インタラクションを基盤とすべき理由.md",
+      "url": "https://thegradient.pub/agi-is-not-multimodal/",
+      "category": "ai-ml"
+    },
+    "8129": {
+      "title": "形状・対称性・構造：機械学習研究における数学の役割の変化",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_形状・対称性・構造：機械学習研究における数学の役割の変化.md",
+      "url": "https://thegradient.pub/shape-symmetry-structure/",
+      "category": "ai-ml"
+    },
+    "8130": {
+      "title": "LLMチャットボットに欠けているもの：目的意識のある対話",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-11_LLMチャットボットに欠けているもの：目的意識のある対話.md",
+      "url": "https://thegradient.pub/dialog/",
+      "category": "agent-arch"
+    },
+    "8131": {
+      "title": "ウェルビーイングに根ざしたAIのポジティブなビジョンが必要だ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-11_ウェルビーイングに根ざしたAIのポジティブなビジョンが必要だ.md",
+      "url": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/",
+      "category": "other"
+    },
+    "8132": {
+      "title": "LLMの金融市場応用：価格予測・マルチモーダル学習・合成データ生成の可能性と限界",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_LLMの金融市場応用：価格予測・マルチモーダル学習・合成データ生成の可能性と限界.md",
+      "url": "https://thegradient.pub/financial-market-applications-of-llms/",
+      "category": "ai-ml"
+    },
+    "8133": {
+      "title": "AIにおけるジェンダーバイアスの概観",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_AIにおけるジェンダーバイアスの概観.md",
+      "url": "https://thegradient.pub/gender-bias-in-ai/",
+      "category": "ai-ml"
+    },
+    "8134": {
+      "title": "Mambaの解説：TransformerへのSSMによる挑戦",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_Mambaの解説：TransformerへのSSMによる挑戦.md",
+      "url": "https://thegradient.pub/mamba-explained/",
+      "category": "ai-ml"
+    },
+    "8135": {
+      "title": "Car-GPT：LLMは自動運転を実現できるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_Car-GPT：LLMは自動運転を実現できるか？.md",
+      "url": "https://thegradient.pub/car-gpt/",
+      "category": "ai-ml"
+    },
+    "8136": {
+      "title": "テキスト埋め込みはテキストを完全にエンコードするか？──vec2textによる埋め込み反転攻撃",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-11_テキスト埋め込みはテキストを完全にエンコードするか？──vec2textによる埋め込み反転攻撃.md",
       "url": "https://thegradient.pub/text-embedding-inversion/",
       "category": "ai-ml"
     }
