@@ -1,5 +1,5 @@
 {
-  "next_id": 8186,
+  "next_id": 8187,
   "articles": {
     "1": {
       "title": "Agent SkillにReactアプリを同梱するSkill Appアーキテクチャの実装",
@@ -49109,6 +49109,12 @@
       "title": "テキスト埋め込みはテキストを完全にエンコードするか？―vec2textによる埋め込み逆変換",
       "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-12_テキスト埋め込みはテキストを完全にエンコードするか？―vec2textによる埋め込み逆変換.md",
       "url": "https://thegradient.pub/text-embedding-inversion/",
+      "category": "ai-ml"
+    },
+    "8186": {
+      "title": "Mamba解説：Transformerに挑む状態空間モデル",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-12_Mamba解説：Transformerに挑む状態空間モデル.md",
+      "url": "https://thegradient.pub/mamba-explained/",
       "category": "ai-ml"
     }
   }
