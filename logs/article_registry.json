@@ -1,5 +1,5 @@
 {
-  "next_id": 8622,
+  "next_id": 8654,
   "articles": {
     "1": {
       "title": "Agent SkillにReactアプリを同梱するSkill Appアーキテクチャの実装",
@@ -51724,6 +51724,198 @@
     "8621": {
       "title": "テキスト埋め込みはテキストを完全にエンコードするか？——vec2textによる埋め込み逆変換の実証",
       "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-17_テキスト埋め込みはテキストを完全にエンコードするか？——vec2textによる埋め込み逆変換の実証.md",
+      "url": "https://thegradient.pub/text-embedding-inversion/",
+      "category": "ai-ml"
+    },
+    "8622": {
+      "title": "Hermes AgentでXの過去ツイートから「その人っぽいAI」を作ってVPSに住まわせた話",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-18_Hermes AgentでXの過去ツイートから「その人っぽいAI」を作ってVPSに住まわせた話.md",
+      "url": "https://zenn.dev/yukisuna777/articles/persona-ai-from-x-on-vps",
+      "category": "agent-arch"
+    },
+    "8623": {
+      "title": "Agentの改善ループを確立するために2026年度 企業が乗り越えるべき4つのコト",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-18_Agentの改善ループを確立するために2026年度 企業が乗り越えるべき4つのコト.md",
+      "url": "https://zenn.dev/gleon/articles/312dacc4ba3156",
+      "category": "agent-arch"
+    },
+    "8624": {
+      "title": "RAGは運用で育てられるのか？誤答を自動で拾い、評価データセットに変える仕組みを作る",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-18_RAGは運用で育てられるのか？誤答を自動で拾い、評価データセットに変える仕組みを作る.md",
+      "url": "https://zenn.dev/livingston/articles/e8a93d0f08392e",
+      "category": "ai-ml"
+    },
+    "8625": {
+      "title": "Open Knowledge Formatで日本政府データの知識グラフを作ってみた",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-18_Open Knowledge Formatで日本政府データの知識グラフを作ってみた.md",
+      "url": "https://zenn.dev/michy/articles/b7c9e2a4f6d810",
+      "category": "agent-arch"
+    },
+    "8626": {
+      "title": "複数ワーカーで LLM API のレート制限を守る: lease 方式と共有ストア直接管理の選び方",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-18_複数ワーカーで LLM API のレート制限を守る_ lease 方式と共有ストア直接管理の選び方.md",
+      "url": "https://zenn.dev/moridev/articles/4706a8151be94f",
+      "category": "agent-arch"
+    },
+    "8627": {
+      "title": "PoCで終わらせないAI Agent / RAG設計の地図",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-18_PoCで終わらせないAI Agent _ RAG設計の地図.md",
+      "url": "https://zenn.dev/mofuteq/articles/3e0c76eb3dd161",
+      "category": "agent-arch"
+    },
+    "8628": {
+      "title": "OpenAIが本番130万会話を再生して新モデルの問題行動を出荷前に測る「Deployment Simulation」",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-18_OpenAIが本番130万会話を再生して新モデルの問題行動を出荷前に測る「Deployment Simulation」.md",
+      "url": "https://zenn.dev/okssusucha/articles/20260617-openai-deployment-simulation",
+      "category": "ai-ml"
+    },
+    "8629": {
+      "title": "Web上で公開される生成AIチャットボット5社の回答速度を比較！",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-18_Web上で公開される生成AIチャットボット5社の回答速度を比較！.md",
+      "url": "https://zenn.dev/sapolas/articles/7e36aca3347e06",
+      "category": "other"
+    },
+    "8630": {
+      "title": "AIエージェントのログが読めないなら、それはまだデモです",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-18_AIエージェントのログが読めないなら、それはまだデモです.md",
+      "url": "https://zenn.dev/53able/articles/2568a28be61c21",
+      "category": "agent-arch"
+    },
+    "8631": {
+      "title": "オンデバイスGemma 4 E2Bに創造性は期待できない ― ラジオDJアプリで分かった限界と3つの対策",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-18_オンデバイスGemma 4 E2Bに創造性は期待できない ― ラジオDJアプリで分かった限界と3つの対策.md",
+      "url": "https://zenn.dev/taketoc/articles/pocket-dj-gemma-on-device-android",
+      "category": "ai-ml"
+    },
+    "8632": {
+      "title": "AWS微経験のエンジニアが、LLMを「技術面接官」にしてトラブルシューティング特訓をやってみた",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-18_AWS微経験のエンジニアが、LLMを「技術面接官」にしてトラブルシューティング特訓をやってみた.md",
+      "url": "https://zenn.dev/frru_mooooor/articles/736f3e391ae652",
+      "category": "other"
+    },
+    "8633": {
+      "title": "Matryoshka Representation Learning（入れ子構造の埋め込み表現学習）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-18_Matryoshka Representation Learning（入れ子構造の埋め込み表現学習）.md",
+      "url": "https://zenn.dev/zak2718/articles/matryoshka-representation-learning",
+      "category": "ai-ml"
+    },
+    "8634": {
+      "title": "データセンターを素早くオンラインにするには「電力フレックス」が鍵——グリッドの柔軟性がAIインフラの瓶首を解消する",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\infra\\2026-06-18_データセンターを素早くオンラインにするには「電力フレックス」が鍵——グリッドの柔軟性がAIインフラの瓶首を解消する.md",
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "category": "infra"
+    },
+    "8635": {
+      "title": "韓国人はなぜAIをこれほど愛するのか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-18_韓国人はなぜAIをこれほど愛するのか？.md",
+      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "category": "other"
+    },
+    "8636": {
+      "title": "Google DeepMindが懸念する「数百万のAIエージェントが相互作用する世界」のリスク",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-18_Google DeepMindが懸念する「数百万のAIエージェントが相互作用する世界」のリスク.md",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "category": "agent-arch"
+    },
+    "8637": {
+      "title": "ハイブリッド人間・AI企業でのリーダーシップ：エージェントAI導入が変える組織・役割・文化",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-18_ハイブリッド人間・AI企業でのリーダーシップ：エージェントAI導入が変える組織・役割・文化.md",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "category": "agent-arch"
+    },
+    "8638": {
+      "title": "2026年中盤のAIについて知っておくべき5つのこと（MIT Technology Review）",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-18_2026年中盤のAIについて知っておくべき5つのこと（MIT Technology Review）.md",
+      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "category": "other"
+    },
+    "8639": {
+      "title": "MetaのAIエージェントハックが示す、AIセキュリティの本質的脆弱性",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-18_MetaのAIエージェントハックが示す、AIセキュリティの本質的脆弱性.md",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "category": "agent-arch"
+    },
+    "8640": {
+      "title": "AI生成訴訟の洪水に裁判所はどう対処しているか",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-18_AI生成訴訟の洪水に裁判所はどう対処しているか.md",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "category": "other"
+    },
+    "8641": {
+      "title": "エージェントAIで医療を「再人間化」する――米国の事例から見るヘルスケア変革",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-18_エージェントAIで医療を「再人間化」する――米国の事例から見るヘルスケア変革.md",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "category": "agent-arch"
+    },
+    "8642": {
+      "title": "中小企業がAIを活用する方法：Notion AIを使った個人事業主の実例",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-18_中小企業がAIを活用する方法：Notion AIを使った個人事業主の実例.md",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "category": "other"
+    },
+    "8643": {
+      "title": "ローマ教皇の回勅「Magnifica Humanitas」が示す、個人がAI時代に向き合うためのテンプレート",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-18_ローマ教皇の回勅「Magnifica Humanitas」が示す、個人がAI時代に向き合うためのテンプレート.md",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "category": "other"
+    },
+    "8644": {
+      "title": "直交性を超えて：徳倫理学的エージェンシーとAIアライメント",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-18_直交性を超えて：徳倫理学的エージェンシーとAIアライメント.md",
+      "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+      "category": "agent-arch"
+    },
+    "8645": {
+      "title": "AGIはマルチモーダルではない――身体性なき汎用知能の限界",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-18_AGIはマルチモーダルではない――身体性なき汎用知能の限界.md",
+      "url": "https://thegradient.pub/agi-is-not-multimodal/",
+      "category": "ai-ml"
+    },
+    "8646": {
+      "title": "形状・対称性・構造：機械学習研究における数学の変化する役割",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-18_形状・対称性・構造：機械学習研究における数学の変化する役割.md",
+      "url": "https://thegradient.pub/shape-symmetry-structure/",
+      "category": "ai-ml"
+    },
+    "8647": {
+      "title": "LLMチャットボットに欠けているもの：目的志向の対話",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\agent-arch\\2026-06-18_LLMチャットボットに欠けているもの：目的志向の対話.md",
+      "url": "https://thegradient.pub/dialog/",
+      "category": "agent-arch"
+    },
+    "8648": {
+      "title": "ウェルビーイングを基盤としたAIのポジティブなビジョンが必要だ",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\other\\2026-06-18_ウェルビーイングを基盤としたAIのポジティブなビジョンが必要だ.md",
+      "url": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/",
+      "category": "other"
+    },
+    "8649": {
+      "title": "LLMの金融市場への応用：価格予測・合成データ・マルチモーダル学習",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-18_LLMの金融市場への応用：価格予測・合成データ・マルチモーダル学習.md",
+      "url": "https://thegradient.pub/financial-market-applications-of-llms/",
+      "category": "ai-ml"
+    },
+    "8650": {
+      "title": "AIにおけるジェンダーバイアスの概要",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-18_AIにおけるジェンダーバイアスの概要.md",
+      "url": "https://thegradient.pub/gender-bias-in-ai/",
+      "category": "ai-ml"
+    },
+    "8651": {
+      "title": "Mambaの解説：Transformerに挑む状態空間モデル",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-18_Mambaの解説：Transformerに挑む状態空間モデル.md",
+      "url": "https://thegradient.pub/mamba-explained/",
+      "category": "ai-ml"
+    },
+    "8652": {
+      "title": "Car-GPT：LLMは自動運転を実現できるか？",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-18_Car-GPT：LLMは自動運転を実現できるか？.md",
+      "url": "https://thegradient.pub/car-gpt/",
+      "category": "ai-ml"
+    },
+    "8653": {
+      "title": "テキスト埋め込みはテキストを完全にエンコードするか？──vec2textによる埋め込み逆変換",
+      "path": "C:\\Users\\nyham\\work\\KB_bot\\knowledge-base\\ai-ml\\2026-06-18_テキスト埋め込みはテキストを完全にエンコードするか？──vec2textによる埋め込み逆変換.md",
       "url": "https://thegradient.pub/text-embedding-inversion/",
       "category": "ai-ml"
     }
